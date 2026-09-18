@@ -1,0 +1,35 @@
+=======================================================
+ 📖 RESUMEN DE RECURSOS Y EVIDENCIAS DE: ROBÓTICA 2DO BGU PROACTIVOS (C)
+=======================================================
+
+📍 Presentaciones PDF / Guías Maestras Encontradas:
+  - CA.1.RB.4.NV.26-27.pdf (102.02 MB)
+  - CORRECCIÓN  Q2 2BGU .pdf (2.48 MB)
+  - FABRICACION (ROBÓTICA).gslides.pdf (101.25 MB)
+  - INFORME 1 SALIDAS DIG(2do).pdf (0.11 MB)
+  - Kami Export - arduino segundo bgu estudios (1)(1).pdf (0.07 MB)
+  - Kami Export - arduino segundo bgu estudios (1).pdf (0.07 MB)
+  - PREPARATORIO 1 SALIDAS DIGITALES LEDS.pdf (0.26 MB)
+  - PREPARATORIO 2 PULSADORES(1ERO).pdf (0.39 MB)
+
+📂 Carpetas de Entregables / Evidencias de Estudiantes (Depuradas a 2 ejemplos por actividad):
+  - Actividad: A10_ Salidas digitales (INFORME Y PRÁCTICA ) (Guardados 2 ejemplos: A10_ Salidas digitales (INFORME Y PRÁCTICA ) (2 mar 2026 a la(s) 08_45).jpg, Informe  (1).pdf)
+  - Actividad: A12_ INFORME 2( BOTONES) (Guardados 2 ejemplos: Copia de Copia de INFORME 2 entradas DIG(2do).pdf, Copia de INFORME 2 entradas DIG(2do) (1)(1).pdf)
+  - Actividad: A13_ COMUNICACIÓN SERIAL (1) (Guardados 2 ejemplos: Copia de PREPARATORIO 3 COMUNICACION SERIAL (1).pdf, Copia de PREPARATORIO 3 COMUNICACION SERIAL (2).pdf)
+  - Actividad: A14_ COMUNICACIÓN SERIAL (INFORME) (Guardados 2 ejemplos: A14 Informe 3(1).pdf, A14 Informe 3.pdf)
+  - Actividad: A15_ SALIDAS ANALOGICAS PWM (Guardados 2 ejemplos: A15_ SALIDAS ANALOGICAS PWM  (Jul 2, 2026 at 5_58 AM)(1).png, A15_ SALIDAS ANALOGICAS PWM  (Jul 2, 2026 at 5_58 AM).png)
+  - Actividad: A16_ PWM ARMADO FINAL (Guardados 2 ejemplos: - A16_ PWM ARMADO FINAL .pdf, 1461c4a7-7bb9-4642-b71f-d9eec478a8e2.jpg)
+  - Actividad: A2_ Diseño 3D N.º 1 Tasa de Chocolate (Guardados 2 ejemplos: 3D tasa de chocolate.pdf, A2 P1 Q1 Robotica.pdf)
+  - Actividad: A3_ DISEÑO 3D CARRO (Guardados 2 ejemplos: A3 (1).pdf, A3 Emily Aguilar Carro3d.pdf)
+  - Actividad: A5_ AMONG US (DISEÑO ESPEJO) (Guardados 2 ejemplos: A5 AMBAR MATEUS y SIMONE MENDOZA.pdf, A5_ AMONG US (DISEÑO ESPEJO)  (24 nov 2025 a la(s) 08_47).jpg)
+  - Actividad: A6_ Llavero 3D INKSCAPE (Guardados 2 ejemplos: A6 LLAVERO ARIEL FOTO.png, A6 llavero sevas.pdf)
+  - Actividad: A7_ LOGOTIPOS 3D (Guardados 2 ejemplos: A7 LOGO MERCEDES BENZ (2).pdf, A7 LOGO MERCEDES BENZ (3).pdf)
+  - Actividad: A9_ SALIDAS DIGITALES (PREPARATORIO) (Guardados 2 ejemplos: A9_ SALIDAS DIGITALES (PREPARATORIO) (1).pdf, A9_ SALIDAS DIGITALES (PREPARATORIO).pdf)
+  - Actividad: ESTUDIO DIRIGIDO Q2 (Guardados 2 ejemplos: Actividad de robótica Ariel Figueroa.pdf, ESTUDIO DIRIGIDO Q2 - Classroom.pdf)
+  - Actividad: IR FINAL (Guardados 2 ejemplos: ACTIVIDAD DE REFUERZO (1).pdf, Captura de pantalla 2026-06-16 134847.png)
+  - Actividad: IR1_ CASA DE CARICATURA (Guardados 2 ejemplos: 3D design Shiny Borwo-Inari - Tinkercad - Opera 2025-11-10 09-10-04.mp4, A4 PRUEBA 3D AMBAR MATEUS.pdf)
+  - Actividad: IR2_ LITOFANÍAS (Guardados 2 ejemplos: Brianna Valentina Benavides Erazo - IR2_ LITOFANÍAS_.docx, Captura de pantalla 2026-01-19 081640.pngW77H100T3V6B0A0C[object HTMLInputElement]NS.stl)
+  - Actividad: IR3_ ENTRADAS Y SALIDAS DIGITALES (Guardados 2 ejemplos: Brave Leelo-Habbi.brd, Brianna Valentina Benavides Erazo - IR3_ ENTRADAS Y SALIDAS DIGITALES_.docx)
+  - Actividad: PREPARATORIO 2( BOTONES) (Guardados 2 ejemplos: GRUPO 1 -IKER ALARCON Y SAMANTHA AGUILAR  INFORME 2 entradas DIG(2do).pdf, Kami Export - Ambar Domenica Mateus Nieto - PREPARATORIO 2 PULSADORES(1ERO) (1).pdf)
+
+📌 Estado: Carpeta optimizada y depurada para búsqueda rápida.

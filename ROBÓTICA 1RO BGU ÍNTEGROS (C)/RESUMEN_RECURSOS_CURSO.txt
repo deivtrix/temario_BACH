@@ -1,0 +1,28 @@
+=======================================================
+ 📖 RESUMEN DE RECURSOS Y EVIDENCIAS DE: ROBÓTICA 1RO BGU ÍNTEGROS (C)
+=======================================================
+
+📍 Presentaciones PDF / Guías Maestras Encontradas:
+  - CA.1.RB.5.PR.26-27(Ard mod1).pdf (46.46 MB)
+  - CA.2.RB.5.PR.26-27(Ard mod2).pdf (14.94 MB)
+  - CORRECCIÓN de EXAMEN ROBOTICA Q2 1BGU .pdf (1.39 MB)
+  - PREPARATORIO 1 CONDICIONALES (1).pdf (0.13 MB)
+
+📂 Carpetas de Entregables / Evidencias de Estudiantes (Depuradas a 2 ejemplos por actividad):
+  - Actividad: A1_ CUADERNO DIGITAL CUADERNO (Guardados 2 ejemplos: 1000027188.pdf, Actividad 3.pdf)
+  - Actividad: A4_ SEMÁFORO PT1 (Guardados 2 ejemplos: A4 Prueba SEMAFORO Kaleb.pdf, ASTRID  - A4 lección semáforo.pdf)
+  - Actividad: A5_ SEMÁFORO PRÁCTICO (Guardados 2 ejemplos: 20251124_152914.heic, A5_ SEMÁFORO PRÁCTICO  (24 nov 2025 a la(s) 15_39).jpg)
+  - Actividad: A6_ AUTO FANTÁSTICO (Guardados 2 ejemplos: 1000029004.pdf, 2d4abcfc-7146-44e8-bf95-5f20da828b7c.jpg)
+  - Actividad: A7_ LECCIÓN CÓDIGO BINARIO (Contiene 2 elemento(s): A7_ LECCIÓN CÓDIGO BINARIO .pdf, WIN_20251215_14_58_03_Pro.jpg)
+  - Actividad: A8_ SERIE Y PARALELO (pt1) (Guardados 2 ejemplos: 1000049678.pdf, 1000049689.pdf)
+  - Actividad: AVANCE 1 DEL PROYECTO FINAL (Guardados 2 ejemplos: AVANCE  1   Proyecto (1BGU)(1).pdf, AVANCE  1   Proyecto (1BGU)(2).pdf)
+  - Actividad: INFORME 1( IF ELSE) (Guardados 2 ejemplos: Adaluz Monserrath Taco Vinueza - INFORME 1 IF ELSE.pdf, Copia de PREPARATORIO 1 CONDICIONALES (1).pdf.pdf)
+  - Actividad: INFORME N°2 ENTRADAS DIGITALES (Guardados 2 ejemplos: Copia de PREPARATORIO 2 PULSADORES(1ERO)(1).pdf, Copia de PREPARATORIO 2 PULSADORES(1ERO)(2).pdf)
+  - Actividad: IR1_ MI PRIMER PROGRAMA EN ARDUINO (Guardados 2 ejemplos: A2 Mi primer circuito.pdf, A3_ MI PRIMER PROGRAMA EN ARDUINO  KALEB MACHADO.pdf)
+  - Actividad: IR2_ CUADERNO DIGITAL PARCIAL 2 (Guardados 2 ejemplos: 0-7171347165342618295.pdf, Black Blue Modern Illustration Artificial Intelligence Presentation.pdf)
+  - Actividad: PREPARATORIO 1(IF ELSE) (Guardados 2 ejemplos: Adaluz Monserrath Taco Vinueza - PREPARATORIO 1 CONDICIONALES (1).pdf, Copia de PREPARATORIO 1 CONDICIONALES (1).pdf.pdf)
+  - Actividad: PREPARATORIO 2( BOTONES) (Guardados 2 ejemplos: Copia de PREPARATORIO 2 PULSADORES(1ERO)(1).pdf, Copia de PREPARATORIO 2 PULSADORES(1ERO)(10).pdf)
+  - Actividad: PREPARATORIO 3 (TBJ) (Guardados 2 ejemplos: Copia de PREPARATORIO TBJ (1).pdf, Copia de PREPARATORIO TBJ(1).pdf)
+  - Actividad: PREPARATORIO 4(PWM Y DRIVERS) (Guardados 2 ejemplos: Copia de Copia de PREPARATORIO  PWM.pdf, Copia de PREPARATORIO  PWM (1).pdf.pdf)
+
+📌 Estado: Carpeta optimizada y depurada para búsqueda rápida.

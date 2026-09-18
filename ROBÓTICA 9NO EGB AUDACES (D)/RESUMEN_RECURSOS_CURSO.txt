@@ -1,0 +1,28 @@
+=======================================================
+ 📖 RESUMEN DE RECURSOS Y EVIDENCIAS DE: ROBÓTICA 9NO EGB AUDACES (D)
+=======================================================
+
+📍 Presentaciones PDF / Guías Maestras Encontradas:
+  - CA.1.RB.4.NV.26-27.pdf (102.02 MB)
+  - CA.2.RB.4.NV.26-27(tecnología electrica).pdf (41.13 MB)
+  - mBOT LEV.pdf (17.87 MB)
+
+📂 Carpetas de Entregables / Evidencias de Estudiantes (Depuradas a 2 ejemplos por actividad):
+  - Actividad: A10_ Simulación Serie y Paralelo (Guardados 2 ejemplos: A10-Robótica.png, A10ROOTICA.png)
+  - Actividad: A11_ Práctica Serie y Paralelo (Guardados 2 ejemplos: A11_ Práctica Serie y Paralelo  (10 abr 2026 a la(s) 1_19 p.m.).png, Documento sin título (11).pdf)
+  - Actividad: A12_ CUADERNOS P3 (Contiene 1 elemento(s): Screenshot_20260410-113433_Chrome.jpg)
+  - Actividad: A13_ MI PRIMER PROGRAMA (Guardados 2 ejemplos: A13_ MI PRIMER PROGRAMA  (12 jun 2026 a la(s) 11_25 a.m.).jpg, IMG_3257.jpeg)
+  - Actividad: A14_  MBLOCK BLOQUES DE PROGRAMACIÓN (MOVIMEINTO) (Guardados 2 ejemplos: A15_ TRAYECTORIA CUADRADA (12 jun 2026 a la(s) 11_26 a.m.).jpg, Captura de pantalla 2026-05-29 a la(s) 11.17.23 a. m..png)
+  - Actividad: A15_ TRAYECTORIA CUADRADA (Guardados 2 ejemplos: Captura de pantalla 2026-06-05 113730.png, Captura de pantalla 2026-06-05 114233.png)
+  - Actividad: A17_ CUADERNO FINAL MBOT (Guardados 2 ejemplos: Banner Horizontal Nuevos Ingresos Minimalista .pdf, Banner opinion clase de yoga boho beige.pdf)
+  - Actividad: A2_ Diseño 3D N.º 1 Tasa de Chocolate (Guardados 2 ejemplos: 4.png, 5.png)
+  - Actividad: A3_ DISEÑO 3D CARRO (Guardados 2 ejemplos: Auto ferrari.docx, cae2.png)
+  - Actividad: A5_ AMONG US (DISEÑO ESPEJO) (Guardados 2 ejemplos: among as.png, Among Us - Diseño 3D.png)
+  - Actividad: A6_ Llavero 3D INKSCAPE (Guardados 2 ejemplos: Captura de pantalla 2025-12-12 114103.png, Captura de pantalla 2025-12-12 114207.png)
+  - Actividad: A7_ EVALUACIÓN 1 FABRICACIÓN 3D (Contiene 2 elemento(s): Captura de pantalla 2025-12-12 114207.png, Screenshot_20251212-114345.png)
+  - Actividad: A7_ LOGOTIPOS 3D (Guardados 2 ejemplos: atradivarius logos.png, Captura de pantalla 2026-01-09 193153.pdf)
+  - Actividad: A9_ Energía Eléctrica (Guardados 2 ejemplos: Agustín Romero .pdf, AMELIA VILLACRES.pdf)
+  - Actividad: IR1_ CASA DE CARICATURA (Guardados 2 ejemplos: 11.png, 12.png)
+  - Actividad: IR2_ LITOFANÍAS (Guardados 2 ejemplos: 1000032556-modified.jpgW100H98T3V4B0A0C[object HTMLInputElement]NS (1).stl, Captura de pantalla 2026-01-16 113713.png)
+
+📌 Estado: Carpeta optimizada y depurada para búsqueda rápida.

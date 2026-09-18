@@ -1,0 +1,30 @@
+=======================================================
+ 📖 RESUMEN DE RECURSOS Y EVIDENCIAS DE: ROBÓTICA 10MO EGB POSITIVOS (C)
+=======================================================
+
+📍 Presentaciones PDF / Guías Maestras Encontradas:
+  - ARDUINO MÓDULO 1 LEV.pdf (36.12 MB)
+  - CA.1.RB.5.PR.26-27(Ard mod1).pdf (46.46 MB)
+  - CORRECCION DECIMO EQ2.pdf (3.28 MB)
+  - INFORME 1 IF ELSE.pdf (0.11 MB)
+  - PREPARATORIO 1 CONDICIONALES.pdf (0.12 MB)
+  - PREPARATORIO 2 PULSADORES(1ERO).pdf (0.41 MB)
+
+📂 Carpetas de Entregables / Evidencias de Estudiantes (Depuradas a 2 ejemplos por actividad):
+  - Actividad: A1_ CUADERNO DIGITAL CUADERNO (Guardados 2 ejemplos: Actividad 3 Robotica(1).pdf, Actividad 3 Robotica.pdf)
+  - Actividad: A2_ Mi Primer Circuito(grupal) (Guardados 2 ejemplos: A1 MATIAS JIMENEZ.png, A1 YANNICH BUITRÓN.png)
+  - Actividad: A4_ SEMÁFORO PT1 (Guardados 2 ejemplos: A4(1).jpeg, A4.jpeg)
+  - Actividad: A5_ SEMÁFORO (práctica) (Guardados 2 ejemplos: 1000106837.jpg, A5 CAMILA ALMEIDA.pdf)
+  - Actividad: A6_ AUTO FANTÁSTICO (Guardados 2 ejemplos: 1000107757.jpg, A6 Auto Fantastic.pdf)
+  - Actividad: A8_ SERIE Y PARALELO (pt1) (Guardados 2 ejemplos: 1000113840.jpg, 1000113841.jpg)
+  - Actividad: INFORME 1( IF ELSE) (Guardados 2 ejemplos: Daniel Isamel Vargas Pazmiño - INFORME 1( IF ELSE)_.docx, INFORME 1 IF ELSE.pdf - PDF Expert.pdf)
+  - Actividad: INFORME N°2 ENTRADAS DIGITALES (Guardados 2 ejemplos: Celeste Buenaño - INFORME 2 entradas DIG(2do) (1).pdf, INFORME 2 entradas DIG(2do).pdf - PDF Expert.pdf)
+  - Actividad: IR1_ MI PRIMER PROGRAMA EN ARDUINO (Guardados 2 ejemplos: 2026.png, 2027.png)
+  - Actividad: IR2_ CUADERNO DIGITAL PARCIAL 2 (Contiene 1 elemento(s): Post Instagram Chatbot Motivos Para Usar Azul.pdf)
+  - Actividad: IR3_ AVANCE 1 proyecto final (Guardados 2 ejemplos: ARIEL JÁCOME - AVANCE 1.pdf, AVANCE  1   Proyecto (DÉCIMO) (700 x 1080 px).pdf)
+  - Actividad: PREPARATORIO 1(IF ELSE) (Guardados 2 ejemplos: A1_Paula_Amaya_Impar.png, Celeste Janina Buenaño Parker - PREPARATORIO 1 CONDICIONALES.pdf)
+  - Actividad: PREPARATORIO 2( BOTONES) (Guardados 2 ejemplos: Celeste Janina Buenaño Parker - PREPARATORIO 2 PULSADORES(1ERO).pdf, image.png)
+  - Actividad: PREPARATORIO 4(PWM Y DRIVERS) (Guardados 2 ejemplos: Copia de PREPARATORIO  PWM(1).pdf, Copia de PREPARATORIO  PWM(10).pdf)
+  - Actividad: PREPARATORIO N°3 (TBJ) (Guardados 2 ejemplos: Copia de Copia de PREPARATORIO TBJ (1).pdf, Copia de Copia de PREPARATORIO TBJ(1).pdf)
+
+📌 Estado: Carpeta optimizada y depurada para búsqueda rápida.

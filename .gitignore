@@ -1,0 +1,21 @@
+# GitIgnore para el repositorio temario_BACH
+
+# Archivos de sistema y temporales
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Archivos de cache de Python / entornos
+__pycache__/
+*.pyc
+
+# Archivos pesados o copias temporales gigantes si las hubiera
+*.zip
+*.rar
+*.7z
+
+# Ignorar archivos PDF grandes (>50MB) para GitHub
+*.pdf
+*.pptx
+*.docx
