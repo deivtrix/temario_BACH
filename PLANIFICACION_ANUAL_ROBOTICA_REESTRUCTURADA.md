@@ -36,8 +36,8 @@ Cada sesión de 45 minutos sigue una distribución neurodidáctica estricta para
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
 │  00-05 min │ 🎯 MOTIVACIÓN Y RETROALIMENTACIÓN (Pregunta activadora)   │
-│  05-20 min │ 💡 ENUNCIACIÓN Y MODELADO (Teoría / Demostración en vivo)  │
-│  20-40 min │ 💻 / 🛠️ PRÁCTICA GUIADA (Simulación PC o Armado Físico)  │
+│  05-15 min │ 💡 TEORÍA Y MODELADO (MÁXIMO 10 MINUTOS DE TEORÍA)        │
+│  15-40 min │ 💻 / 🛠️ PRÁCTICA INTENSIVA (25 MINUTOS DE ACCIÓN PURA)   │
 │  40-45 min │ 📝 CIERRE Y VERIFICACIÓN (Revisión de entregable/bitácora)│
 └────────────────────────────────────────────────────────────────────────┘
 ```

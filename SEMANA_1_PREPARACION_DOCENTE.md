@@ -8,10 +8,10 @@
 
 ## ⏱️ ESTRUCTURA ESTÁNDAR DE LA CLASE DE 45 MINUTOS (ERCA)
 
-* **00 - 05 min | 🎯 MOTIVACIÓN (Experiencia):** Pregunta activadora, caso real o demostración rápida.
-* **05 - 20 min | 💡 ENUNCIACIÓN (Conceptualización):** Explicación teórica usando el rango de diapositivas PDF indicadas.
-* **20 - 40 min | 🛠️ / 💻 PRÁCTICA GUIADA (Aplicación):** Simulación en PC o ensamblaje en las mesas.
-* **40 - 45 min | 📝 CIERRE (Evaluación):** Verificación del funcionamiento y revisión del cuaderno/informe.
+* **00 - 05 min | 🎯 MOTIVACIÓN Y RETO (Experiencia):** Pregunta activadora / Desafío visual rápido.
+* **05 - 15 min | 💡 TEORÍA DINÁMICA Y DEMO (MÁXIMO 10 MINUTOS):** Explicación relámpago con diapositivas PDF clave.
+* **15 - 40 min | 🛠️ / 💻 PRÁCTICA INTENSIVA (25 MINUTOS):** Acción pura en simulador PC o ensamblaje físico en mesas.
+* **40 - 45 min | 📝 CIERRE Y EVALUACIÓN (5 MINUTOS):** Verificación rápida y calificación.
 
 ---
 
@@ -19,7 +19,7 @@
 * **Tema:** Carga Eléctrica y Formas de Energía
 * **Modalidad:** 💻 [SIMULACIÓN INTERACTIVA PhET]
 * **PDF Guía a Proyectar:** `CA.1.RB.4.OC.26-27(energía).pdf` *(Diapositivas 1 a 5)*
-* **Recursos / Materiales:** Laptops o Computadoras, Canva o Cuaderno Digital.
+* **Recursos / Materiales:** Laptops o Computadoras, Simulador PhET Virtual Lab.
 
 ### 🧠 Notas de Estudio para el Profesor (¿Qué debes explicar?):
 1. **Definición de Energía:** Capacidad de realizar un trabajo o transformar la materia.
@@ -28,9 +28,21 @@
 
 ### ⏱️ Desglose de los 45 Minutos:
 * **00-05 min:** Muestra una linterna apagada sin baterías y pregunta: *"¿Por qué no enciende si tiene el foco en buen estado?"* (Introducción al concepto de fuente de energía).
-* **05-20 min:** Proyecta las **Diapositivas 1 a 5** del PDF `CA.1.RB.4.OC.26-27(energía).pdf`. Explica átomo, electrones y tipos de energía.
-* **20-40 min:** Pide a los alumnos ingresar a Canva y elaborar un mapa conceptual con 4 tipos de energía usados en su vida diaria.
-* **40-45 min:** Revisa en pantalla 3 mapas conceptuales y califica la actividad.
+* **05-15 min (TEORÍA 10 MIN MAX):** Proyecta las **Diapositivas 1 a 5** del PDF `CA.1.RB.4.OC.26-27(energía).pdf`. Explica átomo, electrones y tipos de energía.
+* **15-40 min (PRÁCTICA 25 MIN - RETO TRIPLE PhET):**
+  1. **Reto 1 (Medición de Voltaje):** Conectar Batería 9V + Foco + Interruptor + Voltímetro virtual.
+  2. **Reto 2 (Conductores vs Aislantes):** Arrastrar objetos en PhET (Moneda de cobre, Lápiz de grafito, Borrador de goma, Clip) y conectarlos en serie para averiguar cuáles encienden el foco y cuáles no.
+  3. **Reto 3 (¡Fuego Virtual!):** Hacer un cortocircuito uniendo los bornes de la batería directo con un cable sin resistencia para observar la animación de sobrecalentamiento y fuego de PhET. ¡Les fascina a los chicos de 8vo!
+* **40-45 min:** Revisa en pantalla el funcionamiento de los circuitos PhET armados por los estudiantes y califica la práctica.
+
+### 🎯 Entregable / Producto Final de la Clase (¿Para qué sirve?):
+* **Entregable:** Captura de pantalla del circuito virtual en PhET (Pila + Foco con flujo de electrones activo) + 1 conclusión breve en su cuaderno.
+* **Propósito Real:** Sirve como evidencia práctica para el **Informe de Laboratorio N°1** (Ciencias Energéticas).
+
+### 🌎 Conexión con la Vida Real (Aprender para la Vida):
+* **El Gran Dilema de Seguridad:** Pregunta a los chicos: *"¿Qué creen que te mata en un accidente eléctrico: los voltios o los amperios?"*. Explicación: El voltaje es la presión, pero lo que detiene el corazón es la corriente (los Amperios). Tan solo 0.05 Amperios (50 mA) pueden ser mortales.
+* **AC vs DC en la Vida Diaria:** La pared de casa/colegio entrega **Corriente Alterna (AC 110V)**. El cargador de celular/laptop es un conversor que la transforma a **Corriente Continua (DC 5V)** para proteger la batería del teléfono.
+* **Práctica con Multímetro:** Usar el voltímetro y amperímetro de PhET para medir cuánta corriente pasa por el foco.
 
 ---
 
@@ -47,9 +59,13 @@
 
 ### ⏱️ Desglose de los 45 Minutos:
 * **00-05 min:** Muestra un objeto real (ej. un cubo con un hueco en el centro) y pregunta *"¿Cómo creen que una máquina fabrica un agujero perfecto dentro de un cubo sólido?"*.
-* **05-20 min:** Proyecta las **Diapositivas 1 a 5** del PDF `CA.1.RB.4.NV.26-27.pdf`. Realiza una demostración en vivo en Tinkercad creando un cubo y perforándolo con un cilindro hueco.
-* **20-40 min:** Práctica guiada: Los estudiantes crean su cuenta en Tinkercad, diseñan un dado 3D e introducen perforaciones cilíndricas en las caras.
-* **40-45 min:** Revisa que todos hayan logrado la agrupación sólida-hueca.
+* **05-15 min (TEORÍA 10 MIN MAX):** Proyecta las **Diapositivas 1 a 5** del PDF `CA.1.RB.4.NV.26-27.pdf`. Realiza una demostración en vivo en Tinkercad creando un cubo y perforándolo con un cilindro hueco.
+* **15-40 min (PRÁCTICA 25 MIN):** Práctica guiada: Los estudiantes crean su cuenta en Tinkercad, diseñan un dado 3D e introducen perforaciones cilíndricas en las caras.
+* **40-45 min:** Revisa en pantalla la agrupación de figuras sólidas y huecas.
+
+### 🎯 Entregable / Producto Final de la Clase (¿Para qué sirve?):
+* **Entregable:** Archivo de modelo 3D .STL o captura del diseño del Dado 3D perforado en Tinkercad.
+* **Propósito Real:** Es el insumo de diseño CAD 3D base que posteriormente se laminará en Cura para la **Impresión 3D física** en filamento PLA.
 
 ---
 
@@ -68,9 +84,30 @@
 
 ### ⏱️ Desglose de los 45 Minutos:
 * **00-05 min:** Muestra la tarjeta Arduino UNO física y pregunta: *"¿Qué diferencia hay entre un procesador de computadora y este pequeño chip ATmega328P?"*.
-* **05-20 min:** Proyecta las **Diapositivas 1 a 6** del PDF `ARDUINO MÓDULO 1 LEV.pdf`. Escribe en la pantalla la estructura vacía del código explicando `setup()` y `loop()`.
-* **20-40 min:** Los alumnos abren Tinkercad Circuits, agregan una placa Arduino UNO virtual y escriben su primer sketch con comentarios `// Mi primer programa`.
-* **40-45 min:** Verificación de sintaxis (que no haya errores de compilación por falta de `;`).
+* **05-15 min (TEORÍA 10 MIN MAX):** Proyecta las **Diapositivas 1 a 6** del PDF `ARDUINO MÓDULO 1 LEV.pdf`. Escribe en la pantalla la estructura vacía del código explicando `setup()` y `loop()`.
+* **15-40 min (PRÁCTICA 25 MIN - BLINK LED + TELEMETRÍA):**
+  Los alumnos agregan la tarjeta Arduino UNO virtual en Tinkercad Circuits y escriben su primer programa de control del LED integrado pin 13 con mensajes en consola serie:
+  ```cpp
+  void setup() {
+    pinMode(13, OUTPUT);   // Configura el LED integrado pin 13 como salida
+    Serial.begin(9600);    // Inicia puerto serie a 9600 baudios
+  }
+
+  void loop() {
+    digitalWrite(13, HIGH); // Enciende el LED
+    Serial.println("LED ENCENDIDO [ON]");
+    delay(1000);            // Espera 1 segundo
+    
+    digitalWrite(13, LOW);  // Apaga el LED
+    Serial.println("LED APAGADO [OFF]");
+    delay(1000);            // Espera 1 segundo
+  }
+  ```
+* **40-45 min:** Verificación de sintaxis en pantalla (comprobar que no haya errores por falta de `;`).
+
+### 🎯 Entregable / Producto Final de la Clase (¿Para qué sirve?):
+* **Entregable:** Archivo de código en Tinkercad Circuits / Captura del Sketch con la estructura básica `void setup()` y `void loop()` comentada con `// Nombre del Estudiante`.
+* **Propósito Real:** Insumo técnico para su primer **Cuaderno Digital (A1)** y código plantilla base para la programación de encendido de LEDs (Blink y Semáforo).
 
 ---
 
@@ -90,9 +127,18 @@
 
 ### ⏱️ Desglose de los 45 Minutos:
 * **00-05 min:** Pregunta: *"Cuando conectamos el celular a la computadora por USB, ¿cómo sabe la computadora qué archivos enviarle?"* (Introducción a la telemetría).
-* **05-20 min:** Proyecta las **Diapositivas 1 a 5** del PDF `CA.2.RB.5.PR.26-27(Ard mod2).pdf`. Explica TX/RX y la apertura del Monitor Serial.
-* **20-40 min:** Práctica en Tinkercad Circuits: Escribir un programa que imprima en el Monitor Serial *"Hola 1ro BGU - Sistema de Telemetría Iniciado"* cada 2 segundos.
-* **40-45 min:** Verificación en pantalla del monitor de puerto serie.
+* **05-15 min (TEORÍA 10 MIN MAX):** Proyecta las **Diapositivas 1 a 5** del PDF `CA.2.RB.5.PR.26-27(Ard mod2).pdf`. Explica TX/RX y la apertura del Monitor Serial.
+* **15-40 min (PRÁCTICA 25 MIN):** Práctica en Tinkercad Circuits: Escribir un programa que imprima en el Monitor Serial *"Hola 1ro BGU - Sistema de Telemetría Iniciado"* cada 2 segundos.
+* **40-45 min:** Verificación en pantalla de la llegada de datos en el Monitor Serial.
+
+### 🎯 Entregable / Producto Final de la Clase (¿Para qué sirve?):
+* **Entregable:** Captura del Monitor Serial imprimiendo la telemetría del mensaje de bienvenida a 9600 bps.
+* **Propósito Real:** Insumo técnico para el **Informe de Telemetría Serial (A14)** entre el microcontrolador y la computadora.
+
+### 🌎 Conexión con la Vida Real (Autonomía de Baterías de Autos Eléctricos y Celulares):
+* **Caso de la Vida Real:** *"Si el auto eléctrico de tus padres tiene una batería de 60 Ah (Amperios-hora) y el motor consume 20 Amperios continuos en carretera, ¿cuántas horas de viaje tienen antes de quedarse varados?"*
+* **Fórmula de Autonomía:** $\text{Tiempo (horas)} = \frac{\text{Capacidad (Ah)}}{\text{Consumo (A)}} = \frac{60\text{ Ah}}{20\text{ A}} = 3\text{ horas de viaje}$.
+* **Aplicación en Código:** Programar el Monitor Serial en Arduino para que muestre el mensaje *"Batería restante: 75% | Autonomía estimada: 2.2 horas"*, igual que el tablero de un auto Tesla o BYD.
 
 ---
 
@@ -109,9 +155,13 @@
 
 ### ⏱️ Desglose de los 45 Minutos:
 * **00-05 min:** Muestra un carrito a control remoto y pregunta: *"¿Cómo hace el motor de las ruedas para ir hacia adelante y luego poner marcha atrás sin cambiar cables a mano?"*.
-* **05-20 min:** Proyecta las **Diapositivas 1 a 5** de la unidad de potencia. Dibuja el esquema del Puente H en la pizarra explicando la combinación de interruptores.
-* **20-40 min:** Simulación en Tinkercad Circuits: Armar un motor DC con 4 interruptores o transistores para lograr el giro horario y antihorario.
-* **40-45 min:** Cierre y comprobación de la inversión de sentido de giro.
+* **05-15 min (TEORÍA 10 MIN MAX):** Proyecta las **Diapositivas 1 a 5** de la unidad de potencia. Dibuja el esquema del Puente H en la pizarra explicando la combinación de interruptores.
+* **15-40 min (PRÁCTICA 25 MIN):** Simulación en Tinkercad Circuits: Armar un motor DC con 4 interruptores o transistores para lograr el giro horario y antihorario.
+* **40-45 min:** Comprobación del cambio de sentido de giro del motor DC en pantalla.
+
+### 🎯 Entregable / Producto Final de la Clase (¿Para qué sirve?):
+* **Entregable:** Esquema de circuito simulado del Puente H discreto con 4 transistores en Tinkercad.
+* **Propósito Real:** Insumo de diseño esquemático para el montaje físico del **Driver L293D / L298N** en la plataforma móvil 2WD.
 
 ---
 
@@ -128,14 +178,87 @@
 
 ### ⏱️ Desglose de los 45 Minutos:
 * **00-05 min:** Muestra el sensor de nivel de agua del Kit Elegoo y pregunta: *"¿Cómo sabe un tanque de agua industrial o una lavadora inteligente cuándo el agua llegó al tope sin derramarse?"*.
-* **05-20 min:** Proyecta las **Diapositivas 1 a 5** del PDF `CA.2.RB.5.SG.26-27(Ard mod4).pdf`. Explica el principio de conductividad y lectura analógica `analogRead(A0)`.
-* **20-40 min:** Simulación en Tinkercad Circuits: Conectar el sensor de agua al pin A0 e imprimir el porcentaje de nivel de agua en el Monitor Serial ($Nivel = map(val, 0, 650, 0, 100)$).
-* **40-45 min:** Verificación de fórmulas de conversión e informes.
+* **05-15 min (TEORÍA 10 MIN MAX):** Proyecta las **Diapositivas 1 a 5** del PDF `CA.2.RB.5.SG.26-27(Ard mod4).pdf`. Explica el principio de conductividad y lectura analógica `analogRead(A0)`.
+* **15-40 min (PRÁCTICA 25 MIN):** Simulación en Tinkercad Circuits: Conectar el sensor de agua al pin A0 e imprimir el porcentaje de nivel de agua en el Monitor Serial ($Nivel = map(val, 0, 650, 0, 100)$).
+* **40-45 min:** Verificación de las fórmulas de conversión analógica ADC a porcentaje.
+
+### 🎯 Entregable / Producto Final de la Clase (¿Para qué sirve?):
+* **Entregable:** Código C++ con nalogRead(A0) e impresión gráfica del porcentaje de inmersión en Monitor Serial.
+* **Propósito Real:** Módulo de código base para la automatización de tanques de líquido dentro del **Proyecto Integrador de Titulación BGU**.
 
 ---
 
-## 📝 RESUMEN DE MATERIALES A TENER LISTOS (SEMANA 1)
+---
 
-* **Proyector:** Listo para mostrar los rangos de diapositivas PDF indicados.
-* **Computadoras de Estudiantes:** Con navegador web abierto en `tinkercad.com` y `canva.com`.
-* **Para el Docente:** Tener esta guía a la mano para repasar los 5 minutos previos a cada clase.
+## 🧪 CHECKLIST DE PRÁCTICA DOCENTE (Lo que debes probar en tu PC el día anterior)
+
+Para llegar 100% preparado al laboratorio, realiza estas 6 pruebas rápidas en tu computadora. Te tomará **solo 15 minutos en total** tener todo listo en pantalla:
+
+### 1. 📘 8vo EGB — Práctica Docente a Probar (Reto Triple PhET):
+* **Qué abrir en tu navegador:** [PhET Virtual Lab DC](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/latest/circuit-construction-kit-dc-virtual-lab_en.html).
+* **Qué armar en pantalla:** Arrastra **Batería (9V)** + **Foco** + **Interruptor** + **Voltímetro**. Conecta en serie una **Moneda** o **Lápiz de Grafito** para probar conducción.
+* **Comprobación:** Activa la casilla **"Electrones"** para ver el flujo. Luego haz un cortocircuito uniendo los bornes de la batería directo con un cable sin resistencia para mostrar la animación de sobrecalentamiento y fuego virtual de PhET. ¡Les fascina a los chicos!
+
+### 2. 📗 9no EGB — Práctica Docente a Probar:
+* **Qué abrir en tu navegador:** `tinkercad.com` $\rightarrow$ **Diseños 3D** $\rightarrow$ Crear nuevo diseño.
+* **Qué armar en pantalla:** Arrastra 1 **Cubo sólido** ($20 \times 20 \times 20\text{ mm}$) y 1 **Cilindro transparente (Hueco)** al centro del cubo.
+* **Comprobación:** Selecciona ambos objetos con el mouse y presiona `Ctrl + G` (Agrupar). Verifica que el cubo quede perforado por el hueco.
+
+### 3. 📘 10mo EGB — Práctica Docente a Probar (Blink LED + Telemetría):
+* **Qué abrir en tu navegador:** `tinkercad.com` $\rightarrow$ **Circuito** $\rightarrow$ Crear nuevo circuito $\rightarrow$ Arrastra 1 tarjeta **Arduino UNO**.
+* **Qué armar en pantalla:** Haz clic en **Código** $\rightarrow$ Cambia a **Texto** $\rightarrow$ Escribe el programa de Blink con Monitor Serial:
+  ```cpp
+  void setup() {
+    pinMode(13, OUTPUT);
+    Serial.begin(9600);
+  }
+
+  void loop() {
+    digitalWrite(13, HIGH);
+    Serial.println("LED ENCENDIDO [ON]");
+    delay(1000);
+    digitalWrite(13, LOW);
+    Serial.println("LED APAGADO [OFF]");
+    delay(1000);
+  }
+  ```
+* **Comprobación:** Haz clic en **Iniciar Simulación**. Verifica que el LED integrado `L` parpadee cada segundo y que el **Monitor Serie** imprima los mensajes `[ON]` y `[OFF]` en tiempo real.
+
+### 4. 📘 1ro BGU — Práctica Docente a Probar:
+* **Qué abrir en tu navegador:** En Tinkercad Circuits, abre la tarjeta Arduino UNO en modo **Código Texto**.
+* **Qué armar en pantalla:** Escribe este código de telemetría por consola serial:
+  ```cpp
+  void setup() {
+    Serial.begin(9600); // Inicia comunicación serie a 9600 baudios
+  }
+
+  void loop() {
+    Serial.println("Hola 1ro BGU - Sistema de Telemetría Activo");
+    delay(1000);
+  }
+  ```
+* **Comprobación:** Haz clic en **Iniciar Simulación** y abre el botón **Monitor Serie** (abajo a la derecha). Comprueba que el texto se imprima cada segundo.
+
+### 5. 📕 2do BGU — Práctica Docente a Probar:
+* **Qué abrir en tu navegador:** En Tinkercad Circuits, agrega 1 **Motor DC**, 1 **Batería de 9V** y 4 **Interruptores de Deslizamiento (SPDT)** simulando la lógica del Puente H.
+* **Qué armar en pantalla:** Conecta las diagonales.
+* **Comprobación:** Al activar los interruptores (1 y 4) el motor muestra RPM positivas (giro horario); al activar (2 y 3) muestra RPM negativas (giro antihorario).
+
+### 6. 📓 3ro BGU — Práctica Docente a Probar:
+* **Qué abrir en tu navegador:** En Tinkercad Circuits, conecta 1 **Potenciómetro de 10k** (para simular el Sensor de Agua) al pin **A0** de Arduino.
+* **Qué armar en pantalla:** Escribe este código de conversión analógica:
+  ```cpp
+  void setup() {
+    Serial.begin(9600);
+  }
+
+  void loop() {
+    int lectura = analogRead(A0);
+    int porcentaje = map(lectura, 0, 1023, 0, 100);
+    Serial.print("Nivel de Agua: ");
+    Serial.print(porcentaje);
+    Serial.println("%");
+    delay(500);
+  }
+  ```
+* **Comprobación:** Inicia la simulación, abre el **Monitor Serie** y mueve la perilla del potenciómetro con el mouse para ver cambiar el valor de $0\%$ a $100\%$.
