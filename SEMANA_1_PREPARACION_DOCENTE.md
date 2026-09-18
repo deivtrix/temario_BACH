@@ -17,7 +17,7 @@
 
 ## 📘 1. 8VO EGB — CLASE 1
 * **Tema:** Carga Eléctrica y Formas de Energía
-* **Modalidad:** 💻 [TEORÍA DIGITAL / CANVA]
+* **Modalidad:** 💻 [SIMULACIÓN INTERACTIVA PhET]
 * **PDF Guía a Proyectar:** `CA.1.RB.4.OC.26-27(energía).pdf` *(Diapositivas 1 a 5)*
 * **Recursos / Materiales:** Laptops o Computadoras, Canva o Cuaderno Digital.
 

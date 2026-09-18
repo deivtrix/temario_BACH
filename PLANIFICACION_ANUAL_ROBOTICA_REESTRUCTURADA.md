@@ -54,9 +54,9 @@ Cada sesión de 45 minutos sigue una distribución neurodidáctica estricta para
 ### 📘 8VO EGB — CIENCIAS ENERGÉTICAS, ELECTROMAGNETISMO Y LEGO WEDO 2.0
 
 #### 📌 SECCIÓN 1: Ciencias Energéticas y Generación Eléctrica
-* **Clase 1 [💻 Teoría Digital / Canva]: Carga Eléctrica y Formas de Energía** *(PDF Guía: Diapositivas 1-5)*
+* **Clase 1 [💻 Simulación Interactiva PhET]: Carga Eléctrica y Formas de Energía** *(PDF Guía: Diapositivas 1-5)*
   * *Subtemas:* Definición de energía, conservación de energía, cargas eléctricas y átomos.
-  * *Actividad:* Elaboración de mapa conceptual interactivo en Canva.
+  * *Actividad:* Simulación interactiva de flujo de electrones y cargas en PhET Virtual Lab (DC Construction Kit).
 * **Clase 2 [🛠️ Práctica Física]: Generación Electroquímica (Batería Casera de Limón)** *(PDF Guía: Diapositivas 5-9)*
   * *Subtemas:* Reacciones redox, cátodo (+), ánodo (-), voltaje generado y encendido de LED red.
   * *Actividad:* Armado físico de celdas electroquímicas con clavos de zinc y monedas de cobre.

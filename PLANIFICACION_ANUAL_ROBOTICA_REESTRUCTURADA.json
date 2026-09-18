@@ -18,11 +18,11 @@
           "clases": [
             {
               "numero_clase": 1,
-              "modalidad": "💻 Teoría Digital / Canva",
+              "modalidad": "💻 Simulación Interactiva PhET",
               "titulo": "Carga Eléctrica y Formas de Energía",
               "diapositivas_pdf": "PDF Guía: Diapositivas 1-5",
               "subtemas": "Definición de energía, conservación de energía, cargas eléctricas y átomos.",
-              "actividad": "Elaboración de mapa conceptual interactivo en Canva."
+              "actividad": "Simulación interactiva de flujo de electrones y cargas en PhET Virtual Lab (DC Construction Kit)."
             },
             {
               "numero_clase": 2,
