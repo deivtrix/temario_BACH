@@ -47,67 +47,53 @@
 ---
 
 ## 📗 2. 9NO EGB — CLASE 1
-* **Tema:** Introducción a Tinkercad CAD 3D y Manipulación de Volúmenes
+* **Tema:** Introducción a Tinkercad CAD 3D y Diseño de Llavero Personalizado
 * **Modalidad:** 💻 [SIMULACIÓN / PC]
 * **PDF Guía a Proyectar:** `CA.1.RB.4.NV.26-27.pdf` *(Diapositivas 1 a 5)*
 * **Recursos / Materiales:** Computadoras del laboratorio con acceso a internet (`tinkercad.com`).
 
 ### 🧠 Notas de Estudio para el Profesor (¿Qué debes explicar?):
-1. **Espacio Tridimensional:** Explicar el plano de trabajo y los 3 ejes cartesiano: $X$ (ancho, rojo), $Y$ (profundidad, verde) y $Z$ (altura, azul).
-2. **Navegación 3D:** Clic derecho del mouse para rotar vista, rueda central (*scroll*) para zoom, clic central para desplazar (*pan*).
-3. **Formas Sólidas vs Huecas:** Cómo combinar una forma sólida con una forma transparente (hueco) y usar la herramienta **Agrupar (`Ctrl + G`)** para hacer perforaciones.
+1. **Espacio Tridimensional:** Explicar el plano de trabajo y los 3 ejes cartesianos: $X$ (ancho), $Y$ (profundidad) y $Z$ (altura).
+2. **Navegación y Herramienta Texto:** Clic derecho para rotar vista, zoom con el scroll y uso de la herramienta de Texto 3D.
+3. **Perforación Básica:** Usar un cilindro hueco pequeño ($5\text{mm}$) en la esquina superior para hacer el orificio del argolla del llavero.
 
 ### ⏱️ Desglose de los 45 Minutos:
-* **00-05 min:** Muestra un objeto real (ej. un cubo con un hueco en el centro) y pregunta *"¿Cómo creen que una máquina fabrica un agujero perfecto dentro de un cubo sólido?"*.
-* **05-15 min (TEORÍA 10 MIN MAX):** Proyecta las **Diapositivas 1 a 5** del PDF `CA.1.RB.4.NV.26-27.pdf`. Realiza una demostración en vivo en Tinkercad creando un cubo y perforándolo con un cilindro hueco.
-* **15-40 min (PRÁCTICA 25 MIN):** Práctica guiada: Los estudiantes crean su cuenta en Tinkercad, diseñan un dado 3D e introducen perforaciones cilíndricas en las caras.
-* **40-45 min:** Revisa en pantalla la agrupación de figuras sólidas y huecas.
+* **00-05 min:** Muestra un llavero físico impreso en 3D y pregunta: *"¿Cómo transformamos nuestro nombre de una letra 2D en una pieza 3D que podamos llevar en la mochila?"*.
+* **05-15 min (TEORÍA 10 MIN MAX):** Proyecta las **Diapositivas 1 a 5** del PDF `CA.1.RB.4.NV.26-27.pdf`. Demuestra cómo crear una base rectangular ($60\text{mm} \times 25\text{mm} \times 4\text{mm}$), agregar letras extruidas encima y perforar el agujero del aro.
+* **15-40 min (PRÁCTICA 25 MIN):** Práctica guiada: Los estudiantes crean su cuenta en Tinkercad y diseñan su **Llavero Personalizado 3D con su nombre y el orificio para el llavero**.
+* **40-45 min:** Revisa en pantalla la alineación de las letras sobre la base y la perforación del aro.
 
 ### 🎯 Entregable / Producto Final de la Clase (¿Para qué sirve?):
-* **Entregable:** Archivo de modelo 3D .STL o captura del diseño del Dado 3D perforado en Tinkercad.
-* **Propósito Real:** Es el insumo de diseño CAD 3D base que posteriormente se laminará en Cura para la **Impresión 3D física** en filamento PLA.
+* **Entregable:** Archivo de modelo 3D `.STL` o captura del Llavero Personalizado 3D.
+* **Propósito Real:** Insumo de diseño CAD 3D básico que sirve como primera práctica de fabricación digital para impresión 3D en filamento PLA.
 
 ---
 
 ## 📘 3. 10MO EGB — CLASE 1
-* **Tema:** Estructura de un Sketch de Arduino y Sintaxis C++
-* **Modalidad:** 💻 [SIMULACIÓN / PC]
-* **PDF Guía a Proyectar:** `ARDUINO MÓDULO 1 LEV.pdf` *(Diapositivas 1 a 6)*
-* **Recursos / Materiales:** Computadoras con Tinkercad Circuits o IDE de Arduino.
+* **Tema:** Fuentes de Energía, Voltaje, Corriente y Resistencia Eléctrica
+* **Modalidad:** 💻 [SIMULACIÓN INTERACTIVA / PC]
+* **PDF Guía a Proyectar:** `CA.1.RB.5.PR.26-27(Ard mod1).pdf` *(Diapositivas / Páginas 6 a 20: Clase N° 0)*
+* **Recursos / Materiales:** Computadoras del laboratorio con acceso a simulador de circuitos PhET / Tinkercad.
 
 ### 🧠 Notas de Estudio para el Profesor (¿Qué debes explicar?):
-1. **¿Qué es Arduino UNO?:** Placa con microcontrolador ATmega328P que ejecuta código en bucle.
-2. **Las dos funciones obligatorias:**
-   * `void setup()`: Se ejecuta **una sola vez** al encender o reiniciar la placa. Se usa para configurar pines.
-   * `void loop()`: Se ejecuta de forma **infinita y repetitiva** mientras haya energía.
-3. **Sintaxis estricta:** Todas las instrucciones en C++ terminan en punto y coma `;`. C++ distingue mayúsculas y minúsculas (`pinMode` $\neq$ `pinmode`).
+1. **Fuentes de Energía (Págs 6-10):** ¿De dónde obtenemos energía? Baterías comerciales, corriente continua (DC) y corriente alterna (AC).
+2. **Las 3 Magnitudes Eléctricas (Págs 11-13):**
+   - **Voltaje ($V$):** Presión o diferencia de potencial eléctrico (medido en Voltios).
+   - **Corriente ($I$):** Flujo ordenado de electrones libres (medido en Amperios).
+   - **Resistencia ($R$):** Oposición de un material al flujo de electrones (medido en Ohmios $\Omega$).
+3. **Circuito Eléctrico Cerrado vs Abierto (Págs 14-16):** Para que fluya la corriente, el camino debe estar cerrado.
 
 ### ⏱️ Desglose de los 45 Minutos:
-* **00-05 min:** Muestra la tarjeta Arduino UNO física y pregunta: *"¿Qué diferencia hay entre un procesador de computadora y este pequeño chip ATmega328P?"*.
-* **05-15 min (TEORÍA 10 MIN MAX):** Proyecta las **Diapositivas 1 a 6** del PDF `ARDUINO MÓDULO 1 LEV.pdf`. Escribe en la pantalla la estructura vacía del código explicando `setup()` y `loop()`.
-* **15-40 min (PRÁCTICA 25 MIN - BLINK LED + TELEMETRÍA):**
-  Los alumnos agregan la tarjeta Arduino UNO virtual en Tinkercad Circuits y escriben su primer programa de control del LED integrado pin 13 con mensajes en consola serie:
-  ```cpp
-  void setup() {
-    pinMode(13, OUTPUT);   // Configura el LED integrado pin 13 como salida
-    Serial.begin(9600);    // Inicia puerto serie a 9600 baudios
-  }
-
-  void loop() {
-    digitalWrite(13, HIGH); // Enciende el LED
-    Serial.println("LED ENCENDIDO [ON]");
-    delay(1000);            // Espera 1 segundo
-    
-    digitalWrite(13, LOW);  // Apaga el LED
-    Serial.println("LED APAGADO [OFF]");
-    delay(1000);            // Espera 1 segundo
-  }
-  ```
-* **40-45 min:** Verificación de sintaxis en pantalla (comprobar que no haya errores por falta de `;`).
+* **00-05 min (MOTIVACIÓN):** Muestra una batería de 9V y pregunta: *"¿De dónde obtiene esta pila la energía para mover un circuito y qué pasa si desconectamos un cable?"*.
+* **05-15 min (TEORÍA - PÁGINAS 6 A 20):** Proyecta el PDF `CA.1.RB.5.PR.26-27(Ard mod1).pdf` desde la **Página 6 a la 20 (Clase N° 0)**. Explica el concepto de fuente de alimentación, voltaje ($V$), corriente ($I$) y resistencia ($\Omega$).
+* **15-40 min (PRÁCTICA 25 MIN - RETO CIRCUITO DC):** 
+  - **Práctica Guiada (Contigo):** En PhET DC o Tinkercad Circuits, armar una fuente de batería con interruptor y foco.
+  - **Reto Individual (Ellos Solos):** Medir con el voltímetro virtual la diferencia de voltaje al cambiar la resistencia del circuito.
+* **40-45 min:** Verificación de mediciones y cierre de la Clase N° 0 del PDF.
 
 ### 🎯 Entregable / Producto Final de la Clase (¿Para qué sirve?):
-* **Entregable:** Archivo de código en Tinkercad Circuits / Captura del Sketch con la estructura básica `void setup()` y `void loop()` comentada con `// Nombre del Estudiante`.
-* **Propósito Real:** Insumo técnico para su primer **Cuaderno Digital (A1)** y código plantilla base para la programación de encendido de LEDs (Blink y Semáforo).
+* **Entregable:** Captura del circuito básico armado con mediciones de voltaje/corriente + Actividad 1a del cuaderno (consultar 10 dispositivos DC/AC).
+* **Propósito Real:** Fundamentación teórica eléctrica previa al uso de microcontroladores Arduino.
 
 ---
 
@@ -125,66 +111,147 @@
    * `Serial.begin(9600);` (en `setup()`) para iniciar el puerto.
    * `Serial.println("Mensaje");` (en `loop()`) para enviar datos con salto de línea.
 
-### ⏱️ Desglose de los 45 Minutos:
-* **00-05 min:** Pregunta: *"Cuando conectamos el celular a la computadora por USB, ¿cómo sabe la computadora qué archivos enviarle?"* (Introducción a la telemetría).
-* **05-15 min (TEORÍA 10 MIN MAX):** Proyecta las **Diapositivas 1 a 5** del PDF `CA.2.RB.5.PR.26-27(Ard mod2).pdf`. Explica TX/RX y la apertura del Monitor Serial.
-* **15-40 min (PRÁCTICA 25 MIN):** Práctica en Tinkercad Circuits: Escribir un programa que imprima en el Monitor Serial *"Hola 1ro BGU - Sistema de Telemetría Iniciado"* cada 2 segundos.
-* **40-45 min:** Verificación en pantalla de la llegada de datos en el Monitor Serial.
+## 📘 4. 1RO BGU — CLASE 1
+* **Tema:** Entradas Digitales y Control de Estados por Botones en C++
+* **Modalidad:** 💻 [100% PC en Tinkercad Circuits]
+* **Presentación PDF a Proyectar:** `CA.2.RB.5.PR.26-27(Ard mod2).pdf` *(Diapositivas 1 a 5)*
+* **Recursos / Materiales:** Computadoras del laboratorio con Tinkercad Circuits / Arduino UNO, 2 Botones, LEDs (Verde y Rojo).
 
-### 🎯 Entregable / Producto Final de la Clase (¿Para qué sirve?):
-* **Entregable:** Captura del Monitor Serial imprimiendo la telemetría del mensaje de bienvenida a 9600 bps.
-* **Propósito Real:** Insumo técnico para el **Informe de Telemetría Serial (A14)** entre el microcontrolador y la computadora.
+### 🎯 Propósito Inicial de la Clase:
+Enseñar a leer entradas digitales externas mediante pulsadores con configuración `INPUT_PULLUP` y tomar decisiones lógicas en C++ para controlar actuadores/LEDs.
 
-### 🌎 Conexión con la Vida Real (Autonomía de Baterías de Autos Eléctricos y Celulares):
-* **Caso de la Vida Real:** *"Si el auto eléctrico de tus padres tiene una batería de 60 Ah (Amperios-hora) y el motor consume 20 Amperios continuos en carretera, ¿cuántas horas de viaje tienen antes de quedarse varados?"*
-* **Fórmula de Autonomía:** $\text{Tiempo (horas)} = \frac{\text{Capacidad (Ah)}}{\text{Consumo (A)}} = \frac{60\text{ Ah}}{20\text{ A}} = 3\text{ horas de viaje}$.
-* **Aplicación en Código:** Programar el Monitor Serial en Arduino para que muestre el mensaje *"Batería restante: 75% | Autonomía estimada: 2.2 horas"*, igual que el tablero de un auto Tesla o BYD.
+### 🌎 Conexión con la Vida Real:
+Es el sistema de control de tableros de producción industrial o botones de encendido/apagado de sistemas electrónicos (como los botones de ventanas de un auto o controles de máquinas).
+
+---
+
+### ⏱️ DESGLOSE PASO A PASO (45 MINUTOS)
+
+#### 1. 🎯 Motivación y Frase de Entrada (00 - 05 min)
+* **¿Qué decirles?** *"Chicos, bienvenidos a 1ro BGU. El año pasado aprendimos a hacer parpadear LEDs solos. Hoy aprenderemos a tomar decisiones: cómo leer botones reales para que el microcontrolador responda a las órdenes de un usuario en tiempo real."*
+
+#### 2. 💡 Teoría Relámpago (05 - 10 min)
+* **Las 2 Reglas Clave:**
+  1. `pinMode(pin, INPUT_PULLUP);` $\rightarrow$ Activa la resistencia interna de Arduino. Sin aplastar el botón vale 1 (`HIGH`), al aplastarlo vale 0 (`LOW`).
+  2. `digitalRead(pin)` $\rightarrow$ Consulta en tiempo real el estado del botón.
+
+#### 3. 💻 Actividad Guiada Contigo (10 - 20 min)
+* **Instrucción:** Todos abren Tinkercad Circuits, conectan 2 Botones (Pines 11 y 12), 2 LEDs (Pin 5 Verde, Pin 4 Rojo) y copian contigo en pantalla el código C++ completo:
+  ```cpp
+  // CÓDIGO GUIADO COMPLETO CLASE 1 (1RO BGU)
+  int rojo = 4;
+  int verde = 5;
+  int b1 = 11; // Botón de Marcha / Encendido
+  int b2 = 12; // Botón de Parada / Apagado
+
+  void setup() {
+    pinMode(rojo, OUTPUT);
+    pinMode(verde, OUTPUT);
+    pinMode(b1, INPUT_PULLUP); // Botón 1 activo en LOW
+    pinMode(b2, INPUT_PULLUP); // Botón 2 activo en LOW
+  }
+
+  void loop() {
+    bool estado1 = digitalRead(b1);
+    bool estado2 = digitalRead(b2);
+
+    if (estado1 == LOW) {          // Al presionar b1 (Marcha)
+      digitalWrite(verde, HIGH);   // Enciende LED verde
+      digitalWrite(rojo, LOW);     // Apaga LED rojo
+    } 
+    else if (estado2 == LOW) {     // Al presionar b2 (Parada)
+      digitalWrite(verde, LOW);    // Apaga LED verde
+      digitalWrite(rojo, HIGH);    // Enciende LED rojo
+    }
+  }
+  ```
+
+#### 4. 🚀 Actividad Individual (Ellos Solos) (20 - 40 min)
+* **El Reto:** Apagas o congelas tu proyector y les lanzas el desafío:
+  > *"Añadan un 3er LED (Azul en el Pin 6) para indicar modo Temporizado. Modifiquen el código para que al presionar el Botón 1 (`b1`), el LED Verde se encienda por 3 segundos, se apague automáticamente y luego quede encendido el LED Azul."*
+* **Solución que ellos deben descubrir:**
+  ```cpp
+  // SOLUCIÓN DEL RETO INDIVIDUAL
+  if (estado1 == LOW) {
+    digitalWrite(verde, HIGH);
+    digitalWrite(rojo, LOW);
+    digitalWrite(azul, LOW);
+    delay(3000); // 3 segundos encendido
+    digitalWrite(verde, LOW);
+    digitalWrite(azul, HIGH); // Pasa a modo Azul
+  }
+  ```
+
+#### 5. 📝 Cierre y Evaluación (40 - 45 min)
+* Revisas en pantalla las simulaciones de los que lograron la conmutación de los botones y la secuencia del LED Azul.
 
 ---
 
 ## 📕 5. 2DO BGU — CLASE 1
-* **Tema:** Principio del Puente H y Control Bidireccional de Motores DC
+* **Tema:** Diseño 3D de Mueble de Cocina (Geometría, Huecos y Profundidad)
 * **Modalidad:** 💻 [SIMULACIÓN / PC]
 * **PDF Guía a Proyectar:** `CA.1.RB.4.NV.26-27.pdf` / `FABRICACION.gslides.pdf` *(Diapositivas 1 a 5)*
-* **Recursos / Materiales:** Computadoras con Tinkercad Circuits.
+* **Recursos / Materiales:** Computadoras del laboratorio con acceso a Tinkercad.
 
 ### 🧠 Notas de Estudio para el Profesor (¿Qué debes explicar?):
-1. **El Problema del Motor DC:** Si conectamos un motor DC directo, solo gira en un sentido. Si invertimos la polaridad (+ y -), gira en sentido contrario.
-2. **El Puente H:** Circuito formado por 4 transistores en forma de "H". Activando en diagonal los transistores (Q1 y Q4), el motor gira a la derecha; activando (Q2 y Q3), gira a la izquierda.
-3. **Regla de Seguridad:** NUNCA activar los transistores del mismo lado a la vez (Q1 y Q2), de lo contrario ocurre un cortocircuito directo a tierra.
+1. **Dimensiones Técnicas y Profundidad:** Configurar alto, ancho y profundidad ($X, Y, Z$) con valores numéricos exactos en milímetros.
+2. **Creación de Compartimientos y Huecos:** Usar figuras transparentes (huecas) para vaciar el interior de cajones y repisas del mueble.
+3. **Alineación y Agrupamiento:** Alineación precisa de paredes, estantes y manijas utilizando la herramienta Alineación (`L`) y Agrupar (`Ctrl + G`).
 
 ### ⏱️ Desglose de los 45 Minutos:
-* **00-05 min:** Muestra un carrito a control remoto y pregunta: *"¿Cómo hace el motor de las ruedas para ir hacia adelante y luego poner marcha atrás sin cambiar cables a mano?"*.
-* **05-15 min (TEORÍA 10 MIN MAX):** Proyecta las **Diapositivas 1 a 5** de la unidad de potencia. Dibuja el esquema del Puente H en la pizarra explicando la combinación de interruptores.
-* **15-40 min (PRÁCTICA 25 MIN):** Simulación en Tinkercad Circuits: Armar un motor DC con 4 interruptores o transistores para lograr el giro horario y antihorario.
-* **40-45 min:** Comprobación del cambio de sentido de giro del motor DC en pantalla.
+* **00-05 min (MOTIVACIÓN REAL):** Muestra el reto tipo "IKEA": *"¿Cómo calculan los ingenieros la profundidad exacta de un armario para que encaje dentro de un nicho sin sobresalir?"*.
+* **05-15 min (DEMOSTRACIÓN):** Demostración en vivo en Tinkercad creando un prisma base de $80\text{mm} \times 50\text{mm} \times 90\text{mm}$, ahuecando el centro con un cubo transparente para simular las paredes y estantes internos, y agregando manijas.
+* **15-40 min (PRÁCTICA 25 MIN):** Los estudiantes diseñan su propio Mueble de Cocina modular con al menos 2 compartimientos/cajones vaciados interiormente, estantes y manijas proporcionales.
+* **40-45 min:** Verificación de medidas de profundidad, vaciado interno y alineación de paredes en pantalla.
 
 ### 🎯 Entregable / Producto Final de la Clase (¿Para qué sirve?):
-* **Entregable:** Esquema de circuito simulado del Puente H discreto con 4 transistores en Tinkercad.
-* **Propósito Real:** Insumo de diseño esquemático para el montaje físico del **Driver L293D / L298N** en la plataforma móvil 2WD.
+* **Entregable:** Archivo de modelo 3D del Mueble de Cocina perforado y acotado en Tinkercad.
+* **Propósito Real:** Práctica clave de diseño paramétrico con tolerancias de espesor de pared y vaciado interior, base técnica para el diseño posterior de carcasas electrónicas.
 
 ---
 
 ## 📓 6. 3RO BGU — CLASE 1
-* **Tema:** Sensor de Nivel de Agua Analógico y Conductividad
+* **Tema:** Manejo de Potencia con Transistor BJT (NPN) y Motor DC
 * **Modalidad:** 💻 [SIMULACIÓN / PC]
-* **PDF Guía a Proyectar:** `CA.2.RB.5.SG.26-27(Ard mod4).pdf` *(Diapositivas 1 a 5)*
-* **Recursos / Materiales:** Tinkercad Circuits / Sensor de nivel de agua (Kit Elegoo - Placa roja con trazas).
+* **Presentación PPTX a Proyectar:** `CA.2.RB.5.SG.26-27(Ard mod4).pptx` *(Diapositivas 8 a 15)*
+* **Recursos / Materiales:** Computadoras con Tinkercad Circuits / Arduino UNO, 1 Transistor NPN (2N2222/BC547), 1 Motor DC, LEDs (Rojo y Verde), 2 Botones, Resistencias.
 
 ### 🧠 Notas de Estudio para el Profesor (¿Qué debes explicar?):
-1. **Funcionamiento del Sensor de Agua:** Consiste en una serie de trazas de cobre paralelas expuestas. El agua actúa como un conductor de resistencia variable.
-2. **Resistencia Inversa al Nivel:** A mayor profundidad de inmersión en el líquido, más trazas de cobre se conectan por el agua, aumentando la conductividad y el voltaje de salida.
-3. **Lectura ADC en Arduino:** Conectado al pin A0, entrega valores de $0$ (seco) a aproximadamente $500\text{-}650$ (totalmente sumergido).
+1. **El Problema de Potencia (Diapos 8-10):** Un pin de Arduino entrega máximo $40\text{mA}$ ($5\text{V}$). Un motor DC exige más corriente de la que Arduino soporta. No se debe conectar el motor directo al pin o se quema el chip.
+2. **El Transistor BJT como Interruptor/Grifo (Diapos 11-13):** 
+   - **Colector (C):** Entrada principal de corriente desde la fuente externa.
+   - **Base (B):** La "llave del grifo" controlada por la señal del pin 10 de Arduino (con resistencia a la base NPN).
+   - **Emisor (E):** Salida a tierra (GND).
+3. **Lógica de Control Industrial (Arranque y Paro):** El botón `b1` activa el motor y LED Verde; el botón `b2` apaga el motor y enciende LED Rojo de parada.
 
 ### ⏱️ Desglose de los 45 Minutos:
-* **00-05 min:** Muestra el sensor de nivel de agua del Kit Elegoo y pregunta: *"¿Cómo sabe un tanque de agua industrial o una lavadora inteligente cuándo el agua llegó al tope sin derramarse?"*.
-* **05-15 min (TEORÍA 10 MIN MAX):** Proyecta las **Diapositivas 1 a 5** del PDF `CA.2.RB.5.SG.26-27(Ard mod4).pdf`. Explica el principio de conductividad y lectura analógica `analogRead(A0)`.
-* **15-40 min (PRÁCTICA 25 MIN):** Simulación en Tinkercad Circuits: Conectar el sensor de agua al pin A0 e imprimir el porcentaje de nivel de agua en el Monitor Serial ($Nivel = map(val, 0, 650, 0, 100)$).
-* **40-45 min:** Verificación de las fórmulas de conversión analógica ADC a porcentaje.
+* **00-05 min (MOTIVACIÓN):** Pregunta: *"¿Cómo funciona el botón verde de encendido y el botón rojo de emergencia en una máquina industrial o cinta transportadora?"*.
+* **05-15 min (TEORÍA - DIAPOSITIVAS 8 A 15):** Proyecta la presentación `CA.2.RB.5.SG.26-27(Ard mod4).pptx` (Diapositivas 8 a 15). Explica la analogía del grifo (Colector, Base, Emisor) y la activación por transistor.
+* **15-40 min (PRÁCTICA 25 MIN - CÓDIGO CINTA TRANSPORTADORA):** Práctica en Tinkercad Circuits. Los estudiantes arman el circuito e introducen el código C++ oficial de control:
+  ```cpp
+  int motor = 10;
+  int boton = 11;
+  bool estadoMotor = false;
+
+  void setup() {
+    pinMode(motor, OUTPUT);
+    pinMode(boton, INPUT_PULLUP); // Botón de entrada
+  }
+
+  void loop() {
+    // Si se presiona el botón
+    if (digitalRead(boton) == LOW) {
+      estadoMotor = !estadoMotor;            // Invierte el estado (Encendido / Apagado)
+      digitalWrite(motor, estadoMotor ? HIGH : LOW); // Transistor abre o cierra el motor
+      delay(300);                            // Evita el rebote del botón
+    }
+  }
+  ```
+* **40-45 min:** Verificación de arranque y paro de la Cinta Transportadora en pantalla.
 
 ### 🎯 Entregable / Producto Final de la Clase (¿Para qué sirve?):
-* **Entregable:** Código C++ con nalogRead(A0) e impresión gráfica del porcentaje de inmersión en Monitor Serial.
-* **Propósito Real:** Módulo de código base para la automatización de tanques de líquido dentro del **Proyecto Integrador de Titulación BGU**.
+* **Entregable:** Circuito simulado funcional en Tinkercad (Cinta Transportadora con marcha/paro por botones y transistor BJT) + Código C++.
+* **Propósito Real:** Insumo práctico oficial para la **Práctica 1 (A1 - Motor TBJ Teórico y Práctico)** de 3ro BGU.
 
 ---
 
@@ -257,8 +324,20 @@ Para llegar 100% preparado al laboratorio, realiza estas 6 pruebas rápidas en t
     int porcentaje = map(lectura, 0, 1023, 0, 100);
     Serial.print("Nivel de Agua: ");
     Serial.print(porcentaje);
-    Serial.println("%");
-    delay(500);
-  }
-  ```
-* **Comprobación:** Inicia la simulación, abre el **Monitor Serie** y mueve la perilla del potenciómetro con el mouse para ver cambiar el valor de $0\%$ a $100\%$.
+---
+
+## 📦 AVISO DE MATERIALES PARA LA CLASE 2 (LO QUE DEBES INDICAR AL FINALIZAR LA CLASE 1)
+
+Al finalizar los últimos 5 minutos de la Clase 1 en cada curso, indícales claramente a los estudiantes qué deben traer o si no se requiere traer nada:
+
+| Curso | Material a Pedir para la Clase 2 | Observaciones / Indicación al Estudiante |
+| :--- | :--- | :--- |
+| **8vo EGB** | 🍋 **1 Limón o Naranja + 1 Clip metálico de papel + 1 Moneda de Cobre** | Traerlo de casa en una funda plástica para la práctica física de la Batería Casera de Limón. Los cables y multímetros los pone el laboratorio. |
+| **9no EGB** | 🚫 **NINGÚN MATERIAL FÍSICO** | La Clase 2 se trabajará 100% en las computadoras del laboratorio en **Tinkercad CAD 3D** (Creación de Llaveros e Impregnación de Logotipos). Solo deben traer su cuaderno digital/físico para apuntes. |
+| **10mo EGB**| 🚫 **NINGÚN MATERIAL FÍSICO** | La Clase 2 se trabajará 100% en **Tinkercad Circuits (Simulador PC)** para la programación de semáforos y secuencias de LEDs. |
+| **1ro BGU** | 🚫 **NINGÚN MATERIAL FÍSICO** | La Clase 2 continuará en **Tinkercad Circuits** programando condicionales `if/else` y telemetría serial. |
+| **2do BGU** | 🚫 **NINGÚN MATERIAL FÍSICO** | La Clase 2 continuará 100% en la computadora del laboratorio en **Tinkercad CAD 3D** (Diseño de Carcasas y Ensamblaje Mecánico "Flat-Pack"). |
+| **3ro BGU** | 🚫 **NINGÚN MATERIAL FÍSICO** | La Clase 2 continuará en **Tinkercad Circuits** configurando la lectura de Entradas Analógicas ADC y escalado con `map()`. |
+
+> [!TIP] **Nota para el Docente:** 
+> Únicamente los estudiantes de **8vo EGB** requieren traer insumos sencillos de casa (el limón, clip y moneda) para la práctica física de la Clase 2. De 9no EGB a 3ro BGU, las Clases 1 y 2 se realizan utilizando las computadoras del colegio y el kit Elegoo de la institución. No cargues a los estudiantes de Bachillerato solicitando materiales en la primera semana.

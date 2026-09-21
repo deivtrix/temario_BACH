@@ -389,27 +389,27 @@ Cada sesión de 45 minutos sigue una distribución neurodidáctica estricta para
 
 ---
 
-### 📕 2DO BGU — ELECTRÓNICA DE POTENCIA, PUENTE H L293D / Driver de Potencia Elegoo Y SERVOMOTORES
+### 📕 2DO BGU — DISEÑO 3D TÉCNICO, ELECTRÓNICA DE POTENCIA, DRIVERS Y SERVOMOTORES
 
-#### 📌 SECCIÓN 1: Electrónica de Potencia Avanzada y Driver Puente H L293D / Driver de Potencia Elegoo
-* **Clase 1 [💻 Simulación / PC]: Principio del Puente H y Control Bidireccional de Motores DC** *(PDF Guía: Diapositivas 1-5)*
-  * *Subtemas:* Interruptores en puente (4 transistores), estados de conducción para giro horario/antihorario y freno electromagnético.
-  * *Actividad:* Simulación de esquemático de puente H discreto con transistores NPN y PNP.
-* **Clase 2 [💻 Simulación / PC]: Módulo Driver Comercial L293D / Driver de Potencia Elegoo (Pinout y Configuración)** *(PDF Guía: Diapositivas 5-9)*
-  * *Subtemas:* Pines de entrada IN1, IN2, IN3, IN4, puentes Enable ENA/ENB, fuente de alimentación externa ($12\text{V}$) y GND común.
-  * *Actividad:* Simulación en Tinkercad del L293D / Driver de Potencia Elegoo controlando la dirección de 2 motores DC de DC.
-* **Clase 3 [🛠️ Práctica Física]: Cableado Físico del Driver L293D / ULN2003 con Motores DC de Reducción** *(PDF Guía: Diapositivas 9-13)*
-  * *Subtemas:* Aislamiento de fuentes (batería externa para motores, USB para Arduino), prevención de reinicios de microcontrolador.
-  * *Actividad:* Armado físico del módulo L293D / Driver de Potencia Elegoo accionando moto-reductores en protoboard.
-* **Clase 4 [💻 Simulación / PC]: Regulación de Velocidad de Motores mediante ENA/ENB en PWM** *(PDF Guía: Diapositivas 13-17)*
-  * *Subtemas:* Remover puentes Jumper de ENA/ENB y conectar a pines PWM de Arduino (`~5, ~6`), control independiente de velocidad y giro.
-  * *Actividad:* Simulación de variador de velocidad bidireccional para 2 motores.
-* **Clase 5 [🛠️ Práctica Física]: Práctica Física de Variación de Torque y Velocidad de Chasis Robótico** *(PDF Guía: Diapositivas 17-21)*
-  * *Subtemas:* Medición de corriente consumida bajo carga en el driver L293D / Driver de Potencia Elegoo mediante multímetro en serie.
-  * *Actividad:* Carga del código de rampas de aceleración suave en hardware real (Informe L293D / Driver de Potencia Elegoo A7).
-* **Clase 6 [💻 Simulación / PC]: Algoritmos de Movimiento Diferencial para Robots Móviles** *(PDF Guía: Diapositivas 21-25)*
-  * *Subtemas:* Giros sobre su propio eje (*Pivot turn*), giros suaves (*Arc turn*), matrices de estados de pines IN1-IN4.
-  * *Actividad:* Creación de librería de funciones personalizadas `avanzar()`, `retroceder()`, `girarIzquierda()`.
+#### 📌 SECCIÓN 1: Diagnóstico y Diseño 3D Técnico Avanzado / SimLab (6 Clases - Parcial 1)
+* **Clase 1 [💻 Simulación / PC]: Diagnóstico CAD 3D y Fundamentos de Tinkercad / SimLab** *(PDF Guía: Diapositivas 1-5)*
+  * *Subtemas:* Sondeo diagnóstico de uso de Tinkercad, ejes $X,Y,Z$, figuras sólidas y huecas. Introducción a SimLab (gravedad, fricción y colisiones).
+  * *Actividad:* Creación de modelo 3D o simulación de rampa física en Tinkercad SimLab.
+* **Clase 2 [💻 Simulación / PC]: Diseño 3D de Piezas Técnicas y Tolerancias Mecánicas** *(PDF Guía: Diapositivas 5-9)*
+  * *Subtemas:* Acoplamientos con holgura para ejes y motores, redondeo de bordes (*fillet*), soporte de cargas y tolerancias en milímetros.
+  * *Actividad:* Modelado 3D de engranajes y poleas mecánicas acoplables.
+* **Clase 3 [💻 Simulación / PC]: Diseño 3D de Chasis y Estructuras para Robots Móviles** *(PDF Guía: Diapositivas 9-13)*
+  * *Subtemas:* Perforaciones normalizadas para motores DC, soporte de batería de 9V y montaje de tarjeta Arduino UNO.
+  * *Actividad:* Modelado 3D del chasis base vehicular de 2 ruedas (2WD).
+* **Clase 4 [💻 Simulación / PC]: Diseños Vectoriales 2D en Inkscape y Conversión a SVG / 3D** *(PDF Guía: Diapositivas 13-17)*
+  * *Subtemas:* Operaciones booleanas vectoriales (Unión, Diferencia), importación de archivos `.SVG` en Tinkercad para extrusión 3D.
+  * *Actividad:* Creación de logotipo o placa de identificación 3D extruida desde Inkscape.
+* **Clase 5 [💻 Simulación / PC]: Diseño de Carcasas Protectoras (Enclosures) para Proyectos** *(PDF Guía: Diapositivas 17-21)*
+  * *Subtemas:* Diseño de cajas de 2 piezas (Base + Tapa encajable), ventanas para sensores y salidas para cables.
+  * *Actividad:* Diseñar en 3D la carcasa protectora para la pantalla LCD y potenciómetro.
+* **Clase 6 [💻 Simulación / PC]: Simulación Física en SimLab y Preparación para Impresión 3D (.STL)** *(PDF Guía: Diapositivas 21-25)*
+  * *Subtemas:* Exportación en formato `.STL` y `.OBJ`, laminación en software Cura (parámetros: *Infill*, *Supports*, *Layer Height*), simulación física en SimLab.
+  * *Actividad:* Evaluación práctica del Parcial 1: Presentación de ensamblaje 3D listo para impresión física.
 
 #### 📌 SECCIÓN 2: Servomotores de Posición Angular y Control Preciso
 * **Clase 7 [💻 Simulación / PC]: Operación de Servomotores de Modelismo (SG90 / MG995)** *(PDF Guía: Diapositivas 25-29)*
