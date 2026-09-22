@@ -1,31 +1,38 @@
-# 📗 PLANIFICACIÓN DOCENTE — 9NO EGB (DISEÑO 3D Y MBOT)
+# 📗 9NO EGB — GUÍA DOCENTE DE 45 MINUTOS (CLASES Y AVANCE REAL)
 
 ---
 
 ## 📅 CLASE 1: Introducción a Tinkercad CAD 3D y Llavero Personalizado
-* **Modalidad:** 💻 [SIMULACIÓN / PC]
-* **Recursos:** Computadoras del laboratorio con acceso a `tinkercad.com`.
-* **PDF Guía:** `CA.1.RB.4.NV.26-27.pdf` *(Diapositivas 1 a 5)*
-
-### 🧠 1. Explicación Teórica para el Profesor (10 Min Max):
-1. **Espacio Tridimensional:** Plano de trabajo y ejes $X$ (ancho), $Y$ (profundidad) y $Z$ (altura).
-2. **Navegación:** Clic derecho para rotar vista, scroll para zoom.
-3. **Herramientas Clave:** Herramienta de Texto 3D + Perforación con cilindro hueco ($5\text{mm}$) para el aro del llavero.
-
-### ⏱️ 2. Desglose de los 45 Minutos:
-* **00-05 min (Motivación):** Muestra un llavero físico impreso en 3D: *"¿Cómo transformamos nuestro nombre de letras 2D a una pieza 3D que llevemos en la mochila?"*.
-* **05-15 min (Guiado en pantalla):** Explicación en vivo creando una base rectangular de $60\text{mm} \times 25\text{mm} \times 4\text{mm}$ y superponiendo texto.
-* **15-40 min (Práctica / Reto Individual):**
-  - **Reto Base (Contigo):** Crear la base rectangular e insertar su nombre con Texto 3D.
-  - **Reto Individual (Ellos Solos):** Diseñar la perforación exacta en la esquina superior para el aro del llavero y alinear las letras para que queden unidas al cuerpo.
-* **40-45 min (Cierre):** Verificación de alineación de letras y descarga del archivo `.STL`.
-
-### 📦 Materiales a pedir para la Clase 2:
-> 🚫 **Ningún material físico.** La Clase 2 se trabajará en Tinkercad CAD 3D (Llavero Avanzado / Logotipo extruido).
+* **Duración:** 45 Minutos | **Modalidad:** 💻 [100% PC en Tinkercad CAD 3D]
+* **Propósito Inicial:** Enseñar a navegar en un entorno de modelado tridimensional ($X, Y, Z$), manipular la herramienta de Texto 3D y realizar perforaciones con cilindros huecos.
+* **Conexión con la Vida Real:** Es la base de la fabricación digital e impresión 3D utilizada para crear prototipos de productos, llaveros y accesorios personalizados.
 
 ---
 
-## 📅 CLASE 2: Diseños Vectoriales e Impregnación de Logotipos en 3D
-* **Modalidad:** 💻 [SIMULACIÓN / PC]
-* **Recursos:** Computadoras del laboratorio (Tinkercad / Inkscape).
-* **Actividad:** Creación de escudos o figuras geométricas en 3D y extrusión vectorial.
+### ⏱️ DESGLOSE PASO A PASO (45 MINUTOS)
+
+#### 1. 🎯 Motivación y Frase de Entrada (00 - 05 min)
+* **¿Qué decirles?** *"Chicos, bienvenidos a 9no EGB. ¿Cómo transformamos nuestro nombre escrito en papel a un objeto tridimensional real que podamos llevar en la mochila? Hoy crearemos nuestro primer Llavero 3D Personalizado."*
+
+#### 2. 💡 Teoría Relámpago (05 - 10 min)
+* **Las 3 Reglas Clave:**
+  1. **Navegación:** Clic derecho del ratón para rotar el plano, rueda central (*scroll*) para zoom.
+  2. **Dimensiones:** Ejes $X$ (ancho), $Y$ (profundidad) y $Z$ (altura).
+  3. **Agrupar (`Ctrl + G`):** Une formas sólidas con figuras transparentes para perforar agujeros.
+
+#### 3. 💻 Actividad Guiada Contigo (10 - 20 min)
+* **Instrucción:** Todos abren Tinkercad 3D y diseñan contigo en pantalla:
+  - Arrastrar 1 Cubo Sólido y cambiar sus medidas a $60\text{mm} \times 25\text{mm} \times 4\text{mm}$ (Base).
+  - Usar la herramienta **Texto 3D** para escribir su primer nombre y colocarlo sobre la base.
+  - Seleccionar ambos objetos y presionar `Ctrl + G` para fusionarlos.
+
+#### 4. 🚀 Actividad Individual (Ellos Solos) (20 - 40 min)
+* **El Reto:** Apagas o congelas tu proyector y les lanzas el desafío:
+  > *"Arrastren un Cilindro Transparente (Hueco), ajusten sus medidas a $5\text{mm} \times 5\text{mm}$ y ubíquenlo en la esquina superior del llavero para perforar el agujero del aro. Luego, añadan una figura decorativa (estrella o corazón) en la esquina opuesta."*
+
+#### 5. 📝 Cierre y Evaluación (40 - 45 min)
+* Revisas en pantalla la alineación de las letras y que el agujero traspase completamente la base del llavero.
+
+#### 📦 Materiales para la Clase 2:
+> 🚫 **Ningún material de casa.** Se continuará en las computadoras con extrusión de logotipos y diseños vectoriales.
+
