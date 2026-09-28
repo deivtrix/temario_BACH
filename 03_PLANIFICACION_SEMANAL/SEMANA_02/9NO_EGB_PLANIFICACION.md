@@ -1,23 +1,7 @@
 # 📘 9NO EGB — PLANIFICACIÓN DE CLASE (SEMANA 2)
-**Tema:** Cacería de Fabricación en el Colegio y Afiche Infográfico en Canva  
-**Duración:** 45 Minutos | **Modalidad:** ☀️ [20 min Patio en Tríos + 💻 20 min PC en Canva]  
-**Recurso a Proyectar:** [CA.1.RB.4.NV.26-27.pdf](file:///C:/Users/David/Desktop/clases%20bach/01_PRESENTACIONES_Y_MATERIAL/9NO_EGB/CA.1.RB.4.NV.26-27.pdf) (Páginas 10-15)  
 
----
-
-### 🔗 CONEXIÓN Y TRANSICIÓN PEDAGÓGICA (SEMANA 1 $\rightarrow$ SEMANA 2)
-* **Lo que vimos en la Semana 1:** Concepto de fabricación y la definición teórica de los 6 tipos (Elaboración, Producción, Confección, Manufactura, Construcción y Forja).
-* **El puente hacia la Semana 2:** *"Chicos, la semana pasada estudiamos las definiciones en la pantalla. Hoy saldremos al patio a verlos con nuestros propios ojos en la estructura real del colegio y diseñaremos un afiche profesional en Canva."*
-
----
-
-### 🗓️ PREPARACIÓN DOCENTE (DOMINGO / LUNES PREVIO)
-* **¿Qué debe estudiar/repasar el profe?**
-  - Revisar la Ficha [FICHA_9NO_CACERIA_CANVA.md](file:///C:/Users/David/Desktop/clases%20bach/03_PLANIFICACION_SEMANAL/SEMANA_02/FICHA_9NO_CACERIA_CANVA.md).
-  - Identificar previamente los 3 puntos del patio (arcos de fútbol, columnas de hormigón, pasamanos de metal).
-* **Materiales físicos / Permisos a solicitar:**
-  - Solicitud / Permiso de salida rápida al patio (20 minutos) con el inspector/tutor.
-  - Verificar que las computadoras del laboratorio tengan acceso abierto a **Canva.com**.
+**Propósito de la Clase:**  
+> **Clasificar** los tipos de fabricación de los objetos del colegio mediante una cacería fotográfica en el patio y el diseño de un afiche infográfico en Canva.
 
 ---
 
@@ -29,12 +13,17 @@
 
 ---
 
+### 🔗 CONEXIÓN PEDAGÓGICA (SEMANA 1 $\rightarrow$ SEMANA 2)
+* **Semana 1:** Definiciones teóricas de fabricación (Elaboración, Confección, Manufactura, Construcción, Forja).
+* **Semana 2:** *"Hoy saldremos a identificar estos procesos en las estructuras reales del colegio."*
+
+---
+
 ### 🔮 ¿QUÉ VEREMOS LA PRÓXIMA CLASE? (SEMANA 3)
-* **Tema a Futuro:** **Introducción a la Fabricación Aditiva e Impresión 3D con Tinkercad CAD.**
-* **Adelanto para los chicos:** En la próxima clase pasaremos del análisis de objetos físicos reales al laboratorio de diseño digital 3D, donde comenzaremos a modelar nuestras primeras piezas tridimensionales en Tinkercad.
+* **Tema a Futuro:** **Diseñar** piezas tridimensionales mediante el entorno CAD de Tinkercad 3D.
 
 ---
 
 ### 📦 MATERIALES Y PERMISOS PARA LA PRÓXIMA CLASE (SEMANA 3)
-> 📢 **AVISO Y PERMISO A PEDIR CON TIEMPO:**  
-> 💻 **Ningún material físico extra.** Para la Semana 3 se trabajará en el laboratorio de computación con el entorno de diseño 3D en Tinkercad.
+> 📢 **AVISO A ESTUDIANTES:**  
+> 💻 **Sin material físico extra.** Trabajo en laboratorio de computación con Tinkercad 3D.
