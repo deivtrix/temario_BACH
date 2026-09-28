@@ -29,6 +29,12 @@
 
 ---
 
+### 🔮 ¿QUÉ VEREMOS LA PRÓXIMA CLASE? (SEMANA 3)
+* **Tema a Futuro:** **Introducción a la Fabricación Aditiva e Impresión 3D con Tinkercad CAD.**
+* **Adelanto para los chicos:** En la próxima clase pasaremos del análisis de objetos físicos reales al laboratorio de diseño digital 3D, donde comenzaremos a modelar nuestras primeras piezas tridimensionales en Tinkercad.
+
+---
+
 ### 📦 MATERIALES Y PERMISOS PARA LA PRÓXIMA CLASE (SEMANA 3)
 > 📢 **AVISO Y PERMISO A PEDIR CON TIEMPO:**  
 > 💻 **Ningún material físico extra.** Para la Semana 3 se trabajará en el laboratorio de computación con el entorno de diseño 3D en Tinkercad.

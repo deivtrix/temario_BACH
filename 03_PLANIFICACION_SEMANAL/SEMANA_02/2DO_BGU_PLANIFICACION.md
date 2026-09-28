@@ -29,6 +29,12 @@
 
 ---
 
+### 🔮 ¿QUÉ VEREMOS LA PRÓXIMA CLASE? (SEMANA 3)
+* **Tema a Futuro:** **Módulo de Simulación de Física Simlab en Tinkercad 3D.**
+* **Adelanto para los chicos:** En la próxima clase le daremos vida a nuestros diseños 3D activando el motor de física Simlab para probar gravedad, colisiones reales y rampas de objetos mecánicos en tiempo real.
+
+---
+
 ### 📦 MATERIALES Y PERMISOS PARA LA PRÓXIMA CLASE (SEMANA 3)
 > 📢 **AVISO Y PERMISO A PEDIR CON TIEMPO:**  
 > 💻 **Ningún material físico extra.** Para la Semana 3 activaremos el **Módulo de Simulación de Física (Simlab)** en Tinkercad 3D.

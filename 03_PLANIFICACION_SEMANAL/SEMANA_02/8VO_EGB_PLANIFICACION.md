@@ -33,10 +33,15 @@
 
 ---
 
+### 🔮 ¿QUÉ VEREMOS LA PRÓXIMA CLASE? (SEMANA 3)
+* **Tema a Futuro:** **Práctica Experimental N° 2: Generación Bioquímica de Energía Eléctrica (Pila de Limón/Papa - Objetivo 7).**
+* **Adelanto para los chicos:** En la próxima clase construiremos nuestra propia batería viva usando la acidez de las papas y limones con electrodos de cobre y zinc para encender un diodo LED sin enchufar nada a la pared.
+
+---
+
 ### 📦 MATERIALES Y PERMISOS PARA LA PRÓXIMA CLASE (SEMANA 3)
 > 📢 **AVISO Y PERMISO A PEDIR CON TIEMPO:**  
 > 🥔 **Solicitar a los estudiantes:**  
-> - 1 Papa mediana/grande O 1 Limón jugoso.  
+> - 1 Papa mediana/grande O 1 Limón jugoso (1 por estudiante).  
 > - 1 Moneda limpia de Cobre (1, 2 o 5 cts).  
 > - 1 Clavo galvanizado plateado (clavo común de ferretería).  
-> *(Para la práctica de la Pila Bioquímica del Objetivo 7 en la Semana 3).*

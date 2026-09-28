@@ -29,6 +29,12 @@
 
 ---
 
+### 🔮 ¿QUÉ VEREMOS LA PRÓXIMA CLASE? (SEMANA 3)
+* **Tema a Futuro:** **Salidas Analógicas y Modulación por Ancho de Pulso (PWM).**
+* **Adelanto para los chicos:** En la próxima clase aprenderemos a controlar no solo el encendido/apagado, sino la intensidad de brillo gradual de los LEDs y la velocidad de motores mediante señales PWM (`analogWrite`).
+
+---
+
 ### 📦 MATERIALES Y PERMISOS PARA LA PRÓXIMA CLASE (SEMANA 3)
 > 📢 **AVISO Y PERMISO A PEDIR CON TIEMPO:**  
 > 💻 **Ningún material físico extra.** Se continuará en Tinkercad Circuits con la modulación PWM y salidas analógicas.

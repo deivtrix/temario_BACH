@@ -25,7 +25,13 @@
 2. **💡 Teoría Relámpago (05 - 10 min):** Transistor como interruptor de potencia (Corte vs Saturación) y diodo de protección.
 3. **💻 Práctica Guiada (10 - 25 min):** Armar circuito: Arduino Pin 9 $\rightarrow$ Resistencia $1k\Omega$ $\rightarrow$ Base Transistor NPN $\rightarrow$ Motor DC con batería de 9V.
 4. **🚀 Reto Individual (25 - 40 min):** **Práctica 1:** Escribir el código C++ para controlar los ciclos de activación y parada periódica de una Cinta Transportadora Industrial.
-5. **📝 Calificación Directa en Classroom (40 - 45 min):** Revisión del código C++ y simulación del motor.
+5. **📝 Calificación Directa en Classroom (40 - 45 min).**
+
+---
+
+### 🔮 ¿QUÉ VEREMOS LA PRÓXIMA CLASE? (SEMANA 3)
+* **Tema a Futuro:** **Control Bidireccional de Motores con Puentes H / Driver L298N.**
+* **Adelanto para los chicos:** En la próxima clase pasaremos del control en un solo sentido con un solo transistor al control completo de avance, reversa y velocidad mediante el circuito integrado L298N.
 
 ---
 

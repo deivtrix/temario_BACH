@@ -31,6 +31,12 @@
 
 ---
 
+### 🔮 ¿QUÉ VEREMOS LA PRÓXIMA CLASE? (SEMANA 3)
+* **Tema a Futuro:** **Introducción a los Microcontroladores y Filosofía Arduino.**
+* **Adelanto para los chicos:** En la próxima clase iniciaremos la programación en C++ de microcontroladores utilizando Tinkercad Circuits para encender y controlar nuestro primer LED programado por código.
+
+---
+
 ### 📦 MATERIALES Y PERMISOS PARA LA PRÓXIMA CLASE (SEMANA 3)
 > 📢 **AVISO Y PERMISO A PEDIR CON TIEMPO:**  
 > 💻 **Ningún material físico extra.** Para la Semana 3 se iniciará la programación directa de microcontroladores Arduino en Tinkercad Circuits.
