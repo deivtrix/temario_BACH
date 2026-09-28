@@ -5,6 +5,12 @@
 
 ---
 
+### 🔗 CONEXIÓN Y TRANSICIÓN PEDAGÓGICA (SEMANA 1 $\rightarrow$ SEMANA 2)
+* **Lo que vimos en la Semana 1:** Las 3 magnitudes eléctricas fundamentales ($V, I, R$) y circuitos básicos.
+* **El puente hacia la Semana 2:** *"Chicos, la semana pasada aprendimos a medir fuerza y corriente. Hoy descubriremos los dos tipos de corriente que existen en el mundo real: la que viene de las baterías (DC) y la que viene de los tomacorrientes de la pared (AC)."*
+
+---
+
 ### 🗓️ PREPARACIÓN DOCENTE (DOMINGO / LUNES PREVIO)
 * **¿Qué debe estudiar/repasar el profe?**
   - Revisar Páginas 15 a 20 del PDF `CA.1.RB.5.PR.26-27.pdf`.

@@ -5,6 +5,12 @@
 
 ---
 
+### 🔗 CONEXIÓN Y TRANSICIÓN PEDAGÓGICA (SEMANA 1 $\rightarrow$ SEMANA 2)
+* **Lo que vimos en la Semana 1:** Medición de Voltaje, Intensidad de Corriente y Ley de Ohm ($V, I, R$).
+* **El puente hacia la Semana 2:** *"Chicos, la semana pasada medimos tensión y amperaje. Hoy daremos el salto a la programación de toma de decisiones: el programa responderá a la presión física de un botón usando `digitalRead` y `if-else`."*
+
+---
+
 ### 🗓️ PREPARACIÓN DOCENTE (DOMINGO / LUNES PREVIO)
 * **¿Qué debe estudiar/repasar el profe?**
   - Revisar Páginas 7 a 17 del PDF `PRESENTACION_1RO_BGU_ARDUINO_MOD2.pdf`.

@@ -5,13 +5,19 @@
 
 ---
 
+### 🔗 CONEXIÓN Y TRANSICIÓN PEDAGÓGICA (SEMANA 1 $\rightarrow$ SEMANA 2)
+* **Lo que vimos en la Semana 1:** La importancia de la energía eléctrica en la vida diaria y la clasificación de materiales en conductores vs aislantes.
+* **El puente hacia la Semana 2:** *"Chicos, la semana pasada vimos que la electricidad viaja por conductores. Hoy daremos el siguiente paso práctico: veremos cómo esa electricidad se convierte en movimiento físico mediante un motor, y cómo al mover el motor con nuestras manos devolvemos electricidad."*
+
+---
+
 ### 🗓️ PREPARACIÓN DOCENTE (DOMINGO / LUNES PREVIO)
 * **¿Qué debe estudiar/repasar el profe?**
   - Revisar Páginas 16-21 del PDF `CA.1.RB.4.OC.26-27.pdf`.
   - Repasar la diferencia entre **Efecto Motor** (Química/Eléctrica $\rightarrow$ Mecánica) y **Efecto Generador** (Mecánica $\rightarrow$ Eléctrica).
 * **Materiales físicos del Laboratorio a verificar:**
   - 10-15 Motoreductores DC con cables pelados.
-  - 10-15 Pilas AAA o AA (o conectores de pila/caimanes).
+  - 10-15 Pilas AAA o AA.
 
 ---
 
@@ -29,8 +35,8 @@
 
 ### 📦 MATERIALES Y PERMISOS PARA LA PRÓXIMA CLASE (SEMANA 3)
 > 📢 **AVISO Y PERMISO A PEDIR CON TIEMPO:**  
-> 🍋 **Solicitar a los estudiantes (o pedir permiso institucional para traer):**  
-> - 1 Limón fresco o 1 Papa grande por grupo.  
-> - 1 Moneda de Cobre (o trozo de cable de cobre pelado).  
-> - 1 Clip metálico de papel o clavo galvanizado (Zinc).  
-> *(Para la práctica de la Pila Bioquímica del Objetivo 7).*
+> 🥔 **Solicitar a los estudiantes:**  
+> - 1 Papa mediana/grande O 1 Limón jugoso.  
+> - 1 Moneda limpia de Cobre (1, 2 o 5 cts).  
+> - 1 Clavo galvanizado plateado (clavo común de ferretería).  
+> *(Para la práctica de la Pila Bioquímica del Objetivo 7 en la Semana 3).*

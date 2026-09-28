@@ -5,9 +5,15 @@
 
 ---
 
+### 🔗 CONEXIÓN Y TRANSICIÓN PEDAGÓGICA (SEMANA 1 $\rightarrow$ SEMANA 2)
+* **Lo que vimos en la Semana 1:** El diseño de la mesita de noche con vaciado de cajones y medidas reales.
+* **El puente hacia la Semana 2:** *"Chicos, la semana pasada diseñamos un mueble de hogar con medidas reales. Hoy daremos el salto al modelado de estructuras de soporte diseñando a escala la Mesa del Laboratorio de nuestro colegio."*
+
+---
+
 ### 🗓️ PREPARACIÓN DOCENTE (DOMINGO / LUNES PREVIO)
 * **¿Qué debe estudiar/repasar el profe?**
-  - Tomar las medidas aproximadas de la Mesa del Laboratorio del colegio (Largo, Ancho, Alto del tablero y patas).
+  - Tomar las medidas aproximadas de la Mesa del Laboratorio del colegio para guiar la escala en Tinkercad 3D.
   - Repasar herramientas de Tinkercad 3D: Tecla de Alineación (`Tecla L`), Duplicado (`Ctrl + D`) y planos de trabajo.
 * **Materiales físicos / Permisos a solicitar:**
   - Ningún material físico extra. Trabajo 100% en Tinkercad 3D en las PCs.

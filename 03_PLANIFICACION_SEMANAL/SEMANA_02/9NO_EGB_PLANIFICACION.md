@@ -5,12 +5,18 @@
 
 ---
 
+### 🔗 CONEXIÓN Y TRANSICIÓN PEDAGÓGICA (SEMANA 1 $\rightarrow$ SEMANA 2)
+* **Lo que vimos en la Semana 1:** Concepto de fabricación y la definición teórica de los 6 tipos (Elaboración, Producción, Confección, Manufactura, Construcción y Forja).
+* **El puente hacia la Semana 2:** *"Chicos, la semana pasada estudiamos las definiciones en la pantalla. Hoy saldremos al patio a verlos con nuestros propios ojos en la estructura real del colegio y diseñaremos un afiche profesional en Canva."*
+
+---
+
 ### 🗓️ PREPARACIÓN DOCENTE (DOMINGO / LUNES PREVIO)
 * **¿Qué debe estudiar/repasar el profe?**
   - Revisar la Ficha [FICHA_9NO_CACERIA_CANVA.md](file:///C:/Users/David/Desktop/clases%20bach/03_PLANIFICACION_SEMANAL/SEMANA_02/FICHA_9NO_CACERIA_CANVA.md).
   - Identificar previamente los 3 puntos del patio (arcos de fútbol, columnas de hormigón, pasamanos de metal).
 * **Materiales físicos / Permisos a solicitar:**
-  - Solicitud / Permiso de salida rápida al patio (20 minutos) con inspección del inspector/tutor.
+  - Solicitud / Permiso de salida rápida al patio (20 minutos) con el inspector/tutor.
   - Verificar que las computadoras del laboratorio tengan acceso abierto a **Canva.com**.
 
 ---

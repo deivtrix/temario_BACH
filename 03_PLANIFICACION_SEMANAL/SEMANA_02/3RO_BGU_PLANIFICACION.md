@@ -5,6 +5,12 @@
 
 ---
 
+### 🔗 CONEXIÓN Y TRANSICIÓN PEDAGÓGICA (SEMANA 1 $\rightarrow$ SEMANA 2)
+* **Lo que vimos en la Semana 1:** La introducción a cargas de potencia y los límites de corriente del Arduino ($40\text{ mA}$).
+* **El puente hacia la Semana 2:** *"Chicos, la semana pasada analizamos por qué el Arduino se quema con motores grandes. Hoy armaremos y simularemos el circuito con Transistor NPN (2N2222) para controlar la Cinta Transportadora Industrial."*
+
+---
+
 ### 🗓️ PREPARACIÓN DOCENTE (DOMINGO / LUNES PREVIO)
 * **¿Qué debe estudiar/repasar el profe?**
   - Revisar Páginas 3 a 15 del PDF `PRESENTACION_3RO_BGU_MECATRONICA_MOD4.pdf`.
