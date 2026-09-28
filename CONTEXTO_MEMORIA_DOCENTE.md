@@ -8,16 +8,21 @@
 ---
 
 ## 📌 1. REGLAS Y ACUERDOS DE TRABAJO
-* **Duración de la clase:** 45 minutos estrictos.
+* **Duración de la clase:** 45 minutos strictly.
 * **Modalidad de trabajo:** Chicos siempre en computadoras / laboratorio (a menos que salgan al patio).
 * **Entregables:** Siempre se asigna una pregunta/cuestionario corto, infografía en Canva o archivo en Google Classroom para calificar en los últimos 5 minutos de la clase.
 * **Dinámica de edición:** NO usar scripts pesados de Python para modificar archivos. Ediciones directas y limpias en formato Markdown.
 
 ---
 
-## 🗺️ 2. MAPA DE CONTINUIDAD CURRICULAR (EVITAR REPETICIONES)
+## 💡 2. IDEAS Y HERRAMIENTAS GUARDADAS PARA FUTURAS CLASES
+* 🎮 **Infinite Craft (`neal.fun/infinite-craft/`):** Guardado para **9no EGB** (Clase de Transformación de Materias Primas). Se usará para un reto donde partiendo de *Agua, Fuego, Tierra, Aire* deban descubrir cómo fabricar `Metal`, `Glass`, `Plastic`, `Silicon` o `Robot`.
+
+---
+
+## 🗺️ 3. MAPA DE CONTINUIDAD CURRICULAR (EVITAR REPETICIONES)
 * **8vo EGB:** Energía, Cargas, Fuentes de energía y Kits LEGO WeDo.
-* **9no EGB:** Fabricación, Tipos de Fabricación (Patio / Canva / Tinkercad 3D) y Robótica mBot.
+* **9no EGB:** Fabricación, Tipos de Fabricación (Patio / Canva / Tinkercad 3D / Infinite Craft) y Robótica mBot.
 * **10mo EGB:** Arduino Módulo 1 (LEDs, Semáforo, Auto Fantástico, `if-else`).
 * **1ro BGU:** Arduino Módulo 2 (`PRESENTACION_1RO_BGU_ARDUINO_MOD2.pdf` - Pulsadores, Variables `bool`/`int`, PWM).
 * **2do BGU:** 
@@ -27,7 +32,7 @@
 
 ---
 
-## 📁 3. UBICACIÓN DE MATERIALES Y DOCUMENTOS
+## 📁 4. UBICACIÓN DE MATERIALES Y DOCUMENTOS
 
 ```text
 clases bach/
@@ -41,7 +46,7 @@ clases bach/
 
 ---
 
-## 📅 4. ESTADO ACTUAL DE AVANCE SEMANAL
+## 📅 5. ESTADO ACTUAL DE AVANCE SEMANAL
 
 * **Semana 1:** Impartida y archivada en `03_PLANIFICACION_SEMANAL/SEMANA_01/`.
 * **Semana 2:** Diseñada al 100% en `03_PLANIFICACION_SEMANAL/SEMANA_02/`:
