@@ -11,41 +11,65 @@
    * Diapositivas 1 a 5 de `PRESENTACION_1RO_BGU_ARDUINO_MOD2.pdf`.
    * Introducción a tipos de variables (`int`, `unsigned int`, `bool`) y equivalencias de memoria (Diapositivas 4 y 5: `HIGH = 1 = true`, `LOW = 0 = false`).
 
-2. **💻 Paso 1: Demostración con Código Base Novato (10 - 18 min):**
-   * El docente proyecta un código "simple" donde todas las luces parpadean juntas sin variables (Pines 6, 7, 12, 13 como la diapositiva):
+2. **💻 Paso 1: El Código Simple (Todas prenden juntas):**
+   * El docente muestra el código directo donde todo parpadea al mismo tiempo:
    ```cpp
    void setup() {
-     pinMode(6, OUTPUT);  // Rojo 1
-     pinMode(7, OUTPUT);  // Rojo 2
-     pinMode(12, OUTPUT); // Azul 1
-     pinMode(13, OUTPUT); // Azul 2
+     pinMode(6, OUTPUT);
+     pinMode(7, OUTPUT);
+     pinMode(12, OUTPUT);
+     pinMode(13, OUTPUT);
    }
+
    void loop() {
-     digitalWrite(6, HIGH); digitalWrite(7, HIGH); digitalWrite(12, HIGH); digitalWrite(13, HIGH);
+     digitalWrite(6, HIGH);
+     digitalWrite(7, HIGH);
+     digitalWrite(12, HIGH);
+     digitalWrite(13, HIGH);
      delay(500);
-     digitalWrite(6, LOW); digitalWrite(7, LOW); digitalWrite(12, LOW); digitalWrite(13, LOW);
+
+     digitalWrite(6, LOW);
+     digitalWrite(7, LOW);
+     digitalWrite(12, LOW);
+     digitalWrite(13, LOW);
      delay(500);
    }
    ```
 
-3. **🧠 Paso 2: Explicación y Refactorización del Docente (18 - 25 min):**
-   * El docente transforma el código aplicando variables `bool` e `int` profesionales:
+3. **🧠 Paso 2: Tu Explicación (Usar `true` y `false` con nombres):**
+   * El docente muestra cómo reemplazar `HIGH/LOW` por variables sencillas:
    ```cpp
-   int rojo1 = 6, rojo2 = 7;
-   int azul1 = 12, azul2 = 13;
-   bool prendido = true;
-   bool apagado = false;
+   int rojo = 6;
+   int azul = 12;
+   bool si = true;
+   bool no = false;
 
    void setup() {
-     pinMode(rojo1, OUTPUT); pinMode(rojo2, OUTPUT);
-     pinMode(azul1, OUTPUT); pinMode(azul2, OUTPUT);
+     pinMode(rojo, OUTPUT);
+     pinMode(azul, OUTPUT);
    }
    ```
 
-4. **🚀 Paso 3: Reto Autónomo de Estudiantes (25 - 40 min):**
-   * **Actividad N°3 (Diapositivas 6 y 7):** Modificar el `void loop()` por sí mismos usando las variables `prendido` y `apagado` para alternar la **Sirena de Policía**:
-     * *Fase 1:* 2 Rojos en `prendido` (Pines 6 y 7) y 2 Azules en `apagado` (Pines 12 y 13).
-     * *Fase 2:* 2 Rojos en `apagado` y 2 Azules en `prendido`.
+4. **🚀 Paso 3: Código Final del Reto (Sirena de Policía Alternada):**
+   * Código súper fácil que los estudiantes completan para alternar colores:
+   ```cpp
+   void loop() {
+     // Rojos prendidos, Azules apagados
+     digitalWrite(6, true);
+     digitalWrite(7, true);
+     digitalWrite(12, false);
+     digitalWrite(13, false);
+     delay(500);
+
+     // Rojos apagados, Azules prendidos
+     digitalWrite(6, false);
+     digitalWrite(7, false);
+     digitalWrite(12, true);
+     digitalWrite(13, true);
+     delay(500);
+   }
+   ```
+
 
 
 5. **📝 Evaluación Directa (40 - 45 min):** Captura del circuito y código en Google Classroom / revisión en pantalla.

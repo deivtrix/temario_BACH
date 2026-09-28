@@ -13,55 +13,39 @@
    * ¿Por qué un pin digital de Arduino ($40\text{ mA}$) no debe alimentar directamente cargas de potencia y requiere un Transistor BJT NPN como interfaz de conmutación?
    * Identificación de terminales del Transistor BJT NPN: Base (B), Colector (C) y Emisor (E).
 
-2. **💻 Paso 1: Demostración con Código Base Novato (10 - 18 min):**
-   * El docente muestra el control directo sin temporización ni funciones (Pin 2 de control de Base según la imagen):
+2. **💻 Paso 1: Código Base Directo (Prendido continuo):**
    ```cpp
-   int pinControl = 2; // Pin de control conectado a la Base del transistor
    void setup() {
-     pinMode(pinControl, OUTPUT);
-   }
-   void loop() {
-     digitalWrite(pinControl, HIGH); // Activación continua de la carga vía transistor
-   }
-   ```
-
-3. **🧠 Paso 2: Explicación y Refactorización del Docente (18 - 25 min):**
-   * El docente refactoriza el código introduciendo variables `bool` y tiempos de ciclo industrial (`int`):
-   ```cpp
-   int transistorPin = 2; // Pin 2 conectado a la resistencia de Base
-   bool estadoMarcha = true;
-   bool estadoParada = false;
-   int tiempoActivo = 3000;  // 3 segundos de activación
-   int tiempoReposo = 1500;  // 1.5 segundos de reposo
-
-   void setup() {
-     pinMode(transistorPin, OUTPUT);
-   }
-   ```
-
-4. **🚀 Paso 3: Reto Autónomo de Estudiantes (25 - 40 min):**
-   * **Práctica Guiada (Conmutación con Transistor NPN):** Armar el circuito de la diapositiva en Tinkercad (Pin 2 a la Base del Transistor NPN) y completar el `void loop()` con la secuencia temporizada de activación:
-   ```cpp
-   int transistorPin = 2; // Pin de control conectado a la Base (Cable Naranja)
-   bool estadoMarcha = true;
-   bool estadoParada = false;
-   int tiempoActivo = 3000;  // 3 segundos de activación
-   int tiempoReposo = 1500;  // 1.5 segundos de reposo
-
-   void setup() {
-     pinMode(transistorPin, OUTPUT);
+     pinMode(2, OUTPUT);
    }
 
    void loop() {
-     // FASE 1: Activar Transistor NPN (Saturación) -> Conducción a GND
-     digitalWrite(transistorPin, estadoMarcha);
-     delay(tiempoActivo);
-
-     // FASE 2: Desactivar Transistor NPN (Corte) -> Bloqueo de corriente
-     digitalWrite(transistorPin, estadoParada);
-     delay(tiempoReposo);
+     digitalWrite(2, HIGH); // Prende el transistor
    }
    ```
+
+3. **🧠 Paso 2: Tu Explicación (Usar temporizador y bool):**
+   ```cpp
+   int motor = 2;
+   bool prende = true;
+   bool apaga = false;
+
+   void setup() {
+     pinMode(motor, OUTPUT);
+   }
+   ```
+
+4. **🚀 Paso 3: Código Final Fácil (Intermitencia del Transistor):**
+   ```cpp
+   void loop() {
+     digitalWrite(2, true);  // Prende 3 segundos
+     delay(3000);
+
+     digitalWrite(2, false); // Apaga 1 segundo
+     delay(1000);
+   }
+   ```
+
 
 5. **📝 Calificación Directa en Classroom (40 - 45 min):** Captura del circuito armado con el Transistor NPN + Resistencia de Base en Tinkercad.
 
