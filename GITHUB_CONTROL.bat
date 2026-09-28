@@ -7,16 +7,14 @@ echo           ASISTENTE GITHUB - DAVID C
 echo ====================================================
 echo.
 
-:: Deteccion automatica de estado de Git
-git fetch origin main >nul 2>&1
-git status -s > temp_status.txt
-set /p git_changes=<temp_status.txt
-del temp_status.txt >nul 2>&1
+git status -s > %temp%\git_st.txt 2>nul
+set "git_changes="
+for /f "tokens=*" %%a in (%temp%\git_st.txt) do set "git_changes=%%a"
 
-if "%git_changes%"=="" (
-    echo   ESTADO: [  ACTUALIZADO / SIN CAMBIOS PENDIENTES  ]
-) else (
+if defined git_changes (
     echo   ESTADO: [ ! CAMBIOS PENDIENTES / MODIFICADO ! ]
+) else (
+    echo   ESTADO: [  ACTUALIZADO / SIN CAMBIOS PENDIENTES  ]
 )
 
 echo.
