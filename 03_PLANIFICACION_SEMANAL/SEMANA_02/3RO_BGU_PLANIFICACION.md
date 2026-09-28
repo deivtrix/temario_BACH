@@ -40,11 +40,31 @@
    ```
 
 4. **🚀 Paso 3: Reto Autónomo de Estudiantes (25 - 40 min):**
-   * **Práctica Guiada (Conmutación con Transistor NPN):** Armar el circuito de la diapositiva en Tinkercad (Pin 2 a la Base del Transistor NPN, Colector a la carga/LED verde y Emisor a GND) y programar en el `void loop()` la secuencia temporizada:
-     * *Fase 1 (Activación):* Activar la Base del transistor (`estadoMarcha`) durante `tiempoActivo`.
-     * *Fase 2 (Reposo):* Desactivar el transistor (`estadoParada`) durante `tiempoReposo`.
+   * **Práctica Guiada (Conmutación con Transistor NPN):** Armar el circuito de la diapositiva en Tinkercad (Pin 2 a la Base del Transistor NPN) y completar el `void loop()` con la secuencia temporizada de activación:
+   ```cpp
+   int transistorPin = 2; // Pin de control conectado a la Base (Cable Naranja)
+   bool estadoMarcha = true;
+   bool estadoParada = false;
+   int tiempoActivo = 3000;  // 3 segundos de activación
+   int tiempoReposo = 1500;  // 1.5 segundos de reposo
+
+   void setup() {
+     pinMode(transistorPin, OUTPUT);
+   }
+
+   void loop() {
+     // FASE 1: Activar Transistor NPN (Saturación) -> Conducción a GND
+     digitalWrite(transistorPin, estadoMarcha);
+     delay(tiempoActivo);
+
+     // FASE 2: Desactivar Transistor NPN (Corte) -> Bloqueo de corriente
+     digitalWrite(transistorPin, estadoParada);
+     delay(tiempoReposo);
+   }
+   ```
 
 5. **📝 Calificación Directa en Classroom (40 - 45 min):** Captura del circuito armado con el Transistor NPN + Resistencia de Base en Tinkercad.
+
 
 
 ---
