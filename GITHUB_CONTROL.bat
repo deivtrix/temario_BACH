@@ -51,7 +51,8 @@ echo.
 echo ====================================================
 echo   !EXITO! Todos los cambios han sido subidos.
 echo ====================================================
-pause
+echo Presiona una tecla para continuar...
+pause >nul
 goto MENU
 
 :DESCARGAR
@@ -65,7 +66,8 @@ echo.
 echo ====================================================
 echo   !EXITO! Tu carpeta esta 100%% actualizada.
 echo ====================================================
-pause
+echo Presiona una tecla para continuar...
+pause >nul
 goto MENU
 
 :SALIR
