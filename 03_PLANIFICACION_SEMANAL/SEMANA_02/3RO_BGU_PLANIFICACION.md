@@ -5,19 +5,24 @@
 
 ---
 
-### ⏱️ DESGLOSE PASO A PASO (45 MINUTOS)
+### 🗓️ PREPARACIÓN DOCENTE (DOMINGO / LUNES PREVIO)
+* **¿Qué debe estudiar/repasar el profe?**
+  - Revisar Páginas 3 a 15 del PDF `PRESENTACION_3RO_BGU_MECATRONICA_MOD4.pdf`.
+  - Repasar el funcionamiento del Transistor BJT (NPN - 2N2222/TIP120), cálculo de resistencia de base ($1k\Omega$), diodo Flyback de protección y conmutación de carga inductiva (Motor DC).
+* **Materiales físicos / Permisos a solicitar:**
+  - Verificar acceso a Tinkercad Circuits en las computadoras.
 
-1. **🎯 Motivación y Entrada (00 - 05 min):**  
-   *"¿Por qué un pin de Arduino no puede mover un motor industrial de 12V directamente sin quemar la placa?"*
+---
 
-2. **💡 Teoría Relámpago (05 - 10 min):**  
-   Límite de corriente del Arduino ($40\text{ mA}$). El Transistor BJT NPN actuando como un conmutador/interruptor electrónico de potencia.
+### ⏱️ DESGLOSE DE CLASE (45 MINUTOS)
+1. **🎯 Motivación (00 - 05 min):** ¿Por qué un pin de Arduino ($40\text{ mA}$) no puede alimentar un motor industrial de 12V directo?
+2. **💡 Teoría Relámpago (05 - 10 min):** Transistor como interruptor de potencia (Corte vs Saturación) y diodo de protección.
+3. **💻 Práctica Guiada (10 - 25 min):** Armar circuito: Arduino Pin 9 $\rightarrow$ Resistencia $1k\Omega$ $\rightarrow$ Base Transistor NPN $\rightarrow$ Motor DC con batería de 9V.
+4. **🚀 Reto Individual (25 - 40 min):** **Práctica 1:** Escribir el código C++ para controlar los ciclos de activación y parada periódica de una Cinta Transportadora Industrial.
+5. **📝 Calificación Directa en Classroom (40 - 45 min):** Revisión del código C++ y simulación del motor.
 
-3. **💻 Práctica Guiada (10 - 20 min):**  
-   Armar el esquema de potencia en Tinkercad Circuits: Arduino Pin 9 $\rightarrow$ Resistencia $1k\Omega$ $\rightarrow$ Base del Transistor 2N2222 $\rightarrow$ Motor DC alimentado con batería externa de $9\text{V}$.
+---
 
-4. **🚀 Reto Individual (20 - 40 min):**  
-   **Práctica 1 (Página 15 del PDF):** Escribir la secuencia de código en C++ para simular la activación y parada periódica de una Cinta Transportadora Industrial controlada por el transistor.
-
-5. **📝 Cierre y Evaluación (40 - 45 min):**  
-   Revisión de la conmutación de corriente del transistor en la simulación.
+### 📦 MATERIALES Y PERMISOS PARA LA PRÓXIMA CLASE (SEMANA 3)
+> 📢 **AVISO Y PERMISO A PEDIR CON TIEMPO:**  
+> 💻 **Ningún material físico extra.** Para la Semana 3 se avanzará al control de dirección de motores DC mediante puentes H / Drivers L298N.

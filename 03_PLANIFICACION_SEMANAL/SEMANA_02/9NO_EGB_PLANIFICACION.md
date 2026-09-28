@@ -5,26 +5,24 @@
 
 ---
 
-### ⏱️ DESGLOSE PASO A PASO (45 MINUTOS)
+### 🗓️ PREPARACIÓN DOCENTE (DOMINGO / LUNES PREVIO)
+* **¿Qué debe estudiar/repasar el profe?**
+  - Revisar la Ficha [FICHA_9NO_CACERIA_CANVA.md](file:///C:/Users/David/Desktop/clases%20bach/03_PLANIFICACION_SEMANAL/SEMANA_02/FICHA_9NO_CACERIA_CANVA.md).
+  - Identificar previamente los 3 puntos del patio (arcos de fútbol, columnas de hormigón, pasamanos de metal).
+* **Materiales físicos / Permisos a solicitar:**
+  - Solicitud / Permiso de salida rápida al patio (20 minutos) con inspección del inspector/tutor.
+  - Verificar que las computadoras del laboratorio tengan acceso abierto a **Canva.com**.
 
-1. **🎯 Motivación y Lanzamiento de la Misión (00 - 05 min):**  
-   *"Chicos, hoy saldremos al patio a fotografiar cómo fue construido nuestro colegio y los objetos que usamos a diario. Luego en Canva diseñaremos un afiche publicitario/infográfico de un producto fabricado."*
+---
 
-2. **☀️ Cacería de Fabricación en el Patio (05 - 25 min - 20 MINUTOS EN EL PATIO):**  
-   - Los chicos salen al patio/colegio en **Tríos (grupos de 3)** con 1 celular (o usando la cámara web/laptop si aplican).
-   - **Misión de Fotos:** Tomar 3 fotos reales del colegio:
-     1. *Objeto de Forja / Metal:* Reja, arco de fútbol o pasamanos.
-     2. *Objeto de Construcción:* Pared de ladrillo, grada de hormigón o columna.
-     3. *Objeto de Moldeo / Textil:* Cono deportivo, tacho de basura o red de la cancha.
+### ⏱️ DESGLOSE DE CLASE (45 MINUTOS)
+1. **🎯 Motivación y Misión (00 - 05 min):** Explicación del reto de Cacería en el Patio.
+2. **☀️ Cacería de Fotos en el Patio (05 - 25 min):** Salida en tríos para tomar 3 fotos (Metal, Construcción, Plástico).
+3. **💻 Diseño de Afiche en Canva (25 - 40 min):** Rellenar la plantilla en Canva con la foto tomada y 3 datos rápidos.
+4. **📝 Calificación Directa en Classroom (40 - 45 min):** Entrega de imagen PNG / enlace Canva.
 
-3. **💻 Diseño del Afiche en Canva en las PCs (25 - 40 min - 15 MINUTOS EN COMPU):**  
-   Al regresar al laboratorio de computación:
-   - Entrar a **Canva** (plantilla rápida de Infografía o Poster A4).
-   - **El Entregable en Canva:**
-     - Insertar la foto principal tomada en el patio.
-     - Colocar un título atractivo (ej. *"El Secreto de la Fabricación del Arco Metálico"*).
-     - Añadir 3 datos rápidos: **Materia Prima Original**, **Tipo de Fabricación** y **Uso Diario**.
+---
 
-4. **📝 Cierre y Calificación Directa (40 - 45 min):**  
-   - **En Classroom:** Subir la imagen / PDF exportado desde Canva o pegar el enlace del afiche.
-   - Calificación directa de la infografía en pantalla antes de salir.
+### 📦 MATERIALES Y PERMISOS PARA LA PRÓXIMA CLASE (SEMANA 3)
+> 📢 **AVISO Y PERMISO A PEDIR CON TIEMPO:**  
+> 💻 **Ningún material físico extra.** Para la Semana 3 se trabajará en el laboratorio de computación con el entorno de diseño 3D en Tinkercad.

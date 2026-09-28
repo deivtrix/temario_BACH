@@ -5,21 +5,24 @@
 
 ---
 
-### ⏱️ DESGLOSE PASO A PASO (45 MINUTOS)
+### 🗓️ PREPARACIÓN DOCENTE (DOMINGO / LUNES PREVIO)
+* **¿Qué debe estudiar/repasar el profe?**
+  - Revisar Páginas 7 a 17 del PDF `PRESENTACION_1RO_BGU_ARDUINO_MOD2.pdf`.
+  - Repasar el comando `digitalRead(pin)`, el uso de resistencias Pull-Down de $10k\Omega$ para evitar flotabilidad de señal y la sintaxis C++ de `if-else`.
+* **Materiales físicos / Permisos a solicitar:**
+  - Verificar acceso de los estudiantes a Tinkercad Circuits desde sus PCs.
 
-1. **🎯 Motivación y Entrada (00 - 05 min):**  
-   *"La semana pasada vimos magnitudes eléctricas ($V, I, R$). Hoy daremos paso a la toma de decisiones: ¿cómo lee Arduino cuando presionamos un botón?"*
+---
 
-2. **💡 Teoría Relámpago (05 - 10 min):**  
-   - Comando `digitalRead(pin)`.
-   - La estructura lógica `if (estado == HIGH) { ... } else { ... }`.
-   - Uso de resistencias Pull-Down para evitar falsas lecturas.
+### ⏱️ DESGLOSE DE CLASE (45 MINUTOS)
+1. **🎯 Motivación (00 - 05 min):** ¿Cómo lee el Arduino cuando el usuario presiona un botón físico?
+2. **💡 Teoría Relámpago (05 - 10 min):** Entradas Digitales (`HIGH` / `LOW`), sintaxis `if-else` y variables `bool`.
+3. **💻 Práctica Guiada (10 - 25 min):** Conectar Pulsador + Resistencia Pull-Down en Pin 2 + LED en Pin 13 en Tinkercad Circuits.
+4. **🚀 Reto Individual (25 - 40 min):** Diseñar un circuito donde al presionar el pulsador se encienda un LED Verde y al soltarlo permanezca un LED Rojo.
+5. **📝 Calificación Directa en Classroom (40 - 45 min):** Entrega de enlace/captura de la simulación.
 
-3. **💻 Práctica Guiada (10 - 20 min):**  
-   Armar en Tinkercad Circuits: Arduino Uno + 1 Pulsador en el Pin 2 + 1 LED en el Pin 13. Escribir el programa básico de lectura.
+---
 
-4. **🚀 Reto Individual (20 - 40 min):**  
-   **Actividad Guiada (Página 17):** Diseñar un circuito donde al presionar el pulsador se encienda un LED Verde, y al soltarlo se mantenga encendido un LED Rojo.
-
-5. **📝 Cierre y Evaluación (40 - 45 min):**  
-   Calificar el funcionamiento de la conmutación de los LEDs en Tinkercad Circuits.
+### 📦 MATERIALES Y PERMISOS PARA LA PRÓXIMA CLASE (SEMANA 3)
+> 📢 **AVISO Y PERMISO A PEDIR CON TIEMPO:**  
+> 💻 **Ningún material físico extra.** Se continuará en Tinkercad Circuits con la modulación PWM y salidas analógicas.
