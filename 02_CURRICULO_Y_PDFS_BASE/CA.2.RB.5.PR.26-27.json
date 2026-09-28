@@ -1,0 +1,222 @@
+[
+  {
+    "page": 1,
+    "text": "ROBÓTICA\nARDUINO (MODULO 2)\nIng. David Rógel N."
+  },
+  {
+    "page": 2,
+    "text": "INDICACIONES P3\n1\n2\n3\n4"
+  },
+  {
+    "page": 3,
+    "text": "OBJETIVO\nUtilizar los tipos de datos enteros (int), enteros\npósitivos (unsigned int) y booleanos (bool) de\nArduino para optimizar el uso de la memoria y\nreducir el tiempo de ejecución de un programa\nque maneje  salidas digitales."
+  },
+  {
+    "page": 4,
+    "text": "Cambiemos los tipos de\nvariables\nPARA NUMERO\nENTEROS, YA SEAN\nPOSITOVS O\nNEGATIVOS\nVARIABLE DE 16\nBITS\nINT\nPARA NUMERO\nENTEROS,\nUNICAMENTE\nPOSITIVOS\nVARIABLE DE 16\nBITS\nUNSIGNED\nINT\nVALOR DE\nMEMORIA 1 BIT.\nSE USA PÀRA\nVALORES DIGITALES\n(0/1)\nBOOL\nIng. David Rógel N."
+  },
+  {
+    "page": 5,
+    "text": "Probemos nuevos\ncomandos\nRecuerden lógica Matemática y apliquen los\nsinónimos de las variables digitales (1 y 0)\nLOW\nHIGH\n0\nfalse\n1\ntrue\nIng. David Rógel N."
+  },
+  {
+    "page": 6,
+    "text": "Vamos a realizar un\nprograma que simule las\nluces de la sirena de la\npolicía (2 leds rojos y 2\nazules en intermitencia)\nACTIVIDAD N°3\nIng. David Rógel N."
+  },
+  {
+    "page": 7,
+    "text": "El objetivo de esta pequeña\npráctica será que ustedes\nrealicen su propia simulación\ndel circuito y el programa en\nla cual se presente las\ndistintas fases o método para\nencender y apagar los\nleds(lógica matemática)\nRecuerda agregar la captura de\ntu circuito y el código que\nprogramaste. \nAnalizar los datos\nIng. David Rógel N."
+  },
+  {
+    "page": 8,
+    "text": "¿por qué obtenemos resultados\ndiferentes?.\n¿CÓMO SE TOMA\nUNA DECISIÓN\nEN ARDUINO?"
+  },
+  {
+    "page": 9,
+    "text": "Utilizar correctamente las sentencias if-else en\nArduino \npara \ncontrolar \nel \nflujo \nde \nun\nprograma en función de una condición.\nOBJETIVO"
+  },
+  {
+    "page": 10,
+    "text": "1\n3\n2\n4\nEs una instrucción que se\nutiliza para comprobar si\nuna determinada\ncondición se ha cumplido\nSi la condición es TRUE\n(cierta) se ejecutan una serie\nde instrucciones\n(operaciones) que se\nescriben dentro de llaves. \nComo por ejemplo\naveriguar si un valor está\npor encima de un cierto\nnúmero. \nSi es FALSE (la condición no se\ncumple) el programa se salta\nlas llaves y no ejecuta las\noperaciones que están dentro\nde ellas.\nCONDICIONAL  IF  (SI…)"
+  },
+  {
+    "page": 11,
+    "text": "SINTAX DE\nCONDICIONAL IF"
+  },
+  {
+    "page": 12,
+    "text": "else: Sirve\ncuando quiero\nrealizar una\nacción cuando\nla condición\ndel if no se\ncumplió\nPodemos decir\nque la\nsentencia else\nes el\ncomplemento\nde la sentencia\nif \nY SI NO SE CUMPLE?  (ELSE)\n1\n3\nSi no se cumple la\nsentencia tenemos\nla opción de poner\notro condicional if\no simplemente\nponer de manera\ndirecta la\nsentencia else\n2"
+  },
+  {
+    "page": 13,
+    "text": "SINTAXIS DEL\nCONDICIONAL ELSE\nopción 1\nopción 2"
+  },
+  {
+    "page": 14,
+    "text": "Aplicacion de condiconales: Vamoa\na realizar un progrma en el cual\ningrese un ejemplo de notas del p1\ny p2, el progrma debera pintar luz\nverde si aprueba y una luz roja si\nreprueba \nTRABAJO N°2\nCondicionales"
+  },
+  {
+    "page": 15,
+    "text": "NOTAS DEL GURU \nCODIGO"
+  },
+  {
+    "page": 16,
+    "text": "Tipo de datos para\nnúmeros de punto\nflotante(decimales)\nLos números de coma\nflotante se utilizan a\nmenudo para aproximar\nlos valores analógicos\nTipo coma flotante\nalmacenado en 32 bits\nCambiemos los tipos de\nvariables\nfloat"
+  },
+  {
+    "page": 17,
+    "text": "Terminemos la\nactividad\nEncontremo el promedio y determinemos si\nel estudiante pasa o no pas de año.\nEncontrar el promedio del Q1 y el\nQ2 y verifiquemos si el estudiante\npasa o no el año mediante un\ncomparador de la nota final con\ndecimales .\nLa nota para pasar debe ser\nmayor o igual a 7.0 puntos"
+  },
+  {
+    "page": 18,
+    "text": "TALLER nº1\nRealizar un programa en el cual se calcule si una persona es apta o no\npara que le den un préstamo en el banco, esto se basara en los ingresos\nque tiene al mes.\nIngresos netos de\nMaria:\nEnero:  998.50$\nFeb: 980.10$\nMar: 898.51$\nAbril: 725.50$\nMayo: 650.50$\nJunio: 674.50$\nJulio: 578.50$\nAgosto: 1000.00$\nSep: 651.25$\nOct: 512.50$\nNov: 850.50$\nDic: 545.10$\nSi el valor supera los 9000 $ significa que la\npersona es totalmente confiable para hacer\nun préstamo por lo cual se deberán prender\n3 focos. Si el rango de ingresos anual es de\n8000 a 9000 $, se deberán prender dos\nfocos Si el rango es entre 7000 y 8000, se\ndeberá prender un solo led. Caso contrario,\nsi la suma es menor a 7000 no sé prendera\nningún foco y, por lo tanto, esa persona no\nes apta para un préstamo. \nIngresos netos de\nJuan:\n854.50$\n741.50$\n898.51$\n725.50$\n621.30$\n512.50$\n578.50$\n852.00$\n651.25$\n410$\n825$\n545.1$"
+  },
+  {
+    "page": 20,
+    "text": "Prueba ARMADA\nPROYECTO\nMaqueta \nSimulación\nFuncionamiento\nProyecto\nTransdiciplinaria \nINFORME\nI1\nPARCIAL 4(FINAL)\nI2\nIE\nIR\nPrueba\nPROGRAMACION"
+  },
+  {
+    "page": 21,
+    "text": "ENTRADAS\nDIGITALES\n¿Cómo se conecta un pulsador?"
+  },
+  {
+    "page": 22,
+    "text": "Podemos conectar al igual que las salidas,\nen los puertos digitales del 0-13\nLa placa Arduino dispone de 14 pines de\nentradas o salidas digitales (según lo que\nconvenga) \nTodos estos pines-hembra digitales\nfuncionan a 5V, pueden proveer o recibir un\nmáximo de 40 mA\nPor eso es necesario configurar un pin I/O\ncomo entrada o salida en el código.\nENTRADAS DIGITALES"
+  },
+  {
+    "page": 23,
+    "text": "Un boton(pulsador) puede\nenviar dos niveles de tension  \nLOW y HIGH\nNuestra primera idea para\nleer un pulsador podría ser\nconectar directamente un\nPIN digital de Arduino a un\nvalor de tensión de\nreferencia, ya sea este 0V o\n5V. \n¿Cómo se conecta un\npulsador?"
+  },
+  {
+    "page": 24,
+    "text": "Porque hacer\nesto no es\nbuena idea ?\nWrong ideas\nesto funcionará cuando el\ninterruptor esté cerrado\nPero, ¿qué pasa\ncuando el interruptor está abierto?\nEn este caso estamos dejando el PIN totalmente\ndesconectado de cualquier tensión(se conecta al aire)\nLa entrada está en un estado indeterminado, es decir,\nque puede asumir cualquier valor y el Arduino funcionará\nde forma inesperada,\nPor tanto, es necesario evitar esta\nsituación en nuestros diseños.\nTampoco podemos hacer una doble\nconeccion 5V-GND ,porque ocacionaremos\nun cortocircuito en la placa ."
+  },
+  {
+    "page": 25,
+    "text": "Estamos asegurando, que en todo\nmomento vamos a tener una\nseñal ALTA hasta el momento en\nel que se produzca una pulsación\ndel interruptor\nEn este momento la entrada\ndigital \nquedará \nconectada\ndirectamente a masa, o lo que es\nlo mismo, a un nivel de tensión 0.\nPULL UP-PUSH DOWN"
+  },
+  {
+    "page": 26,
+    "text": "SIN APLASTAR, EL BOTON ESTA EN ESTADO PULL UP( 1 LOGICO)\nPULL-UP\nEL BOTON APLASTADO, ESTA EN ESTADO PUSH DOWN( 0 LOGICO)\nPUSH-DOWN"
+  },
+  {
+    "page": 27,
+    "text": "ENTRADAS DIGITALES\n¿COMO SE LEE UNA ENTRADA DIGITAL?\nvoid setup(){\npinMode(pulsador,INPUT_PULLUP);\n}\nvoid loop(){\nbool estado=digitalRead(pulsador);\n}\nLa  variable pulsador\ndebio haber sido\ndeclarada antes"
+  },
+  {
+    "page": 28,
+    "text": "CIRCUITO DE ENTRADA DIGITAL EJEMPLO \nEl Circuito debe al momento de aplastar o soltar el pulsador guardar su estado y\neste replicar a un foco led digital conectado en cualqueira de las salidas digitales\nque esten libres, por medio del circuito de pull up"
+  },
+  {
+    "page": 29,
+    "text": "operadores de comparación\nx <= y\nCon la sentencia if con Arduino se pueden utilizar 6 operadores de\ncomparación\nx! = y \nx < y \nx > y\nx es menor o igual que y\n(x es igual a y)\n(x es diferente de y)\nx es menor que y\nx es mayor que y\nx == y \nx >= y\nx es mayor o igual que y"
+  },
+  {
+    "page": 30,
+    "text": "ACTIVIDAD 4\nACTIVIDAD 4\nACTIVIDAD 4\nRealizar una simulación la cual cuente con un\npulsador en pull up, y CUATRO leds.\nAl momento que yo aplaste el pulsador se\nprenden 2 leds rojos y se apagan 2 de color verde,\ncaso contrario si suelto el botón que se prenden\nlos leds verdes y se apagan los rojos"
+  },
+  {
+    "page": 31,
+    "text": "SIMULAR Y CONSTRUIR UN\nCIRCUITO CON TRES ENTRADAS\nDIGITALES , \nEL PRIMER BOTON ENCENDERA\n2 LUCES DE COLOR ROJO.\nEL SEGUNDO BOTOPN\nENCENDERA 2 LUCES DE COLOR\nVERDE\nEL TERCER BOTON\nSIMPLEMENTE APGARA TODO EL\nSISTEMA.\nEJERCICIO OPCIOANAL"
+  },
+  {
+    "page": 32,
+    "text": "ACTIVIDAD 5\nACTIVIDAD 5\nACTIVIDAD 5\nRealizar una simulación la cual cuente con un 2\npulsadorES en pull up, y 5 leds.\nAl momento que yo aplaste el pulsador(+) se SE\nPRENDEN DE UNO EN UNO los focos por cada vez\nque yo aplaste dicho boton , caso contrario si\naplasto el boton(-) se apagan los focos de uno en\nuno en orden descendente."
+  },
+  {
+    "page": 33,
+    "text": "EJEMPLO DE SIMULACIÒN\nEJEMPLO DE SIMULACIÒN\nEJEMPLO DE SIMULACIÒN"
+  },
+  {
+    "page": 35,
+    "text": "Manejando\nManejando\npotencia con\npotencia con\nArduino\nArduino\nManejando\npotencia con\nArduino"
+  },
+  {
+    "page": 36,
+    "text": "OBJETIVO\nComprender el funcionamiento\ndel transistor BJT como interfaz\nde potencia entre señales\nlógicas de control (arduino) y\nactuadores (motores DC)"
+  },
+  {
+    "page": 37,
+    "text": "La mayoría de dispositivos eléctricos y\nelectrónicos requieren tensiones y corrientes\nque destruirán los circuitos digitales, por tanto,\nen términos generales, debemos dejar esta\nlabor a los llamados circuitos controladores o\ndriver con transistores."
+  },
+  {
+    "page": 38,
+    "text": "Para realizar las acciones de potencia, los\nprocesadores delegan a los controladores\n(drivers) para que actúen como\nadaptadores entre el nivel de potencia y el\nnivel de control."
+  },
+  {
+    "page": 39,
+    "text": "El transistor TBJ\nEl transistor TBJ\nEl transistor TBJ\nSu trabajo es decidir cuánta\ncorriente puede pasar por una\npuerta, pero lo interesante es que\nobedece a una señal muy pequeña."
+  },
+  {
+    "page": 40,
+    "text": "Como funciona\nComo funciona\nComo funciona\nUn transistor BJT (Transistor de Unión Bipolar) tiene tres \"patitas\" o\nterminales:\n1. Colector (C): Imagina que es la entrada principal, donde hay una\ngran fila de electrones (mucha corriente) esperando para pasar.\n2. Emisor (E): Es la salida por donde fluyen los electrones una vez\nque se les permite pasar.\n3. Base (B): ¡Esta es la patita mágica! Es la puerta de control. Una\ncorriente muy pequeña que entra por la Base le da la orden al\n\"portero\" para que abra la puerta principal y deje pasar la gran\ncorriente del Colector al Emisor."
+  },
+  {
+    "page": 41,
+    "text": "La Analogía del Grifo\nLa Analogía del Grifo\nde Agua \nde Agua 💧\nLa Analogía del Grifo\nde Agua 💧\nEl Colector____________________\nEl Emisor______________________\nLa Base _______________________"
+  },
+  {
+    "page": 42,
+    "text": "El circuito propuesto consta de un Arduino, que controla el encendido\nde un motor DC (con la ayuda de un transistor) conectado en el pin 3,\npara ello usaremos:\nCircuito Propuesto\nCircuito Propuesto\nCircuito Propuesto\n1 Arduino uno\n 1 Resistencia 1KΩ\n 1 Protoboard\npulsador\n 1 Motor DC\n1 Transistor NPN\nBJT"
+  },
+  {
+    "page": 43,
+    "text": "PRÁCTICA 1\nPRÁCTICA 1\nLa cinta transportadora"
+  },
+  {
+    "page": 44,
+    "text": "Conexión del\nConexión del\nArduino con un\nArduino con un\nordenador\nordenador\nConexión del\nConexión del\nArduino con un\nArduino con un\nordenador\nordenador"
+  },
+  {
+    "page": 45,
+    "text": "Para \nrealizar \nla \nconexión\nmediante \npuerto \nserie\núnicamente \nes \nnecesario\nconectar nuestra placa Arduino\nempleando el mismo puerto que\nempleamos para programarlo.\nComunicaciòn serial"
+  },
+  {
+    "page": 46,
+    "text": "abrimos el IDE Standard de\nArduino y hacemos click en el\n“Monitor Serial” como se indica en\nla imagen.\nEl monitor de puerto serie es una\npequeña utilidad integrada\ndentro de IDE Standard que nos\npermite enviar y recibir fácilmente\ninformación a través del puerto\nserie."
+  },
+  {
+    "page": 47,
+    "text": "en el void set up\nLinEas de codigo a utilizar\nSerial.begin(9600);\ninicializamos la\ncomunicaciòn serial a\nuna velocidad de 9600\nbaudios\nen el void set up\no loop\nSerial.print(\"HOLA \");\nPodemos escribir texto\npara que aparesca en\nnuestra pantalla\npircipal o cuando el\nprogrma le indique \nSerial.println(\"como\nestas \");\nen el void loop\nSerial.available()>0\nEsta linea sirve para\nverificar si hay algun\ndato esperando a ser\nleido desde el puerto\nserial\nen el void loop\nchar\nletra=Serial.read();\nSirve para leer un dato  \ny guardar la\ninfromacion recivida\ndesde el serial print en\nuna variable tipo char"
+  },
+  {
+    "page": 48,
+    "text": "HAGAMOS GIRAR UN\nMOTOR CON TRANSISTOR\nMOTORES DC"
+  },
+  {
+    "page": 49,
+    "text": "INTRODUCCIÓN\nMANEJANDO\nPOTENCIA CON\nARDUINO\nLa mayoría de dispositivos eléctricos y\nelectrónicos requieren tensiones y\ncorrientes que destruirán los circuitos\ndigitales, por tanto, en términos\ngenerales,\ndebemos confiar dicha labor a los\nllamados circuitos controladores o driver\ncon\ntransistores."
+  },
+  {
+    "page": 50,
+    "text": "ANTECEDENTES\nANTECEDENTE 01\nANTECEDENTE 02\nPara realizar las acciones de potencia\nlos procesadores delegan en etapas\nde amplificación o controladores\n(drivers), que actúan como\nadaptadores entre\nel nivel de potencia empleado en el\ncontrolador y el requerido por el\nactuador.\nUna de las formas más simples y\nhabituales de realizar esta\nadaptación es\nel empleo de transistores."
+  },
+  {
+    "page": 51,
+    "text": "ES UN DISPOSITIVO ELECTRÓNICO\nQUE \nRESTRINGE \nO \nPERMITE \nEL\nFLUJO DE CORRIENTE ELÉCTRICA\nENTRE DOS CONTACTOS SEGÚN LA\nPRESENCIA \nO \nAUSENCIA\nDECORRIENTE EN UN TERCERO.\nEL TRANSISTOR\nBJT"
+  },
+  {
+    "page": 52,
+    "text": "TBJ NPN COMO\nINTERRUPTOR \n● 1 Arduino uno\n● 1 Resistencia 1KΩ\n● 1 Protoboard\n● 1 Motor DC\n● 1 Transistor NPN BJT\nMATERIALES"
+  },
+  {
+    "page": 53,
+    "text": "El circuito propuesto consta de un Arduino, que controla el encendido de un\nmotor DC (con la ayuda de un transistor) conectado en el pin 3, para ello\nusaremos:\nCIRCUITO CON ARDUINO"
+  },
+  {
+    "page": 54,
+    "text": "variador de\nvelocidad\nuso de salidas analogicas"
+  },
+  {
+    "page": 55,
+    "text": "SALIDA ANALOGICA(PWM)\nmodulación\npor ancho de\npulso"
+  },
+  {
+    "page": 56,
+    "text": "analogWrite(motor, pwm);"
+  },
+  {
+    "page": 57,
+    "text": "AVANMCE DEL PROYECTO\nBIENVENIDA Y CONTEXTO\nRECORDATORIO DEL OBJETIVO\nTRABAJO INDIVIDUAL/POR EQUIPOS EN\nEL PROYECTO\nRONDA DE CONSULTAS Y SOLUCIÓN DE\nPROBLEMAS\nPLENARIO DE AVANCES Y PRÓXIMOS\nPASOS"
+  }
+]

@@ -1,0 +1,346 @@
+[
+  {
+    "page": 1,
+    "text": "CUADERNO DE APRENDIZAJE \nROBÓTICA octavo egb \nProfe : David Rógel"
+  },
+  {
+    "page": 2,
+    "text": "RUTA DE APRENDIZAJE\nUNIDAD 1: Introducción a la\nEnergía y Transformación\nMAPA DE CONTENIDOS Q1"
+  },
+  {
+    "page": 3,
+    "text": "QUIMESTRE 1\nTema 1: ¿Qué es la Energía?\nTema 2: Formas y Fuentes de Generación de Energía\nSubtema 2.1: Generación Mecánica (Dinamos, turbinas y\nmovimiento).\nSubtema 2.2: Termoelectricidad (Calor transformado en electricidad).\nSubtema 2.3: Generación por Radiación (Energía solar y fotovoltaica).\nSubtema 2.4: Energía Nuclear (Conceptos básicos de fisión y\nseguridad).\nSubtema 2.5: Energía Química (Reacciones que producen\nelectrones).\nTema 3: Fundamentos de la Electricidad\nSubtema 5.1: Corriente Alterna (AC) vs. Corriente Continua (DC):\nDiferencias y aplicaciones."
+  },
+  {
+    "page": 4,
+    "text": "RUTA DE APRENDIZAJE\nUNIDAD 2: Electromagnetismo,\nCircuitos y Robótica Práctica\nMAPA DE CONTENIDOS Q2"
+  },
+  {
+    "page": 5,
+    "text": "QUIMESTRE 2 \nTema 4: Magnitudes Eléctricas Fundamentales\nSubtema 6.1: Voltaje , Corriente ,Resistencia \nSubtema 6.2: Introducción a la Ley de Ohm (Relación V = I × R).\nTema 5: Electromagnetismo\nSubtema 7.1: ¿Qué es el magnetismo y los campos magnéticos?\nSubtema 7.2: La relación entre electricidad y magnetismo.\nSubtema 7.3: Construcción de un electroimán casero.\nTema 8: Introducción al Kit Lego WeDo y Mecánica\nProgramación Bloque a Bloque\nReconocimiento de piezas (Vigas, ejes, engranajes y poleas)\nVentilador/Satélite/Espía/Milo A-B/"
+  },
+  {
+    "page": 6,
+    "text": "Diferenciar entre fuentes renovables (solar ☀️, eólica\n💨, hidráulica 💧, geotérmica) y no renovables\n(combustibles fósiles como carbón y petróleo 🏭,\nnuclear ⚛️) para tomar buenas decisiones de\nconsumo eléctrico.\nPropòsito"
+  },
+  {
+    "page": 7,
+    "text": "Resultados de Aprehendizaje"
+  },
+  {
+    "page": 8,
+    "text": "DESARROLLO DEL PENSAMIENTO\nENSEÑANZAS"
+  },
+  {
+    "page": 9,
+    "text": "OBJETIVO 1\nCOMPREENDER qué es la energía eléctrica y sus usos\ncotidianos, reflexionando sobre su importancia en la vida\ndiaria a través del análisis de las consecuencias de su ausencia."
+  },
+  {
+    "page": 10,
+    "text": "ENERGÍA ELÉCTRICA\nING David Rògel\n¿Alguna vez has imaginado cómo sería tu vida sin\nenergía eléctrica?… Pues ésta es una realidad que\naún miles de hogares viven en nuestro país, para\nlos habitantes de las grandes ciudades y las\nzonas urbanas, pareciera impensable."
+  },
+  {
+    "page": 11,
+    "text": "Es imposible para nuestra forma de\nvida actual sobrevivir sin electricidad;\npues, por obvio que resulte, la energía\neléctrica está presente casi en todo,\nfábricas, oficinas, seguridad,\nentretenimiento, iluminación, etc., nos\ndamos cuenta de ello sólo cuando\ncarecemos del servicio, no\nreflexionamos sobre su importancia."
+  },
+  {
+    "page": 12,
+    "text": "ACTIVIDAD 1\n2 ejemplos de qué no se podría hacer sin energía eléctrica en : \nfábricas\n oficinas\n \nseguridad\n \nentretenimiento\nEducación\n01"
+  },
+  {
+    "page": 13,
+    "text": "OBJETIVO 2 \nComprender e identificar  las fuentes y el proceso de\ntransformación que permiten generar energía eléctrica,\nvalorando el impacto ambiental y económico de su producción\npara promover hábitos de consumo responsable."
+  },
+  {
+    "page": 14,
+    "text": "De donde se obtiene la\nEnergía Eléctrica"
+  },
+  {
+    "page": 15,
+    "text": "Energía\nMECÁNICA"
+  },
+  {
+    "page": 16,
+    "text": "OBJETIVO 3\nRepresentar cómo la energía cinética y el movimiento (hídrico,\neólico o manual) se transforman en energía eléctrica mediante\nun generador, relacionando este proceso con sus aplicaciones en\nla tecnología cotidiana."
+  },
+  {
+    "page": 17,
+    "text": "ENERGÍA MECÁNICA\nLa energía mecánica es un concepto\nfundamental en física que nos ayuda a\nentender el movimiento y las interacciones\nde los objetos. Al comprender la energía\nmecánica, podemos analizar y explicar una\namplia variedad de fenómenos naturales y\ntecnológicos.\nEn resumen, la energía mecánica es la\ncapacidad de un objeto para realizar un\ntrabajo debido a su movimiento o\nposición."
+  },
+  {
+    "page": 18,
+    "text": "ENERGÍA MECÁNICA-ELÉCTRICA"
+  },
+  {
+    "page": 19,
+    "text": "Convertir energía mecánica en\nenergía eléctrica\nEn esencia, cuando un conductor eléctrico (como\nun cable de cobre) se mueve dentro de un campo\nmagnético, o viceversa, se induce una corriente\neléctrica en ese conductor. Este principio es la\nbase de los generadores eléctricos."
+  },
+  {
+    "page": 20,
+    "text": "CENTRALES\nEÓLICAS \nGENERADORES \nDE\nMAREOMOTRIZ\nCENTRALES\nNUCLEAR\nejemplos\nE. MECÁNICA\nCENTRAL \nHIDROELECTRCIA \nDINAMOS\nCENTRALES\nTERMOELECTRICAS\nMOTORES DE\nAUTOMÓVILES"
+  },
+  {
+    "page": 21,
+    "text": "actividad 1\nRealizar una maqueta del\nprincipio de generación de\nenergía electrica a partir\nde la Energía Mecánca"
+  },
+  {
+    "page": 23,
+    "text": "OBJETIVO 4\nDescribir el funcionamiento de una planta termoeléctrica y el\nproceso de transformación del calor en electricidad, evaluando\nsu impacto ambiental a través de la emisión de gases de efecto\ninvernadero."
+  },
+  {
+    "page": 24,
+    "text": "Energía Tèrmica\nEs la energía interna de un sistema que está\nrelacionada con su temperatura. Imagina un objeto\nmuy  caliente: sus partículas se mueven\nrápidamente, lo que genera esa sensación de calor.\nEsa energía de movimiento es la energía térmica.\n¿Qué es la energía térmica?\n¿Qué es la energía térmica?"
+  },
+  {
+    "page": 25,
+    "text": "GEOTERMICA\nEs la energía que se obtiene del\ncalor interno de la Tierra. \nEste calor se genera por la\ndesintegración radiactiva de\nelementos en el núcleo terrestre y\nse manifiesta en forma de agua\ncaliente, vapor o rocas calientes\nen el subsuelo."
+  },
+  {
+    "page": 26,
+    "text": "ACTIVIDAD 2\nACTIVIDAD 2\nACTIVIDAD 2\nREALIZAR UNA ILUSTRACIÓN\nREALIZAR UNA ILUSTRACIÓN\nREALIZAR UNA ILUSTRACIÓN      EN\nEN\nEN\nSU CUADERNO DIGITAL QUE\nSU CUADERNO DIGITAL QUE\nSU CUADERNO DIGITAL QUE\nDESCRIBA EL PROCESO DE\nDESCRIBA EL PROCESO DE\nDESCRIBA EL PROCESO DE\nOBTENER ENERGÍA ELÉCTRICA A\nOBTENER ENERGÍA ELÉCTRICA A\nOBTENER ENERGÍA ELÉCTRICA A\nPARTIR DE ENERGÍA TÉRMICA(NO\nPARTIR DE ENERGÍA TÉRMICA(NO\nPARTIR DE ENERGÍA TÉRMICA(NO\nUSE PALABRAS)\nUSE PALABRAS)\nUSE PALABRAS) \nREALIZAR UNA ILUSTRACIÓN  EN\nSU CUADERNO DIGITAL QUE\nDESCRIBA EL PROCESO DE\nOBTENER ENERGÍA ELÉCTRICA A\nPARTIR DE ENERGÍA TÉRMICA(NO\nUSE PALABRAS)"
+  },
+  {
+    "page": 28,
+    "text": "RADIACIÓN SOLAR"
+  },
+  {
+    "page": 29,
+    "text": "OBJETIVO 5\nDiferenciar los mecanismos de captación de la radiación solar\npara la producción de electricidad, argumentando el rol de las\nenergías renovables en la transición hacia un consumo\nsostenible."
+  },
+  {
+    "page": 30,
+    "text": "A5: Longitudes de Onda"
+  },
+  {
+    "page": 31,
+    "text": "Espectro de luz"
+  },
+  {
+    "page": 32,
+    "text": "espectro invisible"
+  },
+  {
+    "page": 33,
+    "text": "Espectro de luz no visible"
+  },
+  {
+    "page": 34,
+    "text": "La radiación ultravioleta (UV) es un tipo de radiación\nelectromagnética emitida por el Sol\nTiene una longitud de onda más corta que la luz\nvisible pero más larga que los rayos X\nla radiación UV juega un papel crucial en muchos\nprocesos naturales, como la fotosíntesis y la\nproducción de vitamina D en nuestra piel..\n¿Qué es la radiación UV?"
+  },
+  {
+    "page": 35,
+    "text": "¿Cómo se utiliza la radiación\nUV para generar electricidad?\nLa principal tecnología que aprovecha la radiación\nUV para generar electricidad son las celdas\nfotovoltaicas.\nEstas celdas, cuando son expuestas a la luz,\nincluyendo la radiación UV, producen una corriente\neléctrica a través de un efecto conocido como\nefecto fotoeléctrico."
+  },
+  {
+    "page": 36,
+    "text": "Funcionamiento básico\nLos fotones (partículas\nde luz)  inciden sobre\nuna celda fotovoltaica\ncompuesta de silicio.\n1) Absorción de\nfotones\nLa energía de los fotones\nmueve a los electrones\nen el material\nsemiconductor.\n2) Movimiento de\nelectrones\nLos electrones liberados\nse mueven a través de un\ncircuito externo, creando\nuna corriente eléctrica.\n3) Generación de\ncorriente"
+  },
+  {
+    "page": 37,
+    "text": "ACTIVIDAD 3\nACTIVIDAD 3\nACTIVIDAD 3\nCONSULTAR\nCONSULTAR\nCONSULTAR:\n¿QUÉ ES EL EFECTO FOTOELÉCTRICO?\n¿QUÉ ES EL EFECTO FOTOELÉCTRICO?\n¿QUÉ ES EL EFECTO FOTOELÉCTRICO?\n¿QUIÉNES DESCUBRIERON Y EXPLICARON EL EFECTO\n¿QUIÉNES DESCUBRIERON Y EXPLICARON EL EFECTO\n¿QUIÉNES DESCUBRIERON Y EXPLICARON EL EFECTO\nFOTOELÉCTRICO?\nFOTOELÉCTRICO?\nFOTOELÉCTRICO?\nCUÁL ES SU UTILIDAD EN EL MUNDO ACTUAL\nCUÁL ES SU UTILIDAD EN EL MUNDO ACTUAL\nCUÁL ES SU UTILIDAD EN EL MUNDO ACTUAL \nAGREGA UNA IMAGEN QUE ILUSTRE ESTE FENÓMENO\nAGREGA UNA IMAGEN QUE ILUSTRE ESTE FENÓMENO\nAGREGA UNA IMAGEN QUE ILUSTRE ESTE FENÓMENO \nCONSULTAR:\n¿QUÉ ES EL EFECTO FOTOELÉCTRICO?\n¿QUIÉNES DESCUBRIERON Y EXPLICARON EL EFECTO\nFOTOELÉCTRICO?\nCUÁL ES SU UTILIDAD EN EL MUNDO ACTUAL \nAGREGA UNA IMAGEN QUE ILUSTRE ESTE FENÓMENO"
+  },
+  {
+    "page": 39,
+    "text": "OBJETIVO 6\nExplicar el proceso de fision nuclear como fuente de generación\nde energía eléctrica, analizando sus ventajas en la reducción de\ngases contaminantes y sus desafíos en la gestión de residuos."
+  },
+  {
+    "page": 40,
+    "text": "ENERGÌA NUCLEAR"
+  },
+  {
+    "page": 41,
+    "text": "ACTIVIDAD 2\nInfiera  4 características de la Energía nuclear, que entendió del video\nanterior"
+  },
+  {
+    "page": 42,
+    "text": "átomo\nFisión Y fusión \nes la unidad más pequeña de un\nelemento que conserva sus\npropiedades. Imagina que es\ncomo un pequeño bloque que\nconstruye todo lo que nos rodea,\ndesde una hoja de papel hasta\nuna estrella.\n es una reacción en la que el\nnúcleo de un átomo pesado se\ndivide en dos núcleos más ligeros,\nliberando una gran cantidad de\nenergía en el proceso.\nTérminos\nImportantes\nUranio\nEs un metal pesado, radioactivo,\nde color gris plateado y pertenece\na la serie de los actínidos."
+  },
+  {
+    "page": 43,
+    "text": "Fisión nuclear\nEl uranio-235 es el isótopo de mayor\ninterés para la fisión nuclear. Cuando\nun núcleo de uranio-235 absorbe un\nneutrón, se divide en dos núcleos más\npequeños, liberando una gran cantidad\nde energía y neutrones adicionales.\nEste proceso en cadena es la base de\nlas reacciones nucleares en las\ncentrales nucleares y las armas\natómicas."
+  },
+  {
+    "page": 44,
+    "text": "4)Vapor mueve turbinas(E.\nMecánica )\n3)Ingresa el agua a las barras de\nU-235,generando vapor\n2)Fisión nuclear en las barras de\nU-235 \n1) Llenar de agua la torre de\ncontención\n5) E. Mecánica se convierte en E .\nEléctrica \n05\n02\n01\n03\n04\nENERGIA NUCLEAR A\nENERGIA ELECTRICA"
+  },
+  {
+    "page": 45,
+    "text": "¿Qué fue lo\nque paso en\nCHERNOBYL?"
+  },
+  {
+    "page": 46,
+    "text": "ACTIVIDAD 3\nACTIVIDAD 3\nACTIVIDAD 3"
+  },
+  {
+    "page": 47,
+    "text": "Vamos a obtener los 5 datos más relevantes del video  que llamaron tu\natención\nACTIVIDAD 3\nACTIVIDAD 3\nACTIVIDAD 3"
+  },
+  {
+    "page": 48,
+    "text": "EL ACCIDENTE DE CHERNOBYL\nEl accidente ocurrió durante\nuna prueba de seguridad\nplanificada para simular una\nfalla en el suministro eléctrico.(\nExplosión del Reactor 4)\nApuntes 1\nLos operadores violaron múltiples\nprotocolos de seguridad al\nintentar realizar la prueba,\ndesactivando sistemas de\nseguridad críticos y operando el\nreactor a un nivel de potencia\nextremadamente bajo e inestable.\nApuntes 2\nEl pico de potencia repentino y\nmasivo causó un calentamiento\nextremadamente rápido del\nagua de refrigeración,\nconvirtiéndola\ninstantáneamente en vapor.\n(Explosión de vapor)\nApuntes 3\nLa explosión masiva reventó las\ntuberías de presión del reactor\ny el enorme techo de hormigón\ny acero de 2.000 toneladas que\ncubría el núcleo, liberando\ngrandes cantidades de material\nradiactivo a la atmósfera. \nApuntes 4\nHubo una demora crítica en la\nnotificación del accidente y en\nla implementación de medidas\nde evacuación\nApuntes 6\nUna segunda explosión, agravó\nmás las cosas porque libero\ntoda la radiación , causada por\nla reacción química entre el\nvapor y el grafito caliente, que\ngeneró hidrógeno y monóxido\nde carbono\nApuntes 5"
+  },
+  {
+    "page": 50,
+    "text": "OBJETIVO 7\nRepresentar el proceso de transformación de\nenergía química en eléctrica mediante el montaje\nde una pila de limones, relacionando este\nfenómeno con el encendido de un LED."
+  },
+  {
+    "page": 51,
+    "text": "Energía Química\nLa energía química es la energía potencial que se encuentra\nalmacenada en los enlaces que unen a los átomos y las moléculas. 🧪\nEsta energía se libera durante una reacción química, cuando dichos\nenlaces se rompen y se reorganizan para formar nuevas sustancias\nmás estables. Esta liberación se manifiesta comúnmente en forma de\ncalor, luz o electricidad.\n¿Qué es la energía\nquímica?"
+  },
+  {
+    "page": 52,
+    "text": "Ejemplos cotidianos de energía química\nLa gasolina, el gas natural y la\nmadera contienen energía química\nalmacenada en sus moléculas. Al\nquemarlos, esta energía se libera en\nforma de calor y luz.\nLas plantas utilizan la energía\nde la luz solar para convertir el\ndióxido de carbono y el agua\nen glucosa, un tipo de azúcar\nque almacena energía química.\nDurante la digestión, los nutrientes se\ndescomponen en moléculas más\npequeñas y liberan la energía necesaria\npara nuestro cuerpo.\nLas baterías almacenan energía\nquímica que se convierte en\nenergía eléctrica cuando se\nconectan a un circuito.\nCombustibles\nAlimentos\nFotosíntesis\nBaterías"
+  },
+  {
+    "page": 53,
+    "text": "QUÍMICA a ELÉCTRICA\n QUÍMICA a ELÉCTRICA\nLa transformación de la energía química\nen eléctrica es un proceso clave en\nnuestra sociedad moderna. Gracias a esta\nconversión, podemos aprovechar la\nenergía almacenada en diversos\nmateriales para alimentar nuestros\ndispositivos y vehículos, y para llevar a\ncabo una amplia gama de procesos\nindustriales."
+  },
+  {
+    "page": 54,
+    "text": "¿Cómo se transforma en eléctrica? \nA través de procesos electroquímicos, donde los\nelectrones fluyen de una sustancia a otra\ngenerando una corriente eléctrica.\nEstas reacciones quimicasimplican la transferencia\nde electrones entre átomos o moléculas."
+  },
+  {
+    "page": 55,
+    "text": "EXPERIMENTO N°1\nEXPERIMENTO N°1\nPARTE 1\nPARTE 1\n EXPERIMENTO N°1\nPARTE 1"
+  },
+  {
+    "page": 56,
+    "text": "TRAER UNA PAPA Y UN LIMÓN\nTRAER UNA PAPA Y UN LIMÓN\nTRAER UNA PAPA Y UN LIMÓN \nTENER DOS METALES ZINC Y COBRE\nTENER DOS METALES ZINC Y COBRE\nTENER DOS METALES ZINC Y COBRE\nCONECTAR LOS METALES AL LIMÓN/PAPA\nCONECTAR LOS METALES AL LIMÓN/PAPA\nCONECTAR LOS METALES AL LIMÓN/PAPA\nCONVERTIR LA ENERGIA QUIMICA EN\nCONVERTIR LA ENERGIA QUIMICA EN\nCONVERTIR LA ENERGIA QUIMICA EN\nELECTRICIDAD\nELECTRICIDAD\nELECTRICIDAD \nTRAER UNA PAPA Y UN LIMÓN \nTENER DOS METALES ZINC Y COBRE\nCONECTAR LOS METALES AL LIMÓN/PAPA\nCONVERTIR LA ENERGIA QUIMICA EN\nELECTRICIDAD \nEXPERIMENTO N°1\nEXPERIMENTO N°1\nEXPERIMENTO N°1"
+  },
+  {
+    "page": 57,
+    "text": "Actividad 5\nActividad 5\n Actividad 5"
+  },
+  {
+    "page": 58,
+    "text": "ELÉCTRICIDAD\nROBÓTICA (PARCIAL 3-4)\nProfe : David Rógel"
+  },
+  {
+    "page": 59,
+    "text": "INTRODUCCIÓN A LA\nROBÓTICA"
+  },
+  {
+    "page": 60,
+    "text": "Comprender los conceptos básicos de la\nelectricidad, incluyendo la carga eléctrica, la\ncorriente eléctrica y el voltaje, y cómo se\nrelacionan entre sí.\nobjetivo"
+  },
+  {
+    "page": 63,
+    "text": "ELECTRICIDAD\nes una forma de energía que se produce por el\nmovimiento de  los electrones, a través de un\nconductor.\nEsta energía es muy versátil y puede transformarse en\notras formas de energía, como la luz, el calor, sonido o\nel movimiento."
+  },
+  {
+    "page": 64,
+    "text": "actividad 1\nIDENTIFICAR 10 ejemplos de\nelectricidad que use de\nmanera cotidiana en su casa."
+  },
+  {
+    "page": 65,
+    "text": "💡 Principios Eléctricos\n1. Ley de Ampère (Electromagnetismo)\n2. Fuerza de Lorentz\n3. Interacción de Polos Magnéticos"
+  },
+  {
+    "page": 66,
+    "text": "ENERGÍA continua y ENERGÍA\nalterna\nIng. David Rógel N."
+  },
+  {
+    "page": 67,
+    "text": "Corriente continua DC\nIng. David Rógel N.\nflujo constante de electrones que\nno varía en el tiempo \ntiene polaridad (positivo y\nnegativo)\nalimentar la mayoría de los\naparatos eléctricos"
+  },
+  {
+    "page": 68,
+    "text": "PILAS Y BATERÍAS"
+  },
+  {
+    "page": 69,
+    "text": "Pila AA o AAA\n1.5 V\nBatería\n9 V\nBatería\n12 V\nPila Moneda\n3 V\nPILAS Y BATERÍAS"
+  },
+  {
+    "page": 70,
+    "text": "Ing. David Rógel N.\nflujo  de electrones cambia\nperiódicamente,\nEs decir que  varía en el tiempo \nNO tiene polaridad \nFrecuencia de movimiento es 60 Hz\nVoltaje de los tomacorrientes es\nde  120 V\nCorriente Alterna AC"
+  },
+  {
+    "page": 71,
+    "text": "actividad 2\nIDENTIFICAR 7 ejemplos de dispositivos\nque utilicen energía Continua y 7 con\nenergía alterna ."
+  },
+  {
+    "page": 72,
+    "text": "Comprender la relación entre voltaje,\ncorriente y resistencia, a través de la Ley\nde Ohm.\nobjetivo"
+  },
+  {
+    "page": 73,
+    "text": "VOLTAJE CORRIENTE Y\nRESISTENCIA\nIng. David Rógel N."
+  },
+  {
+    "page": 74,
+    "text": "El Voltaje se representa con la\nletra V\nUnidad de medida VOLT[V]\nA estos voltajes se los llama\ndiferencia de potencial.\no Tensión eléctrica \nIng. David Rógel N.\nVoltaje\nLa fuerza que empuja la corriente , a través de un material\nconductor."
+  },
+  {
+    "page": 75,
+    "text": "CORRIENTE\nLa corriente eléctrica se mide en amperios\n(A).\ncuanto mayor voltaje exista , más corriente\ncirculará.\nA mayor resistencia, menor flujo de corriente\n(según la ley de Ohm).\nIng. David Rógel N.\nel flujo de carga eléctrica a través\nde un material conductor."
+  },
+  {
+    "page": 76,
+    "text": "RESISTENCIA ELÉCTRICA \nLa unidad de medida de la resistencia\nes el ohmio (Ω)\nEs la oposición que presenta un\nmaterial al flujo de corriente eléctrica.\nCuanto mayor sea la resistencia, menor\nserá la corriente que pueda circular\npara un voltaje dado."
+  },
+  {
+    "page": 77,
+    "text": "Circuito Eléctrico\nIng. David Rógel N."
+  },
+  {
+    "page": 78,
+    "text": "PRINCIPIOS DE\nELECTRICIDAD \nLey de Ampère (Electromagnetismo)\nfuerza de Lorentz,\ncampo magnético"
+  },
+  {
+    "page": 79,
+    "text": "campo\nmagnético\nREALIDAD VIRTUAL\nLas líneas siempre salen del Polo Norte y entran\npor el Polo Sur.\nDonde las líneas están más juntas, el campo es\nmás fuerte (generalmente en los polos).\n3. MAGNITUDES Y UNIDADES\nEn física y electrónica, el campo magnético se\nrepresenta con la letra B\nROBÓTICA \nConvierten energía eléctrica en movimiento\nmediante la interacción de campos magnéticos.\n1. ¿CÓMO SE ORIGINA?\nCargas en movimiento: Cuando los electrones\nfluyen a través de un cable (corriente eléctrica),\ngeneran un campo magnético a su alrededor. Este\nes el principio de los electroimanes que usas en\nrobótica.\nPROPIEDAD INTRÍNSECA\nEn los imanes permanentes, el campo proviene del\nmovimiento de los electrones dentro de los átomos\ndel material\nCÓMO SE VISUALIZA?\nAunque no podemos verlo a simple vista, usamos\nlíneas de fuerza para representarlo:"
+  },
+  {
+    "page": 80,
+    "text": "Ley de Ampère\nes uno de los pilares fundamentales del\nelectromagnetismo\ndescribe cómo una corriente eléctrica\ngenera un campo magnético a su\nalrededor. \nImagina un cable por el que fluye\ncorriente: la Ley de Ampère nos dice que\nese flujo \"empuja\" un campo magnético\nque se organiza en círculos concéntricos\nalrededor del cable."
+  },
+  {
+    "page": 81,
+    "text": "LA REGLA DE LA MANO\nDERECHA\nPara entender la dirección del campo\nmagnético generado por la corriente,\nusamos esta regla práctica:Apunta con\nel pulgar de tu mano derecha en la\ndirección de la corriente .Tus otros\ndedos al cerrarse indicarán la dirección\nde las líneas del campo magnético \nB: CAMPO MAGNÉTICO (TESLAS)."
+  },
+  {
+    "page": 83,
+    "text": "actividad\nQUE ES UNA AURORA\nVORIAL \nQUE TIENE QUE VER LA\nLUNA CON LA MAREA DE\nLOS OCEANOS \n¿DE QUÉ MANERA EL\nCAMPO MAGNÉTICO\nTERRESTRE PERMITE\nLA VIDA TECNOLÓGICA\nMODERNA\nPORQUE LOS PALENTAS\nGIRAN AL REDEDOR\nDEL SOL"
+  },
+  {
+    "page": 85,
+    "text": "circuitos"
+  },
+  {
+    "page": 86,
+    "text": "¿Qué es un\ncircuito?\nUn circuito es un camino cerrado a\ntravés del cual fluye la corriente\neléctrica\nEstá formado por componentes\nelectrónicos conectados entre sí,\ncomo baterías, bombillas,\nresistencias, transistores, etc."
+  },
+  {
+    "page": 87,
+    "text": "¿Cómo funciona\nun circuito?\nPara que un circuito funcione, necesita una fuente\nde energía (como una batería)\nun conductor (como un cable de cobre)\nuna carga (como una bombilla)"
+  },
+  {
+    "page": 88,
+    "text": "Act 3 Mi primer circuito"
+  },
+  {
+    "page": 89,
+    "text": "EJERCICIO #1"
+  },
+  {
+    "page": 90,
+    "text": "CIRCUITO SERIE\nLa corriente es la misma en todos\nlos componentes.\nEl voltaje se divide entre los\ncomponentes\nLa resistencia total es la suma de\nlas resistencias individuales\nSi un componente falla, todo el\ncircuito se interrumpe"
+  },
+  {
+    "page": 91,
+    "text": "CIRCUITO PARALELO\nEl voltaje es el mismo en todos los\ncomponentes del circuito\nLa corriente total que entra al circuito\nse divide entre los diferentes caminos o\nramas. \nResistencia total disminuye\nSi un componente falla, los demás\ncomponentes continúan funcionando."
+  },
+  {
+    "page": 92,
+    "text": "Act 2 Mi primer circuito"
+  },
+  {
+    "page": 93,
+    "text": "1) cable de parlante, gemelo 2\n2metros\n2)4 focos y 4 boquillas\n3) destornillador \n4) ALICATE \n5) Taipe cinta aislante/ESTILETE"
+  },
+  {
+    "page": 94,
+    "text": "Lamarsh, J. R., & Baratta, A. J. (2001). Introduction to nuclear engineering (3.ª ed.). Prentice\nHall.\nKhan Academy. (s. f.). Circuit analysis: Introduction to electricity. Recuperado el 18 de agosto\nde 2026, de https://www.khanacademy.org/science/electrical-engineering/ee-electrostatics\nInternational Atomic Energy Agency. (1992). The Chernobyl accident: Updating of INSAG-1\n(Safety Series No. 75-INSAG-7). IAEA. https://www me.iaea.org/publications/3829/the-\nchernobyl-accident-updating-of-insag-1\nAshby, D. (2011). Electrical engineering 101: Everything you should have learned in school...\nbut probably didn't (3rd ed.). Newnes.\nSerway, R. A., & Jewett, J. W. (2018). Física para ciencias e ingeniería (Vol. 2, 10.ª ed.).\nCengage Learning.\nBibliografía"
+  }
+]

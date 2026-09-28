@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "3a0a31872b633f17",
+    "type": "split",
+    "children": [
+      {
+        "id": "911e4fd47ae4c034",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0057cb2fa063d63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PLANIFICACION_ANUAL_DOCENTE_COMPLETA_2026_2027.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PLANIFICACION_ANUAL_DOCENTE_COMPLETA_2026_2027"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3287de98179fd968",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a7fd869777a3d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0af9eb2f70e19c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "df3e354a58298aae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eb56305064991e83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6145b3a2c5b1e78",
+    "type": "split",
+    "children": [
+      {
+        "id": "2479bac931880984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea47db50f6df77bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PLANIFICACION_DOCENTE_COMPLETA_2026_2027/2DO_BGU_PLANIFICACION.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9a9d6b150fa2864c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PLANIFICACION_DOCENTE_COMPLETA_2026_2027/2DO_BGU_PLANIFICACION.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5ee29d536cf263bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac763b2ee5118d7d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "032870e88646c26f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PLANIFICACION_DOCENTE_COMPLETA_2026_2027/2DO_BGU_PLANIFICACION.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b0057cb2fa063d63",
+  "lastOpenFiles": [
+    "CONTEXTO_MEMORIA_DOCENTE.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/README_INDICE.md",
+    "PLANIFICACION_ANUAL_DOCENTE_COMPLETA_2026_2027.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/FICHA_9NO_CACERIA_CANVA.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/10MO_EGB_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/9NO_EGB_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/8VO_EGB_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/2DO_BGU_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/1RO_BGU_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_04/2DO_BGU_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/2DO_BGU_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_04",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/3RO_BGU_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02_PLAN_DE_CLASE.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_01/README_INDICE.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_01/9NO_EGB_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_01/8VO_EGB_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_01/3RO_BGU_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_01/2DO_BGU_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_01/1RO_BGU_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_01/10MO_EGB_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02",
+    "03_PLANIFICACION_SEMANAL/SEMANA_01",
+    "PLANIFICACION_DOCENTE_COMPLETA_2026_2027/1RO_BGU_PLANIFICACION.md",
+    "05_DOCUMENTOS_DE_APOYO/PLANIFICACION_ANUAL_ROBOTICA_REESTRUCTURADA.json",
+    "05_DOCUMENTOS_DE_APOYO/PLANIFICACION_ANUAL_ROBOTICA_REESTRUCTURADA.md",
+    "05_DOCUMENTOS_DE_APOYO/MEMORIA_PROYECTO_ROBOTICA.md",
+    "05_DOCUMENTOS_DE_APOYO/ORGANIZACION_DOCENTE_ROBOTICA.md",
+    "05_DOCUMENTOS_DE_APOYO/ESQUEMA_SECUENCIALIDAD_ROBOTICA.pdf",
+    "05_DOCUMENTOS_DE_APOYO/logo.png",
+    "05_DOCUMENTOS_DE_APOYO/index.html",
+    "05_DOCUMENTOS_DE_APOYO/ESQUEMA_SECUENCIALIDAD_ROBOTICA.md",
+    "05_DOCUMENTOS_DE_APOYO",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/planificaciones/2026-2027/1.DPC/BASICA SUPERIOR/PUDs/PUD1.4.R.NV.26-27.docx",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/planificaciones/2026-2027/1.DPC/BASICA SUPERIOR/PUDs/PUD1.4.R.OCT.26-27.docx",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/planificaciones/2024-2025/TUTORÍA/1ro BGU ÍNTEGROS - SALIDA PEDAGÓGICA TELEFÉRICO/TIAGO.jpeg",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/planificaciones/2024-2025/TUTORÍA/1ro BGU ÍNTEGROS - SALIDA PEDAGÓGICA TELEFÉRICO/NAOMI SALOME.jpeg",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/planificaciones/2024-2025/TUTORÍA/1ro BGU ÍNTEGROS - SALIDA PEDAGÓGICA TELEFÉRICO/ALLEM.jpeg",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/planificaciones/2024-2025/TUTORÍA/INTEGROS.png",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/planificaciones/2024-2025/TUTORÍA/DAVID.png",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/ROBÓTICA 3RO BGU EMPÁTICOS (C)/IR1_ DRIVER DE UN MOTOR  DC/IMG-20251031-WA0001.jpg",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/ROBÓTICA 3RO BGU EMPÁTICOS (C)/CODIGO Y SIMULACION FINAL/Screenshot 2026-06-16 9.24.49 PM.png",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/ROBÓTICA 3RO BGU EMPÁTICOS (C)/A9_ SERVOMOTOR PRACTICO(GRUPAL )/A9_ SERVOMOTOR PRACTICO(GRUPAL )  (Jan 16, 2026 at 1_43 PM).jpg",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/ROBÓTICA 3RO BGU EMPÁTICOS (C)/A8_ SERVOMOTORES(SIMULACIÓN)/A8_ SERVOMOTORES(SIMULACIÓN)  (Jan 11, 2026 at 11_33 AM).jpg",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/ROBÓTICA 1RO BGU ÍNTEGROS (C)/LISTA_TEMAS_PARA_PCA_Y_PUD.md"
+  ]
+}

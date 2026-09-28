@@ -1,0 +1,198 @@
+[
+  {
+    "page": 1,
+    "text": "ROBÓTICA\nARDUINO (MÓDULO 3)\nIng. David Rógel N."
+  },
+  {
+    "page": 2,
+    "text": "Salidas digitales LEDs\nSalidas digitales buzzers\nEntradas digitales (if/else)\nMonitor serial\nMotor DC\nEntradas Analogicas\nfotoresistencia\nlm35\nprueba\nÍndice"
+  },
+  {
+    "page": 3,
+    "text": "Recuperar los conocimientos\nadquiridos en programación básica\ncon Arduino Uno, abarcando\ncomandos, estructuras y armado de\ncircuitos, para aplicarlos en la\ncreación de proyectos prácticos que\ndemuestren el dominio de los\nconceptos fundamentales\nobjetivo"
+  },
+  {
+    "page": 4,
+    "text": "ARDUINO UNO\n1\n2\n3\n6\n7\n8\n6 entradas Analog\n6 salidas PWM\n3 tierras GND\nRECORDEMOS\n3 puertos de\nalimentacion\n14 pines digitales\nentrega 5V\n4\n5\n3 puertos de\nalimentacion\nLED pin 13\n9\nReset"
+  },
+  {
+    "page": 5,
+    "text": "tipos de variables\nINT\nUNSIGNED\nINT\nBOOL\nIng. David Rógel N.\nfloat\npuede representar\nnúmeros con 6-7\ndígitos decimales\nde precisión."
+  },
+  {
+    "page": 6,
+    "text": "estructura de cualquier\nprograma\nSETUP  (  ) {                     }\nLOOP  (  ) {                     }\n Se ejecuta una sola vez al inicio del\nprograma, justo después de que se\nenciende la placa Arduino o se\npresiona el botón de reinicio (reset).\n Función es inicializar y configurar los\nelementos(PINES)\nLa función loop() se ejecuta\nrepetidamente, una y otra vez,\ndespués de que se completa la\nfunción setup().\nEste bucle infinito continúa\nejecutándose mientras la placa\nArduino esté encendida."
+  },
+  {
+    "page": 7,
+    "text": "Ing. David Rógel N.\nLíneas de código\nLa función de Arduino pinMode permite configurar a cada pin, de forma\nindividual, como entrada o como salida\nLa función Arduino digitalWrite permite escribir valores lógicos digitales en\nun pin de Salida de una tarjeta Arduino\ndelay: se trabaja el tiempo está en milisegundos, por lo tanto, 2 segundos\nserian 2000"
+  },
+  {
+    "page": 8,
+    "text": "Probemos nuevos\ncomandos\nRecuerden lógica Matemática y apliquen los\nsinónimos de las variables digitales (1 y 0)\nLOW\nHIGH\n0\nfalse\n1\ntrue\nIng. David Rógel N."
+  },
+  {
+    "page": 9,
+    "text": "1. Salidas de Alimentación (Pines de Poder): 5V: \nProporciona exactamente 5 voltios. Es el pin principal para\nalimentar sensores y módulos.\n3.3V: Proporciona 3.3 voltios. Útil para dispositivos más\ndelicados que no soportan los 5V.\n2. Pines Digitales (E/S)\nCuando programas un pin como OUTPUT y lo pones en\nHIGH:\nEn un Arduino Uno/Mega/Nano: Salen 5Voltios.\nCUANTO VOLTAJE SALE DEL\nARDUNIO?"
+  },
+  {
+    "page": 10,
+    "text": "ACT N°1\nprograme y simule en tinkercad  un\ncircuito que se prenda y se apague 8 leds\nde arriba hacia abajo y de abajo hacia\narriba con un tiempo específico,\nutilizando almenos tres entradas\nanalogicas utilizadas como salida digital"
+  },
+  {
+    "page": 11,
+    "text": "objetivo\nDiseñar y construir un circuito de\nluces interactivo que responda a la\npresión de un botón, utilizando\ncondicionales (if/else) y entradas\ndigitales en Arduino."
+  },
+  {
+    "page": 12,
+    "text": "¿por qué obtenemos resultados\ndiferentes?.\n¿CÓMO SE TOMA\nUNA DECISIÓN\nEN ARDUINO?"
+  },
+  {
+    "page": 13,
+    "text": "CONDICIONAL  IF  (SI…)"
+  },
+  {
+    "page": 14,
+    "text": "SINTAXIS DEL\nCONDICIONAL ELSE\nopción 1\nopción 2"
+  },
+  {
+    "page": 15,
+    "text": "operadores de comparación\nx <= y\nCon la sentencia if con Arduino se pueden utilizar 6 operadores de\ncomparación\nx! = y \nx < y \nx > y\nx es menor o igual que y\n(x es igual a y)\n(x es diferente de y)\nx es menor que y\nx es mayor que y\nx == y \nx >= y\nx es mayor o igual que y"
+  },
+  {
+    "page": 16,
+    "text": "ENTRADAS\nDIGITALES\n¿Cómo se conecta un pulsador?"
+  },
+  {
+    "page": 17,
+    "text": "Podemos conectar al igual que las salidas,\nen los puertos digitales del 0-13\nLa placa Arduino dispone de 14 pines de\nentradas o salidas digitales (según lo que\nconvenga) \nTodos estos pines-hembra digitales\nfuncionan a 5V, pueden proveer o recibir un\nmáximo de 40 mA\nPor eso es necesario configurar un pin I/O\ncomo entrada o salida en el código.\nENTRADAS DIGITALES"
+  },
+  {
+    "page": 18,
+    "text": "Un boton(pulsador) puede\nenviar dos niveles de tension  \nLOW y HIGH\nNuestra primera idea para\nleer un pulsador podría ser\nconectar directamente un\nPIN digital de Arduino a un\nvalor de tensión de\nreferencia, ya sea este 0V o\n5V. \n¿Cómo se conecta un\npulsador?"
+  },
+  {
+    "page": 19,
+    "text": "Estamos asegurando, que en todo\nmomento vamos a tener una\nseñal ALTA hasta el momento en\nel que se produzca una pulsación\ndel interruptor\nEn este momento la entrada\ndigital \nquedará \nconectada\ndirectamente a masa, o lo que es\nlo mismo, a un nivel de tensión 0.\nPULL UP-PUSH DOWN"
+  },
+  {
+    "page": 20,
+    "text": "ENTRADAS DIGITALES\n¿COMO SE LEE UNA ENTRADA DIGITAL?\nvoid setup(){\npinMode(pulsador,INPUT);\n}\nvoid loop(){\nestado=digitalRead(pulsador);\n}\nLa  variable pulsador\ndebio haber sido\ndeclarada antes"
+  },
+  {
+    "page": 21,
+    "text": "CIRCUITO DE ENTRADA DIGITAL EJEMPLO \nEl Circuito debe al momento de aplastar o soltar el pulsador guardar su estado y\neste replicar a un foco led digital conectado en cualqueira de las salidas digitales\nque esten libres, por medio del circuito de pull up"
+  },
+  {
+    "page": 22,
+    "text": "ACTIVIDAD 2\nACTIVIDAD 2\nACTIVIDAD 2\nRealizar una simulación la cual cuente con dos\npulsadores en pull up, y un led , en la cual cuando\naplaste un botón se encienda y cuando aplaste el\notro botón se apague."
+  },
+  {
+    "page": 23,
+    "text": "SIMULAR Y CONSTRUIR UN\nCIRCUITO CON TRES ENTRADAS\nDIGITALES , \nEL PRIMER BOTON ENCENDERA\n2 LUCES DE COLOR ROJO.\nEL SEGUNDO BOTOPN\nENCENDERA 2 LUCES DE COLOR\nVERDE\nEL TERCER BOTON\nSIMPLEMENTE APGARA TODO EL\nSISTEMA.\nEJERCICIO OPCIOANAL"
+  },
+  {
+    "page": 24,
+    "text": "ACTIVIDAD 5\nACTIVIDAD 5\nACTIVIDAD 5\nRealizar una simulación la cual cuente con un 2\npulsadorES en pull up, y 5 leds.\nAl momento que yo aplaste el pulsador(+) se SE\nPRENDEN DE UNO EN UNO los focos por cada vez\nque yo aplaste dicho boton , caso contrario si\naplasto el boton(-) se apagan los focos de uno en\nuno en orden descendente."
+  },
+  {
+    "page": 25,
+    "text": "EJEMPLO DE SIMULACIÒN\nEJEMPLO DE SIMULACIÒN\nEJEMPLO DE SIMULACIÒN"
+  },
+  {
+    "page": 26,
+    "text": "Conexión del\nConexión del\nArduino con un\nArduino con un\nordenador\nordenador\nConexión del\nConexión del\nArduino con un\nArduino con un\nordenador\nordenador"
+  },
+  {
+    "page": 27,
+    "text": "Comprender los fundamentos de la comunicación serial y su\nimplementación con Arduino, permitiendo a los estudiantes\ntransmitir y recibir datos entre Arduino y otros dispositivos.\nComunicación serial"
+  },
+  {
+    "page": 28,
+    "text": "Para \nrealizar \nla \nconexión\nmediante \npuerto \nserie\núnicamente \nes \nnecesario\nconectar nuestra placa Arduino\nempleando el mismo puerto que\nempleamos para programarlo.\nComunicaciòn serial"
+  },
+  {
+    "page": 29,
+    "text": "abrimos el IDE Standard de\nArduino y hacemos click en el\n“Monitor Serial” como se indica en\nla imagen.\nEl monitor de puerto serie es una\npequeña utilidad integrada\ndentro de IDE Standard que nos\npermite enviar y recibir fácilmente\ninformación a través del puerto\nserie."
+  },
+  {
+    "page": 30,
+    "text": "en el void set up\nLinEas de codigo a utilizar\nSerial.begin(9600);\ninicializamos la\ncomunicaciòn serial a\nuna velocidad de 9600\nbaudios\nen el void set up\no loop\nSerial.print(\"HOLA \");\nPodemos escribir texto\npara que aparesca en\nnuestra pantalla\npircipal o cuando el\nprogrma le indique \nSerial.println(\"como\nestas \");\nen el void loop\nSerial.available()>0\nEsta linea sirve para\nverificar si hay algun\ndato esperando a ser\nleido desde el puerto\nserial\nen el void loop\nchar\nletra=Serial.read();\nSirve para leer un dato  \ny guardar la\ninfromacion recivida\ndesde el serial print en\nuna variable tipo char"
+  },
+  {
+    "page": 31,
+    "text": "ACTIVIDAD 5A\nACTIVIDAD 5A \nACTIVIDAD 5A \nRealizar un circuito con 2 LEDs (rojo y verde).\nTecla 'r' o 'R': Debe encender el LED Rojo y mostrar\nel mensaje: \"LED Rojo encendido\".\nTecla 'v' o 'V': Debe encender el LED Verde y\nmostrar el mensaje: \"LED Verde encendido\".\nTecla 'a' o 'A': Debe apagar ambos LEDs y mostrar el\nmensaje: \"Ambos LEDs apagados\"."
+  },
+  {
+    "page": 32,
+    "text": "ACTIVIDAD 5B\nACTIVIDAD 5B \nACTIVIDAD 5B \nDiseñar un circuito con cuatro LEDs, ubicados\nindividualmente en diferentes secciones de una\nprotoboard.\n Desarrollar un programa que establezca una\ncomunicación serial para la recepción de datos. \nEl programa deberá interpretar las siguientes entradas:\nLas letras 'a', 'b', 'c' y 'd' encenderán respectivamente cada\nuno de los cuatro LEDs. Las letras 'x', 'y', 'w' y 'z' apagarán\nrespectivamente cada uno de los cuatro LEDs."
+  },
+  {
+    "page": 33,
+    "text": "SEÑAL PWM\nSEÑAL PWM \nSEÑAL PWM"
+  },
+  {
+    "page": 34,
+    "text": "OBJETIVO\nOBJETIVO\nOBJETIVO\n Controlar la velocidad de un motor (DC)\nutilizando una señal de modulación por ancho\nde pulso (PWM), explicando la relación directa\nentre el ciclo de trabajo de la señal y la\nvelocidad del motor."
+  },
+  {
+    "page": 35,
+    "text": "SEÑAL PWM\nSEÑAL PWM\nSEÑAL PWM\nArduino no puede variar la tensión de salida de sus pins,\nsolo puede suministrar 5V. Por lo tanto es\nnecesario usar una técnica llamada Modulación por\nAncho de Pulso o PWM\n●PWM consigue que un pin de salida varíe\nrápidamente su tensión de alto\na bajo (entre 5 y 0V) durante un periodo fijo de\ntiempo."
+  },
+  {
+    "page": 36,
+    "text": "señal PWM\nseñal PWM\nseñal PWM"
+  },
+  {
+    "page": 37,
+    "text": "Duty Cycle\n01\nciclo de trabajo\nEn una señal PWM,\nestamos apagando y\nencendiendo el pin\nCIENTOS de veces por\nsegundo (frecuencia).\n02\nEl Duty Cycle es la\nrelación entre el tiempo\nque la señal está en\nALTO (encendido) frente\nal tiempo total de un\nciclo (encendido +\napagado).\n03\nLa relación con el código\n(analogWrite)\nComo mencionamos en\nlas preguntas anteriores,\nArduino traduce ese\nporcentaje (0% a 100%) a\nun número de 8 bits (0 a\n255)."
+  },
+  {
+    "page": 39,
+    "text": "Pines de saldia pwm\nPines de saldia pwm\nPines de saldia pwm\nLa tarjeta Arduino Uno dispone de seis\npins que se pueden usar con PWM (los\npins\ndigitales 3,5,6,9,10 y 11), los cuales se\npueden identificar por el símbolo ~ que\naparece\njunto a su número sobre la tarjeta."
+  },
+  {
+    "page": 40,
+    "text": "Programación\nProgramación\nProgramación\nanalogWrite(PWM,0-255)"
+  },
+  {
+    "page": 41,
+    "text": "SIMULACION\nSIMULACION\nSIMULACION\nProgramar un LED para que aumente y\ndisminuya su intensidad luminosa de\nforma automática y suave, utilizando el\nconcepto de PWM y bucles FOR."
+  },
+  {
+    "page": 42,
+    "text": "PRÁCTICA 2 P3\nPRÁCTICA 2 P3\nPRÁCTICA 2 P3\nAñadir un boton más al circuito y variar\nlas PWMs:\nPARO=0\nLENTO =50\nRÁPIDO=150\nMAXIMO=255"
+  },
+  {
+    "page": 43,
+    "text": "HAGAMOS GIRAR UN\nMOTOR CON TRANSISTOR\nMOTORES DC"
+  },
+  {
+    "page": 44,
+    "text": "INTRODUCCIÓN\nMANEJANDO\nPOTENCIA CON\nARDUINO\nLa mayoría de dispositivos eléctricos y\nelectrónicos requieren tensiones y\ncorrientes que destruirán los circuitos\ndigitales, por tanto, en términos\ngenerales,\ndebemos confiar dicha labor a los\nllamados circuitos controladores o driver\ncon\ntransistores."
+  },
+  {
+    "page": 45,
+    "text": "ANTECEDENTES\nANTECEDENTE 01\nANTECEDENTE 02\nPara realizar las acciones de potencia\nlos procesadores delegan en etapas\nde amplificación o controladores\n(drivers), que actúan como\nadaptadores entre\nel nivel de potencia empleado en el\ncontrolador y el requerido por el\nactuador.\nUna de las formas más simples y\nhabituales de realizar esta\nadaptación es\nel empleo de transistores."
+  },
+  {
+    "page": 46,
+    "text": "ES \nUN \nDISPOSITIVO \nELECTRÓNICO\nQUE RESTRINGE O PERMITE EL FLUJO\nDE CORRIENTE ELÉCTRICA ENTRE DOS\nCONTACTOS SEGÚN LA PRESENCIA O\nAUSENCIA \nDECORRIENTE \nEN \nUN\nTERCERO.\nEL TRANSISTOR\nBJT"
+  },
+  {
+    "page": 47,
+    "text": "TBJ NPN COMO\nINTERRUPTOR \n● 1 Arduino uno\n● 1 Resistencia 1KΩ\n● 1 Protoboard\n● 1 Motor DC\n● 1 Transistor NPN BJT\nMATERIALES"
+  },
+  {
+    "page": 48,
+    "text": "El circuito propuesto consta de un Arduino, que controla el encendido de un\nmotor DC (con la ayuda de un transistor) conectado en el pin 3, para ello\nusaremos:\nCIRCUITO CON ARDUINO"
+  },
+  {
+    "page": 49,
+    "text": "Gracias\nlo lograrón\nROBOTICA \n2 BGU"
+  },
+  {
+    "page": 50,
+    "text": "📚 Bibliografía\n Complementaria (Formato APA 7ma Edición)\n1. Libro base de Arduino en español (Ideal para salidas/entradas\ndigitales y PWM):\nTorrente Artero, Ó. (2013). Arduino: Curso práctico de formación. RC\nLibros.\n2. Para la sección de motores, transistores (TBJ) y etapas de potencia:\nBoylestad, R. L., & Nashelsky, L. (2009). Electrónica: Teoría de circuitos\ny dispositivos electrónicos (10.ª ed.). Pearson Educación\n3. Para comunicación serial, lectura de teclados y código avanzado:\nMonk, S. (2017). Programación de Arduino: Guía de inicio (2.ª ed.).\nMcGraw-Hill Education.\n4. Documentación Web Oficial (Para sintaxis de comandos como\ndigitalWrite, analogWrite y Serial):\nArduino. (s.f.). Arduino Reference: Language Reference.\nhttps://www.arduino.cc/reference/en/"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "page": 1,
+    "text": "ARDUINO MÓDULO N° 1\nProfe : David Rógel \nROBÓTICA (QUIMESTRE 1)"
+  },
+  {
+    "page": 2,
+    "text": "01\n02\n03\n04\nMontaje limpio,\nordenado y 100%\nfuncional.\nFunciona, pero el\nmontaje es\ndesordenado o poco\nfirme. \nErrores en conexiones\nque impiden su\nfuncionamiento.\nEficiente, ordenado y\nbien comentado. \nFunciona, pero es\ndesordenado o no tiene\ncomentarios. \nTiene errores graves o\nno es funcional.\nCumple todos los\nrequisitos y funciona\nperfecto. \nCumple la mayoría de\nrequisitos, pero con\nfallos.\nNo cumple los requisitos\nbásicos o no funciona.\nAporta ideas originales\ny resuelve problemas\nsolo. \nSigue las instrucciones\nsin aportes. Requiere\nayuda. \nCopia directa de un\nejemplo. No muestra\nautonomía.\nCircuito ⚙️\nCódigo 💻 \nFuncionali\ndad 🎯 \nInnovación\n🤔 \nRÚBRICA DE CALIFICACIÓN \nExcelente / Logrado\n(2.5 pts)\nBueno / En Proceso\n(1.5 pts)\nNecesita Mejorar /\nIniciado (0-1 pts)\nCriterio"
+  },
+  {
+    "page": 3,
+    "text": "RUTA DE APRENDIZAJE\nUnidad 1: \"ARDUINO 1\"\nMAPA DE CONTENIDOS\nElectricidad.\nElectrónica\nProtoboard\nArduino\nCircuitos\nCódigo Binario\nResistencias\nProgramación\nCircuitos\nLEDs\nComunicación"
+  },
+  {
+    "page": 4,
+    "text": "Resultados de Aprehendizaje \nELEMENTAL\nBÁSICO\nAVANZADO\nAFECTIVO\nA1.\nReconocer la responsabilidad\nindividual y colectiva en el\nconsumo de energía eléctrica y su\nimpacto en la sociedad y el\nambiente.\nA2.\nValorar el uso de fuentes de\nenergía renovable por su menor\nimpacto ambiental frente a las no\nrenovables.\nA3.\nReflexionar sobre las\nconsecuencias del uso de fuentes\nenergéticas en situaciones de\nescasez, como la disminución de\nlluvias en Ecuador.\nCOGNITIVO\nC1: Comprender los principios de\ngeneración eléctrica y su vínculo\ncon el desarrollo sostenible del\npaís.\nC2: Analizar conceptos eléctricos\ncomo voltaje, corriente y potencia,\naplicados al funcionamiento de\nsistemas de generación y\nconsumo.\nC3:Comparar fuentes de energía\neléctrica en función de sus\ncaracterísticas técnicas,\neconómicas y ambientales en el\námbito local y global.\nPRAXITIVO\nP1: Clasificar materiales\nconductores y aislantes utilizados\nen sistemas eléctricos simples.\nP2:Armar circuitos eléctricos\nbásicos que evidencien principios\nde generación y consumo de\nenergía.\nP3:Construir circuitos en serie y\nen paralelo usando materiales\nadecuados para demostrar el flujo\neléctrico."
+  },
+  {
+    "page": 5,
+    "text": "APREHENDIZAJES\nRedacte las preguntas que debería ser capaz de responder el estudiante cuando reciba las\nenseñanzas.\nOPERACIONES\nINTELECTUALES\nESTRUCTURAS SEMÁNTICAS\nARGUMENTALES\n¿Por qué?, o ¿Para qué?\n¿Por qué es importante explorar y comprender las diversas\naplicaciones de la electricidad en nuestra institución, nuestros\nhogares y los dispositivos que usamos a diario?\nExplorar \nESTRUCTURAS SEMÁNTICAS\nCONCEPTUALES\n¿Qué?\n¿Qué podemos identificar en un circuito eléctrico a través de la\nexperimentación con diferentes configuraciones de conexión?\nDiferenciar \nESTRUCTURAS SEMÁNTICAS\nESTRATÉGICAS\n¿Cómo?\n¿Cómo podemos demostrar y comparar la conductividad eléctrica\nde diversos materiales (metales, plásticos, agua) aplicando los\nprincipios fundamentales de la electricidad en experimentos\nprácticos?\nExperimentar \nDESARROLLO DEL PENSAMIENTO"
+  },
+  {
+    "page": 6,
+    "text": "CLASE N° 0\nFUENTES DE ENERGÍA  \nIng. David Rógel N."
+  },
+  {
+    "page": 7,
+    "text": "Ing. David Rógel N.\nOBJETIVO\nAnalizar los conceptos de voltaje, corriente y\nresistencia, y diferenciar entre corriente\nalterna (AC) y continua (DC), aplicando estos\nconocimientos para construir  y programar\ncircuitos."
+  },
+  {
+    "page": 8,
+    "text": "Electrónica básica\nIng. David Rógel N.\nFUENTES DE ALIMENTACIÓN\n¿De dónde obtenemos\nnosotros nuestra energía para\nhacer lo que hacemos todos los\ndías?"
+  },
+  {
+    "page": 9,
+    "text": "Ing. David Rógel N.\nFUENTES\nCOMERCIALES"
+  },
+  {
+    "page": 10,
+    "text": "BATERÍAS COMUNES\nIng. David Rógel N.\n¿Qué es exactamente esa\nenergía que sale de las\nbaterías?"
+  },
+  {
+    "page": 11,
+    "text": "Voltaje\nDefinición: Es la diferencia de\npotencial eléctrico entre dos puntos,\ntambién llamado tensión eléctrica.\nSímbolo: Se representa con la letra V\nUnidad de medida: Su unidad es el\nvoltio.\nMedición: Un punto clave es que la\ntensión siempre se mide entre dos\npuntos de un circuito.\nIng. David Rógel N."
+  },
+  {
+    "page": 12,
+    "text": "CORRIENTE\nLa unidad de la corriente (I) es el ampere (A).\nA mayor tensión, mayor corriente.\nSi se quita el cable, no hay corriente porque\nel circuito está abierto.\nIng. David Rógel N."
+  },
+  {
+    "page": 13,
+    "text": "RESISTENCIA ELÉCTRICA \nLa unidad de medida de la resistencia\nes el ohmio (Ω)\nEs la oposición que presenta un\nmaterial al flujo de corriente eléctrica.\nCuanto mayor sea la resistencia, menor\nserá la corriente que pueda circular\npara un voltaje dado."
+  },
+  {
+    "page": 14,
+    "text": "Circuito Eléctrico\nIng. David Rógel N."
+  },
+  {
+    "page": 15,
+    "text": "Corriente continua DC\nIng. David Rógel N.\nflujo constante de electrones que\nno varía en el tiempo \ntiene polaridad (positivo y\nnegativo)\nalimentar la mayoría de los\naparatos eléctricos"
+  },
+  {
+    "page": 16,
+    "text": "Ing. David Rógel N.\nFlujo  de electrones cambia\nperiódicamente, Es decir que\nvaría en el tiempo \nNO tiene polaridad \nFrecuencia de movimiento es\n60 Hz\nVoltaje de los tomacorrientes\nes de  120 V\nCorriente Alterna AC"
+  },
+  {
+    "page": 17,
+    "text": "—Someone Famous\nBook Title. P52\nActividad 1a (cuaderno)\nConsulte 10 dispositivos que funcionen con corriente CONTINUA"
+  },
+  {
+    "page": 18,
+    "text": "—Someone Famous\nBook Title. P52\nActividad 1b (cuaderno)\nConsulte 10 dispositivos que funcionen con corriente ALTERNA"
+  },
+  {
+    "page": 19,
+    "text": "¡COMPROBÉMOSLO!"
+  },
+  {
+    "page": 20,
+    "text": "FIN DE LA CLASE N° 0\n2%"
+  },
+  {
+    "page": 21,
+    "text": "ARDUINO MÓDULO N° 1\nIng. David Rógel N.\nClase 1"
+  },
+  {
+    "page": 22,
+    "text": "DESAFÍO\nIng. David Rógel N."
+  },
+  {
+    "page": 23,
+    "text": "Ing. David Rógel N."
+  },
+  {
+    "page": 24,
+    "text": "Modelo IPO\nIng. David Rógel N."
+  },
+  {
+    "page": 25,
+    "text": "MICROCONTROLADORES\nIng. David Rógel N.\nUn microcontrolador es como\nuna pequeña computadora que\nvive dentro de muchos\ndispositivos electrónicos que\nutilizamos a diario.\nPuede recibir información de\nsensores (como los que miden\nla temperatura o la luz) y, en\nbase a esa información, tomar\ndecisiones y ejecutar acciones."
+  },
+  {
+    "page": 26,
+    "text": "IMPLEMENTACIÓN \nIng. David Rógel N."
+  },
+  {
+    "page": 27,
+    "text": "NACE LA LEYENDA\nARDUINO NACE EN EL 2005\nFUE CREADO POR PROFESORES ITALIANOS\nOBJETIVO ERA FACILITAR LOS PROTOTIPOS DE SUS\nPROYECTOS\nIDEAL PARA NO PROGRAMADORES\nFILOSOFÍA OPEN SOURCE\nIng. David Rógel N."
+  },
+  {
+    "page": 28,
+    "text": "¿QUÉ ES ARDUINO?\nHARDWARE\nSOFTWARE\nIng. David Rógel N.\nArduino es una plataforma de creación electrónica de código abierto,\nArduino no es solo una placa, sino un ecosistema completo que incluye el\nhardware (las placas), el software (el entorno de programación) y una gran\ncomunidad de usuarios que comparten conocimientos y proyectos."
+  },
+  {
+    "page": 29,
+    "text": "¿QUÉ ES ARDUINO?\nArduino es una plataforma de código abierto que te permite crear\nproyectos electrónicos de manera fácil y divertida, sin importar tu\nnivel de experiencia. \nCon su amplia gama de componentes y su entorno de desarrollo\naccesible, Arduino ha cambiado la forma en que aprendemos y\ncreamos tecnología."
+  },
+  {
+    "page": 30,
+    "text": "Jugada Maestra\nIng. David Rógel N."
+  },
+  {
+    "page": 31,
+    "text": "Ing. David Rógel N."
+  },
+  {
+    "page": 32,
+    "text": "GRACIAS A ARDUINO\nIMPRESORAS 3D\nEDUCACIÓN\nIOTs\nPROTOTIPOS\nIng. David Rógel N."
+  },
+  {
+    "page": 33,
+    "text": "SIMULACIÓN"
+  },
+  {
+    "page": 34,
+    "text": "2\nACTIVIDAD\nsimular un pequeño\ncircuito en Tinkercad"
+  },
+  {
+    "page": 35,
+    "text": "FIN DE LA CLASE 1\n10%"
+  },
+  {
+    "page": 36,
+    "text": "ARDUINO MÓDULO N° 1\nClase 2\nIng. David Rógel N."
+  },
+  {
+    "page": 37,
+    "text": "ARDUINO MÓDULO N° 1\nClase 3\nIng. David Rógel N."
+  },
+  {
+    "page": 38,
+    "text": "Cómo funciona el protoboard completo\nIng. David Rógel N."
+  },
+  {
+    "page": 39,
+    "text": "¿Cómo utilizar el protoboard?\nIng. David Rógel N.\nEnergización"
+  },
+  {
+    "page": 40,
+    "text": "Ejemplo de energización\nIng. David Rógel N."
+  },
+  {
+    "page": 41,
+    "text": "Líneas Comunes\nIng. David Rógel N.\nEsos 5 agujeros están\ninterconectados entre sí. \nEsto significa que los\nagujeros de abajo y los\nde arriba(los que tienen\nnúmero) \nestán\nseparados."
+  },
+  {
+    "page": 42,
+    "text": "Ejemplo de conexión\nIng. David Rógel N."
+  },
+  {
+    "page": 43,
+    "text": "¿Por qué la Protoboard está\ndividida a la mitad?\nIng. David Rógel N.\nEsto se debe a que en electrónica\nhay \nciertos \ncomponentes\n(integrados) que necesitan de una\nubicación especial en la protoboard.\nEste componente tiene patitas en\nambos costados, por lo que, al\nconectarlo \nen \nel \n \nprotoboard,\ntenemos que asegurarnos de que\nesas \npatitas \nno \nestén\ninterconectadas entre sí."
+  },
+  {
+    "page": 44,
+    "text": "ACTIVIDAD N°3\nACTIVIDAD N°3\nACTIVIDAD N°3\nSIMULAR EN TINKERCAD UNA CASA EN SERIE Y UNA EN PARALELO POR\nCADA REGION DEL PROTOBOARD"
+  },
+  {
+    "page": 45,
+    "text": "FIN DE LA CLASE 2\n25%"
+  },
+  {
+    "page": 46,
+    "text": "RESISTENCIA ELÉCTRICA \nes la medida de la oposición al flujo de\ncorriente eléctrica a través de un\nconductor.\nCuanto mayor sea la resistencia, menor\nserá la corriente que pueda circular para\nun voltaje dado.\nLa unidad de medida de la resistencia es\nel ohmio (Ω)"
+  },
+  {
+    "page": 47,
+    "text": "RESISTENCIA ELÉCTRICA"
+  },
+  {
+    "page": 48,
+    "text": "CÓDIGO DE\nCOLORES"
+  },
+  {
+    "page": 49,
+    "text": "ACTIVIDAD 4"
+  },
+  {
+    "page": 52,
+    "text": "PARALELO\nSERIE"
+  },
+  {
+    "page": 53,
+    "text": "5\nACTIVIDAD\nEn grupos, encuentre la\nresistencia equivalente\ndel siguiente circuito"
+  },
+  {
+    "page": 54,
+    "text": "FIN DE LA CLASE 3\n15%"
+  },
+  {
+    "page": 55,
+    "text": "ARDUINO MÓDULO 1\nClase 4\nIng. David Rógel N."
+  },
+  {
+    "page": 56,
+    "text": "Comprender \nComprender la estructura básica de un\nla estructura básica de un\nprograma en Arduino (setup, loop).\nprograma en Arduino (setup, loop).\nComprender la estructura básica de un\nprograma en Arduino (setup, loop).\nObjetivo\nObjetivo\nObjetivo"
+  },
+  {
+    "page": 57,
+    "text": "¿Cómo funciona la placa Arduino?\nArduino es una plataforma de\ndesarrollo basada en una placa\nelectrónica de hardware libre\nque incorpora un\nmicrocontrolador\nreprogramable y una serie de\npines, los cuales permiten\nestablecer conexiones entre el\nmicrocontrolador y los\ndiferentes sensores y\nactuadores de una manera muy\nsencilla"
+  },
+  {
+    "page": 58,
+    "text": "Ing. David Rógel N.\nDIGITAL\nUNA SEÑAL DIGITAL NO ES CONTINUA, SINO QUE TOMA\nMUESTRAS DE LA SEÑAL ANALÓGICA Y LAS CONVIERTE EN\nNÚMEROS.\nANALÓGICO\nUna señal analógica es una onda continua que representa\nfielmente la información. Es una copia o \"analogía\" del fenómeno\nreal."
+  },
+  {
+    "page": 59,
+    "text": "ACT6\nACT6\nAnálogo vs. Digital\nAnálogo vs. Digital\nACT6\nAnálogo vs. Digital"
+  },
+  {
+    "page": 60,
+    "text": "PROGRAMA\nPROGRAMA\nPROGRAMA\nsetup(){}:\nsetup(){}:\nSirve para preparar todo lo que tu programa\nSirve para preparar todo lo que tu programa\nnecesitará.\nnecesitará.\nSe ejecuta una sola vez: justo cuando el\nSe ejecuta una sola vez: justo cuando el\nArduino se enciende o lo reseteas\nArduino se enciende o lo reseteas\n¿Qué\n¿Qué va aquí?:\n va aquí?: Principalmente, la configuración\n Principalmente, la configuración\nde los pines (pinMode()) y la inicialización de\nde los pines (pinMode()) y la inicialización de\ncomunicaciones (Serial.begin()).\ncomunicaciones (Serial.begin()).\nsetup(){}:\nSirve para preparar todo lo que tu programa\nnecesitará.\nSe ejecuta una sola vez: justo cuando el\nArduino se enciende o lo reseteas\n¿Qué va aquí?: Principalmente, la configuración\nde los pines (pinMode()) y la inicialización de\ncomunicaciones (Serial.begin())."
+  },
+  {
+    "page": 61,
+    "text": "PROGRAMA\nPROGRAMA\nPROGRAMA\nloop(){}:\nloop(){}:\nContiene el código que quieres que tu Arduino\nContiene el código que quieres que tu Arduino\nejecute continuamente\nejecute continuamente\nSe ejecuta infinitamente\nSe ejecuta infinitamente \n¿Qué va aquí?: La lógica principal de tu\n¿Qué va aquí?: La lógica principal de tu\nproyecto, como leer un sensor, hacer\nproyecto, como leer un sensor, hacer\nparpadear un LED, mover un motor, etc.\nparpadear un LED, mover un motor, etc.\nloop(){}:\nContiene el código que quieres que tu Arduino\nejecute continuamente\nSe ejecuta infinitamente \n¿Qué va aquí?: La lógica principal de tu\nproyecto, como leer un sensor, hacer\nparpadear un LED, mover un motor, etc."
+  },
+  {
+    "page": 62,
+    "text": "digital:\ndigital:\ndigital:\nTiene únicamente dos\nestados o se prende o\nse apaga\nse representa con: \n(apagado) 0,LOW, false\n(prendido)1, HIGH, true\nun ejemplo: prender o\napagar INTERRUPTOR\nSalidas digitales\nSalidas digitales\nSalidas digitales"
+  },
+  {
+    "page": 63,
+    "text": "Ing. David Rógel N.\nLíneas de código\nLa función de Arduino pinMode permite configurar a cada pin, de forma\nindividual, como entrada o como salida\nLa función Arduino digitalWrite permite escribir valores lógicos digitales en\nun pin de Salida de una tarjeta Arduino\ndelay: se trabaja el tiempo está en milisegundos, por lo tanto, 2 segundos\nserian 2000"
+  },
+  {
+    "page": 64,
+    "text": "Ing. David Rógel N.\nPROGRMAR Y SIMULAR\n1)El semáforo está dañado, por lo cual el protocolo de\nemergencia indica que se deben prender las tres\nluces al mismo tiempo durante 2 segundos y luego\napagarse por 1 segundo\n2) otro semáforo está habilitado, por lo cual el la luz\nverde debe funcionar por 4 seg, luz naranja por 2\nseg, y luz roja por 5 seg.\nACTIVIDAD N° 7\nACTIVIDAD N° 7\nACTIVIDAD N° 7"
+  },
+  {
+    "page": 65,
+    "text": "Ing. David Rógel N.\nCONSTRUIR(PROTOBOARD)\n2) El semáforo está habilitado, por lo cual el\ncolor verde debe funcionar por 4 seg, luz\nnaranja por 2 seg, y luz roja por 5 seg.\nACTIVIDAD N° 8\nACTIVIDAD N° 8\nACTIVIDAD N° 8"
+  },
+  {
+    "page": 66,
+    "text": "FIN DE LA CLASE \nIng. David Rógel N.\n30%"
+  },
+  {
+    "page": 67,
+    "text": "ARDUINO MÓDULO 1\nActividad 6\nIng. David Rógel N."
+  },
+  {
+    "page": 68,
+    "text": "Ing. David Rógel N.\nOBJETIVO\nImplementar un programa estructurado en\nArduino que integre y ponga en práctica, de\nmanera funcional, múltiples conceptos\nadquiridos en la materia hasta la fecha."
+  },
+  {
+    "page": 69,
+    "text": "sistema de luces del auto fantástico\nACTIVIDAD 9"
+  },
+  {
+    "page": 70,
+    "text": "Ing. David Rógel N.\nPROGRAMAR  SIMULAR"
+  },
+  {
+    "page": 71,
+    "text": "INSTRUCCIONES\nIng. David Rógel N.\nProgramar, simular y CONSTRUIR, un circuito que represente el\nfuncionamiento del juego de luces del auto fantástico, con el objetivo de\ndominar las salidas digitales de manera óptima. \n1)las luces irán en dirección hacia la derecha\nencendido de una en una,  en secuencia \n2) Al momento que llegue al final , se deberá cambiar\nde dirección , e decir hacia la izquierda  de la misma\nforma que la parte 1"
+  },
+  {
+    "page": 72,
+    "text": "hora de trabajar!!!"
+  },
+  {
+    "page": 73,
+    "text": "FIN DE LA CLASE \nIng. David Rógel N.\n35%"
+  },
+  {
+    "page": 74,
+    "text": "ARDUINO DESDE CERO\nClase 6\nIng. David Rógel N."
+  },
+  {
+    "page": 75,
+    "text": "objetivo\nIng. David Rógel N.\nIdentificar y utilizar los\ndiferentes tipos de variables de\nprogramación según su\nconcepto y aplicación"
+  },
+  {
+    "page": 76,
+    "text": "Variables \nUna variable es la manera que tenemos de\nguardar valores\nLas variables tienen nombre y son de un solo\ntipo.\nse pueden usar para muchas cosas:\ncomprobaciones, comparaciones , iteraciones,\noperaciones matemáticas, etc."
+  },
+  {
+    "page": 77,
+    "text": "Ing. David Rógel N.\nVariables \nUna variable puede ser declarada al inicio del programa, antes del\nsetup(), dentro de otras funciones o dentro de un control de flujo.\nEl nombre de las variables pueden llevar mayúsculas y\nminúsculas(se distinguen entre ellas), números y el símbolo”_”\nPara declarar una variable necesitamos un nombre y también el tipo\nde dato que vamos a almacenar ahí."
+  },
+  {
+    "page": 78,
+    "text": "Variables"
+  },
+  {
+    "page": 79,
+    "text": "CÓDIGO\nBINARIO"
+  },
+  {
+    "page": 80,
+    "text": "OBJETIVO\nComprender por qué el sistema binario\n(base 2) es utilizado por las\ncomputadoras para representar la\ninformación digital (datos, texto,\nimágenes)."
+  },
+  {
+    "page": 81,
+    "text": "CÓDIGO BINARIO\nSe trata de un sistema de numeración en el que los\nnúmeros se representan utilizando solamente dos cifras:\ncero y uno\nen este caso, sólo disponemos, tal y como habrás deducido\npor el prefijo latino “bi-ˮ, de dos dígitos (o dos estados): el\ncero o el uno, apagado o encendido, verdadero o falso."
+  },
+  {
+    "page": 82,
+    "text": "código binario ejemplos \ncada dígito corresponde a una potencia"
+  },
+  {
+    "page": 83,
+    "text": "código binario ejemplos"
+  },
+  {
+    "page": 85,
+    "text": "DECIMAL\nBINARIO\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\ncódigo binario ejemplos"
+  },
+  {
+    "page": 86,
+    "text": "EJERCICIOS A10"
+  },
+  {
+    "page": 87,
+    "text": "LECCION\nDECIMAL \nBINARIO\n98\n10101000\n01010011\n241\n199"
+  },
+  {
+    "page": 89,
+    "text": "ACTIVIDAD N° 2\nConvertir los siguientes números  Binarios a Decimales USANDO\n7 BITS\n110100 .\n102\n100101\n100111\n127"
+  },
+  {
+    "page": 92,
+    "text": "Todas las variables deben ser declaradas antes de su uso\nLas palabras reservadas if, else,etc . . . no pueden usarse como\nnombres de variables.\nUna variable global es aquella que puede ser vista y utilizada por\ncualquier función y estamento de un programa. Sin embargo\nesta ocupa un espacio en memoria permanente en la zona de\nstatic data y el abuso de variables globales supone un uso\nineficiente de la memoria.\nUna variable local es aquella que se define dentro de una\nfunción o como parte de un bucle.\nOJO!!!"
+  },
+  {
+    "page": 93,
+    "text": "FIN DE LA CLASE \nIng. David Rógel N.\n50%"
+  },
+  {
+    "page": 95,
+    "text": "Comprender la relación entre\nvoltaje, corriente y resistencia en un\ncircuito eléctrico.\nObjetivo"
+  },
+  {
+    "page": 96,
+    "text": "REPRESENTACIÓN DE LA LEY DE\nOHM"
+  },
+  {
+    "page": 97,
+    "text": "Electrónica básica\nIng. David Rógel N.\nLEY DE OHM\n¿Por qué cambia la corriente cuando cambio\nuna resistencia en un circuito?"
+  },
+  {
+    "page": 98,
+    "text": "Recuerda que:\nIng. David Rógel N.\nResistencia: Ohmios  [Ω]\nVoltaje: Voltios [V]\nCorriente: Amperios [A]"
+  },
+  {
+    "page": 99,
+    "text": "Representar  Circuitos serie y\nparalelo mediante diagramas\nesquemáticos.\nObjetivo"
+  },
+  {
+    "page": 100,
+    "text": "Ejercicios ACTIVIDAD 3\nIng. David Rógel N."
+  },
+  {
+    "page": 101,
+    "text": "Ejercicios 3-4 (DIY) \nIng. David Rógel N."
+  },
+  {
+    "page": 102,
+    "text": "Ing. David Rógel N.\nACTIVIDAD 4"
+  },
+  {
+    "page": 103,
+    "text": "CIRCUITOS\nRESISTENCIA FINAL"
+  },
+  {
+    "page": 104,
+    "text": "Implementar circuitos eléctricos\nen conexión de serie y paralelo\nutilizando RESISTENCIAS  , para\nencontrar la resistencia\nequivalente final que represente\na todo el circuito .\nOBJETIVO"
+  },
+  {
+    "page": 105,
+    "text": "Circuito en Serie\nR equ= R1+R2+R3….\nLos componentes (bombillas, resistencias,\netc.) están conectados uno a continuación\ndel otro, formando un único camino para la\ncorriente eléctrica."
+  },
+  {
+    "page": 106,
+    "text": "CIRCUITO EN PARALELO\nLos componentes están conectados en\nramas separadas, cada una con su propia\nconexión a la fuente de alimentación."
+  },
+  {
+    "page": 107,
+    "text": "EJERCICIO EXPLICATIVO"
+  },
+  {
+    "page": 108,
+    "text": "EJERCICIO EXPLICATIVO\nencontrar la resistencia equivalente \nPARALELO"
+  },
+  {
+    "page": 109,
+    "text": "EJERCICIO"
+  },
+  {
+    "page": 110,
+    "text": "5\nACTIVIDAD\nEn grupos, encuentre la\nresistencia equivalente\ndel siguiente circuito"
+  },
+  {
+    "page": 111,
+    "text": "5\nACTIVIDAD\nEn grupos, encuentre la\nresistencia equivalente\ndel siguiente circuito"
+  },
+  {
+    "page": 112,
+    "text": "Si tuviera que explicarle a alguien qué es el Código Binario\nusando solo las Luces LED, ¿cómo lo haría?\n¿En qué momento de la práctica logré diferenciar claramente\nentre una señal Analógica y una Digital?\nAl programar las salidas digitales en Arduino, ¿cuál fue el error\nmás común que cometí y cómo logré solucionarlo?\n¿Qué habilidad técnica necesito reforzar para que en el\nsegundo quimestre me vaya mejor en Robótica?\nPREGUNTAS FINALES"
+  }
+]

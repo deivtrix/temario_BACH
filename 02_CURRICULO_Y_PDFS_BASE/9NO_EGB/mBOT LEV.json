@@ -1,0 +1,142 @@
+[
+  {
+    "page": 1,
+    "text": "MBOT\nMBOT\nMBOT\nPARCIAL 4\nPARCIAL 4\nPARCIAL 4"
+  },
+  {
+    "page": 2,
+    "text": "Table of Contents\nTable of Contents\nTable of Contents\nLAS PARTES PRINCIPALES\nDEL MONTAJE BÁSICO\n Conociendo la placa\nprincipal del robot\nManejo del robot sin usar\nlas apps\n01\n02\n03\nInstalación de la app\nmBlock y primer contacto\nmovimiento\nprogramados\nConclusion\n04\n05\n06"
+  },
+  {
+    "page": 3,
+    "text": "\"Identificar los componentes físicos y electrónicos del kit mBot\nmediante la exploración guiada y la clasificación de piezas, con el fin de\nreconocer sus funciones básicas y asegurar un proceso de ensamblaje\norganizado y eficiente.\"\nobjetivo 1\nobjetivo 1\nobjetivo 1"
+  },
+  {
+    "page": 4,
+    "text": "‹#›\nEJERCICIO Nº1: \nIdentificando todos los componentes del robot\nmBot"
+  },
+  {
+    "page": 5,
+    "text": "‹#›"
+  },
+  {
+    "page": 6,
+    "text": "MONTAJE BÁSICO\nMONTAJE BÁSICO\nMONTAJE BÁSICO"
+  },
+  {
+    "page": 7,
+    "text": "mBOT( make block)\nIng. David Rógel\nROBÓTICA \n‹#›"
+  },
+  {
+    "page": 8,
+    "text": "Diferenciar los componentes integrados de la placa mCore mediante la\nexperimentación directa, ejecutando códigos de programación que\npermitan verificar el funcionamiento de los LEDs y los puertos de\nentrada/salida.\nobjetivo 2\nobjetivo 2\nobjetivo 2"
+  },
+  {
+    "page": 9,
+    "text": "Aplicaciones a descargar \n‹#›\nMakeblock(manejarlo)\nMblock(programarlo)\nmBlock PC version"
+  },
+  {
+    "page": 10,
+    "text": "‹#›"
+  },
+  {
+    "page": 11,
+    "text": "‹#›\nINVENTARIO DE ELEMENTOS DEL\nSET"
+  },
+  {
+    "page": 12,
+    "text": "‹#›"
+  },
+  {
+    "page": 13,
+    "text": "DESCARGAR LAS\nAPLICACIONES \n‹#›"
+  },
+  {
+    "page": 14,
+    "text": "Aplicaciones a descargar \n‹#›\nMakeblock(manejarlo)\nMblock(programarlo)\nmBlock PC version"
+  },
+  {
+    "page": 15,
+    "text": "The Mind of a Robot (Part I)\nLesson 1\n‹#›"
+  },
+  {
+    "page": 16,
+    "text": "Tasks in this lesson\n Discuss:\n Could a robot think and feel?\n How to make a robot “alive”?\n Understand the meaning of \n the programming language\n‹#›"
+  },
+  {
+    "page": 17,
+    "text": "Warm Up\n‹#›"
+  },
+  {
+    "page": 18,
+    "text": "Time Travel to a Future\nRobot Society\n‹#›"
+  },
+  {
+    "page": 19,
+    "text": "‹#›"
+  },
+  {
+    "page": 20,
+    "text": "A13: MI PRIMER\nPROGRAMA\n‹#›"
+  },
+  {
+    "page": 21,
+    "text": "Interacción humano-robot\nCorra el programa\ndemostravio:\nQuestion 1:\n   Piensas que estas\nhablando con un robot o con\nuna persona ?\n‹#›"
+  },
+  {
+    "page": 22,
+    "text": "‹#›"
+  },
+  {
+    "page": 23,
+    "text": "Task 1 Mini-debate\nQuestion 2:\n   Puede un robot pensar y senitr?\nWhat is your opinion? Show it!\nWhat is your argument? \n‹#›"
+  },
+  {
+    "page": 24,
+    "text": "The Human Senses\n‹#›"
+  },
+  {
+    "page": 25,
+    "text": "The I/O System\nINPUT\nOUTPUT\nPROCESS\nSTORAGE\nFEEDBACK\n‹#›"
+  },
+  {
+    "page": 26,
+    "text": "Actuadores mBot\nleds y Sonido \n‹#›"
+  },
+  {
+    "page": 27,
+    "text": "OBJETIVO\nOBJETIVO\nOBJETIVO\nProgramar y controlar las salidas del mBot\nmediante el uso de LEDs y sonidos,\ncomprendiendo su función como actuadores,\npara luego transferir y ejecutar\ncorrectamente el programa en el robot."
+  },
+  {
+    "page": 28,
+    "text": "Programa Leds y Sonido\nPara esta práctica, vamos a aprender\na transferir un programa a nuestro\nrobot mBot usando el cable USB. Una\nvez conectado, haremos que se\nenciendan sus luces LED y que emita\nun sonido\n‹#›"
+  },
+  {
+    "page": 29,
+    "text": "Programación\n‹#›"
+  },
+  {
+    "page": 30,
+    "text": "Robot armado y funcional\n‹#›"
+  },
+  {
+    "page": 31,
+    "text": "INFORME N° 2\nmovimiento cartesiano\n‹#›\nEn mBlock Online o en la versión descargada, realice el\nsiguiente programa.\nColoque su nombre y elija un fondo de su preferencia.\nPosteriormente, ejecute el programa dando clic en Play y\nverifique su funcionamiento."
+  },
+  {
+    "page": 32,
+    "text": "Actuadores mBot\nleds Sonido  Y\nMotores\n‹#›"
+  },
+  {
+    "page": 33,
+    "text": "movimiento del robot\nmovimiento del robot \nmovimiento del robot \nprogramar una trayectoria cuadrada para que el robot pueda moverse\nconstruyendo una trayectoria cuadrada"
+  },
+  {
+    "page": 34,
+    "text": "Resources\nResources\nResources"
+  },
+  {
+    "page": 35,
+    "text": "MBOT\nMBOT\nMBOT\nGRACIAS\nGRACIAS\nGRACIAS"
+  }
+]

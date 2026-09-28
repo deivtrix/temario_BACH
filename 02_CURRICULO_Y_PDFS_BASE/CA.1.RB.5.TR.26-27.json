@@ -1,0 +1,250 @@
+[
+  {
+    "page": 1,
+    "text": "Ing. David Rógel N.\nMODULO \nMODULO  5 \nARDUINO"
+  },
+  {
+    "page": 2,
+    "text": "01\n02\n03\n04\nMontaje limpio,\nordenado y 100%\nfuncional.\nFunciona, pero el\nmontaje es\ndesordenado o poco\nfirme. \nErrores en conexiones\nque impiden su\nfuncionamiento.\nEficiente, ordenado y\nbien comentado. \nFunciona, pero es\ndesordenado o no tiene\ncomentarios. \nTiene errores graves o\nno es funcional.\nCumple todos los\nrequisitos y funciona\nperfecto. \nCumple la mayoría de\nrequisitos, pero con\nfallos.\nNo cumple los requisitos\nbásicos o no funciona.\nAporta ideas originales\ny resuelve problemas\nsolo. \nSigue las instrucciones\nsin aportes. Requiere\nayuda. \nCopia directa de un\nejemplo. No muestra\nautonomía.\nCircuito ⚙️\nCódigo 💻 \nFuncionali\ndad 🎯 \nInnovación\n🤔 \nRÚBRICA DE CALIFICACIÓN \nExcelente / Logrado\n(2.5 pts)\nBueno / En Proceso\n(1.5 pts)\nNecesita Mejorar /\nIniciado (0-1 pts)\nCriterio"
+  },
+  {
+    "page": 3,
+    "text": "RUTA DE APRENDIZAJE\nUnidad 1: \"ARDUINO 1\"\nMAPA DE CONTENIDOS\nTransistores\nVelocidad con motores DC\nDriver de Motores DC\nServomotores\nMotores a pasos \nDriver Motor a pasos\nSensor infrarrojo\nJoysticks\nSensor Ultrasónico\nSensor Agua\nProyecto STEAM"
+  },
+  {
+    "page": 4,
+    "text": "Resultados de Aprehendizaje \nELEMENTAL\nBÁSICO\nAVANZADO\nAFECTIVO\nA1: Promover el trabajo en\nequipo, la experimentación y la\nsolución de problemas complejos\ncon Arduino.\nA2: Proponer arquitecturas de\nArduino para sistemas autónomos,\nanalizando su impacto y viabilidad.\nA3: Liderar proyectos de robótica\nreales, estudiando su diseño,\noptimización y consideraciones\néticas.\nCOGNITIVO\nC1: Entender cómo Arduino lee\nsensores analógicos y controla\nactuadores mediante PWM.\nC2: Diferenciar las señales\nanalógicas y digitales para\ncontrolar componentes como foto\nceldas, motores y LEDs.\nC3: Explicar el uso de los pines de\nArduino para leer joysticks y variar\nla velocidad de motores.\nPRAXITIVO\nP1: Programar en Arduino para\nleer sensores y controlar la\nintensidad de LEDs y la velocidad\nde motores.\nP2: Simular circuitos con múltiples\nsensores y actuadores en\nplataformas como Tinkercad.\nP3: Crear un proyecto STEAM\ninteractivo que integre sensores y\nactuadores para resolver un\nproblema."
+  },
+  {
+    "page": 5,
+    "text": "APREHENDIZAJES\nRedacte las preguntas que debería ser capaz de responder el estudiante cuando reciba las\nenseñanzas.\nOPERACIONES\nINTELECTUALES\nESTRUCTURAS SEMÁNTICAS\nARGUMENTALES\n¿Por qué?, o ¿Para qué?\n¿Por qué la lectura de entradas analógicas (como un joystick) y el\ncontrol de salidas analógicas mediante PWM (como la variación de\nintensidad de un LED o la velocidad de un motor DC) mejora la\ncapacidad de diseñar prototipos más interactivos y con mayor\nmatiz en sus respuestas al entorno?\nExplorar \nESTRUCTURAS SEMÁNTICAS\nCONCEPTUALES\n¿Qué?\n¿Qué consideraciones específicas de los componentes analógicos\n(rango de valores, calibración, frecuencia PWM) necesitas identificar\nen la descripción del proyecto para poder diseñar una solución de\nhardware y software robusta?\nDiferenciar \nESTRUCTURAS SEMÁNTICAS\nESTRATÉGICAS\n¿Cómo?\n¿Cómo influye las señales analógicas en el proceso de depuración y\nsolución de problemas en un programa de Arduino, especialmente\ncuando se trabaja con la lectura de una fotocelda o un\npotenciómetro, comparado con la depuración de señales digitales?\nExperimentar \nDESARROLLO DEL PENSAMIENTO"
+  },
+  {
+    "page": 6,
+    "text": "OBJETIVO\nOBJETIVO\nOBJETIVO\n Construir y programar un circuito básico para\nleer una entrada analógica física, mediante la\nconversion analògica a digital ADC."
+  },
+  {
+    "page": 7,
+    "text": "¿Cómo es eso de\n¿Cómo es eso de\nleer una entrada\nleer una entrada\nanalógica?\nanalógica?\n¿Cómo es eso de\nleer una entrada\nanalógica?"
+  },
+  {
+    "page": 8,
+    "text": "Los sensores del mundo real suelen ser\nanalógicos porque las magnitudes físicas\n(como la temperatura o la luz) cambian de\nforma constante. Estos dispositivos actúan\ncomo transductores, lo que significa que\ntransforman esa magnitud física en una señal\neléctrica variable."
+  },
+  {
+    "page": 9,
+    "text": "Un conversor analógico a digital nos permite convertir\nuna señal de origen\nanalógico en una señal digital que si puede ser\nprocesada por un micro."
+  },
+  {
+    "page": 10,
+    "text": "ADC Arduino\nADC Arduino\nADC Arduino\nCuando se trabaja con el ADC Arduino (conversor análogo digital) se\ndebe tener en consideración que solo podemos colocar voltajes de\nmáximo 5v \nEl ADC que viene integrado dentro del Arduino UNO tiene una resolución\nde 10-bit. Esto equivale a que solo vamos a poder medir 1024 valores\nposibles que van del 0 al 1023."
+  },
+  {
+    "page": 11,
+    "text": "Entradas analógicas\nEntradas analógicas\nArduino\nArduino\nEntradas analógicas\nArduino\nEn Arduino UNO, disponemos de 6 pines para entradas analógicas\n(A0 a A5).\ndebemos asegurar que el voltaje aplicado a una entrada digital se\nencuentre entre 0 y 5 voltios."
+  },
+  {
+    "page": 12,
+    "text": "Entradas analógicas\nEntradas analógicas\nArduino\nArduino\nEntradas analógicas\nArduino\nPara poder trabajar con entradas analógicas en Arduino es\nnecesario usar\nla función “analogRead()” para comenzar a usar el convertidor\nAnalógico Digital\nde la placa."
+  },
+  {
+    "page": 13,
+    "text": "Una resistencia variable que puedes ajustar\nmanualmente.\nAl conectarlo a los 5V y GND de tu Arduino, el\npin central entregará un voltaje variable entre\n0V y 5V.\nPOTENCIÓMETRO\nPOTENCIÓMETRO\nPOTENCIÓMETRO"
+  },
+  {
+    "page": 14,
+    "text": "El circuito utiliza un potenciometro conectado  en el pin A2 para simular\nun sensor analógico. El Arduino procesa la señal mediante su ADC de 10\nbits , convirtiendo el voltaje en valores digitales (0-1023) con la función\nanalogRead(). Estos valores se envían al puerto serie y controlan un\nsemáforo según estos rangos:\nVerde: de 0 a 500.\nAmarillo: de 501 a 800.\nRojo: de 801 a 1023 (valor máximo de resolución).\nACTIVIDAD SIMULACIÓN\nACTIVIDAD SIMULACIÓN\nACTIVIDAD SIMULACIÓN"
+  },
+  {
+    "page": 15,
+    "text": "PRÁCTICA 5\nPRÁCTICA 5\nPOTENCIOMETRO"
+  },
+  {
+    "page": 16,
+    "text": "Desarrollar un sistema que visualice la magnitud de una señal analógica mediante una\nbarra de 5 indicadores LED (focos), utilizando un potenciómetro como transductor de\nentrada.\nPRÁCTICA 5\nPRÁCTICA 5\nLeer el voltaje variable de un potenciómetro. Deben programar una\nsecuencia de activación donde los LEDs se enciendan de forma\nacumulativa según el nivel de voltaje detectado"
+  },
+  {
+    "page": 17,
+    "text": "VELOCIDAD DE UN\nVELOCIDAD DE UN\nMOTOR DC\nMOTOR DC\nVELOCIDAD DE UN\nMOTOR DC"
+  },
+  {
+    "page": 18,
+    "text": "OBJETIVO\nOBJETIVO\nOBJETIVO\n Controlar la velocidad de un motor (DC)\nutilizando una señal de modulación por ancho\nde pulso (PWM), explicando la relación directa\nentre el ciclo de trabajo de la señal y la\nvelocidad del motor."
+  },
+  {
+    "page": 19,
+    "text": "SEÑAL PWM\nSEÑAL PWM\nSEÑAL PWM\nArduino no puede variar la tensión de salida de sus pins,\nsolo puede suministrar 5V. Por lo tanto es\nnecesario usar una técnica llamada Modulación por\nAncho de Pulso o PWM\n●PWM consigue que un pin de salida varíe\nrápidamente su tensión de alto\na bajo (entre 5 y 0V) durante un periodo fijo de\ntiempo."
+  },
+  {
+    "page": 20,
+    "text": "señal PWM\nseñal PWM\nseñal PWM"
+  },
+  {
+    "page": 21,
+    "text": "transistor como Switch para el\ntransistor como Switch para el\nuso con motores DC\nuso con motores DC\ntransistor como Switch para el\nuso con motores DC\nLa tarjeta Arduino Uno dispone de seis\npins que se pueden usar con PWM (los\npins\ndigitales 3,5,6,9,10 y 11), los cuales se\npueden identificar por el símbolo ~ que\naparece\njunto a su número sobre la tarjeta."
+  },
+  {
+    "page": 22,
+    "text": "Programación\nProgramación\nProgramación\nanalogWrite(motor,veocidad)"
+  },
+  {
+    "page": 23,
+    "text": "SIMULACION\nSIMULACION\nSIMULACION\nVariar LA VELOCIDAD DEL MOTOR CON\nTRES BOTONES CON DISTINTAS PWM\n \nPARAR=0\n MEDIA=100\nMAXIMA=255"
+  },
+  {
+    "page": 24,
+    "text": "Ing. David Rógel N.\nClase 4\nARDUINO MÓDULO N° 4"
+  },
+  {
+    "page": 25,
+    "text": "DRIVER MOTOR DC\nDRIVER MOTOR DC\nDRIVER MOTOR DC"
+  },
+  {
+    "page": 26,
+    "text": "OBJETIVO\nOBJETIVO\nOBJETIVO\n\"Comprender qué es, para qué sirve y cómo utilizar el\ndriver L298N para controlar la velocidad y el sentido de\ngiro de motores (DC), aplicando este conocimiento en\nproyectos de robótica y automatización que se usan en la\nvida real, como autos a control remoto, brazos robóticos o\nsistemas de puertas automáticas.\""
+  },
+  {
+    "page": 27,
+    "text": "El Driver L298N es el intermediario. Es\ncomo un traductor y un amplificador de\nfuerza. Recibe los \"susurros\" (señales de\nbajo voltaje) del Arduino y los convierte en\n\"gritos\" (señales de alto voltaje y corriente)\nque los motores sí pueden entender y\nobedecer.\nDRIVER L298N\nDRIVER L298N\nDRIVER L298N"
+  },
+  {
+    "page": 28,
+    "text": "Permite invertir la polaridad de la\ncorriente\nPermite controlar la velocidad, según el\ncambio de PWM.\nnos permite controlar dos motores DC de\nforma independiente\nCARACTERÍSTICAS DRIVER\nCARACTERÍSTICAS DRIVER\nL298N\nL298N\nCARACTERÍSTICAS DRIVER\nL298N"
+  },
+  {
+    "page": 29,
+    "text": "Pines a conectar\nPines a conectar\nPines a conectar\nMotor A se conecta a OUT1 y OUT2.\nMotor B se conecta a OUT3 y OUT4\nENA (Enable A) y ENB (Enable B)\nIN1, IN2, IN3, IN4 (Input 1, 2, 3, 4)\nIN1=ALTO, IN2=BAJO: \nGira en un sentido (ej. adelante).\nIN1=BAJO, IN2=ALTO: \nGira en sentido contrario (ej. atrás)."
+  },
+  {
+    "page": 30,
+    "text": "PROGRMA /SIMULACIÓN\nPROGRMA /SIMULACIÓN\nPROGRMA /SIMULACIÓN\nConfiguraremos 3 pulsadores para controlar un\nmotor, el cual funcionará a una velocidad de 150.\nBotón 1: Mover el motor hacia adelante.\nBotón 2: Mover el motor hacia atrás.\nBotón 3: Detener el motor completamente."
+  },
+  {
+    "page": 31,
+    "text": "DRIVER CONEXIONES\nDRIVER CONEXIONES \nDRIVER CONEXIONES \nWhat was the\nthird word in the\nsequence?\nPWM\nPWM"
+  },
+  {
+    "page": 32,
+    "text": "hipotesis\nQueremos que el motor mediante el\ndriver y la programación en Arduino\nlogre cambiar la velocidad y el\nsentido de giro"
+  },
+  {
+    "page": 33,
+    "text": "PRÁCTICA 3\nPRÁCTICA 3\nPRÁCTICA 3\nMediante el driver lograr que el motor\ngire hacia la derecha por 5 segundos , se\ndetenga un segundo y gire a la izqueirda\ndurante 4 segundos \nAñadir tres leds para representar dicho\nmovimiento."
+  },
+  {
+    "page": 34,
+    "text": "PRÁCTICA 4\nPRÁCTICA 4\nPRÁCTICA 4\nVariar la velocidad del motor\nmediante una PWM\nPoner tres pulsadores cada uno con\nuna función específica\n1) Adelante\n2) Stop\n3) Atrás\nCuando va hacia adelante el led verde\nse enciende\nCuando va hacia atrás el led rojo se\nenciende\nCuando está parado ambos leds se\napagan"
+  },
+  {
+    "page": 35,
+    "text": "Clase 5\nARDUINO MÓDULO N° 4\nIng. David Rógel N."
+  },
+  {
+    "page": 36,
+    "text": "OBJETIVO\nOBJETIVO\nOBJETIVO\nImplementar y verificar en parejas el funcionamiento de\nun motor DC utilizando un driver  L298N  y una placa de\nArduino, demostrando la capacidad de controlar la\ndirección de giro y la velocidad del motor mediante\nmodulación por ancho de pulso (PWM)."
+  },
+  {
+    "page": 37,
+    "text": "Pines a conectar\nPines a conectar\nPines a conectar\nMotor A se conecta a OUT1 y OUT2.\nMotor B se conecta a OUT3 y OUT4\nENA (Enable A) y ENB (Enable B)\nIN1, IN2, IN3, IN4 (Input 1, 2, 3, 4)\nIN1=ALTO, IN2=BAJO: \nGira en un sentido (ej. adelante).\nIN1=BAJO, IN2=ALTO: \nGira en sentido contrario (ej. atrás)."
+  },
+  {
+    "page": 38,
+    "text": "PRÁCTICA 5\nPRÁCTICA 5\nPRÁCTICA 5\nRealizar EL EJERCICIO DE LA PRACTICA\n4 , EN LA VIDA REAL, PERO HACER  UN\nCAMBIO DE VELOCDIAD CADA QUE SE\nAPLASTE UN BOTON\n1) adelante   pwm=190\n2)atrás pwm=75\n3) neutro pwm = 10"
+  },
+  {
+    "page": 39,
+    "text": "Clase 6\nARDUINO MÓDULO N° 4\nIng. David Rógel N."
+  },
+  {
+    "page": 40,
+    "text": "OBJETIVO\nOBJETIVO\nOBJETIVO\ncomprender el funcionamiento, la estructura\ny la aplicación de los servomotores en\nproyectos de robótica, y adquirir la\nhabilidad de programar su control de\nposición preciso."
+  },
+  {
+    "page": 41,
+    "text": "CONEXIONES\nLos servomotores poseen tres cables, a diferencia de los\nmotores comunes que sólo tienen dos. Estos tres cables casi\nsiempre tienen los mismos colores, por lo que son fácilmente\nreconocibles"
+  },
+  {
+    "page": 42,
+    "text": "PRÁCTICA 5\nEl circuito propuesto consta de un Arduino\nque controla un motor Servo, para ello\nusaremos:\n1 Arduino uno\n1 Servomotor\n3 Leds"
+  },
+  {
+    "page": 43,
+    "text": "Thank\nThank\nYou\nYou\nThank\nYou\nGreat job! You have tested your memory skills."
+  },
+  {
+    "page": 44,
+    "text": "Clase 7\nENTRADAS ANALÓGICAS\nIng. David Rógel N."
+  },
+  {
+    "page": 46,
+    "text": "OBJETIVO\nOBJETIVO\nOBJETIVO\nprogramar y conectar un  potenciómetro  en\nuna placa Arduino Uno, utilizando el\nconvertidor analógico-digital (ADC) para\nmonitorear variables del entorno en tiempo\nreal."
+  },
+  {
+    "page": 47,
+    "text": "¿DIFERENCIA ENTRE DIGITAL Y\nANALÓGICO ?\nANALÓGICO: es una representación física y\ncontinua de la información.\nLo digital es una representación discreta y\ndiscontinua\n¿ENTRADAS ANALOGICAS ?\nEl Arduino Uno tiene 6 canales dedicados a\nentradas analógicas, etiquetados desde A0\nhasta A5\nVoltaje de entrada: Funcionan típicamente en\nun rango de 0V a 5V"
+  },
+  {
+    "page": 48,
+    "text": "5 ejemplos de cada 1"
+  },
+  {
+    "page": 49,
+    "text": "EJEMPLOS"
+  },
+  {
+    "page": 50,
+    "text": "ENTRADAS ANALÓGICAS\nComo el Arduino es digital, no entiende una\nseñal continua. Lo que hace es \"mapear\" el\nvoltaje de entrada en un número entero:\nResolución: 10 bits.\nRango de salida: De 0 a 1023"
+  },
+  {
+    "page": 51,
+    "text": "Relación Voltaje vs. Valor Digital:\nPara saber qué valor obtendrás, se usa una regla de tres simple basada en el\nvoltaje de referencia (normalmente 5V):"
+  },
+  {
+    "page": 52,
+    "text": "Clase 8\nSensor Ultrasónico\nIng. David Rógel N."
+  },
+  {
+    "page": 53,
+    "text": "Es un sensor de nivel de agua (o detector de\ngotas) sencillo. Funciona mediante\nconductividad eléctrica.\nEl sensor tiene una serie de trazas de cobre\nexpuestas en paralelo. Cuando el agua toca\nestas trazas, actúa como un puente eléctrico\n(el agua conduce electricidad), cerrando el\ncircuito entre las líneas conectadas a energía y\nlas líneas conectadas a la señal.\nSensor Ultrasónico"
+  },
+  {
+    "page": 54,
+    "text": "Gracias a la expresión:\n,\ndonde 𝒕 es el tiempo transcurrido entre la\nemisión y recepción de la onda \n 𝒄 es la velocidad del sonido 343 m/s para 20°C. \nEl primero de ellos el emisor, emitirá una onda\ncomo la mencionada anteriormente mientras\nque el segundo elemento el receptor recibirá\ndicha onda, sobre el cual esta será reflejada\n¿cómo se obtiene la distancia de los objetos?"
+  },
+  {
+    "page": 55,
+    "text": "Gracias a la expresión:\n,\ndonde 𝒕 es el tiempo transcurrido entre la\nemisión y recepción de la onda \n 𝒄 es la velocidad del sonido 343 m/s para 20°C. \nEl primero de ellos el emisor, emitirá una onda\ncomo la mencionada anteriormente mientras\nque el segundo elemento el receptor recibirá\ndicha onda, sobre el cual esta será reflejada\n¿cómo se obtiene la distancia de los objetos?"
+  },
+  {
+    "page": 56,
+    "text": "sensor\nultrasónico HC-SR04"
+  },
+  {
+    "page": 57,
+    "text": "Clase 9\nSensor de agua\nIng. David Rógel N."
+  },
+  {
+    "page": 58,
+    "text": "OBJETIVO\nOBJETIVO\nOBJETIVO\nprogramar y conectar un  sensor de humedad,\nutilizando el convertidor analógico-digital\n(ADC) para determinar si llueve o hace sol\nen tiempo real."
+  },
+  {
+    "page": 59,
+    "text": "Es un sensor de nivel de agua (o detector de\ngotas) sencillo. Funciona mediante\nconductividad eléctrica.\nEl sensor tiene una serie de trazas de cobre\nexpuestas en paralelo. Cuando el agua toca\nestas trazas, actúa como un puente eléctrico\n(el agua conduce electricidad), cerrando el\ncircuito entre las líneas conectadas a energía y\nlas líneas conectadas a la señal.\nSensor de agua"
+  },
+  {
+    "page": 60,
+    "text": "2. Pines del Sensor\nLa mayoría de estos\nsensores tienen 3 pines:\nVCC: Alimentación\n(normalmente 3.3V o\n5V).\nGND: Tierra (0V).\nSIG / OUT / S: Salida de\nseñal analógica. Envía\nun voltaje proporcional a\nla cantidad de agua que\ntoca las placas."
+  },
+  {
+    "page": 61,
+    "text": "Señal Analógica: Arduino lee\nesto mediante analogRead(). El\nvalor irá de 0 (totalmente seco)\na aproximadamente 1023\n(totalmente sumergido).\n3. Conceptos Técnicos Clave"
+  },
+  {
+    "page": 62,
+    "text": "Clase 10\nMAQUETA FINAL\nIng. David Rógel N."
+  },
+  {
+    "page": 63,
+    "text": "NOTA FINAL GRUPAL\nmaqueta\nsimulacion y programa \nFUNCIONAMIENTO\nCircuito y Conexiones\nLógica de Programación\nUso del Monitor Serie\nRespuesta del Sistema\nIntegración de Robótica y Maqueta\nFuncionamiento del Sensor de Agua\nLógica y Programación (Código)\nSostenibilidad y Estética\nUso de Materiales\nCreatividad e Innovación\nPresentación y Limpieza\nEstabilidad y Construcción"
+  }
+]

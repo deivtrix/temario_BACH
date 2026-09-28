@@ -1,0 +1,202 @@
+[
+  {
+    "page": 1,
+    "text": "Tecnología\nELÉCTRICA"
+  },
+  {
+    "page": 2,
+    "text": "HERRAMIENTAS BÁSICAS\nDestornillador Plano \nDestornillador Estrella \nAlicate\nProtoboard\nCables\nBatería \nLEDs"
+  },
+  {
+    "page": 3,
+    "text": "INTRODUCCIÓN A LA\nROBÓTICA"
+  },
+  {
+    "page": 4,
+    "text": "01. Introducción\n02. La Electricidad\n03. V, C ,R\n04. CORRIENTE ALTERNA Y CONTINUA\n05. LEY DE OHM\n07. CIRCUITOS SERIE  Y PARALELO\n06. Colores de las resistencias\n08. MOTORES\nÍNDICE"
+  },
+  {
+    "page": 5,
+    "text": "Ruta de aprendizaje"
+  },
+  {
+    "page": 6,
+    "text": "Ruta de aprendizaje"
+  },
+  {
+    "page": 7,
+    "text": "Radiación"
+  },
+  {
+    "page": 9,
+    "text": "ELECTRICIDAD\nes una forma de energía que se produce por el\nmovimiento de  los electrones, a través de un\nconductor.\nEsta energía es muy versátil y puede transformarse en\notras formas de energía, como la luz, el calor, sonido o\nel movimiento."
+  },
+  {
+    "page": 10,
+    "text": "actividad 1\nIDENTIFICAR 8 ejemplos de\naparatos eléctricos que tenga en\nsu casa:\n2 que den calor\n2 que se muevan \n2 que hagan algun sonido\n2 que genere una luz ."
+  },
+  {
+    "page": 11,
+    "text": "ENERGÍA continua y ENERGÍA\nalterna\nIng. David Rógel N."
+  },
+  {
+    "page": 12,
+    "text": "Corriente continua DC\nIng. David Rógel N.\nflujo constante de electrones que\nno varía en el tiempo \ntiene polaridad (positivo y\nnegativo)\nalimenta a los dispositivos\ninalámbricos(sin cable) \nSon de DC los aparatos que usan\npilas y baterías"
+  },
+  {
+    "page": 13,
+    "text": "ejemplo de pilas y baterias\nPILAS AA o AAA\n1.5 V\nPILAS MONEDA\n3 V\nBATERÍA \n9 V\nBATERÍA CARRO \n12 V"
+  },
+  {
+    "page": 14,
+    "text": "Ing. David Rógel N.\nflujo  de electrones que cambia\nperiódicamente.\nEs decir que  varía en el tiempo \nNO tiene polaridad \nFrecuencia de movimiento es 60 Hz\nVoltaje de los tomacorrientes es\nCorriente Alterna AC"
+  },
+  {
+    "page": 15,
+    "text": "actividad 2\nTINKERCAD AC DC"
+  },
+  {
+    "page": 16,
+    "text": "Comprender la relación entre voltaje,\ncorriente y resistencia, a través de la Ley\nde Ohm.\nobjetivo"
+  },
+  {
+    "page": 17,
+    "text": "VOLTAJE CORRIENTE Y\nRESISTENCIA\nIng. David Rógel N."
+  },
+  {
+    "page": 19,
+    "text": "Voltaje\nEl Voltaje se representa con la\nletra V\nUnidad de medida VOLT ¨\nA estos voltajes se los llama\ndiferencia de potencial o\nTensión eléctrica \ntensión es que siempre se mide\nentre 2 puntos,\nIng. David Rógel N.\nEs la fuerza con la empuja la corriente a través de un material\nconductor"
+  },
+  {
+    "page": 20,
+    "text": "CORRIENTE\nLa corriente eléctrica se mide en amperios (A).\ncuanto mayor voltaje exista , más corriente\ncirculará.\nA mayor resistencia, menor flujo de corriente\n(según la ley de Ohm).\nIng. David Rógel N.\nel flujo de carga eléctrica a través\nde un material conductor."
+  },
+  {
+    "page": 21,
+    "text": "RESISTENCIA ELÉCTRICA \nEs la oposición que presenta un\nmaterial al flujo de corriente eléctrica.\nCuanto mayor sea la resistencia, menor\nserá la corriente que pueda circular\npara un voltaje dado.\nLa unidad de medida de la resistencia\nes el ohmio (Ω)"
+  },
+  {
+    "page": 22,
+    "text": "Circuito Eléctrico\nIng. David Rógel N."
+  },
+  {
+    "page": 23,
+    "text": "ley de OHM"
+  },
+  {
+    "page": 24,
+    "text": "circuitos"
+  },
+  {
+    "page": 25,
+    "text": "¿Qué es un\ncircuito?\nUn circuito es un camino cerrado a\ntravés del cual fluye la corriente\neléctrica\nEstá formado por componentes\nelectrónicos conectados entre sí,\ncomo baterías, bombillas,\nresistencias, transistores, etc."
+  },
+  {
+    "page": 26,
+    "text": "¿Cómo funciona\nun circuito?\nPara que un circuito funcione, necesita una fuente\nde energía (como una batería)\nun conductor (como un cable de cobre)\nuna carga (como una bombilla)"
+  },
+  {
+    "page": 27,
+    "text": "Act 3 Mi primer circuito"
+  },
+  {
+    "page": 28,
+    "text": "EXPERIMENTO 3\n1)2m de cable(gemelo,parlante)\n2) Focos y boquillas x4\n3) Alicate/destornillador\n4) Enchufe\n5)Taipe/ Cutter\nbase carton o de madera"
+  },
+  {
+    "page": 29,
+    "text": "EJERCICIO #1"
+  },
+  {
+    "page": 30,
+    "text": "CIRCUITO SERIE\nLa corriente es la misma en todos\nlos componentes.\nEl voltaje se divide entre los\ncomponentes\nLa resistencia total es la suma de\nlas resistencias individuales\nSi un componente falla, todo el\ncircuito se interrumpe"
+  },
+  {
+    "page": 31,
+    "text": "CIRCUITO PARALELO\nEl voltaje es el mismo en todos los\ncomponentes del circuito\nLa corriente total que entra al circuito\nse divide entre los diferentes caminos o\nramas. \nResistencia total disminuye\nSi un componente falla, los demás\ncomponentes continúan funcionando."
+  },
+  {
+    "page": 32,
+    "text": "Act 2 Mi primer circuito"
+  },
+  {
+    "page": 33,
+    "text": "ELECTRONICA\nRama de la ingenieria que s eenfocxa en el Estudio y\ndesarrollo de instrumenos y dispositivos electrónicos .\nEn términos más simples, la electrónica se encarga de\ncontrolar el flujo de electrones para realizar diversas\ntareas."
+  },
+  {
+    "page": 34,
+    "text": "¿Qué hace la electrónica?\nDiseña y crea\ncircuitos\nDesarrolla\ndispositivos\nAutomatiza\nprocesos\nLa electrónica es fundamental\npara automatizar procesos\nindustriales y crear sistemas\ninteligentes.\nDesde teléfonos móviles hasta\ncomputadoras, pasando por\ntelevisores y electrodomésticos,\nla electrónica está presente en\ncasi todos los dispositivos que\nutilizamos a diario.\nEstos circuitos, compuestos\npor componentes electrónicos\ncomo resistencias, capacitores,\ntransistores y circuitos\nintegrados, permiten procesar\nseñales eléctricas."
+  },
+  {
+    "page": 35,
+    "text": "¿Cuáles son los componentes\nbásicos de un circuito electrónico?\nresistencias\nCapacitores\nInductores\nTransistores\nDiodos\nCircuitos integrados"
+  },
+  {
+    "page": 36,
+    "text": "elementos\nreales"
+  },
+  {
+    "page": 37,
+    "text": "¿Qué es un\ndiodo LED?\nes un componente electrónico\nsemiconductor que convierte la\nenergía eléctrica en luz visible. Es\ndecir, cuando le aplicamos\ncorriente eléctrica, emite luz de un\ncolor específico.\nes un componente electrónico\nsemiconductor que convierte la\nenergía eléctrica en luz visible. Es\ndecir, cuando le aplicamos\ncorriente eléctrica, emite luz de un\ncolor específico."
+  },
+  {
+    "page": 39,
+    "text": "HISTORIA DE LOS LEDS\nROJO----1962------- 15mA\nVERDE----1972------- 15mA\nAZUL----1994------- 20mA\nAMARILLO----1996------- 15mA\nNARANJA----1996------- 15mA\nBLANCO----1996------- 20mA"
+  },
+  {
+    "page": 40,
+    "text": "circuito\nSe suman las resistencias de los\nelementos. \nExisite un único camino para la\ncorriente.\nSi un componente se quema el\ncircuito deja de funicionar \nserie\nDisminuye el valor de las\nresistencias \nLa corriente tienes varios caminos\npara circular(ramas) \nSi un componente se quema , el\ncircuito sigue funcionando \nparalelo"
+  },
+  {
+    "page": 41,
+    "text": "Act TINKERCAD"
+  },
+  {
+    "page": 42,
+    "text": "BRILLA MAS CON MENOS ENERGIA\nSI UNO SE DAÑA , LOS DEMAS SIGUEN FUNCIONANDO\nA TODOS LES LLEGA EL MISMO VOLTAJE   \nPARALELO"
+  },
+  {
+    "page": 44,
+    "text": "OBJETIVO\nComprender la estructura y funcionamiento de un\nprotoboard, para armar circuitos sencillos siguiendo\ndiagramas esquemáticos, con la correcta conexión de\nalimentación, resistencias, LEDs y otros componentes\ncomunes para lograr la funcionalidad deseada."
+  },
+  {
+    "page": 45,
+    "text": "protoboard\nEs una placa con numerosos orificios\ndonde puedes insertar componentes\nelectrónicos (resistencias,\ntransistores, integrados, etc.) y cables\nsin necesidad de soldar."
+  },
+  {
+    "page": 46,
+    "text": "¿Como funciona?\nEstos orificios están conectados eléctricamente\nentre sí de manera interna, siguiendo patrones\nespecíficos, lo que te permite crear circuitos de\nforma rápida y sencilla.\nEstos orificios están conectados eléctricamente\nentre sí de manera interna, siguiendo patrones\nespecíficos, lo que te permite crear circuitos de\nforma rápida y sencilla."
+  },
+  {
+    "page": 47,
+    "text": "Cómo funciona el protoboard completo\nIng. David Rógel N."
+  },
+  {
+    "page": 48,
+    "text": "¿Cómo utilizar el protoboard?\nIng. David Rógel N.\nEnergización"
+  },
+  {
+    "page": 49,
+    "text": "Ejemplo de energización\nIng. David Rógel N."
+  },
+  {
+    "page": 50,
+    "text": "Líneas Comunes\nIng. David Rógel N.\nEsos 5 agujeros están\ninterconectados entre sí. \nEsto significa que los\nagujeros de abajo y los\nde arriba(los que tienen\nnúmero) \nestán\nseparados."
+  },
+  {
+    "page": 51,
+    "text": "Ejemplo de conexión\nIng. David Rógel N."
+  },
+  {
+    "page": 52,
+    "text": "¿Por qué la Protoboard está\ndividida a la mitad?\nIng. David Rógel N.\nEsto se debe a que en electrónica\nhay \nciertos \ncomponentes\n(integrados) que necesitan de una\nubicación especial en la protoboard.\nEste componente tiene patitas en\nambos costados, por lo que, al\nconectarlo \nen \nel \n \nprotoboard,\ntenemos que asegurarnos de que\nesas \npatitas \nno \nestén\ninterconectadas entre sí."
+  },
+  {
+    "page": 53,
+    "text": "Act 2 Circuito con leds"
+  },
+  {
+    "page": 54,
+    "text": "Muchas\nGRACIAS\nw w w . u n s i t i o g e n i a l . e s"
+  }
+]
