@@ -9,20 +9,21 @@
 
 ## 📌 1. REGLAS Y ACUERDOS DE TRABAJO
 * **Duración de la clase:** 45 minutos strictly.
-* **Modalidad de trabajo:** Chicos siempre en computadoras / laboratorio (a menos que salgan al patio).
+* **Modalidad de trabajo:** Chicos siempre en computadoras / laboratorio (a menos que salgan al patio o hagan prácticas físicas).
 * **Entregables:** Siempre se asigna una pregunta/cuestionario corto, infografía en Canva o archivo en Google Classroom para calificar en los últimos 5 minutos de la clase.
 * **Dinámica de edición:** NO usar scripts pesados de Python para modificar archivos. Ediciones directas y limpias en formato Markdown.
 
 ---
 
 ## 💡 2. IDEAS Y HERRAMIENTAS GUARDADAS PARA FUTURAS CLASES
-* 🎮 **Infinite Craft (`neal.fun/infinite-craft/`):** Guardado para **9no EGB** (Clase de Transformación de Materias Primas). Se usará para un reto donde partiendo de *Agua, Fuego, Tierra, Aire* deban descubrir cómo fabricar `Metal`, `Glass`, `Plastic`, `Silicon` o `Robot`.
+* 🛠️ **9no EGB - Prácticas Físicas Manuales (PENDIENTE DE DISEÑAR):** Buscar actividades manipulativas y tangibles (modelado físico, ensamble o materiales de desecho/impresión) para que 9no EGB no esté únicamente frente a la computadora.
+* 🎮 **9no EGB - Infinite Craft (`neal.fun/infinite-craft/`):** Guardado para la clase de Transformación de Materias Primas (*Agua, Fuego, Tierra, Aire* $\rightarrow$ `Metal`, `Glass`, `Plastic`, `Silicon` o `Robot`).
 
 ---
 
 ## 🗺️ 3. MAPA DE CONTINUIDAD CURRICULAR (EVITAR REPETICIONES)
 * **8vo EGB:** Energía, Cargas, Fuentes de energía y Kits LEGO WeDo.
-* **9no EGB:** Fabricación, Tipos de Fabricación (Patio / Canva / Tinkercad 3D / Infinite Craft) y Robótica mBot.
+* **9no EGB:** Fabricación, Tipos de Fabricación (Patio / Canva / Tinkercad 3D / Infinite Craft / Prácticas Físicas) y Robótica mBot.
 * **10mo EGB:** Arduino Módulo 1 (LEDs, Semáforo, Auto Fantástico, `if-else`).
 * **1ro BGU:** Arduino Módulo 2 (`PRESENTACION_1RO_BGU_ARDUINO_MOD2.pdf` - Pulsadores, Variables `bool`/`int`, PWM).
 * **2do BGU:** 
@@ -50,12 +51,13 @@ clases bach/
 
 * **Semana 1:** Impartida y archivada en `03_PLANIFICACION_SEMANAL/SEMANA_01/`.
 * **Semana 2:** Diseñada al 100% en `03_PLANIFICACION_SEMANAL/SEMANA_02/`:
-  - *8vo EGB:* Motor DC con Pila AAA + 3 Preguntas en Classroom. *(Pedir Limón/Papa + Moneda + Clip para Semana 3).*
+  - *8vo EGB:* Motor DC con Pila AAA + 3 Preguntas en Classroom. *(Comunicado listo para pedir Limón/Papa + Moneda + Clavo galvanizado).*
   - *9no EGB:* 20 min Cacería en el patio en Tríos + Afiche en Canva. *(Ficha lista en `FICHA_9NO_CACERIA_CANVA.md`).*
   - *10mo EGB:* AC vs DC + Listas de 10 dispositivos en Classroom.
   - *1ro BGU:* Pulsadores, Pull-Down e `if-else` en Tinkercad.
   - *2do BGU:* Diseño 3D a Escala de la Mesa de Laboratorio en Tinkercad 3D.
   - *3ro BGU:* Transistores NPN + Práctica 1 Cinta Transportadora.
 * **Semana 3 & 4 (2do BGU adelantado):**
+  - *Semana 3 (8vo EGB):* Guía Pila Bioquímica lista en `GUIA_PRACTICA_PILA_LIMON_8VO.md`.
   - *Semana 3 (2do BGU):* Módulo de Simulación de Física Simlab en Tinkercad.
   - *Semana 4 (2do BGU):* Proyecto Especial 3D.
