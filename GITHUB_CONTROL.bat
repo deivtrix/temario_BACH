@@ -9,11 +9,11 @@ echo.
 echo   [1] SUBIR cambios a GitHub (Compu Personal / Casa)
 echo   [2] DESCARGAR cambios de GitHub (Compu Colegio)
 echo   [3] VER ESTADO / Archivos modificados o pendientes
-echo   [4] ABRIR PLANIFICACIÓN DE LA SEMANA ACTUAL
+echo   [4] ABRIR PLANIFICACION DE LA SEMANA ACTUAL
 echo   [5] SALIR
 echo.
 echo ====================================================
-set /p opcion="Selecciona una opcion (1 a 5) y presiona ENTER: "
+set /p opcion=Selecciona una opcion (1 a 5) y presiona ENTER: 
 
 if "%opcion%"=="1" goto SUBIR
 if "%opcion%"=="2" goto DESCARGAR
@@ -35,7 +35,7 @@ echo.
 git config user.name "David C"
 git config user.email "davidc@example.com"
 git add -A
-git commit -m "Actualizacion automatica de clases - %date% %time%"
+git commit -m "Actualizacion automatica de clases"
 git push origin main
 echo.
 echo ====================================================
