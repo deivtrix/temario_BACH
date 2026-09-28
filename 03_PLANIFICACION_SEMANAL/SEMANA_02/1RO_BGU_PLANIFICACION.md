@@ -50,18 +50,18 @@
    }
    ```
 
-4. **🚀 Paso 3: Código Final del Reto (Sirena de Policía Alternada):**
-   * Código súper fácil que los estudiantes completan para alternar colores:
+4. **🚀 Paso 3: Código Final del Reto (Focos LEDs de Sirena de Policía):**
+   * Explicación a los alumnos: *"Simularemos la sirena de un patrullero de policía: los 2 focos LEDs rojos (pines 6 y 7) se encienden juntos mientras los 2 focos LEDs azules (pines 12 y 13) se apagan; luego se invierten."*
    ```cpp
    void loop() {
-     // Rojos prendidos, Azules apagados
+     // Focos LEDs Rojos prendidos (true), Focos LEDs Azules apagados (false)
      digitalWrite(6, true);
      digitalWrite(7, true);
      digitalWrite(12, false);
      digitalWrite(13, false);
      delay(500);
 
-     // Rojos apagados, Azules prendidos
+     // Focos LEDs Rojos apagados (false), Focos LEDs Azules prendidos (true)
      digitalWrite(6, false);
      digitalWrite(7, false);
      digitalWrite(12, true);
@@ -69,6 +69,7 @@
      delay(500);
    }
    ```
+
 
 
 

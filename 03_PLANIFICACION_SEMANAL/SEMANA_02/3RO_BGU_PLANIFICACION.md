@@ -35,16 +35,18 @@
    }
    ```
 
-4. **🚀 Paso 3: Código Final Fácil (Intermitencia del Transistor):**
+4. **🚀 Paso 3: Código Final Fácil (Control de Banda Transportadora Industrial):**
+   * Explicación a los alumnos: *"El Transistor NPN actúa como el interruptor electromecánico de una **Banda / Cinta Transportadora Industrial**: cuando el Arduino manda `true`, la banda se mueve para avanzar cajas (3 segundos); cuando manda `false`, la banda se detiene (1 segundo) para que un operario o sensor empaque el producto."*
    ```cpp
    void loop() {
-     digitalWrite(2, true);  // Prende 3 segundos
+     digitalWrite(2, true);  // La Banda Transportadora avanza (3 segundos)
      delay(3000);
 
-     digitalWrite(2, false); // Apaga 1 segundo
+     digitalWrite(2, false); // La Banda Transportadora se detiene para empaque (1 segundo)
      delay(1000);
    }
    ```
+
 
 
 5. **📝 Calificación Directa en Classroom (40 - 45 min):** Captura del circuito armado con el Transistor NPN + Resistencia de Base en Tinkercad.
