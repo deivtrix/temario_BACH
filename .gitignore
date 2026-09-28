@@ -10,12 +10,10 @@ Thumbs.db
 __pycache__/
 *.pyc
 
-# Archivos pesados o copias temporales gigantes si las hubiera
+# Permitir subir configuracion de Obsidian para mantener notas y enlaces sincronizados
+!.obsidian/
+
+# Archivos pesados que no se deben subir
 *.zip
 *.rar
 *.7z
-
-# Ignorar archivos PDF grandes (>50MB) para GitHub
-*.pdf
-*.pptx
-*.docx
