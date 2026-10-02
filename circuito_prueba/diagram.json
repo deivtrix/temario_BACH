@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "author": "David Castro T.",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 80, "left": 60, "attrs": {} },
+    { "type": "wokwi-led", "id": "led1", "top": -40, "left": 180, "attrs": { "color": "green", "label": "LED Verde (Pin 12)" } },
+    { "type": "wokwi-resistor", "id": "r1", "top": 30, "left": 180, "attrs": { "value": "220" } },
+    { "type": "wokwi-pushbutton", "id": "btn1", "top": 0, "left": 300, "attrs": { "color": "red", "label": "Pulsador (Pin 2)" } }
+  ],
+  "connections": [
+    [ "uno:12", "r1:1", "green", [ "v0" ] ],
+    [ "r1:2", "led1:A", "green", [ "v0" ] ],
+    [ "uno:GND.1", "led1:C", "black", [ "v0" ] ],
+    [ "uno:2", "btn1:2.1", "orange", [ "v0" ] ],
+    [ "uno:GND.2", "btn1:1.1", "black", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
+

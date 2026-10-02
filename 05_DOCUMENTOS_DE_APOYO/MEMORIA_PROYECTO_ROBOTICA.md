@@ -1,7 +1,7 @@
 # 🧠 MEMORIA MAESTRA Y REGISTRO DE DECISIONES DEL PROYECTO DE ROBÓTICA
 
 **Institución:** Antigravity Academy / Bachillerato General Unificado y Básica Superior  
-**Docente:** Ing. David Rógel N.  
+**Docente:** Ing. David Castro T.  
 **Fecha de Auditoría y Reestructuración:** Septiembre 2026  
 **Repositorio GitHub:** `temario_BACH`  
 **Ubicación Raíz:** `C:\Users\David\Desktop\clases bach`
@@ -72,3 +72,4 @@ Para agilizar la búsqueda y optimizar el espacio en disco, se aplicó un manten
 
 ---
 *Documento de memoria técnica generado para continuidad pedagógica y referencia permanente.*
+

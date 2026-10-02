@@ -1,7 +1,7 @@
 [
   {
     "page": 1,
-    "text": "ROBÓTICA\nARDUINO (MODULO 2)\nIng. David Rógel N."
+    "text": "ROBÓTICA\nARDUINO (MODULO 2)\nIng. David Castro T."
   },
   {
     "page": 2,
@@ -13,19 +13,19 @@
   },
   {
     "page": 4,
-    "text": "Cambiemos los tipos de\nvariables\nPARA NUMERO\nENTEROS, YA SEAN\nPOSITOVS O\nNEGATIVOS\nVARIABLE DE 16\nBITS\nINT\nPARA NUMERO\nENTEROS,\nUNICAMENTE\nPOSITIVOS\nVARIABLE DE 16\nBITS\nUNSIGNED\nINT\nVALOR DE\nMEMORIA 1 BIT.\nSE USA PÀRA\nVALORES DIGITALES\n(0/1)\nBOOL\nIng. David Rógel N."
+    "text": "Cambiemos los tipos de\nvariables\nPARA NUMERO\nENTEROS, YA SEAN\nPOSITOVS O\nNEGATIVOS\nVARIABLE DE 16\nBITS\nINT\nPARA NUMERO\nENTEROS,\nUNICAMENTE\nPOSITIVOS\nVARIABLE DE 16\nBITS\nUNSIGNED\nINT\nVALOR DE\nMEMORIA 1 BIT.\nSE USA PÀRA\nVALORES DIGITALES\n(0/1)\nBOOL\nIng. David Castro T."
   },
   {
     "page": 5,
-    "text": "Probemos nuevos\ncomandos\nRecuerden lógica Matemática y apliquen los\nsinónimos de las variables digitales (1 y 0)\nLOW\nHIGH\n0\nfalse\n1\ntrue\nIng. David Rógel N."
+    "text": "Probemos nuevos\ncomandos\nRecuerden lógica Matemática y apliquen los\nsinónimos de las variables digitales (1 y 0)\nLOW\nHIGH\n0\nfalse\n1\ntrue\nIng. David Castro T."
   },
   {
     "page": 6,
-    "text": "Vamos a realizar un\nprograma que simule las\nluces de la sirena de la\npolicía (2 leds rojos y 2\nazules en intermitencia)\nACTIVIDAD N°3\nIng. David Rógel N."
+    "text": "Vamos a realizar un\nprograma que simule las\nluces de la sirena de la\npolicía (2 leds rojos y 2\nazules en intermitencia)\nACTIVIDAD N°3\nIng. David Castro T."
   },
   {
     "page": 7,
-    "text": "El objetivo de esta pequeña\npráctica será que ustedes\nrealicen su propia simulación\ndel circuito y el programa en\nla cual se presente las\ndistintas fases o método para\nencender y apagar los\nleds(lógica matemática)\nRecuerda agregar la captura de\ntu circuito y el código que\nprogramaste. \nAnalizar los datos\nIng. David Rógel N."
+    "text": "El objetivo de esta pequeña\npráctica será que ustedes\nrealicen su propia simulación\ndel circuito y el programa en\nla cual se presente las\ndistintas fases o método para\nencender y apagar los\nleds(lógica matemática)\nRecuerda agregar la captura de\ntu circuito y el código que\nprogramaste. \nAnalizar los datos\nIng. David Castro T."
   },
   {
     "page": 8,

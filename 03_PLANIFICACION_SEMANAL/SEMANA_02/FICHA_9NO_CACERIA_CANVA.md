@@ -27,13 +27,13 @@
 │   ┌───────────────────────────┐   📌 DATOS DE FABRICACIÓN:             │
 │   │                           │                                        │
 │   │   [ AQUÍ PEGAN SU FOTO    │   • Materia Prima Original:            │
-│   │     TOMADA EN EL PATIO ]  │     Mineral de Hierro / Carbón.        │
+│   │     TOMADA EN EL PATIO ]  │            │
 │   │                           │                                        │
 │   └───────────────────────────┘   • Tipo de Fabricación:               │
-│                                     Forja Industrial y Moldeo.         │
+│                                              │
 │                                                                        │
 │                                   • Propiedad Principal:               │
-│                                     Alta resistencia a la intemperie.  │
+│                                       │
 │                                                                        │
 │   Nombres de Integrantes: _________________________________________    │
 │                                                                        │

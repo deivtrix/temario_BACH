@@ -11,9 +11,14 @@
    * Diapositivas 1 a 5 de `PRESENTACION_1RO_BGU_ARDUINO_MOD2.pdf`.
    * Introducción a tipos de variables (`int`, `unsigned int`, `bool`) y equivalencias de memoria (Diapositivas 4 y 5: `HIGH = 1 = true`, `LOW = 0 = false`).
 
-2. **💻 Paso 1: El Código Simple (Todas prenden juntas):**
-   * El docente muestra el código directo donde todo parpadea al mismo tiempo:
+2. **💻 Paso 1: El Código Base / Novato (Todas prenden juntas, sin variables):**
+   * El docente muestra el código rústico directo donde todo parpadea al mismo tiempo con números fijos:
    ```cpp
+   // ==========================================
+   // PASO 1: CÓDIGO BASE (NOVATO)
+   // Todo parpadea al mismo tiempo, sin variables
+   // ==========================================
+
    void setup() {
      pinMode(6, OUTPUT);
      pinMode(7, OUTPUT);
@@ -22,12 +27,14 @@
    }
 
    void loop() {
+     // Todos los LEDs se encienden
      digitalWrite(6, HIGH);
      digitalWrite(7, HIGH);
      digitalWrite(12, HIGH);
      digitalWrite(13, HIGH);
      delay(500);
 
+     // Todos los LEDs se apagan
      digitalWrite(6, LOW);
      digitalWrite(7, LOW);
      digitalWrite(12, LOW);
@@ -36,37 +43,90 @@
    }
    ```
 
-3. **🧠 Paso 2: Tu Explicación (Usar `true` y `false` con nombres):**
-   * El docente muestra cómo reemplazar `HIGH/LOW` por variables sencillas:
+3. **🧠 Paso 2: Explicación del Docente (Variables de pines y booleanos `true`/`false`):**
+   * El docente explica cómo optimizar la memoria y la legibilidad: se definen nombres para los pines con `int` y estados lógicos con `bool`:
    ```cpp
-   int rojo = 6;
-   int azul = 12;
-   bool si = true;
-   bool no = false;
+   // ==========================================
+   // PASO 2: EXPLICACIÓN Y REFACTORIZACIÓN
+   // Código completo usando variables legibles y booleanos
+   // ==========================================
+
+   // Definición de pines para los 4 LEDs
+   int rojo1 = 6;
+   int rojo2 = 7;
+   int azul1 = 12;
+   int azul2 = 13;
+
+   // Variables booleanas para estados lógicos (1 bit)
+   bool encendido = true;  // true equivale a HIGH o 1
+   bool apagado = false;   // false equivale a LOW o 0
 
    void setup() {
-     pinMode(rojo, OUTPUT);
-     pinMode(azul, OUTPUT);
+     pinMode(rojo1, OUTPUT);
+     pinMode(rojo2, OUTPUT);
+     pinMode(azul1, OUTPUT);
+     pinMode(azul2, OUTPUT);
+   }
+
+   void loop() {
+     // Demostración: encendemos todos usando las variables
+     digitalWrite(rojo1, encendido);
+     digitalWrite(rojo2, encendido);
+     digitalWrite(azul1, encendido);
+     digitalWrite(azul2, encendido);
+     delay(500);
+
+     // Apagamos todos usando las variables
+     digitalWrite(rojo1, apagado);
+     digitalWrite(rojo2, apagado);
+     digitalWrite(azul1, apagado);
+     digitalWrite(azul2, apagado);
+     delay(500);
    }
    ```
 
-4. **🚀 Paso 3: Código Final del Reto (Focos LEDs de Sirena de Policía):**
-   * Explicación a los alumnos: *"Simularemos la sirena de un patrullero de policía: los 2 focos LEDs rojos (pines 6 y 7) se encienden juntos mientras los 2 focos LEDs azules (pines 12 y 13) se apagan; luego se invierten."*
+4. **🚀 Paso 3: Reto Autónomo de Estudiantes (Focos LEDs de Sirena de Policía):**
+   * Explicación a los alumnos: *"Simularemos la sirena de un patrullero de policía: los 2 focos LEDs rojos (pines 6 y 7) se encienden juntos mientras los 2 focos LEDs azules (pines 12 y 13) se apagan; luego se invierten a ritmo rápido de sirena."*
    ```cpp
-   void loop() {
-     // Focos LEDs Rojos prendidos (true), Focos LEDs Azules apagados (false)
-     digitalWrite(6, true);
-     digitalWrite(7, true);
-     digitalWrite(12, false);
-     digitalWrite(13, false);
-     delay(500);
+   // ==========================================
+   // PASO 3: RETO FINAL COMPLETO (SIRENA DE POLICÍA)
+   // Código 100% funcional y listo para Tinkercad Circuits
+   // ==========================================
 
-     // Focos LEDs Rojos apagados (false), Focos LEDs Azules prendidos (true)
-     digitalWrite(6, false);
-     digitalWrite(7, false);
-     digitalWrite(12, true);
-     digitalWrite(13, true);
-     delay(500);
+   // Pines de los LEDs Rojos
+   int rojo1 = 6;
+   int rojo2 = 7;
+
+   // Pines de los LEDs Azules
+   int azul1 = 12;
+   int azul2 = 13;
+
+   // Variables lógicas de control booleano
+   bool encendido = true;  // Luz activa
+   bool apagado = false;   // Luz inactiva
+
+   void setup() {
+     // Configuración de los 4 pines como salidas digitales
+     pinMode(rojo1, OUTPUT);
+     pinMode(rojo2, OUTPUT);
+     pinMode(azul1, OUTPUT);
+     pinMode(azul2, OUTPUT);
+   }
+
+   void loop() {
+     // FASE 1: Destello Rojo (Rojos prendidos, Azules apagados)
+     digitalWrite(rojo1, encendido);
+     digitalWrite(rojo2, encendido);
+     digitalWrite(azul1, apagado);
+     digitalWrite(azul2, apagado);
+     delay(300); // Ritmo de sirena policial
+
+     // FASE 2: Destello Azul (Rojos apagados, Azules prendidos)
+     digitalWrite(rojo1, apagado);
+     digitalWrite(rojo2, apagado);
+     digitalWrite(azul1, encendido);
+     digitalWrite(azul2, encendido);
+     delay(300); // Ritmo de sirena policial
    }
    ```
 

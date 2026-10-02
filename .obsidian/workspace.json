@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "3a0a31872b633f17",
+    "id": "75e089590119d661",
     "type": "split",
     "children": [
       {
-        "id": "911e4fd47ae4c034",
+        "id": "50576c04e91a3354",
         "type": "tabs",
         "children": [
           {
-            "id": "b0057cb2fa063d63",
+            "id": "2f65cd68b6b14ffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_PLANIFICACION_SEMANAL/SEMANA_03/GUIA_PRACTICA_PILA_LIMON_8VO.md",
+                "file": "03_PLANIFICACION_SEMANAL/SEMANA_03/1RO_BGU_PLANTILLA_INFORME_SIRENA_POLICIA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GUIA_PRACTICA_PILA_LIMON_8VO"
+              "title": "1RO_BGU_PLANTILLA_INFORME_SIRENA_POLICIA"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3287de98179fd968",
+    "id": "e2640c76a581bddd",
     "type": "split",
     "children": [
       {
-        "id": "2a7fd869777a3d68",
+        "id": "ed7e207fc15c192b",
         "type": "tabs",
         "children": [
           {
-            "id": "e0af9eb2f70e19c4",
+            "id": "1da85fe0f98c6792",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,11 +46,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
-            "id": "df3e354a58298aae",
+            "id": "412a26efc00a47b9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,11 +63,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
-            "id": "eb56305064991e83",
+            "id": "23f94bd4944309d0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,7 +76,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -86,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "f6145b3a2c5b1e78",
+    "id": "de9ec29606646e06",
     "type": "split",
     "children": [
       {
-        "id": "2479bac931880984",
+        "id": "7ef8e7a6f65602fd",
         "type": "tabs",
         "children": [
           {
-            "id": "ea47db50f6df77bc",
+            "id": "538c05ae8bae53be",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLANIFICACION_DOCENTE_COMPLETA_2026_2027/2DO_BGU_PLANIFICACION.md",
+                "file": "PLANIFICACION_DOCENTE_COMPLETA_2026_2027/10MO_EGB_PLANIFICACION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,25 +109,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "9a9d6b150fa2864c",
+            "id": "7d128d47e42753d8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLANIFICACION_DOCENTE_COMPLETA_2026_2027/2DO_BGU_PLANIFICACION.md",
+                "file": "PLANIFICACION_DOCENTE_COMPLETA_2026_2027/10MO_EGB_PLANIFICACION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Enlaces salientes"
             }
           },
           {
-            "id": "5ee29d536cf263bd",
+            "id": "5d52ac5bb786c17c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,11 +138,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "ac763b2ee5118d7d",
+            "id": "0614afd48064c706",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -152,22 +152,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas las propiedades"
             }
           },
           {
-            "id": "032870e88646c26f",
+            "id": "44d189096e429b15",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLANIFICACION_DOCENTE_COMPLETA_2026_2027/2DO_BGU_PLANIFICACION.md",
+                "file": "PLANIFICACION_DOCENTE_COMPLETA_2026_2027/10MO_EGB_PLANIFICACION.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Esquema"
             }
           }
         ]
@@ -179,62 +179,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
-  "active": "b0057cb2fa063d63",
+  "active": "2f65cd68b6b14ffb",
   "lastOpenFiles": [
-    "03_PLANIFICACION_SEMANAL/SEMANA_02/8VO_EGB_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/9NO_EGB_PLANIFICACION_MECANIZADO_SIMULADOR_TORNO.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/10MO_EGB_PLANTILLA_INFORME_ARDUINO_BLINK.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/8VO_EGB_PLANTILLA_INFORME_PILA_LIMON.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/8VO_EGB_PLANIFICACION_PILA_BIOQUIMICA_LIMON.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/8VO_EGB_GUIA_DOCENTE_PERMISO_PILA_LIMON.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/3RO_BGU_PLANTILLA_INFORME_TRANSISTOR_SWITCH.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/PLANTILLA_INFORME_GOOGLE_DOCS.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/2DO_BGU_PLANTILLA_INFORME_BASKET_SIMLAB.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/1RO_BGU_PLANTILLA_INFORME_SIRENA_POLICIA.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/3RO_BGU_PLANIFICACION_TRANSISTOR_NPN_SWITCH.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/2DO_BGU_PLANIFICACION_BASKET_SIMLAB_3D.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/1RO_BGU_PLANIFICACION_SIRENA_POLICIA_CPLUSPLUS.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/10MO_EGB_PLANIFICACION_ARDUINO_TINKERCAD_BLINK.md",
     "03_PLANIFICACION_SEMANAL/SEMANA_03/GUIA_PRACTICA_PILA_LIMON_8VO.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_02/README_INDICE.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_02/FICHA_9NO_CACERIA_CANVA.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/9NO_EGB_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/8VO_EGB_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/1RO_BGU_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/README_INDICE.md",
     "03_PLANIFICACION_SEMANAL/SEMANA_02/10MO_EGB_PLANIFICACION.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_02/9NO_EGB_PLANIFICACION.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_02/3RO_BGU_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/3RO_BGU_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_03/10MO_EGB_PLANIFICACION.md",
     "03_PLANIFICACION_SEMANAL/SEMANA_02/2DO_BGU_PLANIFICACION.md",
     "03_PLANIFICACION_SEMANAL/SEMANA_02/1RO_BGU_PLANIFICACION.md",
-    "PLANIFICACION_ANUAL_DOCENTE_COMPLETA_2026_2027.md",
-    "temp_status.txt",
-    "GITHUB_CONTROL.bat",
-    "2_DESCARGAR_DE_GITHUB.bat",
-    "1_SUBIR_A_GITHUB.bat",
-    "CONTEXTO_MEMORIA_DOCENTE.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_04/2DO_BGU_PLANIFICACION.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_03/2DO_BGU_PLANIFICACION.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_04",
-    "03_PLANIFICACION_SEMANAL/SEMANA_03",
-    "03_PLANIFICACION_SEMANAL/SEMANA_02_PLAN_DE_CLASE.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_01/README_INDICE.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_01/9NO_EGB_PLANIFICACION.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_01/8VO_EGB_PLANIFICACION.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_01/3RO_BGU_PLANIFICACION.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_01/2DO_BGU_PLANIFICACION.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_01/1RO_BGU_PLANIFICACION.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_01/10MO_EGB_PLANIFICACION.md",
-    "03_PLANIFICACION_SEMANAL/SEMANA_02",
-    "03_PLANIFICACION_SEMANAL/SEMANA_01",
-    "PLANIFICACION_DOCENTE_COMPLETA_2026_2027/1RO_BGU_PLANIFICACION.md",
-    "05_DOCUMENTOS_DE_APOYO/PLANIFICACION_ANUAL_ROBOTICA_REESTRUCTURADA.json",
-    "05_DOCUMENTOS_DE_APOYO/PLANIFICACION_ANUAL_ROBOTICA_REESTRUCTURADA.md",
-    "05_DOCUMENTOS_DE_APOYO/MEMORIA_PROYECTO_ROBOTICA.md",
-    "05_DOCUMENTOS_DE_APOYO/ORGANIZACION_DOCENTE_ROBOTICA.md",
-    "05_DOCUMENTOS_DE_APOYO/ESQUEMA_SECUENCIALIDAD_ROBOTICA.pdf",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/3RO_BGU_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/8VO_EGB_PLANIFICACION.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/FICHA_9NO_CACERIA_CANVA.md",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/circuito_electrico_phet.svg",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/circuito_phet_8vo.png",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/circuito_visor.html",
+    "circuito_prueba/sketch.ino",
+    "circuito_prueba/diagram.json",
+    "circuito_prueba",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/SIMULACIONES/3RO_BGU_BANDA/sketch.ino",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/SIMULACIONES/3RO_BGU_BANDA/diagram.json",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/SIMULACIONES/3RO_BGU_BANDA",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/SIMULACIONES/1RO_BGU_SIRENA/sketch.ino",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/SIMULACIONES/1RO_BGU_SIRENA/diagram.json",
+    "03_PLANIFICACION_SEMANAL/SEMANA_02/SIMULACIONES/1RO_BGU_SIRENA",
     "05_DOCUMENTOS_DE_APOYO/logo.png",
-    "05_DOCUMENTOS_DE_APOYO/ESQUEMA_SECUENCIALIDAD_ROBOTICA.md",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/planificaciones/2024-2025/TUTORÍA/INTEGROS.png",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/planificaciones/2024-2025/TUTORÍA/DAVID.png",
     "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/planificaciones/2024-2025/TUTORÍA/1ro BGU ÍNTEGROS - SALIDA PEDAGÓGICA TELEFÉRICO/TIAGO.jpeg",
     "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/planificaciones/2024-2025/TUTORÍA/1ro BGU ÍNTEGROS - SALIDA PEDAGÓGICA TELEFÉRICO/NAOMI SALOME.jpeg",
     "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/planificaciones/2024-2025/TUTORÍA/1ro BGU ÍNTEGROS - SALIDA PEDAGÓGICA TELEFÉRICO/ALLEM.jpeg",
-    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/planificaciones/2024-2025/TUTORÍA/INTEGROS.png",
-    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/planificaciones/2024-2025/TUTORÍA/DAVID.png",
-    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/ROBÓTICA 3RO BGU EMPÁTICOS (C)/IR1_ DRIVER DE UN MOTOR  DC/IMG-20251031-WA0001.jpg",
-    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/ROBÓTICA 3RO BGU EMPÁTICOS (C)/CODIGO Y SIMULACION FINAL/Screenshot 2026-06-16 9.24.49 PM.png",
-    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/ROBÓTICA 3RO BGU EMPÁTICOS (C)/A9_ SERVOMOTOR PRACTICO(GRUPAL )/A9_ SERVOMOTOR PRACTICO(GRUPAL )  (Jan 16, 2026 at 1_43 PM).jpg",
-    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/ROBÓTICA 3RO BGU EMPÁTICOS (C)/A8_ SERVOMOTORES(SIMULACIÓN)/A8_ SERVOMOTORES(SIMULACIÓN)  (Jan 11, 2026 at 11_33 AM).jpg"
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/ROBÓTICA 9NO EGB AUDACES (D)/mBOT LEV.png",
+    "04_ENTREGAS_Y_TAREAS_ALUMNOS_VIEJAS/ROBÓTICA 9NO EGB AUDACES (D)/IR2_ LITOFANÍAS/Captura de pantalla 2026-01-16 113713.png"
   ]
 }

@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="100%" height="100%" style="background:#ffffff; font-family:'Segoe UI', Arial, sans-serif;">
+  <defs>
+    <!-- Filtros de sombra y brillo -->
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-opacity="0.15"/>
+    </filter>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <!-- Gradiente de fondo de tarjeta -->
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <feFlood flood-color="#f8fafc"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Marco General -->
+  <rect x="15" y="15" width="870" height="490" rx="16" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2" filter="url(#shadow)"/>
+
+  <!-- Título Superior -->
+  <text x="450" y="52" text-anchor="middle" font-size="22" font-weight="bold" fill="#0f172a">PARTES DE UN CIRCUITO ELÉCTRICO (SIMULACIÓN PHET)</text>
+  <text x="450" y="76" text-anchor="middle" font-size="14" fill="#64748b">8vo EGB — Laboratorio de Robótica y Ciencias</text>
+
+  <!-- CABLES PRINCIPALES (CONDUCTORES) -->
+  <!-- Cable superior (Pila a Amperímetro) -->
+  <path d="M 210 170 L 410 170" fill="none" stroke="#2563eb" stroke-width="8" stroke-linecap="round"/>
+  <!-- Cable superior (Amperímetro a Foco) -->
+  <path d="M 490 170 L 690 170 L 690 230" fill="none" stroke="#2563eb" stroke-width="8" stroke-linecap="round"/>
+  <!-- Cable inferior (Foco de vuelta a la Pila) -->
+  <path d="M 690 310 L 690 370 L 210 370 L 210 310" fill="none" stroke="#2563eb" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- Flujo de electrones (animación visual estática) -->
+  <circle cx="280" cy="170" r="5" fill="#facc15"/>
+  <circle cx="350" cy="170" r="5" fill="#facc15"/>
+  <circle cx="560" cy="170" r="5" fill="#facc15"/>
+  <circle cx="630" cy="170" r="5" fill="#facc15"/>
+  <circle cx="690" cy="340" r="5" fill="#facc15"/>
+  <circle cx="550" cy="370" r="5" fill="#facc15"/>
+  <circle cx="410" cy="370" r="5" fill="#facc15"/>
+  <circle cx="270" cy="370" r="5" fill="#facc15"/>
+
+  <!-- ========================================== -->
+  <!-- 1. FUENTE (PILA / BATERÍA) -->
+  <!-- ========================================== -->
+  <g transform="translate(160, 190)" filter="url(#shadow)">
+    <!-- Cuerpo pila -->
+    <rect x="0" y="20" width="100" height="100" rx="8" fill="#1e293b"/>
+    <rect x="0" y="20" width="30" height="100" rx="4" fill="#f59e0b"/>
+    <!-- Terminales -->
+    <rect x="35" y="0" width="30" height="20" rx="3" fill="#cbd5e1"/>
+    <!-- Textos pila -->
+    <text x="50" y="65" text-anchor="middle" font-size="18" font-weight="bold" fill="#ffffff">9 V</text>
+    <text x="50" y="85" text-anchor="middle" font-size="11" font-weight="bold" fill="#94a3b8">BATERÍA</text>
+    <text x="50" y="18" text-anchor="middle" font-size="14" font-weight="bold" fill="#ef4444">+</text>
+    <text x="50" y="135" text-anchor="middle" font-size="18" font-weight="bold" fill="#3b82f6">−</text>
+  </g>
+  <!-- Etiqueta 1 -->
+  <rect x="130" y="330" width="160" height="34" rx="8" fill="#f59e0b" filter="url(#shadow)"/>
+  <text x="210" y="352" text-anchor="middle" font-size="13" font-weight="bold" fill="#ffffff">1. FUENTE (Pila)</text>
+
+  <!-- ========================================== -->
+  <!-- 2. INSTRUMENTO DE MEDIDA (AMPERÍMETRO) -->
+  <!-- ========================================== -->
+  <g transform="translate(410, 125)" filter="url(#shadow)">
+    <!-- Cuerpo circular amperímetro -->
+    <circle cx="40" cy="45" r="42" fill="#0284c7" stroke="#0369a1" stroke-width="3"/>
+    <!-- Pantalla digital -->
+    <rect x="12" y="28" width="56" height="28" rx="4" fill="#0f172a"/>
+    <text x="40" y="47" text-anchor="middle" font-family="Courier, monospace" font-size="15" font-weight="bold" fill="#38bdf8">0.90 A</text>
+    <text x="40" y="22" text-anchor="middle" font-size="10" font-weight="bold" fill="#ffffff">AMPERÍMETRO</text>
+  </g>
+  <!-- Etiqueta 2 -->
+  <rect x="325" y="85" width="230" height="34" rx="8" fill="#0284c7" filter="url(#shadow)"/>
+  <text x="440" y="107" text-anchor="middle" font-size="13" font-weight="bold" fill="#ffffff">2. MEDIDOR (Amperímetro)</text>
+
+  <!-- ========================================== -->
+  <!-- 3. CONSUMIDOR (BOMBILLA / FOCO) -->
+  <!-- ========================================== -->
+  <g transform="translate(640, 210)" filter="url(#shadow)">
+    <!-- Resplandor amarillo -->
+    <circle cx="50" cy="40" r="45" fill="#fef08a" opacity="0.6" filter="url(#glow)"/>
+    <!-- Cristal bombilla -->
+    <circle cx="50" cy="40" r="32" fill="#fde047" stroke="#eab308" stroke-width="2"/>
+    <!-- Filamento -->
+    <path d="M 40 45 L 47 28 L 53 28 L 60 45" fill="none" stroke="#ca8a04" stroke-width="3" stroke-linecap="round"/>
+    <!-- Rayos de luz -->
+    <line x1="50" y1="-2" x2="50" y2="-12" stroke="#eab308" stroke-width="3" stroke-linecap="round"/>
+    <line x1="85" y1="12" x2="94" y2="5" stroke="#eab308" stroke-width="3" stroke-linecap="round"/>
+    <line x1="15" y1="12" x2="6" y2="5" stroke="#eab308" stroke-width="3" stroke-linecap="round"/>
+    <!-- Base metálica y rosca -->
+    <rect x="38" y="70" width="24" height="18" rx="2" fill="#94a3b8"/>
+    <rect x="42" y="88" width="16" height="8" rx="3" fill="#475569"/>
+  </g>
+  <!-- Etiqueta 3 -->
+  <rect x="585" y="325" width="210" height="34" rx="8" fill="#eab308" filter="url(#shadow)"/>
+  <text x="690" y="347" text-anchor="middle" font-size="13" font-weight="bold" fill="#713f12">3. CONSUMIDOR (Foco)</text>
+
+  <!-- ========================================== -->
+  <!-- 4. CONDUCTORES (CABLES) -->
+  <!-- ========================================== -->
+  <rect x="360" y="405" width="180" height="34" rx="8" fill="#2563eb" filter="url(#shadow)"/>
+  <text x="450" y="427" text-anchor="middle" font-size="13" font-weight="bold" fill="#ffffff">4. CONDUCTORES (Cables)</text>
+
+  <!-- Flecha guía al cable -->
+  <path d="M 450 405 L 450 380" stroke="#2563eb" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>

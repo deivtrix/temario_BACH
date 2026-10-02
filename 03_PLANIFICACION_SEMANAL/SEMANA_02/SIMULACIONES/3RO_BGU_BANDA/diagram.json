@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "author": "David Castro T.",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 120, "left": 40, "attrs": {} },
+    { "type": "wokwi-resistor", "id": "r_base", "top": 40, "left": 180, "attrs": { "value": "1000" } },
+    { "type": "wokwi-transistor-npn", "id": "q1", "top": 30, "left": 280, "attrs": {} },
+    { "type": "wokwi-motor", "id": "m1", "top": -70, "left": 280, "attrs": {} }
+  ],
+  "connections": [
+    [ "uno:2", "r_base:1", "orange", [ "v0" ] ],
+    [ "r_base:2", "q1:B", "orange", [ "v0" ] ],
+    [ "uno:GND.1", "q1:E", "black", [ "v0" ] ],
+    [ "q1:C", "m1:2", "blue", [ "v0" ] ],
+    [ "uno:5V", "m1:1", "red", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
+

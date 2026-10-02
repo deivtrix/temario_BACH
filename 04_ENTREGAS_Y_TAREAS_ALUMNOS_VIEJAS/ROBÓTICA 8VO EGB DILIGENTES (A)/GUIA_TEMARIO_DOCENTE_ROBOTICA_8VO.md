@@ -1,6 +1,6 @@
 # Guía Pedagógica y Temario Completo: Robótica 8vo EGB (Diligentes A)
 
-> **Profesor saliente:** Ing. David Rógel N.  
+> **Profesor saliente:** Ing. David Castro T.  
 > **Curso:** 8vo EGB Diligentes (A)  
 > **Área / Asignatura:** Robótica / Ciencias / Electricidad  
 > **Herramientas utilizadas:** Google Classroom, Canva / Cuadernos Digitales, Tinkercad Circuits, Kit LEGO Education WeDo 2.0.
@@ -116,3 +116,4 @@ El curso está diseñado bajo un enfoque **teórico-práctico progresivo (STEM)*
    - Mantener la herramienta **LEGO Education WeDo 2.0 App** para la programación por bloques.
    - Utilizar **Tinkercad Circuits** (Autodesk) para simulaciones virtuales de circuitos electrónicos básicos antes del armado físico.
 3. **Formatos de Entregables:** Los estudiantes ya conocen la plantilla de "Reporte de Laboratorio" (Objetivo, Materiales, Preguntas de Retroalimentación, Foto del Prototipo Real y Conclusión). Se sugiere mantener este formato para facilitar la continuidad pedagógica.
+

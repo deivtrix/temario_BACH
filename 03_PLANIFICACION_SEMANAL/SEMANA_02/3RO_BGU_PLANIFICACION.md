@@ -24,26 +24,55 @@
    }
    ```
 
-3. **🧠 Paso 2: Tu Explicación (Usar temporizador y bool):**
+3. **🧠 Paso 2: Explicación del Docente (Variables de control y temporización):**
+   * El docente muestra el código estructurado con variables `int` para el pin del motor y booleanos `true`/`false` para los estados de conmutación del transistor:
    ```cpp
-   int motor = 2;
-   bool prende = true;
-   bool apaga = false;
+   // ==========================================
+   // PASO 2: EXPLICACIÓN Y REFACTORIZACIÓN
+   // Control del Transistor NPN con variables y tiempos
+   // ==========================================
+
+   int pinMotor = 2;       // Pin digital conectado a la Base del transistor NPN
+   bool activado = true;   // Activa la conducción Colector-Emisor
+   bool detenido = false;  // Corta la corriente del motor
 
    void setup() {
-     pinMode(motor, OUTPUT);
+     pinMode(pinMotor, OUTPUT);
+   }
+
+   void loop() {
+     digitalWrite(pinMotor, activado);  // Enciende el motor
+     delay(2000);
+
+     digitalWrite(pinMotor, detenido);  // Apaga el motor
+     delay(2000);
    }
    ```
 
-4. **🚀 Paso 3: Código Final Fácil (Control de Banda Transportadora Industrial):**
+4. **🚀 Paso 3: Reto Autónomo de Estudiantes (Control de Banda Transportadora Industrial):**
    * Explicación a los alumnos: *"El Transistor NPN actúa como el interruptor electromecánico de una **Banda / Cinta Transportadora Industrial**: cuando el Arduino manda `true`, la banda se mueve para avanzar cajas (3 segundos); cuando manda `false`, la banda se detiene (1 segundo) para que un operario o sensor empaque el producto."*
    ```cpp
-   void loop() {
-     digitalWrite(2, true);  // La Banda Transportadora avanza (3 segundos)
-     delay(3000);
+   // ==========================================
+   // PASO 3: RETO FINAL COMPLETO (BANDA INDUSTRIAL)
+   // Código 100% funcional y listo para Tinkercad Circuits
+   // ==========================================
 
-     digitalWrite(2, false); // La Banda Transportadora se detiene para empaque (1 segundo)
-     delay(1000);
+   int pinMotor = 2;       // Pin conectado a la Base del Transistor 2N2222
+   bool avanza = true;     // Conducción en saturación: banda en marcha
+   bool frena = false;     // Corte del transistor: banda detenida
+
+   void setup() {
+     pinMode(pinMotor, OUTPUT);
+   }
+
+   void loop() {
+     // La Banda Transportadora avanza para transportar las cajas
+     digitalWrite(pinMotor, avanza);
+     delay(3000); // 3 segundos de avance
+
+     // La Banda Transportadora se detiene para la estación de empaque
+     digitalWrite(pinMotor, frena);
+     delay(1000); // 1 segundo de parada
    }
    ```
 

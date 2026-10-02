@@ -1,6 +1,6 @@
 # 🤖 PLANIFICACIÓN MAESTRA Y REESTRUCTURADA DE ROBÓTICA
 **Institución:** Antigravity Academy / Bachillerato General Unificado y Básica Superior  
-**Docente Entrante:** Ing. David Rógel N.  
+**Docente Entrante:** Ing. David Castro T.  
 **Duración de Clase:** 45 Minutos por sesión  
 **Estructura Anual:** 4 Secciones / Unidades al año | 6 Clases por Sección | **Total: 24 Clases al año por nivel**
 
@@ -570,3 +570,4 @@ Cada sesión de 45 minutos sigue una distribución neurodidáctica estricta para
 
 ---
 *Planificación redactada, estructurada e integrada para garantizar el 100% de coherencia pedagógica y continuidad sin repetición de contenidos.*
+

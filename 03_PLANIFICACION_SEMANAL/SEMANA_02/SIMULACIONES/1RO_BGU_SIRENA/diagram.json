@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "author": "David Castro T.",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 100, "left": 50, "attrs": {} },
+    { "type": "wokwi-led", "id": "led_rojo1", "top": -40, "left": 150, "attrs": { "color": "red", "label": "Rojo 1 (Pin 6)" } },
+    { "type": "wokwi-led", "id": "led_rojo2", "top": -40, "left": 220, "attrs": { "color": "red", "label": "Rojo 2 (Pin 7)" } },
+    { "type": "wokwi-led", "id": "led_azul1", "top": -40, "left": 290, "attrs": { "color": "blue", "label": "Azul 1 (Pin 12)" } },
+    { "type": "wokwi-led", "id": "led_azul2", "top": -40, "left": 360, "attrs": { "color": "blue", "label": "Azul 2 (Pin 13)" } },
+    { "type": "wokwi-resistor", "id": "r1", "top": 40, "left": 150, "attrs": { "value": "220" } },
+    { "type": "wokwi-resistor", "id": "r2", "top": 40, "left": 220, "attrs": { "value": "220" } },
+    { "type": "wokwi-resistor", "id": "r3", "top": 40, "left": 290, "attrs": { "value": "220" } },
+    { "type": "wokwi-resistor", "id": "r4", "top": 40, "left": 360, "attrs": { "value": "220" } }
+  ],
+  "connections": [
+    [ "uno:6", "r1:1", "red", [ "v0" ] ],
+    [ "r1:2", "led_rojo1:A", "red", [ "v0" ] ],
+    [ "uno:7", "r2:1", "orange", [ "v0" ] ],
+    [ "r2:2", "led_rojo2:A", "orange", [ "v0" ] ],
+    [ "uno:12", "r3:1", "blue", [ "v0" ] ],
+    [ "r3:2", "led_azul1:A", "blue", [ "v0" ] ],
+    [ "uno:13", "r4:1", "cyan", [ "v0" ] ],
+    [ "r4:2", "led_azul2:A", "cyan", [ "v0" ] ],
+    [ "uno:GND.1", "led_rojo1:C", "black", [ "v0" ] ],
+    [ "uno:GND.1", "led_rojo2:C", "black", [ "v0" ] ],
+    [ "uno:GND.1", "led_azul1:C", "black", [ "v0" ] ],
+    [ "uno:GND.1", "led_azul2:C", "black", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
+

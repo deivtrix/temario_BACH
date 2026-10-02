@@ -1,6 +1,6 @@
 # 📖 GUÍA MAESTRA Y HOJA DE RUTA PEDAGÓGICA DE ROBÓTICA
 **Institución:** Antigravity Academy / Bachillerato General Unificado y Básica Superior  
-**Docente Saliente:** Ing. David Rógel N.  
+**Docente Saliente:** Ing. David Castro T.  
 **Cursos:** 8vo, 9no, 10mo EGB y 1ro, 2do, 3ro BGU  
 **Ubicación de origen:** `C:\Users\David\Desktop\clases bach`
 
@@ -214,3 +214,4 @@ Para calificar o verificar el avance de cualquier estudiante de la institución,
 
 ---
 *Documento estructurado y auditado con base en las planificaciones oficiales PUD/PCA y las carpetas de estudiantes.*
+

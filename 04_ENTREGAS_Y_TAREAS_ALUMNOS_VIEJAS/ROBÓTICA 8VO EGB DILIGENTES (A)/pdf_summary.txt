@@ -1,4 +1,4 @@
-Page 1: C U A D E R N O  D E  A P R E N D I Z A J E | ROBÓTICA octavo egb | Profe : David Rógel
+Page 1: C U A D E R N O  D E  A P R E N D I Z A J E | ROBÓTICA octavo egb | Profe : David Castro T.
 Page 2: RUTA DE APRENDIZAJE | UNIDAD 1: Introducción a la | Energía y Transformación
 Page 3: QUIMESTRE 1 | Tema 1: ¿Qué es la Energía? | Tema 2: Formas y Fuentes de Generación de Energía
 Page 4: RUTA DE APRENDIZAJE | UNIDAD 2: Electromagnetismo, | Circuitos y Robótica Práctica
@@ -51,24 +51,24 @@ Page 54: ¿Cómo se transforma en eléctrica? | A través de procesos electroqu�
 Page 55: EXPERIMENTO N°1EXPERIMENTO N°1 | PARTE 1PARTE 1 | EXPERIMENTO N°1
 Page 56: TRAER UNA PAPA Y UN LIMÓNTRAER UNA PAPA Y UN LIMÓNTRAER UNA PAPA Y UN LIMÓN | TENER DOS METALES ZINC Y COBRETENER DOS METALES ZINC Y COBRETENER DOS METALES ZINC Y COBRE | CONECTAR LOS METALES AL LIMÓN/PAPACONECTAR LOS METALES AL LIMÓN/PAPACONECTAR LOS METALES AL LIMÓN/PAPA
 Page 57: Actividad 5Actividad 5 Actividad 5
-Page 58: E L É C T R I C I D A D | ROBÓTICA (PARCIAL 3-4) | Profe : David Rógel
+Page 58: E L É C T R I C I D A D | ROBÓTICA (PARCIAL 3-4) | Profe : David Castro T.
 Page 59: I N T R O D U C C I Ó N  A  L A | R O B Ó T I C A
 Page 60: Comprender los conceptos básicos de la | electricidad, incluyendo la carga eléctrica, la | corriente eléctrica y el voltaje, y cómo se
 Page 63: E L E C T R I C I D A D | es una forma de energía que se produce por el | movimiento de  los electrones, a través de un
 Page 64: actividad 1 | I D E N T I F I C A R  1 0  e j e m p l o s  d e | e l e c t r i c i d a d  q u e  u s e  d e
 Page 65: 💡 Principios Eléctricos | 1 .  L e y  d e  A m p è r e  ( E l e c t r o m a g n e t i s m o ) | 2 .  F u e r z a  d e  L o r e n t z
-Page 66: ENERGÍA continua y ENERGÍA | alterna | Ing. David Rógel N.
-Page 67: Corriente continua DC | Ing. David Rógel N. | flujo constante de electrones que
+Page 66: ENERGÍA continua y ENERGÍA | alterna | Ing. David Castro T.
+Page 67: Corriente continua DC | Ing. David Castro T. | flujo constante de electrones que
 Page 68: PILAS Y BATERÍAS
 Page 69: Pila AA o AAA | 1.5 V | Batería
-Page 70: Ing. David Rógel N. | flujo  de electrones cambia | periódicamente,
+Page 70: Ing. David Castro T. | flujo  de electrones cambia | periódicamente,
 Page 71: actividad 2 | I D E N T I F I C A R  7  e j e m p l o s  d e  d i s p o s i t i v o s | q u e  u t i l i c e n  e n e r g í a  C o n t i n u a  y  7  c o n
 Page 72: Comprender la relación entre voltaje, | corriente y resistencia, a través de la Ley | de Ohm.
-Page 73: VOLTAJE CORRIENTE Y | RESISTENCIA | Ing. David Rógel N.
+Page 73: VOLTAJE CORRIENTE Y | RESISTENCIA | Ing. David Castro T.
 Page 74: El Voltaje se representa con la | letra V | Unidad de medida VOLT[V]
 Page 75: CORRIENTE | La corriente eléctrica se mide en amperios | (A).
 Page 76: RESISTENCIA ELÉCTRICA | La unidad de medida de la resistencia | es el ohmio (Ω)
-Page 77: Circuito Eléctrico | Ing. David Rógel N.
+Page 77: Circuito Eléctrico | Ing. David Castro T.
 Page 78: PRINCIPIOS DE | ELECTRICIDAD | Ley de Ampère (Electromagnetismo)
 Page 79: campo | magnético | REALIDAD VIRTUAL
 Page 80: L e y  d e  A m p è r e | es uno de los pilares fundamentales del | electromagnetismo

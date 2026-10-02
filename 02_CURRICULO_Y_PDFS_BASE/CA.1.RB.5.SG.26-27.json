@@ -1,7 +1,7 @@
 [
   {
     "page": 1,
-    "text": "ROBÓTICA\nARDUINO (MÓDULO 3)\nIng. David Rógel N."
+    "text": "ROBÓTICA\nARDUINO (MÓDULO 3)\nIng. David Castro T."
   },
   {
     "page": 2,
@@ -17,7 +17,7 @@
   },
   {
     "page": 5,
-    "text": "tipos de variables\nINT\nUNSIGNED\nINT\nBOOL\nIng. David Rógel N.\nfloat\npuede representar\nnúmeros con 6-7\ndígitos decimales\nde precisión."
+    "text": "tipos de variables\nINT\nUNSIGNED\nINT\nBOOL\nIng. David Castro T.\nfloat\npuede representar\nnúmeros con 6-7\ndígitos decimales\nde precisión."
   },
   {
     "page": 6,
@@ -25,11 +25,11 @@
   },
   {
     "page": 7,
-    "text": "Ing. David Rógel N.\nLíneas de código\nLa función de Arduino pinMode permite configurar a cada pin, de forma\nindividual, como entrada o como salida\nLa función Arduino digitalWrite permite escribir valores lógicos digitales en\nun pin de Salida de una tarjeta Arduino\ndelay: se trabaja el tiempo está en milisegundos, por lo tanto, 2 segundos\nserian 2000"
+    "text": "Ing. David Castro T.\nLíneas de código\nLa función de Arduino pinMode permite configurar a cada pin, de forma\nindividual, como entrada o como salida\nLa función Arduino digitalWrite permite escribir valores lógicos digitales en\nun pin de Salida de una tarjeta Arduino\ndelay: se trabaja el tiempo está en milisegundos, por lo tanto, 2 segundos\nserian 2000"
   },
   {
     "page": 8,
-    "text": "Probemos nuevos\ncomandos\nRecuerden lógica Matemática y apliquen los\nsinónimos de las variables digitales (1 y 0)\nLOW\nHIGH\n0\nfalse\n1\ntrue\nIng. David Rógel N."
+    "text": "Probemos nuevos\ncomandos\nRecuerden lógica Matemática y apliquen los\nsinónimos de las variables digitales (1 y 0)\nLOW\nHIGH\n0\nfalse\n1\ntrue\nIng. David Castro T."
   },
   {
     "page": 9,

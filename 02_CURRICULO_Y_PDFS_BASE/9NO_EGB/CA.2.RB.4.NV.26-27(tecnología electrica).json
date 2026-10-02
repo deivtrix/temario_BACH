@@ -37,11 +37,11 @@
   },
   {
     "page": 11,
-    "text": "ENERGÍA continua y ENERGÍA\nalterna\nIng. David Rógel N."
+    "text": "ENERGÍA continua y ENERGÍA\nalterna\nIng. David Castro T."
   },
   {
     "page": 12,
-    "text": "Corriente continua DC\nIng. David Rógel N.\nflujo constante de electrones que\nno varía en el tiempo \ntiene polaridad (positivo y\nnegativo)\nalimenta a los dispositivos\ninalámbricos(sin cable) \nSon de DC los aparatos que usan\npilas y baterías"
+    "text": "Corriente continua DC\nIng. David Castro T.\nflujo constante de electrones que\nno varía en el tiempo \ntiene polaridad (positivo y\nnegativo)\nalimenta a los dispositivos\ninalámbricos(sin cable) \nSon de DC los aparatos que usan\npilas y baterías"
   },
   {
     "page": 13,
@@ -49,7 +49,7 @@
   },
   {
     "page": 14,
-    "text": "Ing. David Rógel N.\nflujo  de electrones que cambia\nperiódicamente.\nEs decir que  varía en el tiempo \nNO tiene polaridad \nFrecuencia de movimiento es 60 Hz\nVoltaje de los tomacorrientes es\nCorriente Alterna AC"
+    "text": "Ing. David Castro T.\nflujo  de electrones que cambia\nperiódicamente.\nEs decir que  varía en el tiempo \nNO tiene polaridad \nFrecuencia de movimiento es 60 Hz\nVoltaje de los tomacorrientes es\nCorriente Alterna AC"
   },
   {
     "page": 15,
@@ -61,15 +61,15 @@
   },
   {
     "page": 17,
-    "text": "VOLTAJE CORRIENTE Y\nRESISTENCIA\nIng. David Rógel N."
+    "text": "VOLTAJE CORRIENTE Y\nRESISTENCIA\nIng. David Castro T."
   },
   {
     "page": 19,
-    "text": "Voltaje\nEl Voltaje se representa con la\nletra V\nUnidad de medida VOLT ¨\nA estos voltajes se los llama\ndiferencia de potencial o\nTensión eléctrica \ntensión es que siempre se mide\nentre 2 puntos,\nIng. David Rógel N.\nEs la fuerza con la empuja la corriente a través de un material\nconductor"
+    "text": "Voltaje\nEl Voltaje se representa con la\nletra V\nUnidad de medida VOLT ¨\nA estos voltajes se los llama\ndiferencia de potencial o\nTensión eléctrica \ntensión es que siempre se mide\nentre 2 puntos,\nIng. David Castro T.\nEs la fuerza con la empuja la corriente a través de un material\nconductor"
   },
   {
     "page": 20,
-    "text": "CORRIENTE\nLa corriente eléctrica se mide en amperios (A).\ncuanto mayor voltaje exista , más corriente\ncirculará.\nA mayor resistencia, menor flujo de corriente\n(según la ley de Ohm).\nIng. David Rógel N.\nel flujo de carga eléctrica a través\nde un material conductor."
+    "text": "CORRIENTE\nLa corriente eléctrica se mide en amperios (A).\ncuanto mayor voltaje exista , más corriente\ncirculará.\nA mayor resistencia, menor flujo de corriente\n(según la ley de Ohm).\nIng. David Castro T.\nel flujo de carga eléctrica a través\nde un material conductor."
   },
   {
     "page": 21,
@@ -77,7 +77,7 @@
   },
   {
     "page": 22,
-    "text": "Circuito Eléctrico\nIng. David Rógel N."
+    "text": "Circuito Eléctrico\nIng. David Castro T."
   },
   {
     "page": 23,
@@ -169,27 +169,27 @@
   },
   {
     "page": 47,
-    "text": "Cómo funciona el protoboard completo\nIng. David Rógel N."
+    "text": "Cómo funciona el protoboard completo\nIng. David Castro T."
   },
   {
     "page": 48,
-    "text": "¿Cómo utilizar el protoboard?\nIng. David Rógel N.\nEnergización"
+    "text": "¿Cómo utilizar el protoboard?\nIng. David Castro T.\nEnergización"
   },
   {
     "page": 49,
-    "text": "Ejemplo de energización\nIng. David Rógel N."
+    "text": "Ejemplo de energización\nIng. David Castro T."
   },
   {
     "page": 50,
-    "text": "Líneas Comunes\nIng. David Rógel N.\nEsos 5 agujeros están\ninterconectados entre sí. \nEsto significa que los\nagujeros de abajo y los\nde arriba(los que tienen\nnúmero) \nestán\nseparados."
+    "text": "Líneas Comunes\nIng. David Castro T.\nEsos 5 agujeros están\ninterconectados entre sí. \nEsto significa que los\nagujeros de abajo y los\nde arriba(los que tienen\nnúmero) \nestán\nseparados."
   },
   {
     "page": 51,
-    "text": "Ejemplo de conexión\nIng. David Rógel N."
+    "text": "Ejemplo de conexión\nIng. David Castro T."
   },
   {
     "page": 52,
-    "text": "¿Por qué la Protoboard está\ndividida a la mitad?\nIng. David Rógel N.\nEsto se debe a que en electrónica\nhay \nciertos \ncomponentes\n(integrados) que necesitan de una\nubicación especial en la protoboard.\nEste componente tiene patitas en\nambos costados, por lo que, al\nconectarlo \nen \nel \n \nprotoboard,\ntenemos que asegurarnos de que\nesas \npatitas \nno \nestén\ninterconectadas entre sí."
+    "text": "¿Por qué la Protoboard está\ndividida a la mitad?\nIng. David Castro T.\nEsto se debe a que en electrónica\nhay \nciertos \ncomponentes\n(integrados) que necesitan de una\nubicación especial en la protoboard.\nEste componente tiene patitas en\nambos costados, por lo que, al\nconectarlo \nen \nel \n \nprotoboard,\ntenemos que asegurarnos de que\nesas \npatitas \nno \nestén\ninterconectadas entre sí."
   },
   {
     "page": 53,

@@ -1,7 +1,7 @@
 [
   {
     "page": 1,
-    "text": "ARDUINO MÓDULO N° 1\nProfe : David Rógel \nROBÓTICA (QUIMESTRE 1)"
+    "text": "ARDUINO MÓDULO N° 1\nProfe : David Castro T. \nROBÓTICA (QUIMESTRE 1)"
   },
   {
     "page": 2,
@@ -21,31 +21,31 @@
   },
   {
     "page": 6,
-    "text": "CLASE N° 0\nFUENTES DE ENERGÍA  \nIng. David Rógel N."
+    "text": "CLASE N° 0\nFUENTES DE ENERGÍA  \nIng. David Castro T."
   },
   {
     "page": 7,
-    "text": "Ing. David Rógel N.\nOBJETIVO\nAnalizar los conceptos de voltaje, corriente y\nresistencia, y diferenciar entre corriente\nalterna (AC) y continua (DC), aplicando estos\nconocimientos para construir  y programar\ncircuitos."
+    "text": "Ing. David Castro T.\nOBJETIVO\nAnalizar los conceptos de voltaje, corriente y\nresistencia, y diferenciar entre corriente\nalterna (AC) y continua (DC), aplicando estos\nconocimientos para construir  y programar\ncircuitos."
   },
   {
     "page": 8,
-    "text": "Electrónica básica\nIng. David Rógel N.\nFUENTES DE ALIMENTACIÓN\n¿De dónde obtenemos\nnosotros nuestra energía para\nhacer lo que hacemos todos los\ndías?"
+    "text": "Electrónica básica\nIng. David Castro T.\nFUENTES DE ALIMENTACIÓN\n¿De dónde obtenemos\nnosotros nuestra energía para\nhacer lo que hacemos todos los\ndías?"
   },
   {
     "page": 9,
-    "text": "Ing. David Rógel N.\nFUENTES\nCOMERCIALES"
+    "text": "Ing. David Castro T.\nFUENTES\nCOMERCIALES"
   },
   {
     "page": 10,
-    "text": "BATERÍAS COMUNES\nIng. David Rógel N.\n¿Qué es exactamente esa\nenergía que sale de las\nbaterías?"
+    "text": "BATERÍAS COMUNES\nIng. David Castro T.\n¿Qué es exactamente esa\nenergía que sale de las\nbaterías?"
   },
   {
     "page": 11,
-    "text": "Voltaje\nDefinición: Es la diferencia de\npotencial eléctrico entre dos puntos,\ntambién llamado tensión eléctrica.\nSímbolo: Se representa con la letra V\nUnidad de medida: Su unidad es el\nvoltio.\nMedición: Un punto clave es que la\ntensión siempre se mide entre dos\npuntos de un circuito.\nIng. David Rógel N."
+    "text": "Voltaje\nDefinición: Es la diferencia de\npotencial eléctrico entre dos puntos,\ntambién llamado tensión eléctrica.\nSímbolo: Se representa con la letra V\nUnidad de medida: Su unidad es el\nvoltio.\nMedición: Un punto clave es que la\ntensión siempre se mide entre dos\npuntos de un circuito.\nIng. David Castro T."
   },
   {
     "page": 12,
-    "text": "CORRIENTE\nLa unidad de la corriente (I) es el ampere (A).\nA mayor tensión, mayor corriente.\nSi se quita el cable, no hay corriente porque\nel circuito está abierto.\nIng. David Rógel N."
+    "text": "CORRIENTE\nLa unidad de la corriente (I) es el ampere (A).\nA mayor tensión, mayor corriente.\nSi se quita el cable, no hay corriente porque\nel circuito está abierto.\nIng. David Castro T."
   },
   {
     "page": 13,
@@ -53,15 +53,15 @@
   },
   {
     "page": 14,
-    "text": "Circuito Eléctrico\nIng. David Rógel N."
+    "text": "Circuito Eléctrico\nIng. David Castro T."
   },
   {
     "page": 15,
-    "text": "Corriente continua DC\nIng. David Rógel N.\nflujo constante de electrones que\nno varía en el tiempo \ntiene polaridad (positivo y\nnegativo)\nalimentar la mayoría de los\naparatos eléctricos"
+    "text": "Corriente continua DC\nIng. David Castro T.\nflujo constante de electrones que\nno varía en el tiempo \ntiene polaridad (positivo y\nnegativo)\nalimentar la mayoría de los\naparatos eléctricos"
   },
   {
     "page": 16,
-    "text": "Ing. David Rógel N.\nFlujo  de electrones cambia\nperiódicamente, Es decir que\nvaría en el tiempo \nNO tiene polaridad \nFrecuencia de movimiento es\n60 Hz\nVoltaje de los tomacorrientes\nes de  120 V\nCorriente Alterna AC"
+    "text": "Ing. David Castro T.\nFlujo  de electrones cambia\nperiódicamente, Es decir que\nvaría en el tiempo \nNO tiene polaridad \nFrecuencia de movimiento es\n60 Hz\nVoltaje de los tomacorrientes\nes de  120 V\nCorriente Alterna AC"
   },
   {
     "page": 17,
@@ -81,35 +81,35 @@
   },
   {
     "page": 21,
-    "text": "ARDUINO MÓDULO N° 1\nIng. David Rógel N.\nClase 1"
+    "text": "ARDUINO MÓDULO N° 1\nIng. David Castro T.\nClase 1"
   },
   {
     "page": 22,
-    "text": "DESAFÍO\nIng. David Rógel N."
+    "text": "DESAFÍO\nIng. David Castro T."
   },
   {
     "page": 23,
-    "text": "Ing. David Rógel N."
+    "text": "Ing. David Castro T."
   },
   {
     "page": 24,
-    "text": "Modelo IPO\nIng. David Rógel N."
+    "text": "Modelo IPO\nIng. David Castro T."
   },
   {
     "page": 25,
-    "text": "MICROCONTROLADORES\nIng. David Rógel N.\nUn microcontrolador es como\nuna pequeña computadora que\nvive dentro de muchos\ndispositivos electrónicos que\nutilizamos a diario.\nPuede recibir información de\nsensores (como los que miden\nla temperatura o la luz) y, en\nbase a esa información, tomar\ndecisiones y ejecutar acciones."
+    "text": "MICROCONTROLADORES\nIng. David Castro T.\nUn microcontrolador es como\nuna pequeña computadora que\nvive dentro de muchos\ndispositivos electrónicos que\nutilizamos a diario.\nPuede recibir información de\nsensores (como los que miden\nla temperatura o la luz) y, en\nbase a esa información, tomar\ndecisiones y ejecutar acciones."
   },
   {
     "page": 26,
-    "text": "IMPLEMENTACIÓN \nIng. David Rógel N."
+    "text": "IMPLEMENTACIÓN \nIng. David Castro T."
   },
   {
     "page": 27,
-    "text": "NACE LA LEYENDA\nARDUINO NACE EN EL 2005\nFUE CREADO POR PROFESORES ITALIANOS\nOBJETIVO ERA FACILITAR LOS PROTOTIPOS DE SUS\nPROYECTOS\nIDEAL PARA NO PROGRAMADORES\nFILOSOFÍA OPEN SOURCE\nIng. David Rógel N."
+    "text": "NACE LA LEYENDA\nARDUINO NACE EN EL 2005\nFUE CREADO POR PROFESORES ITALIANOS\nOBJETIVO ERA FACILITAR LOS PROTOTIPOS DE SUS\nPROYECTOS\nIDEAL PARA NO PROGRAMADORES\nFILOSOFÍA OPEN SOURCE\nIng. David Castro T."
   },
   {
     "page": 28,
-    "text": "¿QUÉ ES ARDUINO?\nHARDWARE\nSOFTWARE\nIng. David Rógel N.\nArduino es una plataforma de creación electrónica de código abierto,\nArduino no es solo una placa, sino un ecosistema completo que incluye el\nhardware (las placas), el software (el entorno de programación) y una gran\ncomunidad de usuarios que comparten conocimientos y proyectos."
+    "text": "¿QUÉ ES ARDUINO?\nHARDWARE\nSOFTWARE\nIng. David Castro T.\nArduino es una plataforma de creación electrónica de código abierto,\nArduino no es solo una placa, sino un ecosistema completo que incluye el\nhardware (las placas), el software (el entorno de programación) y una gran\ncomunidad de usuarios que comparten conocimientos y proyectos."
   },
   {
     "page": 29,
@@ -117,15 +117,15 @@
   },
   {
     "page": 30,
-    "text": "Jugada Maestra\nIng. David Rógel N."
+    "text": "Jugada Maestra\nIng. David Castro T."
   },
   {
     "page": 31,
-    "text": "Ing. David Rógel N."
+    "text": "Ing. David Castro T."
   },
   {
     "page": 32,
-    "text": "GRACIAS A ARDUINO\nIMPRESORAS 3D\nEDUCACIÓN\nIOTs\nPROTOTIPOS\nIng. David Rógel N."
+    "text": "GRACIAS A ARDUINO\nIMPRESORAS 3D\nEDUCACIÓN\nIOTs\nPROTOTIPOS\nIng. David Castro T."
   },
   {
     "page": 33,
@@ -141,35 +141,35 @@
   },
   {
     "page": 36,
-    "text": "ARDUINO MÓDULO N° 1\nClase 2\nIng. David Rógel N."
+    "text": "ARDUINO MÓDULO N° 1\nClase 2\nIng. David Castro T."
   },
   {
     "page": 37,
-    "text": "ARDUINO MÓDULO N° 1\nClase 3\nIng. David Rógel N."
+    "text": "ARDUINO MÓDULO N° 1\nClase 3\nIng. David Castro T."
   },
   {
     "page": 38,
-    "text": "Cómo funciona el protoboard completo\nIng. David Rógel N."
+    "text": "Cómo funciona el protoboard completo\nIng. David Castro T."
   },
   {
     "page": 39,
-    "text": "¿Cómo utilizar el protoboard?\nIng. David Rógel N.\nEnergización"
+    "text": "¿Cómo utilizar el protoboard?\nIng. David Castro T.\nEnergización"
   },
   {
     "page": 40,
-    "text": "Ejemplo de energización\nIng. David Rógel N."
+    "text": "Ejemplo de energización\nIng. David Castro T."
   },
   {
     "page": 41,
-    "text": "Líneas Comunes\nIng. David Rógel N.\nEsos 5 agujeros están\ninterconectados entre sí. \nEsto significa que los\nagujeros de abajo y los\nde arriba(los que tienen\nnúmero) \nestán\nseparados."
+    "text": "Líneas Comunes\nIng. David Castro T.\nEsos 5 agujeros están\ninterconectados entre sí. \nEsto significa que los\nagujeros de abajo y los\nde arriba(los que tienen\nnúmero) \nestán\nseparados."
   },
   {
     "page": 42,
-    "text": "Ejemplo de conexión\nIng. David Rógel N."
+    "text": "Ejemplo de conexión\nIng. David Castro T."
   },
   {
     "page": 43,
-    "text": "¿Por qué la Protoboard está\ndividida a la mitad?\nIng. David Rógel N.\nEsto se debe a que en electrónica\nhay \nciertos \ncomponentes\n(integrados) que necesitan de una\nubicación especial en la protoboard.\nEste componente tiene patitas en\nambos costados, por lo que, al\nconectarlo \nen \nel \n \nprotoboard,\ntenemos que asegurarnos de que\nesas \npatitas \nno \nestén\ninterconectadas entre sí."
+    "text": "¿Por qué la Protoboard está\ndividida a la mitad?\nIng. David Castro T.\nEsto se debe a que en electrónica\nhay \nciertos \ncomponentes\n(integrados) que necesitan de una\nubicación especial en la protoboard.\nEste componente tiene patitas en\nambos costados, por lo que, al\nconectarlo \nen \nel \n \nprotoboard,\ntenemos que asegurarnos de que\nesas \npatitas \nno \nestén\ninterconectadas entre sí."
   },
   {
     "page": 44,
@@ -209,7 +209,7 @@
   },
   {
     "page": 55,
-    "text": "ARDUINO MÓDULO 1\nClase 4\nIng. David Rógel N."
+    "text": "ARDUINO MÓDULO 1\nClase 4\nIng. David Castro T."
   },
   {
     "page": 56,
@@ -221,7 +221,7 @@
   },
   {
     "page": 58,
-    "text": "Ing. David Rógel N.\nDIGITAL\nUNA SEÑAL DIGITAL NO ES CONTINUA, SINO QUE TOMA\nMUESTRAS DE LA SEÑAL ANALÓGICA Y LAS CONVIERTE EN\nNÚMEROS.\nANALÓGICO\nUna señal analógica es una onda continua que representa\nfielmente la información. Es una copia o \"analogía\" del fenómeno\nreal."
+    "text": "Ing. David Castro T.\nDIGITAL\nUNA SEÑAL DIGITAL NO ES CONTINUA, SINO QUE TOMA\nMUESTRAS DE LA SEÑAL ANALÓGICA Y LAS CONVIERTE EN\nNÚMEROS.\nANALÓGICO\nUna señal analógica es una onda continua que representa\nfielmente la información. Es una copia o \"analogía\" del fenómeno\nreal."
   },
   {
     "page": 59,
@@ -241,27 +241,27 @@
   },
   {
     "page": 63,
-    "text": "Ing. David Rógel N.\nLíneas de código\nLa función de Arduino pinMode permite configurar a cada pin, de forma\nindividual, como entrada o como salida\nLa función Arduino digitalWrite permite escribir valores lógicos digitales en\nun pin de Salida de una tarjeta Arduino\ndelay: se trabaja el tiempo está en milisegundos, por lo tanto, 2 segundos\nserian 2000"
+    "text": "Ing. David Castro T.\nLíneas de código\nLa función de Arduino pinMode permite configurar a cada pin, de forma\nindividual, como entrada o como salida\nLa función Arduino digitalWrite permite escribir valores lógicos digitales en\nun pin de Salida de una tarjeta Arduino\ndelay: se trabaja el tiempo está en milisegundos, por lo tanto, 2 segundos\nserian 2000"
   },
   {
     "page": 64,
-    "text": "Ing. David Rógel N.\nPROGRMAR Y SIMULAR\n1)El semáforo está dañado, por lo cual el protocolo de\nemergencia indica que se deben prender las tres\nluces al mismo tiempo durante 2 segundos y luego\napagarse por 1 segundo\n2) otro semáforo está habilitado, por lo cual el la luz\nverde debe funcionar por 4 seg, luz naranja por 2\nseg, y luz roja por 5 seg.\nACTIVIDAD N° 7\nACTIVIDAD N° 7\nACTIVIDAD N° 7"
+    "text": "Ing. David Castro T.\nPROGRMAR Y SIMULAR\n1)El semáforo está dañado, por lo cual el protocolo de\nemergencia indica que se deben prender las tres\nluces al mismo tiempo durante 2 segundos y luego\napagarse por 1 segundo\n2) otro semáforo está habilitado, por lo cual el la luz\nverde debe funcionar por 4 seg, luz naranja por 2\nseg, y luz roja por 5 seg.\nACTIVIDAD N° 7\nACTIVIDAD N° 7\nACTIVIDAD N° 7"
   },
   {
     "page": 65,
-    "text": "Ing. David Rógel N.\nCONSTRUIR(PROTOBOARD)\n2) El semáforo está habilitado, por lo cual el\ncolor verde debe funcionar por 4 seg, luz\nnaranja por 2 seg, y luz roja por 5 seg.\nACTIVIDAD N° 8\nACTIVIDAD N° 8\nACTIVIDAD N° 8"
+    "text": "Ing. David Castro T.\nCONSTRUIR(PROTOBOARD)\n2) El semáforo está habilitado, por lo cual el\ncolor verde debe funcionar por 4 seg, luz\nnaranja por 2 seg, y luz roja por 5 seg.\nACTIVIDAD N° 8\nACTIVIDAD N° 8\nACTIVIDAD N° 8"
   },
   {
     "page": 66,
-    "text": "FIN DE LA CLASE \nIng. David Rógel N.\n30%"
+    "text": "FIN DE LA CLASE \nIng. David Castro T.\n30%"
   },
   {
     "page": 67,
-    "text": "ARDUINO MÓDULO 1\nActividad 6\nIng. David Rógel N."
+    "text": "ARDUINO MÓDULO 1\nActividad 6\nIng. David Castro T."
   },
   {
     "page": 68,
-    "text": "Ing. David Rógel N.\nOBJETIVO\nImplementar un programa estructurado en\nArduino que integre y ponga en práctica, de\nmanera funcional, múltiples conceptos\nadquiridos en la materia hasta la fecha."
+    "text": "Ing. David Castro T.\nOBJETIVO\nImplementar un programa estructurado en\nArduino que integre y ponga en práctica, de\nmanera funcional, múltiples conceptos\nadquiridos en la materia hasta la fecha."
   },
   {
     "page": 69,
@@ -269,11 +269,11 @@
   },
   {
     "page": 70,
-    "text": "Ing. David Rógel N.\nPROGRAMAR  SIMULAR"
+    "text": "Ing. David Castro T.\nPROGRAMAR  SIMULAR"
   },
   {
     "page": 71,
-    "text": "INSTRUCCIONES\nIng. David Rógel N.\nProgramar, simular y CONSTRUIR, un circuito que represente el\nfuncionamiento del juego de luces del auto fantástico, con el objetivo de\ndominar las salidas digitales de manera óptima. \n1)las luces irán en dirección hacia la derecha\nencendido de una en una,  en secuencia \n2) Al momento que llegue al final , se deberá cambiar\nde dirección , e decir hacia la izquierda  de la misma\nforma que la parte 1"
+    "text": "INSTRUCCIONES\nIng. David Castro T.\nProgramar, simular y CONSTRUIR, un circuito que represente el\nfuncionamiento del juego de luces del auto fantástico, con el objetivo de\ndominar las salidas digitales de manera óptima. \n1)las luces irán en dirección hacia la derecha\nencendido de una en una,  en secuencia \n2) Al momento que llegue al final , se deberá cambiar\nde dirección , e decir hacia la izquierda  de la misma\nforma que la parte 1"
   },
   {
     "page": 72,
@@ -281,15 +281,15 @@
   },
   {
     "page": 73,
-    "text": "FIN DE LA CLASE \nIng. David Rógel N.\n35%"
+    "text": "FIN DE LA CLASE \nIng. David Castro T.\n35%"
   },
   {
     "page": 74,
-    "text": "ARDUINO DESDE CERO\nClase 6\nIng. David Rógel N."
+    "text": "ARDUINO DESDE CERO\nClase 6\nIng. David Castro T."
   },
   {
     "page": 75,
-    "text": "objetivo\nIng. David Rógel N.\nIdentificar y utilizar los\ndiferentes tipos de variables de\nprogramación según su\nconcepto y aplicación"
+    "text": "objetivo\nIng. David Castro T.\nIdentificar y utilizar los\ndiferentes tipos de variables de\nprogramación según su\nconcepto y aplicación"
   },
   {
     "page": 76,
@@ -297,7 +297,7 @@
   },
   {
     "page": 77,
-    "text": "Ing. David Rógel N.\nVariables \nUna variable puede ser declarada al inicio del programa, antes del\nsetup(), dentro de otras funciones o dentro de un control de flujo.\nEl nombre de las variables pueden llevar mayúsculas y\nminúsculas(se distinguen entre ellas), números y el símbolo”_”\nPara declarar una variable necesitamos un nombre y también el tipo\nde dato que vamos a almacenar ahí."
+    "text": "Ing. David Castro T.\nVariables \nUna variable puede ser declarada al inicio del programa, antes del\nsetup(), dentro de otras funciones o dentro de un control de flujo.\nEl nombre de las variables pueden llevar mayúsculas y\nminúsculas(se distinguen entre ellas), números y el símbolo”_”\nPara declarar una variable necesitamos un nombre y también el tipo\nde dato que vamos a almacenar ahí."
   },
   {
     "page": 78,
@@ -345,7 +345,7 @@
   },
   {
     "page": 93,
-    "text": "FIN DE LA CLASE \nIng. David Rógel N.\n50%"
+    "text": "FIN DE LA CLASE \nIng. David Castro T.\n50%"
   },
   {
     "page": 95,
@@ -357,11 +357,11 @@
   },
   {
     "page": 97,
-    "text": "Electrónica básica\nIng. David Rógel N.\nLEY DE OHM\n¿Por qué cambia la corriente cuando cambio\nuna resistencia en un circuito?"
+    "text": "Electrónica básica\nIng. David Castro T.\nLEY DE OHM\n¿Por qué cambia la corriente cuando cambio\nuna resistencia en un circuito?"
   },
   {
     "page": 98,
-    "text": "Recuerda que:\nIng. David Rógel N.\nResistencia: Ohmios  [Ω]\nVoltaje: Voltios [V]\nCorriente: Amperios [A]"
+    "text": "Recuerda que:\nIng. David Castro T.\nResistencia: Ohmios  [Ω]\nVoltaje: Voltios [V]\nCorriente: Amperios [A]"
   },
   {
     "page": 99,
@@ -369,15 +369,15 @@
   },
   {
     "page": 100,
-    "text": "Ejercicios ACTIVIDAD 3\nIng. David Rógel N."
+    "text": "Ejercicios ACTIVIDAD 3\nIng. David Castro T."
   },
   {
     "page": 101,
-    "text": "Ejercicios 3-4 (DIY) \nIng. David Rógel N."
+    "text": "Ejercicios 3-4 (DIY) \nIng. David Castro T."
   },
   {
     "page": 102,
-    "text": "Ing. David Rógel N.\nACTIVIDAD 4"
+    "text": "Ing. David Castro T.\nACTIVIDAD 4"
   },
   {
     "page": 103,
