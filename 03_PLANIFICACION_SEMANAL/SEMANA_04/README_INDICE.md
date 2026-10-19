@@ -30,5 +30,5 @@ Semana 100% orientada a la **experimentación directa** (montaje físico en mesa
    - *Modalidad:* 💻 Dinámica física en PC. Demostración de Carrusel y creación libre con motor rotacional.
 
 6. 🟠 **3RO BGU:** [3RO_BGU_SEMANA04_PLAN_CLASE.md](file:///c:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_04/3RO_BGU_SEMANA04_PLAN_CLASE.md)
-   - *Tema:* Etapa de Potencia: Accionamiento de Motor DC con Transistor NPN y Diodo Flyback.
-   - *Modalidad:* 🛠️ Montaje físico en protoboard o Tinkercad Circuits probando el giro del motor y la protección contra picos inductivos.
+   - *Tema:* Circuito de Potencia: Transistor TBJ y Motor DC con Diodo Flyback.
+   - *Modalidad:* 👥 **Actividad Grupal (Parejas)**. Montaje del motor DC con transistor NPN. Entrega de la **misma captura de pantalla** por cada integrante con los dos nombres anotados en dos líneas de comentario dentro del código C++.

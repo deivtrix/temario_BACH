@@ -1,67 +1,108 @@
 # 📘 3RO BGU — PLAN DE CLASE PRÁCTICO (SEMANA 4)
-## ⚡ ETAPA DE POTENCIA: ACCIONAMIENTO DE MOTOR DC CON TRANSISTOR NPN Y DIODO FLYBACK (FÍSICO O SIMULADOR)
+## ⚡ CIRCUITO DE POTENCIA: TRANSISTOR TBJ Y MOTOR DC (ACTIVIDAD GRUPAL)
 
 **Propósito de la Clase (Taxonomía Lev):**  
-> **Comprender** mediante la experimentación de circuitos de potencia la necesidad de desacoplar el control lógico de cargas inductivas de alta corriente (motores DC), **conectar** un transistor bipolar NPN (2N2222 o TIP120) como interruptor de potencia con un diodo volante (*Flyback* 1N4007) de protección, y **comprobar** el giro del motor y la absorción de picos inductivos.
+> **Comprender** colaborativamente la función del transistor bipolar TBJ (NPN) como interruptor de potencia para desacoplar señales lógicas de cargas inductivas de alta corriente (motores DC), **construir en parejas** un circuito de conmutación de motor con diodo volante (*Flyback* 1N4007) de protección en Tinkercad Circuits / mesa física, y **demostrar** el giro del motor a plenas RPM registrando los nombres de los dos integrantes en el código.
 
 * **Curso:** 3ro BGU  
 * **Duración:** 45 Minutos  
-* **Modalidad de Trabajo:** 🛠️ **100% PRÁCTICA ACTIVA (Montaje Físico en Protoboard o Tinkercad Circuits en PC)**.  
+* **Modalidad de Trabajo:** 👥 **ACTIVIDAD GRUPAL (Parejas de 2 Estudiantes / Tinkercad Circuits o Mesa Física)**.  
 * **Docente:** Ing. David Castro T.  
-* **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** La semana anterior ya se entregó el informe teórico de TBJ; hoy la calificación es 100% formativa en mesa/pantalla viendo girar el motor con su protección.
+* **Diapositivas Oficiales Base:** `CA.2.RB.5.SG.26-27 (Ard mod4)` — Módulo 4: Etapas de Potencia y Motores DC.  
+* **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Solo se entrega **1 sola captura de pantalla** por equipo. Cada uno de los dos integrantes sube **la misma captura** a su propio Classroom. La captura debe mostrar obligatoriamente los nombres de los dos integrantes en **dos líneas de comentario** dentro del código.
 
 ---
 
 ### 🔗 CONEXIÓN PEDAGÓGICA (SEMANA 3 ➔ SEMANA 4)
-* **Semana 3 (TBJ con LED):** Se completó y entregó el informe técnico del transistor NPN como interruptor de un foco LED.
-* **Semana 4 (Hoy):** *"Ya terminamos el informe de TBJ la semana pasada; hoy nos metemos de lleno a la **robótica de potencia**. Conectaremos un **Motor DC real**: una carga que consume mucha corriente y que exige sí o sí una etapa de potencia y un diodo de protección para no quemar el circuito."*
+* **Semana 3 (TBJ con LED):** Se completó y entregó el informe técnico del transistor NPN controlando un foco LED de bajo consumo.
+* **Semana 4 (Hoy):** *"Ya terminamos el informe de TBJ la semana pasada; hoy nos metemos en parejas a la **robótica de potencia real**. Conectaremos un **Motor DC**: una carga de alta corriente que exige la etapa de potencia con el transistor TBJ y el diodo de protección para no destruir el circuito."*
 
 ---
 
-### 🛠️ DOS OPCIONES DE EJECUCIÓN PRÁCTICA
+### 🛠️ ESQUEMA DEL CIRCUITO DE POTENCIA (TBJ + MOTOR DC)
 
-#### 🟢 OPCIÓN A: MONTAJE FÍSICO EN MESA DE TALLER
-* **Componentes por puesto:** 1 Transistor NPN (2N2222, TIP120 o equivalente), 1 Motor DC de $5\text{V}$ a $9\text{V}$, 1 Diodo rectificador 1N4007, 1 Pulsador, 1 Resistencia de $1\ \text{k}\Omega$, Batería de $9\text{V}$ o fuente de taller, protoboard y cables.
-* **Pasos de Conexión en Protoboard:**
-  1. Alimentar rieles de la protoboard ($+9\text{V}$ y GND).
-  2. Terminal positivo del motor al riel $+9\text{V}$.
-  3. Terminal negativo del motor al pin **Colector (C)** del transistor.
-  4. Pin **Emisor (E)** del transistor directo al riel negativo (GND).
-  5. **Diodo Flyback 1N4007 en antiparalelo con el motor:** Cátodo (franja plateada) hacia $+9\text{V}$, Ánodo hacia el Colector.
-  6. **Disparo en Base:** Desde $+9\text{V} \rightarrow$ Pulsador $\rightarrow$ Resistencia de $1\ \text{k}\Omega \rightarrow$ Pin **Base (B)** del transistor.
-
-#### 💻 OPCIÓN B: SIMULACIÓN EN TINKERCAD CIRCUITS
-* Armar exactamente el mismo circuito en pantalla con el motor de aficionado de Tinkercad. Al darle simular y oprimir el pulsador, el tacómetro virtual muestra las RPM en giro instantáneo.
-
----
-
-### ⏱️ DESGLOSE DE LOS 45 MINUTOS (100% DE ACCIÓN)
-
-1. **🎯 Demostración de Arranque en Pizarra (00 - 10 min):**
-   * ¿Por qué no conectar el motor directo a un botón o chip pequeño? Porque el motor jala hasta $500\text{ mA}$ (el músculo) y el chip solo da $20\text{ mA}$ (el cerebro).
-   * ¿Para qué sirve el diodo 1N4007 al revés? Para absorber la patada inductiva de alto voltaje cuando el motor se apaga de golpe.
-2. **🛠️ Armado Práctico en Parejas (10 - 32 min):**
-   * Los alumnos realizan las conexiones físicas en protoboard o virtuales en Tinkercad.
-   * Verificación obligatoria de las 3 patitas del transistor (Base, Colector, Emisor) y la orientación de la franja del diodo 1N4007.
-3. **🚀 Prueba de Potencia y Marcha (32 - 40 min):**
-   * Presionar el botón: el motor arranca con fuerza a altas RPM.
-   * Soltar el botón: el motor frena con suavidad sin generar chispas ni recalentamiento en el transistor gracias al diodo.
-4. **✅ Calificación Formativa en Vivo (40 - 45 min):**
-   * El docente pasa por los puestos y verifica el funcionamiento del motor accionado por el transistor (10/10 en planilla).
+* **Componentes por Pareja:** Placa Arduino UNO (o fuente de $5\text{V}/9\text{V}$), Protoboard, Transistor NPN (2N2222 o TIP120), Motor de aficionado DC, Diodo rectificador 1N4007, Resistencia de base ($1\ \text{k}\Omega$ o $330\ \Omega$), cables jumper.
+* **Conexionado de Potencia:**
+  1. **Alimentación:** Rieles de la protoboard alimentados con $+5\text{V}$ (o $+9\text{V}$) y GND.
+  2. **Motor DC:**
+     * Terminal positivo ($+$) del motor al riel positivo.
+     * Terminal negativo ($-$) del motor al pin **Colector (C)** del transistor TBJ.
+  3. **Transistor NPN:**
+     * Pin **Emisor (E)** conectado directamente al riel negativo (GND).
+     * Pin **Base (B)** conectado a través de la resistencia de $1\ \text{k}\Omega$ hacia el Pin Digital de Arduino (ej. Pin 9) o pulsador de prueba.
+  4. **Diodo Flyback 1N4007 (Antiparalelo):**
+     * Conectado en paralelo directo con los dos cables del motor:
+       * Cátodo (la patita con la franja plateada/gris) hacia el $+$.
+       * Ánodo hacia el Colector.
+     *(Absorbe la patada inductiva de alto voltaje cuando el motor se detiene).*
 
 ---
 
-### 📢 TEXTO RÁPIDO PARA GOOGLE CLASSROOM (REGISTRO FORMATIVO)
+### 💻 CÓDIGO C++ CON CANDADO DE DOS LÍNEAS DE COMENTARIO
+
+Los estudiantes abren el editor de código en Tinkercad e insertan al inicio **sus dos nombres en dos líneas de comentario obligatorias**:
+
+```cpp
+// =======================================================
+// RETO POTENCIA TBJ: ACCIONAMIENTO DE MOTOR DC
+// Integrante 1: _________________________________________
+// Integrante 2: _________________________________________
+// CURSO Y PARALELO: 3ro BGU "____"
+// =======================================================
+
+const int pinControlMotor = 9; // Pin conectado a la Base del transistor
+
+void setup() {
+  pinMode(pinControlMotor, OUTPUT);
+}
+
+void loop() {
+  // 1. Encender el motor a plenas RPM
+  digitalWrite(pinControlMotor, HIGH);
+  delay(3000); // Gira durante 3 segundos
+
+  // 2. Apagar el motor (el diodo flyback absorbe la patada inductiva)
+  digitalWrite(pinControlMotor, LOW);
+  delay(1500); // Pausa de 1.5 segundos
+}
+```
+
+---
+
+### ⏱️ DESGLOSE DE LOS 45 MINUTOS (TRABAJO EN PAREJAS)
+
+1. **🎯 Demostración de Potencia en Pizarra (00 - 10 min):**
+   * Explicar por qué el motor no se conecta directo al pin de control (el motor jala hasta $500\text{ mA}$; el pin solo da $20\text{ mA}$).
+   * El transistor actúa como interruptor electrónico de fuerza.
+2. **🛠️ Armado del Circuito en Parejas (10 - 30 min):**
+   * Conectar transistor, motor DC y diodo 1N4007 en protoboard/Tinkercad.
+   * Escribir el código colocando **los dos nombres en las dos líneas de comentarios**.
+3. **🚀 Prueba de Marcha y Tacómetro (30 - 38 min):**
+   * Iniciar simulación: comprobar que el motor arranca y marca RPM activas en el tacómetro de Tinkercad.
+   * Verificar que al apagarse no se queme el transistor gracias al diodo.
+4. **📸 Captura Compartida y Cierre (38 - 45 min):**
+   * El equipo toma **una sola captura de pantalla** donde se observe el motor girando a RPM activas y el código C++ abierto con los nombres de los dos integrantes en las dos líneas de comentario.
+   * **Cada uno de los dos integrantes sube la misma captura a su respectiva tarea de Classroom.**
+
+---
+
+### 📢 TEXTO LISTO PARA PEGAR EN GOOGLE CLASSROOM (ENTREGA EN PAREJAS)
 
 ```text
-TÍTULO: Práctica N° 4: Etapa de Potencia con Transistor NPN y Protección Flyback para Motor DC
+TÍTULO: Reto Práctico Grupal: Circuito de Potencia con Transistor TBJ y Motor DC
 
 INSTRUCCIONES:
-Estimados estudiantes, en esta sesión comprobamos en la práctica el control de cargas de alta corriente:
+Estimados estudiantes, en esta clase trabajamos en parejas implementando la etapa de potencia para un motor DC utilizando un transistor TBJ (NPN) y protección con diodo flyback:
 
-📌 EVIDENCIA DE CLASE (Sin informe escrito):
-- Práctica en mesa física: Verificación y calificación formativa directa en tu mesa de trabajo con el profesor.
-- Práctica en Tinkercad Circuits: Sube 1 captura de pantalla del circuito con el botón presionado y el motor girando a RPM activas.
+📌 INSTRUCCIONES DE ENTREGA EN PAREJAS (Sin informe escrito):
+1. En el editor de código C++, añadan como comentario en las primeras dos líneas los nombres de los dos integrantes:
+   // Integrante 1: Nombre y Apellido
+   // Integrante 2: Nombre y Apellido
+2. Tomen UNA SOLA captura de pantalla clara de su circuito simulando donde se observe:
+   - El motor DC conectado al transistor TBJ girando a RPM activas.
+   - El diodo 1N4007 colocado en paralelo con el motor.
+   - La ventana de código abierta mostrando claramente las dos líneas con los nombres de los dos integrantes.
+3. CADA UNO de los dos integrantes sube la MISMA captura de pantalla a su respectiva cuenta de Google Classroom.
 
-* Calificación: 10 Puntos registrados en el laboratorio de robótica.
+* Calificación: 10 Puntos grupales registrados en el laboratorio de robótica.
 ```
