@@ -18,8 +18,9 @@ Semana 100% orientada a la **experimentación directa** (montaje físico en mesa
    - *Modalidad:* 💻 CAD 3D en PC. Ejes X, Y, Z, nombre en relieve y orificio hueco (`Ctrl + G`).
 
 3. 🟡 **10MO EGB:** [10MO_EGB_SEMANA04_PLAN_CLASE.md](file:///c:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_04/10MO_EGB_SEMANA04_PLAN_CLASE.md)
-   - *Tema:* Del Circuito Pasivo en Protoboard al Control con Arduino (Blink).
-   - *Modalidad:* 🛠️ Arduino UNO en mesa o Tinkercad Circuits. Programación en C++ y variación de ritmos.
+   - *Tema:* Del Interruptor Manual en Protoboard al Control con Arduino (Blink).
+   - *Antecedente:* Conexión no calificada de LEDs en serie/paralelo con interruptor (Diapositivas 41-44).
+   - *Modalidad:* 🛠️ Arduino UNO en mesa o Tinkercad Circuits (Diapositivas 55-63). Reemplazo del interruptor manual por pin digital y modulación de tiempos con `delay()`.
 
 4. 🔴 **1RO BGU:** [1RO_BGU_SEMANA04_PLAN_CLASE.md](file:///c:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_04/1RO_BGU_SEMANA04_PLAN_CLASE.md)
    - *Tema:* Semáforo de Calificaciones: 4 Notas y 3 Focos (Rojo, Amarillo, Verde).
