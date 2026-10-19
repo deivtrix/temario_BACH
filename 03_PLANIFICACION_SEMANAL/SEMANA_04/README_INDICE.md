@@ -1,18 +1,34 @@
-# 🗺️ ÍNDICE GENERAL DE PLANIFICACIÓN SEMANAL (SEMANA 4)
+# 🗺️ ÍNDICE DE CLASES PRÁCTICAS (SEMANA 4)
 
-Bienvenido al centro de control semanal. Cada curso dispone de su archivo individualizado de 45 minutos con los recursos y actividades reales.
+Semana 100% orientada a la **experimentación directa** (montaje físico en mesa de taller o simulador interactivo en PC).
 
----
-
-## 📁 Archivos Disponibles para la SEMANA 4:
-
-1. 🔵 **9NO EGB:** [9NO_EGB_PLANIFICACION_CAD_INTRO_TINKERCAD_RETO_RAPIDO.md](file:///C:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_04/9NO_EGB_PLANIFICACION_CAD_INTRO_TINKERCAD_RETO_RAPIDO.md)
-   - *Tema:* Introducción a Tinkercad 3D y Reto Rápido de Modelado (Diapositivas 21 a 25: CAD vs CAM, Coordenadas X, Y, Z, Sólido/Hueco, Agrupar).
-   - *Modalidad / Entrega:* 💻 100% PC en laboratorio. Entrega directa de 1 captura de pantalla en Classroom durante la clase.
-
-2. 🟣 **2DO BGU:** [2DO_BGU_PLANIFICACION.md](file:///C:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_04/2DO_BGU_PLANIFICACION.md)
-   - *Tema:* Proyecto Integrador Especial 3D en Tinkercad / Simlab.
-   - *Modalidad:* 💻 100% PC en laboratorio.
+> 🟢 **POLÍTICA DE CLASE:**  
+> **CERO INFORMES ESCRITOS.** Evaluación formativa y ágil: visto bueno directo del docente en mesa o pantalla, o entrega exprés de 1 sola captura/foto en Google Classroom.
 
 ---
-*(Los planes de los cursos restantes se irán incorporando conforme avance el calendario).*
+
+## 📁 PLANES PRÁCTICOS POR CURSO:
+
+1. 🟢 **8VO EGB:** [8VO_EGB_SEMANA04_PLAN_CLASE.md](file:///c:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_04/8VO_EGB_SEMANA04_PLAN_CLASE.md)
+   - *Tema:* Generación Mecánica e Inducción (Ley de Faraday).
+   - *Modalidad:* 🛠️ Motor DC girado con la mano/piola para encender un LED o simulador PhET.
+
+2. 🔵 **9NO EGB:** [9NO_EGB_SEMANA04_PLAN_CLASE.md](file:///c:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_04/9NO_EGB_SEMANA04_PLAN_CLASE.md)
+   - *Tema:* Modelado Rápido en Tinkercad 3D (Llavero Técnico).
+   - *Modalidad:* 💻 CAD 3D en PC. Ejes X, Y, Z, nombre en relieve y orificio hueco (`Ctrl + G`).
+
+3. 🟡 **10MO EGB:** [10MO_EGB_SEMANA04_PLAN_CLASE.md](file:///c:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_04/10MO_EGB_SEMANA04_PLAN_CLASE.md)
+   - *Tema:* Del Circuito Pasivo en Protoboard al Control con Arduino (Blink).
+   - *Modalidad:* 🛠️ Arduino UNO en mesa o Tinkercad Circuits. Programación en C++ y variación de ritmos.
+
+4. 🔴 **1RO BGU:** [1RO_BGU_SEMANA04_PLAN_CLASE.md](file:///c:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_04/1RO_BGU_SEMANA04_PLAN_CLASE.md)
+   - *Tema:* Reto Condicional IF - ELSE: Promedio de 3 Notas (Pasa / No Pasa).
+   - *Modalidad:* 💻 Tinkercad Circuits o Arduino físico con 2 LEDs (Aprobado vs Reprobado).
+
+5. 🟣 **2DO BGU:** [2DO_BGU_SEMANA04_PLAN_CLASE.md](file:///c:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_04/2DO_BGU_SEMANA04_PLAN_CLASE.md)
+   - *Tema:* Proyecto Libre con Motor en Tinkercad Sim Lab (Demostración: Carrusel).
+   - *Modalidad:* 💻 Dinámica física en PC. Demostración de Carrusel y creación libre con motor rotacional.
+
+6. 🟠 **3RO BGU:** [3RO_BGU_SEMANA04_PLAN_CLASE.md](file:///c:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_04/3RO_BGU_SEMANA04_PLAN_CLASE.md)
+   - *Tema:* Etapa de Potencia: Accionamiento de Motor DC con Transistor NPN y Diodo Flyback.
+   - *Modalidad:* 🛠️ Montaje físico en protoboard o Tinkercad Circuits probando el giro del motor y la protección contra picos inductivos.

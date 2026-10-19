@@ -21,12 +21,12 @@ Identificar los polos positivo y negativo en una batería química de limones (c
 
 Completa con los datos reales de lo que usaron en su grupo:
 
-| Material / Componente | Cantidad o Detalle utilizado en tu mesa |
-| :--- | :--- |
-| **¿Cuántos limones usaron en total?** | _______ limones |
-| **¿Cuántos cables con caimán se necesitaron?** | _______ cables en total |
-| **¿De qué color era el foco LED que utilizaron?** | Foco color: ________________________________ |
-| **¿Cuántas monedas de cobre y clavos usaron?** | _______ monedas de cobre y _______ clavos de zinc |
+| Material / Componente                             | Cantidad o Detalle utilizado en tu mesa           |
+| :------------------------------------------------ | :------------------------------------------------ |
+| **¿Cuántos limones usaron en total?**             | _______ limones                                   |
+| **¿Cuántos cables con caimán se necesitaron?**    | _______ cables en total                           |
+| **¿De qué color era el foco LED que utilizaron?** | Foco color: ________________________________      |
+| **¿Cuántas monedas de cobre y clavos usaron?**    | _______ monedas de cobre y _______ clavos de zinc |
 
 ---
 
