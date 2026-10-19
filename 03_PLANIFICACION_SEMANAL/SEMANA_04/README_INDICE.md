@@ -22,8 +22,8 @@ Semana 100% orientada a la **experimentación directa** (montaje físico en mesa
    - *Modalidad:* 🛠️ Arduino UNO en mesa o Tinkercad Circuits. Programación en C++ y variación de ritmos.
 
 4. 🔴 **1RO BGU:** [1RO_BGU_SEMANA04_PLAN_CLASE.md](file:///c:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_04/1RO_BGU_SEMANA04_PLAN_CLASE.md)
-   - *Tema:* Reto Condicional IF - ELSE: Promedio de 3 Notas (Pasa / No Pasa).
-   - *Modalidad:* 👥 **Actividad Grupal** en Tinkercad Circuits o Arduino físico. Entrega de la **misma captura de pantalla** por cada integrante con los nombres anotados en los comentarios del código C++.
+   - *Tema:* Semáforo de Calificaciones: 4 Notas y 3 Focos (Rojo, Amarillo, Verde).
+   - *Modalidad:* 👥 **Actividad Grupal** con `if - else if - else`. Rojo ($< 5$), Amarillo ($5 - 7$), Verde ($> 7$). Entrega de la **misma captura de pantalla** por cada integrante con los nombres anotados en los comentarios del código C++.
 
 5. 🟣 **2DO BGU:** [2DO_BGU_SEMANA04_PLAN_CLASE.md](file:///c:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_04/2DO_BGU_SEMANA04_PLAN_CLASE.md)
    - *Tema:* Proyecto Libre con Motor en Tinkercad Sim Lab (Demostración: Carrusel).
