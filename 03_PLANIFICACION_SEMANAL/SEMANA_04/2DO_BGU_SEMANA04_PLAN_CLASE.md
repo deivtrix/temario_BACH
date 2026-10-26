@@ -1,60 +1,57 @@
-# 📘 2DO BGU — PLAN DE CLASE PRÁCTICO (SEMANA 4)
-## 🎡 PROYECTO LIBRE EN TINKERCAD SIM LAB: MOTORES ROTACIONALES (DEMOSTRACIÓN: EL CARRUSEL)
+# 📘 2DO BGU — PLAN REAL EJECUTADO (SEMANA 4)
+## 🎡 INTRODUCCIÓN A MOTORES EN TINKERCAD SIM LAB: MODELADO GUIADO DEL CARRUSEL MECÁNICO
 
 **Propósito de la Clase (Taxonomía Lev):**  
-> **Comprender** la física de cuerpos rígidos y articulaciones mecánicas en Tinkercad Sim Lab, **observar** la demostración docente del ensamblaje de un **Carrusel Mecánico Giratorio** propulsado por un motor rotacional, y **construir un proyecto libre de mecanismo rotatorio** (carrusel, rueda moscovita, molino o ventilador) verificando su estabilidad física y movimiento en tiempo real.
+> **Comprender** la física de cuerpos rígidos y articulaciones mecánicas dinámicas en Tinkercad Sim Lab, **observar** la modelación demostrativa del docente de un **Carrusel Mecánico Giratorio** propulsado por un motor rotacional, y **construir el ensamble base** configurando piezas estáticas ancladas al piso (`Anchor`), eje de giro y disco superior dinámico.
 
 * **Curso:** 2do BGU  
 * **Duración:** 45 Minutos  
 * **Modalidad de Trabajo:** 💻 **100% PRÁCTICA EN COMPUTADORA (Autodesk Tinkercad 3D + Sim Lab)**.  
 * **Docente:** Ing. David Castro T.  
-* **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Evaluación formativa viendo la simulación en pantalla del alumno con el motor en marcha, o subida de 1 captura de Sim Lab activo en Classroom.
+* **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Evaluación formativa viendo la rotación del carrusel en pantalla con el motor en marcha.  
+* **Estado de Ejecución:** ✅ **CLASE EJECUTADA (Demostración y réplica del Carrusel)**.
 
 ---
 
-### ⏱️ DESGLOSE DE LOS 45 MINUTOS (100% CREATIVO Y PRÁCTICO)
+### ⏱️ DESGLOSE DE LO TRABAJADO EN CLASE (45 MINUTOS)
 
 #### 1. 🎯 Demostración Guiada del Docente: El Carrusel Giratorio (00 - 15 min)
 * El profesor proyecta Tinkercad y explica los 3 secretos mecánicos de Sim Lab:
   1. **La Base Anclada (Anchor):** Se coloca una base cilíndrica amplia sobre el piso y en Sim Lab se le asigna la propiedad de **Estática** (para que no caiga ni se voltee con la gravedad).
-  2. **El Conector de Motor (Rotational Motor):** En el centro superior del eje, se coloca la articulación de motor rotacional.
-  3. **El Techo y la Plataforma Giratoria:** Se diseña el disco del carrusel con su techo cónico y postes. Esta parte se deja como **Dinámica**.
+  2. **El Conector de Motor (Rotational Motor):** En el centro superior del eje vertical, se coloca la articulación de motor rotacional.
+  3. **El Techo y la Plataforma Giratoria:** Se diseña el disco del carrusel con su techo cónico y postes. Esta estructura se deja como **Dinámica**.
 * **Prueba en Vivo:** El profesor hace clic en **Play (Sim Lab)**: el motor transfiere torque y el carrusel comienza a dar vueltas de manera continua en 3D.
 * Se explican los ajustes: velocidad del motor ($\text{RPM}$) y sentido de giro (horario o antihorario).
 
 ---
 
-#### 2. 🚀 Taller Práctico: Proyecto Libre con Motor (15 - 38 min)
-Los estudiantes trabajan de manera individual o en parejas eligiendo su mecanismo rotatorio favorito:
-* **Opción 1:** Construir su propia versión del **Carrusel** con figuras personalizadas.
-* **Opción 2:** Construir una **Rueda Moscovita / Noria** (motor en eje horizontal elevado con canastas).
-* **Opción 3:** Construir un **Molino de Viento** o **Ventilador Mecánico** (motor central haciendo girar aspas).
-* **Opción 4:** Propuesta libre con motor aprobada por el docente.
-
-* **Requisitos Técnicos a Evaluar en Pantalla:**
-  1. Base firme configurada como **Estática**.
-  2. Articulación de **Motor Rotacional** de Sim Lab correctamente conectada al eje.
-  3. Estructura giratoria estable que no se rompa al alcanzar velocidad de rotación.
+#### 2. 🛠️ Construcción Guiada del Carrusel por los Estudiantes (15 - 38 min)
+* Los estudiantes replican el modelo del carrusel en sus máquinas:
+  - Base cilíndrica fija en el suelo configurada como Estática.
+  - Eje central con el motor rotacional de Sim Lab.
+  - Plataforma superior con 2 o 4 postes/caballitos agrupados sólidamente (`Ctrl + G`).
+* Pruebas de velocidad en Sim Lab para evitar que el mecanismo salga disparado.
 
 ---
 
 #### 3. ✅ Calificación Formativa en Pantalla (38 - 45 min)
-* El docente recorre el laboratorio. El estudiante le da "Play" a Sim Lab y el profesor observa la rotación mecánica del proyecto.
-* Registro de nota directa en planilla (10/10) o entrega rápida de captura en Classroom.
+* El docente recorre el laboratorio. El estudiante le da "Play" a Sim Lab y el profesor observa la rotación mecánica del carrusel (10/10 en planilla).
+* Cero tareas para la casa: la base queda lista para el proyecto libre de atracciones en la Semana 5.
 
 ---
 
-### 📢 TEXTO RÁPIDO PARA GOOGLE CLASSROOM (ENTREGA EXPRÉS)
+### 📢 REGISTRO DE CLASE EN GOOGLE CLASSROOM (FORMATIVO)
 
 ```text
-TÍTULO: Taller Sim Lab: Proyecto Libre con Motor Rotacional (Carrusel / Mecanismo 3D)
+TÍTULO: Práctica N° 4: Motores Rotacionales en Sim Lab — El Carrusel Mecánico
 
 INSTRUCCIONES:
-Estimados estudiantes, en esta clase dimos vida y movimiento continuo a nuestros diseños 3D utilizando los motores de Tinkercad Sim Lab:
+Estimados estudiantes, en esta sesión introdujimos el movimiento mecánico activo a nuestros modelos 3D mediante motores rotacionales en Tinkercad Sim Lab:
 
-📌 EVIDENCIA DE CLASE (Sin informe escrito):
-1. Toma 1 captura de pantalla clara de tu mecanismo funcionando en Tinkercad Sim Lab (con el botón de Play activo y el motor girando).
-2. Sube la imagen a esta tarea indicando en un comentario privado qué proyecto construiste (ej: "Carrusel con 4 caballos").
+📌 ACTIVIDAD REALIZADA:
+1. Ensamble de base fija anclada al suelo (propiedad Estática).
+2. Conexión de motor rotacional en eje vertical.
+3. Prueba física del giro continuo del Carrusel en Sim Lab.
 
-* Calificación: 10 Puntos evaluados en vivo en el laboratorio de computación.
+* Calificación formativa registrada directamente en las pantallas del laboratorio.
 ```

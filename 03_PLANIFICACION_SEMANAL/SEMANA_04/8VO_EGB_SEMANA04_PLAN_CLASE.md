@@ -1,64 +1,47 @@
-# 📘 8VO EGB — PLAN DE CLASE PRÁCTICO (SEMANA 4)
-## ⚡ GENERACIÓN MECÁNICA: INDUCCIÓN Y MOTOR DC COMO GENERADOR (FÍSICO O SIMULADOR)
+# 📘 8VO EGB — PLAN REAL EJECUTADO (SEMANA 4)
+## ⚙️ CIENCIAS ENERGÉTICAS: CONCEPTO DE ENERGÍA MECÁNICA, TRABAJO Y MOVIMIENTO
 
-**Propósito de la Clase (Taxonomía Lev):**  
-> **Comprender** mediante la experimentación directa la transformación de energía mecánica en eléctrica (Ley de Faraday), **comprobar** que un motor DC convencional actúa como generador al girar su eje magnético, y **observar** el encendido instantáneo de un foco LED al inducir corriente.
+**Propósito de la Clase (Taxonomía Lev / Diapositivas Oficiales):**  
+> **Comprender** el concepto físico de energía mecánica como la capacidad de los cuerpos para realizar un trabajo debido a su movimiento (cinética) o a su posición (potencial) según las diapositivas oficiales 16 y 17 (`CA.1.RB.4.OC.26-27`), e **identificar** ejemplos cotidianos de interacciones mecánicas en el entorno natural y tecnológico.
 
 * **Curso:** 8vo EGB  
 * **Duración:** 45 Minutos  
-* **Modalidad de Trabajo:** 🛠️ **100% PRÁCTICA ACTIVA (Mesa de Taller Física o Simulador Interactivo)**.  
+* **Modalidad de Trabajo:** 💻 **Taller Conceptual y Cuaderno Digital en PC (Canva / Apuntes)**.  
 * **Docente:** Ing. David Castro T.  
-* **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Evaluación 100% formativa en mesa/pantalla por visto bueno del docente, o subida exprés de 1 sola foto/captura en Classroom.
+* **Diapositivas Oficiales Base:** `CA.1.RB.4.OC.26-27 (energía)` — Diapositivas 16 y 17 (Objetivo 3 y Definición de Energía Mecánica).  
+* **Estado de Ejecución:** ✅ **CLASE EJECUTADA EN EL AULA.**
 
 ---
 
-### 🔗 CONEXIÓN PEDAGÓGICA (SEMANA 3 ➔ SEMANA 4)
-* **Semana 3 (Pila de Limones):** Se realizó y completó el informe de generación química.
-* **Semana 4 (Hoy):** *"Ya escribimos el informe la semana pasada; hoy nos dedicamos **100% a la práctica**. Comprobaremos cómo se genera la electricidad en el mundo real: haciendo girar un eje con imanes y bobinas."*
+### ⏱️ DESGLOSE DE LO TRABAJADO EN CLASE (45 MINUTOS)
+
+1. **🎯 Activación y Pregunta Detonante (00 - 10 min):**
+   * *"Si una roca está quieta en la cima de una montaña y luego cae rodando, ¿en qué momento tiene energía? ¿Por qué se dice que el movimiento puede realizar trabajo?"*
+2. **💡 Explicación Teórica — Diapositivas 16 y 17 (10 - 25 min):**
+   * **Definición Oficial (Slide 17):**  
+     * *"La energía mecánica es un concepto fundamental en física que nos ayuda a entender el movimiento y las interacciones de los objetos. Es la capacidad de un objeto para realizar un trabajo debido a su movimiento o posición."*
+   * Diferenciación intuitiva:
+     * *Energía Cinética:* La energía de los cuerpos en movimiento (un carro rodando, el viento soplando, el agua cayendo).
+     * *Energía Potencial:* La energía almacenada lista para liberarse (un resorte comprimido, una piedra en lo alto).
+3. **📝 Registro en Cuaderno Digital (25 - 40 min):**
+   * Los estudiantes abren su cuaderno digital en Canva y registran:
+     1. La definición de energía mecánica en sus propias palabras.
+     2. Un mapa mental o ilustración con 3 ejemplos cotidianos de energía mecánica (el pedaleo de una bicicleta, el golpe de un martillo, la caída de una cascada).
+4. **✅ Cierre y Revisión Formativa (40 - 45 min):**
+   * Revisión de los cuadernos digitales en pantalla por el docente.
 
 ---
 
-### 🛠️ DOS OPCIONES DE EJECUCIÓN PRÁCTICA
-
-#### 🟢 OPCIÓN A: PRÁCTICA FÍSICA EN MESA DE TALLER
-* **Materiales por mesa:** 1 Motor DC pequeño (de juguete o robótica), 1 Foco LED (rojo, verde o azul), 2 cables con caimanes o conexión directa, piola o los dedos para girar.
-* **Paso a Paso Físico:**
-  1. Conectar la patita larga del LED (ánodo) a uno de los terminales del motor y la pata corta al otro terminal.
-  2. Sujetar el cuerpo del motor con firmeza sobre la mesa.
-  3. Girar el eje del motor con los dedos con un giro seco y rápido.
-  4. *Observación:* Si el LED no prende al girar a la derecha, girar hacia el otro lado (polaridad inducida) o invertir los cables. ¡El LED destella intensamente con la fuerza del giro!
-  5. *Reto de Taller:* Enrollar un pedazo de piola en el eje y halarla tipo trompo/arrancador para encender el LED de forma continua por 2 segundos.
-
-#### 💻 OPCIÓN B: SIMULACIÓN INTERACTIVA EN COMPUTADORA (PhET)
-* **Software:** [PhET Generador / Ley de Faraday (Simulador Web)](https://phet.colorado.edu/es/simulations/faradays-law)
-* **Paso a Paso en Pantalla:**
-  1. Entrar al simulador en la laptop.
-  2. Mover el imán permanente dentro de las espiras de cobre a baja velocidad y a alta velocidad.
-  3. Cambiar a la pestaña de "Generador de Agua / Manivela": abrir el caudal para que la turbina haga girar el imán dentro de la bobina y ver iluminarse la bombilla de forma constante.
-
----
-
-### ⏱️ DESGLOSE DE LOS 45 MINUTOS
-1. **🎯 Activación y Demostración en Vivo (00 - 08 min):** El docente gira un motor en su mano y enciende un LED frente a todos. Pregunta detonante: *"¿Dónde está la batería oculta? ¡En ningún lado, la energía la pusieron mis dedos!"*
-2. **🛠️ Práctica Guiada / Montaje en Parejas (08 - 35 min):** 
-   - Montaje físico en mesa o interacción en simulador.
-   - Los estudiantes comprueban el sentido de giro, la velocidad requerida y la polaridad del LED.
-3. **✅ Verificación y Registro Formativo (35 - 45 min):** 
-   - El docente recorre las mesas/puestos poniendo el visto bueno formativo en su planilla a los equipos que logran hacer destellar el foco con su generador.
-
----
-
-### 📢 TEXTO RÁPIDO PARA GOOGLE CLASSROOM (REGISTRO EXPRÉS)
+### 📢 REGISTRO DE TAREA EN GOOGLE CLASSROOM
 
 ```text
-TÍTULO: Práctica de Laboratorio: Generación Mecánica con Motor DC (Ley de Faraday)
+TÍTULO: Registro de Clase N° 4: Concepto de Energía Mecánica y Trabajo (Diapositivas 16 y 17)
 
 INSTRUCCIONES:
-Estimados estudiantes, en esta clase comprobamos físicamente / en simulador cómo se genera energía eléctrica a partir del movimiento mecánico:
+Estimados estudiantes, en esta sesión analizamos el concepto fundamental de la energía mecánica:
 
-📌 EVIDENCIA DE CLASE (Sin informe escrito):
-- Si hiciste la práctica física: Sube 1 foto de tu mesa mostrando el motor conectado al LED mientras gira.
-- Si usaste el simulador PhET: Sube 1 captura de pantalla del generador en movimiento con la bombilla encendida.
+📌 ACTIVIDAD REGISTRADA:
+- En tu cuaderno digital de Canva, registra la definición de energía mecánica y añade 3 ejemplos ilustrados donde el movimiento realice un trabajo físico (ej: martillo, cascada, bicicleta).
 
-* Calificación registrada en el laboratorio (10 Puntos por demostración práctica en vivo).
+* Calificación formativa registrada en la clase.
 ```

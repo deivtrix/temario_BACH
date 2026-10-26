@@ -1,96 +1,47 @@
-# 📘 10MO EGB — PLAN DE CLASE PRÁCTICO (SEMANA 4)
-## 🤖 DEL INTERRUPTOR MANUAL AL CONTROL CON ARDUINO: PROGRAMACIÓN DE SALIDAS DIGITALES (FÍSICO O SIMULADOR)
+# 📘 10MO EGB — PLAN REAL EJECUTADO (SEMANA 4)
+## 🔌 CIRCUITO EN PROTOBOARD: LEDS EN SERIE Y PARALELO CON INTERRUPTOR SIMPLE Y PILA
 
 **Propósito de la Clase (Taxonomía Lev / Diapositivas Oficiales):**  
-> **Comprender** la estructura básica de un sketch de Arduino (`setup()`, `loop()`) y la diferencia entre control analógico y digital (0/LOW vs 1/HIGH) según las diapositivas oficiales 55 a 63 (`CA.1.RB.5.PR.26-27`), **reemplazar** el interruptor manual de la semana anterior por un pin digital de salida, y **programar** el encendido, apagado y modulación de tiempos de un foco LED (`pinMode()`, `digitalWrite()`, `delay()`).
+> **Comprender** la arquitectura interna del protoboard (buses de energización horizontal y pistas de 5 orificios comunes) según las diapositivas oficiales 38 a 44 (`CA.1.RB.5.PR.26-27`), **armar físicamente o simular** un circuito básico con batería de $9\text{V}$, interruptor simple y focos LEDs en configuraciones serie y paralelo, y **comprobar** de forma formativa y no calificada cómo el interruptor manual abre y cierra el flujo de corriente.
 
 * **Curso:** 10mo EGB  
 * **Duración:** 45 Minutos  
-* **Modalidad de Trabajo:** 🛠️ **100% PRÁCTICA ACTIVA (Armado Físico con Arduino UNO en Mesa o Tinkercad Circuits en PC)**.  
+* **Modalidad de Trabajo:** 🛠️ **Montaje Práctico en Mesa de Taller / Simulación en Tinkercad Circuits**.  
 * **Docente:** Ing. David Castro T.  
-* **Diapositivas Oficiales Base:** `CA.1.RB.5.PR.26-27 (Ard mod1)` — Diapositivas 55 a 63 (Clase 4: Arduino Módulo 1, Salidas Digitales).  
-* **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Evaluación 100% formativa en vivo: el docente revisa en pantalla o mesa el foco titilando con el código personalizado del alumno.
+* **Diapositivas Oficiales Base:** `CA.1.RB.5.PR.26-27 (Ard mod1)` — Diapositivas 38 a 45 (Líneas comunes, energización y Actividad N°3: Serie y Paralelo).  
+* **Estado de Ejecución:** ✅ **ACTIVIDAD PRÁCTICA FORMATIVA EJECUTADA (No calificada, sin informe escrito)**.
 
 ---
 
-### 🔗 CONEXIÓN PEDAGÓGICA (SEMANA 3 ➔ SEMANA 4)
-* **Semana 3 (Antecedente Real):** Trabajo formativo no calificado donde conectaron focos LEDs en serie y paralelo con un interruptor manual en el protoboard (Diapositivas 41 a 44). El circuito dependía 100% del dedo del estudiante pulsando el interruptor.
-* **Semana 4 (Hoy - Diapositivas 55 a 63):** *"La semana pasada teníamos un circuito pasivo: si tu dedo no aplastaba el interruptor, el foco no hacía nada. Hoy jubilamos al interruptor manual y conectamos la placa Arduino: le enseñaremos al microcontrolador a ser un 'interruptor automático digital' que prende y apaga el foco por código C++."*
+### ⏱️ DESGLOSE DE LO TRABAJADO EN CLASE (45 MINUTOS)
+
+1. **🎯 Repaso de la Estructura Interna del Protoboard (00 - 10 min):**
+   * Recordar los buses largos ($+$ y $-$) y las pistas de 5 orificios que comparten metal por debajo.
+   * La regla de oro: *"Nunca clavar las dos patas de un componente en la misma columna de 5 agujeros porque se unen y hacen cortocircuito."*
+2. **🛠️ Armado del Circuito con Interruptor Simple (10 - 30 min):**
+   * **Componentes utilizados:** Batería de $9\text{V}$, Protoboard, 1 Interruptor simple deslizante o pulsador, 2 Focos LEDs, resistencias de protección ($220\ \Omega$ o $330\ \Omega$).
+   * **Conexión en Serie:** Batería $(+) \rightarrow$ Interruptor $\rightarrow$ Resistencia $\rightarrow$ LED 1 $\rightarrow$ LED 2 $\rightarrow$ Batería $(-)$.
+   * **Conexión en Paralelo:** El interruptor controla dos caminos independientes con su propio LED y resistencia.
+3. **🚀 Prueba Manual de Encendido y Apagado (30 - 40 min):**
+   * Los estudiantes abren y cierran el interruptor simple.
+   * *Observación clave:* El foco solo responde de manera pasiva y mecánica a la posición física del interruptor (si no lo mueves con el dedo, el circuito no hace nada).
+4. **✅ Verificación Docente en el Puesto (40 - 45 min):**
+   * El docente revisa las conexiones en cada mesa/pantalla, corrigiendo polaridades de ánodo/cátodo sin generar tareas para la casa.
 
 ---
 
-### 🛠️ DOS OPCIONES DE EJECUCIÓN PRÁCTICA
-
-#### 🟢 OPCIÓN A: MONTAJE FÍSICO EN MESA DE TALLER
-* **Componentes por puesto:** Placa Arduino UNO física + cable USB, protoboard (la armada la semana pasada), 1 Foco LED, resistencia de $220\ \Omega$ o $330\ \Omega$, 2 cables jumper macho-macho, laptop con Arduino IDE.
-* **Conexión en Mesa:**
-  1. Conectar cable negro desde el pin **GND** de Arduino hacia el bus azul/negro ($-$) de la protoboard.
-  2. El **Cátodo** (pata corta) del LED va conectado a través de la resistencia a ese bus GND.
-  3. Conectar cable desde el **Ánodo** (pata larga) del LED directamente al **Pin Digital 8** del Arduino (sustituyendo el cable del interruptor).
-  4. Conectar el Arduino por USB a la computadora.
-
-#### 💻 OPCIÓN B: SIMULACIÓN EN COMPUTADORA (Tinkercad Circuits)
-* Abrir [Tinkercad Circuits](https://www.tinkercad.com/) y arrastrar los componentes virtuales: Arduino UNO, protoboard, LED y resistencia, reemplazando el pulsador por el Pin Digital 8.
-
----
-
-### 💻 EL CÓDIGO PRÁCTICO (C++ - Diapositivas 60 a 63)
-
-```cpp
-// =======================================================
-// RETO ARDUINO: CONTROL DIGITAL DE SALIDAS (BLINK)
-// Estudiante: [Nombre y Apellido] - 10mo EGB "____"
-// Diapositivas Oficiales 60-63 (setup, loop, digitalWrite)
-// =======================================================
-
-const int foco = 8; // Pin digital que reemplaza al interruptor
-
-void setup() {
-  // setup(): Se ejecuta una sola vez al encender el Arduino (Slide 60)
-  pinMode(foco, OUTPUT); // Configurar pin 8 como Salida Digital
-}
-
-void loop() {
-  // loop(): Se ejecuta continuamente de forma infinita (Slide 61)
-  
-  digitalWrite(foco, HIGH); // Estado 1 / HIGH: Entrega +5V (Prende el foco)
-  delay(1000);              // Pausa de 1000 ms (1 segundo)
-  
-  digitalWrite(foco, LOW);  // Estado 0 / LOW: Entrega 0V (Apaga el foco)
-  delay(1000);              // Pausa de 1 segundo
-}
-```
-
----
-
-### ⏱️ DESGLOSE DE LOS 45 MINUTOS (100% EXPERIMENTACIÓN)
-
-1. **🎯 Demostración de Arranque — Diapositivas 57-62 (00 - 10 min):**
-   * Mostrar en proyector las diapositivas 58 y 62: ¿Qué es una señal Digital? Solo tiene dos estados: $0\text{ (LOW)}$ y $1\text{ (HIGH)}$, exactamente igual que abrir o cerrar un interruptor.
-   * Explicar que `void setup()` prepara el pin (`pinMode`) y `void loop()` repite la acción infinitamente.
-2. **🛠️ Armado Físico / Virtual y Carga del Código (10 - 25 min):**
-   * Los alumnos conectan su circuito y escriben las 6 líneas de código.
-   * Compilan y cargan al Arduino (o dan clic en "Iniciar Simulación").
-   * Comprueban que el LED comienza a parpadear a ritmo de 1 segundo sin tocar ningún botón.
-3. **🚀 El Reto Práctico: Modular los Delays (25 - 38 min):**
-   * **Misión 1 (Alarma rápida):** Modificar a `delay(150);` para ver el destello rápido de emergencia.
-   * **Misión 2 (Latido cardíaco):** Crear un parpadeo asimétrico: `delay(2000);` encendido y `delay(200);` apagado.
-4. **✅ Calificación Formativa en Vivo (38 - 45 min):**
-   * El docente pasa por cada puesto, ve el LED parpadear al ritmo asignado y firma / registra el 10/10 en su planilla.
-
----
-
-### 📢 TEXTO RÁPIDO PARA GOOGLE CLASSROOM (REGISTRO FORMATIVO)
+### 📢 REGISTRO DE CLASE EN GOOGLE CLASSROOM (FORMATIVO)
 
 ```text
-TÍTULO: Práctica N° 4: Del Interruptor Manual al Control Digital con Arduino (Blink)
+TÍTULO: Clase Práctica N° 4: Circuitos Serie y Paralelo con Interruptor Simple (Diapositivas 38 a 45)
 
 INSTRUCCIONES:
-Estimados estudiantes, en esta sesión avanzamos desde el circuito en protoboard de la semana anterior hacia el control digital por microcontrolador (Diapositivas 55 a 63):
+Estimados estudiantes, en esta sesión comprobamos de manera práctica y formativa el flujo de corriente en el protoboard:
 
-📌 EVIDENCIA DE CLASE (Sin informe escrito):
-- En clase física: Verificación y calificación formativa directa en tu mesa con el docente.
-- En simulación Tinkercad: Sube 1 captura de pantalla de tu circuito simulando con el foco encendido y tu código C++ visible.
+📌 ACTIVIDAD REALIZADA (No calificada / Sin informe escrito):
+1. Conexión de batería de 9V a los rieles del protoboard.
+2. Instalación de interruptor simple para encender y apagar focos LEDs en configuraciones serie y paralelo.
+3. Verificación de conexiones en el taller como base para la programación con microcontroladores en la Semana 5.
 
-* Cero tareas para la casa. ¡Excelente trabajo en el laboratorio!
+* Actividad formativa completada en el laboratorio.
 ```

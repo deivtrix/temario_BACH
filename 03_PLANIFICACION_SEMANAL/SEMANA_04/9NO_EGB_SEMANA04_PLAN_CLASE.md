@@ -1,81 +1,46 @@
-# 📘 9NO EGB — PLAN DE CLASE PRÁCTICO (SEMANA 4)
-## 🖥️ INTRODUCCIÓN A TINKERCAD 3D: RETO DE MODELADO RÁPIDO EN PANTALLA
+# 📘 9NO EGB — PLAN REAL EJECUTADO (SEMANA 4)
+## 📜 INVESTIGACIÓN Y CONSULTA: HISTORIA Y EVOLUCIÓN DE LA IMPRESIÓN 3D
 
-**Propósito de la Clase (Taxonomía Lev):**  
-> **Comprender** el entorno de diseño CAD 3D en Tinkercad (ejes X, Y, Z y plano de trabajo), **dominar** los comandos de navegación con el mouse y las herramientas de transformación (`Agrupar`, `Hueco`, `Escala`), y **construir en pantalla un objeto técnico 3D** (llavero personalizado con nombre en relieve y orificio pasante).
+**Propósito de la Clase (Taxonomía Lev / Diapositivas Oficiales):**  
+> **Comprender** los antecedentes históricos y la evolución de la fabricación aditiva y la impresión 3D según el bloque temático oficial (`CA.1.RB.4.NV.26-27`, diapositivas 8 a 18), **identificar** cómo surgió la tecnología de modelado por deposición fundida (FDM) y sus pioneros, y **sintetizar** una consulta digital preparatoria para el inicio del modelado CAD en Tinkercad.
 
 * **Curso:** 9no EGB  
 * **Duración:** 45 Minutos  
-* **Modalidad:** 💻 **100% PRÁCTICA EN COMPUTADORA (Autodesk Tinkercad 3D)**.  
+* **Modalidad de Trabajo:** 💻 **Consulta e Investigación Digital en PC (Navegador Web / Cuaderno Canva)**.  
 * **Docente:** Ing. David Castro T.  
-* **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Solo se sube **1 captura de pantalla** de la pieza terminada a Classroom durante los últimos 5 minutos de clase, o visto bueno directo del docente en pantalla.
+* **Diapositivas Oficiales Base:** `CA.1.RB.4.NV.26-27` — Diapositivas 8 a 18 (Evolución de la Impresión 3D y Fabricación Aditiva).  
+* **Estado de Ejecución:** ✅ **SESIÓN DE CONSULTA EJECUTADA (Fase de nivelación/igualación entre paralelos)**.
 
 ---
 
-### 🔗 CONEXIÓN PEDAGÓGICA (SEMANA 3 ➔ SEMANA 4)
-* **Semana 3:** Pausada / sin avance.
-* **Semana 4 (Hoy):** *"Hoy avanzamos con todo: dejamos la teoría a un lado, abrimos Tinkercad y construimos nuestra primera pieza tridimensional con medidas reales."*
+### ⏱️ DESGLOSE DE LO TRABAJADO EN CLASE (45 MINUTOS)
+
+1. **🎯 Introducción del Docente — Del Papel al Objeto Sólido (00 - 10 min):**
+   * Explicación de cómo la humanidad pasó de imprimir tinta en hojas de papel a "imprimir objetos reales capa por capa".
+   * Introducción al concepto de **Fabricación Aditiva** vs Fabricación Sustractiva (tallado/escultura).
+2. **🔍 Consulta Dirigida en la Web (10 - 30 min):**
+   * Los estudiantes investigan en sus computadoras guiados por las siguientes preguntas clave:
+     1. ¿Quién inventó la primera impresora 3D (estereolitografía) y en qué año? (*Chuck Hull, 1983-1984*).
+     2. ¿Qué significa que una máquina imprima por "capas"?
+     3. ¿Qué materiales comunes se utilizan hoy en día en las impresoras 3D del colegio? (*Filamento PLA biodegradable, ABS, resina*).
+3. **📝 Registro Breve en Cuaderno Digital (30 - 40 min):**
+   * Resumen de 4 líneas y 1 ilustración histórica en su cuaderno digital de Canva.
+4. **✅ Cierre y Nivelación (40 - 45 min):**
+   * Revisión por el docente y preparación de cuentas para el inicio formal de Tinkercad en la Semana 5.
 
 ---
 
-### ⏱️ DESGLOSE DE LOS 45 MINUTOS (100% ACCIÓN EN PC)
-
-#### 1. 🎯 Activación y Gimnasia de Navegación 3D (00 - 10 min)
-* Todos abren [tinkercad.com](https://www.tinkercad.com/) con su cuenta Google institucional y crean un "Diseño 3D".
-* **Gimnasia con el Mouse (2 min):**
-  - Clic derecho sostenido: Órbita / Girar alrededor de la pieza.
-  - Rueda (Scroll): Acercar y alejar zoom.
-  - Clic rueda central: Mover la mesa lateralmente (paneo).
-* **Las 3 Reglas de Oro de Tinkercad proyectadas por el docente:**
-  1. *Ejes:* Rojo = Ancho ($X$), Verde = Fondo ($Y$), Cono Negro = Altura ($Z$).
-  2. *Hueco:* Cualquier forma puede volverse transparente para cortar otra figura.
-  3. *Agrupar (`Ctrl + G`):* El comando que suelda los sólidos o aplica los huecos.
-
----
-
-#### 2. 🚀 Reto Rápido Guiado en Pantalla: Llavero Técnico 3D (10 - 35 min)
-El profesor modela un paso en el proyector y los alumnos lo replican al instante:
-
-* **Paso 1 (La Base Rectangular):**
-  - Arrastrar un **Cubo** a la mesa.
-  - Medidas exactas: Ancho = $50\text{ mm}$, Fondo = $25\text{ mm}$, Altura = $4\text{ mm}$.
-  - Cambiar el color al favorito del estudiante.
-* **Paso 2 (El Nombre en Relieve):**
-  - Arrastrar la herramienta **Texto**.
-  - Escribir su primer nombre o iniciales.
-  - Altura = $6\text{ mm}$ (para que quede $2\text{ mm}$ más alto que la base).
-  - Colocarlo centrado sobre la placa.
-* **Paso 3 (La Perforación para el Aro de Llavero):**
-  - Arrastrar un **Cilindro con propiedad Hueco** (cilindro rayado).
-  - Medidas: $5\text{ mm} \times 5\text{ mm}$ de diámetro. Altura: $10\text{ mm}$.
-  - Colocarlo en la esquina izquierda atravesando la base de lado a lado.
-* **Paso 4 (La Fusión Mágica):**
-  - Seleccionar todo arrastrando una caja con el mouse.
-  - Presionar **`Ctrl + G` (Agrupar)**.
-  - *Resultado:* El agujero perfora la base y el texto queda integrado en un único bloque sólido listo para impresión 3D.
-
----
-
-#### 3. ✅ Calificación en Vivo y Cierre (35 - 45 min)
-* Cada estudiante ubica su diseño en perspectiva 3D isométrica.
-* El profesor pasa por las máquinas registrando la nota formativa (10/10), o el estudiante toma **1 captura de pantalla** y la sube directo a Classroom.
-* Cero tareas para la casa.
-
----
-
-### 📢 TEXTO RÁPIDO PARA GOOGLE CLASSROOM (1 SOLA CAPTURA)
+### 📢 REGISTRO DE TAREA EN GOOGLE CLASSROOM
 
 ```text
-TÍTULO: Reto Práctico 3D: Mi Primer Llavero en Tinkercad (Entrega Exprés)
+TÍTULO: Consulta de Clase N° 4: Historia y Evolución de la Impresión 3D
 
 INSTRUCCIONES:
-Estimados estudiantes, en esta clase nos lanzamos directamente al diseño CAD 3D en Tinkercad:
+Estimados estudiantes, en esta sesión investigamos los antecedentes históricos de la fabricación digital 3D:
 
-📌 EVIDENCIA DE CLASE (Sin informe escrito):
-1. Toma una captura de pantalla clara de tu llavero terminado en Tinkercad donde se aprecie:
-   - Tu nombre en relieve.
-   - El orificio pasante para el llavero perfectamente perforado con Ctrl + G.
-2. Sube la imagen a esta tarea y presiona "Entregar".
+📌 ACTIVIDAD REGISTRADA:
+- Registra en tu cuaderno digital de Canva los datos clave de tu consulta: inventor de la impresión 3D, el año de creación y los 3 materiales más utilizados en la actualidad.
+- Con esta base histórica, la próxima sesión arrancamos formalmente el modelado CAD 3D en Tinkercad.
 
-* Calificación: 10 Puntos (Diseño completado con medidas, relieve y perforación en clase).
+* Registro formativo en el aula.
 ```
