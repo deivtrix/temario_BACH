@@ -10,9 +10,8 @@ Semana orientada **100% a la acción y experimentación en laboratorio** (simula
 ## 📁 PLANES PRÁCTICOS POR CURSO:
 
 1. 🟢 **8VO EGB:** [8VO_EGB_SEMANA05_PLAN_CLASE.md](file:///c:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_05/8VO_EGB_SEMANA05_PLAN_CLASE.md)
-   - *Tema:* Transformación de Energía Mecánica a Eléctrica: Dinamos y Centrales Generadoras.
-   - *Diapositivas Oficiales:* `CA.1.RB.4.OC.26-27 (energía)` — Diapositivas 18 a 21.
-   - *Modalidad:* 💻 Taller interactivo en simulador PhET (Ley de Faraday / Generador) y esquema conceptual preparatorio para la maqueta física de la siguiente semana.
+   - *Tema:* Materiales Conductores y Aislantes de la Electricidad.
+   - *Modalidad:* 🛠️ Circuito probador en simulador interactivo PhET DC o mesa física de taller. Testeo de 6 materiales cotidianos (metales, goma, madera, grafito) y entrega de 1 captura directa en Classroom.
 
 2. 🔵 **9NO EGB:** [9NO_EGB_SEMANA05_PLAN_CLASE.md](file:///c:/Users/Master_Lab2_DavidC/Documents/LEV/temario_BACH/03_PLANIFICACION_SEMANAL/SEMANA_05/9NO_EGB_SEMANA05_PLAN_CLASE.md)
    - *Tema:* Arranque e Igualación en Tinkercad 3D: Reto del Llavero Técnico.
