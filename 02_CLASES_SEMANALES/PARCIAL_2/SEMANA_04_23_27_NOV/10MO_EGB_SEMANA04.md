@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Hasta el parcial pasado, un foco solo prendía si tú aplastabas el interruptor con el dedo. Hoy jubilamos al dedo: vamos a darle cerebro con código C++ para que prenda y apague solo."*
-* **Propósito en pantalla:** *"Programar el parpadeo automático de un LED en Arduino usando `setup()`, `loop()` y `delay()`."*
+* **Propósito en pantalla:** *"Simular un LED que parpadea solo con código Arduino (`Blink`) para dar vida a un circuito."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **2 bloques obligatorios de Arduino:**
@@ -33,7 +33,7 @@
 ```text
 TÍTULO: Actividad Individual 2: Mi Primer Programa en Arduino (Blink Alternado)
 
-PROPÓSITO: Programar el parpadeo automático de un LED en Arduino usando setup(), loop() y delay().
+PROPÓSITO: Simular un LED que parpadea solo con código Arduino (`Blink`) para dar vida a un circuito.
 
 CÓDIGO BASE DE REFERENCIA:
 void setup() {

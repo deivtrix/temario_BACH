@@ -25,7 +25,7 @@
 4. `[ ]` **S5 (30 nov – 4 dic) — ESP32 PWM y Buzzer (Zumbador)** *(Individual 2)* — Control de intensidad de LED (PWM) y emisión de frecuencias/tonos con buzzer.
 5. `[ ]` **S6 (7–11 dic) — Sensor Ultrasonido HC-SR04 con ESP32** *(Práctica PC)* — Medición de distancia y alerta con LEDs/Buzzer en Wokwi.
 6. `[ ]` **S7 (14–18 dic) — Proyecto: Teclado Matricial 4x4 (Piano / Clave de Seguridad)** *(Grupal en Wokwi)* — Lectura de teclado 4x4 reproduciendo notas en buzzer o validando clave.
-7. `[ ]` **S8–S9 (5–15 ene) — Refuerzo y Evaluación Quimestral de Áreas Especiales** — Cierre del Primer Quimestre.
+7. `[ ]` **S8 (5–8 ene) — Cierre Parcial 2: Repaso ESP32 en Wokwi** *(Refuerzo sin nota)* — Nivelación de simulaciones (Semáforo, PWM/Buzzer, HC-SR04, Teclado 4x4) previa a Evaluaciones de Áreas Especiales (semana del 11 de enero).
 
 ---
 

@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Si les pido encender 6 LEDs en fila uno por uno, tendrían que escribir 24 líneas de `digitalWrite`. Hoy les enseño el truco para hacerlo en solo 4 líneas."*
-* **Propósito en pantalla:** *"Simplificar el encendido de múltiples LEDs en Arduino usando un bucle `for`."*
+* **Propósito en pantalla:** *"Optimizar el encendido de 6 LEDs en fila usando un bucle `for` en lugar de repetir tantas líneas."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **Estructura del `for`:**
@@ -38,7 +38,7 @@
 ```text
 TÍTULO: Refuerzo Arduino: Secuencia de Luces con Bucle for
 
-PROPÓSITO: Simplificar el encendido de múltiples LEDs en Arduino usando un bucle for.
+PROPÓSITO: Optimizar el encendido de 6 LEDs en fila usando un bucle `for` en lugar de repetir tantas líneas.
 
 INSTRUCCIONES:
 1. En Tinkercad, conecta 6 LEDs desde el Pin 2 hasta el Pin 7 (con resistencias de 220 ohmios a GND).

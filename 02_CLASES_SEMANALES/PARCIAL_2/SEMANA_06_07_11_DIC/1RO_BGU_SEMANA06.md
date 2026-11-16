@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Hoy vamos a construir un instrumento musical que se toca sin tocarlo: solo moviendo la mano encima de un sensor de luz. Se llama Theremin."*
-* **Propósito en pantalla:** *"Construir un Theremin con LDR y Buzzer usando `map()` y `tone()` para convertir luz en sonido."*
+* **Propósito en pantalla:** *"Construir un instrumento musical (Theremin) que cambia de sonido al tapar la luz con la mano."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **Mismo circuito LDR de la semana pasada** (`A0` + $10\text{k}\Omega$ a GND) + **1 Buzzer** conectado al Pin `8` y `GND`.
@@ -34,7 +34,7 @@
 ```text
 TÍTULO: Actividad Grupal Física: Theremin Musical con Luz (LDR + Buzzer)
 
-PROPÓSITO: Construir un Theremin con LDR y Buzzer usando map() y tone() para convertir luz en sonido.
+PROPÓSITO: Construir un instrumento musical (Theremin) que cambia de sonido al tapar la luz con la mano.
 
 CÓDIGO BASE:
 void setup() {

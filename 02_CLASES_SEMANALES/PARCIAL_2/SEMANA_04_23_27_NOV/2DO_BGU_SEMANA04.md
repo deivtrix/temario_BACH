@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Ya dominaron Tinkercad moviendo piezas con el mouse. Pero, ¿qué pasa si tienen que hacer 50 columnas a la misma distancia exacta? Hoy vamos a programar el 3D con código por bloques."*
-* **Propósito en pantalla:** *"Programar piezas 3D en Tinkercad Codeblocks usando coordenadas y comandos de movimiento."*
+* **Propósito en pantalla:** *"Crear figuras 3D en Tinkercad usando bloques de código en lugar de moverlas con el mouse."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **¿Dónde entrar?** En Tinkercad $\rightarrow$ **Crear** $\rightarrow$ **Bloques de código (Codeblocks)**.
@@ -32,7 +32,7 @@
 ```text
 TÍTULO: Actividad Individual 2: Mi Primer Diseño 3D Programado (Codeblocks)
 
-PROPÓSITO: Programar piezas 3D en Tinkercad Codeblocks usando coordenadas y comandos de movimiento.
+PROPÓSITO: Crear figuras 3D en Tinkercad usando bloques de código en lugar de moverlas con el mouse.
 
 INSTRUCCIONES:
 1. En Tinkercad, crea un proyecto nuevo en la sección "Bloques de código" (Codeblocks).

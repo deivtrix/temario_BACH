@@ -1,37 +1,37 @@
 # 📘 8VO EGB — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
-**Tema:** Refuerzo Práctico de Circuitos Seguros *(Sin calificación)*  
+**Tema:** Refuerzo Práctico — Circuitos Seguros desde Cero en PhET (`🛠️ REFUERZO` sin calificación)  
 **Docente / Mediador:** Ing. David Castro T.  
 **Modo de Clase:** Modo B — Refuerzo Práctico (45 min)  
-**Entregable:** Visto bueno en vivo en pantalla/mesa (sin nota adicional).
+**Entregable:** Visto bueno en vivo en pantalla (sin nota adicional).
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Corregir** fallas escondidas en circuitos de PhET para recordar cómo funcionan sin errores.
-* **¿Para qué me sirve en la vida?** Para detectar rápido por qué no enciende un foco o dónde está un cable suelto sin adivinar.
+* **Propósito:** **Construir** desde cero un circuito seguro en PhET con fusible e interruptor para comprobar que funciona sin fallas.
+* **¿Para qué me sirve en la vida?** Para saber armar un circuito completo desde cero evitando cortocircuitos y cables sueltos.
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Hoy no hay tarea pesada ni examen: vamos a jugar a ser técnicos reparadores. Les voy a poner circuitos con fallas escondidas y ustedes las encuentran."*
-* **Propósito en pantalla:** *"Corregir fallas comunes en circuitos y empalmes para asegurar lo aprendido en el parcial."*
+* **¿Qué decirles?** *"Hoy no hay tarea pesada: primero detectamos qué falla tienen 3 circuitos en pantalla y luego arman desde cero en PhET un circuito completo y seguro."*
+* **Propósito en pantalla:** *"Construir desde cero un circuito seguro en PhET con fusible e interruptor para comprobar que funciona sin fallas."*
 
-### 2. Repaso Rápido de Fallas Típicas (05 – 10 min)
-* Recordar las 3 fallas más comunes: 1) LED conectado al revés (polaridad), 2) Aislante metido en el camino, 3) Cable abierto / falso contacto.
+### 2. Diagnóstico Rápido en Pantalla (05 – 15 min)
+* Proyectas 3 imágenes de circuitos con errores (o mini-formulario rápido): 1) un aislante metido en serie, 2) un cable directo sin foco (cortocircuito), 3) un cable suelto (circuito abierto), y entre todos dicen cuál es la falla.
 
-### 3. Reto Práctico de Depuración (10 – 40 min)
-* En PhET (o mesa física), los estudiantes resuelven 3 circuitos "rotos" que tú proyectas (uno con cable suelto, uno con cortocircuito sin fusible y uno con aislante en medio) y nivelan entregas atrasadas si alguien debía algo.
+### 3. Práctica en PhET desde Cero (`🛠️ REFUERZO`, 15 – 40 min)
+* **Reto práctico en PhET DC:** Cada estudiante arma desde cero **1 batería 9V + 1 fusible + 1 interruptor + 2 bombillas** que enciendan correctamente sin quemar el fusible.
+* Nivelación de entregas atrasadas para quien deba algo del parcial.
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-* **2 preguntas rápidas:**
-  1. *"Si un foco no prende en tu circuito, ¿qué 3 cosas revisas primero?"*
-  2. *"¿Qué diferencia hay entre corriente AC y DC?"*
-* **Cierre:** Visto bueno en pantalla/mesa.
+1. *"Si un foco no prende en tu circuito, ¿qué 3 cosas revisas primero?"*
+2. *"¿Para qué pusimos el fusible antes de las bombillas?"*
 
 ## 📢 TEXTO PARA GOOGLE CLASSROOM
 ```text
-TÍTULO: Refuerzo Práctico: Reparación de Circuitos Seguros (En clase)
+TÍTULO: 🛠️ Refuerzo Práctico: Circuitos Seguros desde Cero en PhET
 
-PROPÓSITO: Corregir fallas comunes en circuitos y empalmes para asegurar lo aprendido en el parcial.
+PROPÓSITO: Construir desde cero un circuito seguro en PhET con fusible e interruptor para comprobar que funciona sin fallas.
 
 ACTIVIDAD:
-- Sesión 100% práctica en laboratorio (PhET DC) para detectar y corregir fallas de polaridad, falsos contactos y cortocircuitos.
+- Diagnóstico en clase de 3 fallas típicas proyectadas (aislante en serie, cortocircuito y circuito abierto).
+- Armado desde cero en PhET DC: 1 batería + 1 fusible + 1 interruptor + 2 bombillas funcionando sin errores.
 - Sin entrega obligatoria en Classroom (revisión en vivo).
 ```

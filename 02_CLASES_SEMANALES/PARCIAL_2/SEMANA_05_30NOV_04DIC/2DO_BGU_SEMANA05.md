@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Si les pido hacer una escalera de caracol de 20 escalones a mano, se demoran toda la hora. Con un bucle `repetir` y una variable de ángulo, sale en 8 bloques."*
-* **Propósito en pantalla:** *"Construir una estructura en espiral en Codeblocks usando bucles `repetir` y variables."*
+* **Propósito en pantalla:** *"Construir una escalera en espiral en Codeblocks usando bucles `repetir` para no dibujar pieza por pieza."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **2 bloques nuevos:**
@@ -33,7 +33,7 @@
 ```text
 TÍTULO: Práctica Codeblocks: Escalera en Espiral / Torre con Bucles
 
-PROPÓSITO: Construir una estructura en espiral en Codeblocks usando bucles repetir y variables.
+PROPÓSITO: Construir una escalera en espiral en Codeblocks usando bucles `repetir` para no dibujar pieza por pieza.
 
 INSTRUCCIONES:
 1. En Tinkercad Codeblocks, programa una escalera en espiral o torre paramétrica usando al menos 1 bucle "Repetir" y 1 variable que cambie altura o ángulo en cada vuelta.

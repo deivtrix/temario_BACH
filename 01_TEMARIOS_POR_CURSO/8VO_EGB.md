@@ -25,10 +25,11 @@
 2. `[x]` **Taller de Empalmes Seguros** *(Práctica Física)* — Empalmes *Cola de Rata* y *Western Union* probados con pila 9V, LED y cinta aislante.
 3. `[x]` **Taller de Aislantes — Parte 1** *(Individual 2)* — Práctica de aislamiento eléctrico.
 4. `[→]` **Taller de Aislantes — Parte 2** *(Individual 2 — **Semana del 16–19 nov**)* — Cierre de práctica y evidencia.
-5. `[ ]` **Corriente Continua (DC) vs. Alterna (AC) y Polaridad** *(Grupal)* — 10 min teoría + PhET (dirección de electrones y polaridad) + actividad grupal *"AC vs. DC en mi casa"*.
-6. `[ ]` **Falsos Contactos, Cortocircuitos y Breakers** *(Refuerzo)* — Protección eléctrica en el hogar y desafío *"Inspector de Seguridad"* en Google Classroom.
-7. `[ ]` **Refuerzo Práctico** *(sin calificación)* — Consolidación de circuitos seguros y empalmes / colchón de cronograma.
-8. `[ ]` **Evaluación Quimestral de Áreas Especiales** *(semana del 11 de enero)* — Cierre del Primer Quimestre.
+5. `[ ]` **S4 (23–27 nov) — Corriente Continua (DC) vs. Alterna (AC) y Polaridad** *(Grupal)* — 10 min teoría + PhET (CA/CD) + ficha Canva *"AC vs. DC en mi casa"* (5 aparatos DC y 5 AC).
+6. `[ ]` **S5 (30 nov – 4 dic) — Falsos Contactos, Cortocircuitos y Breakers** *(Refuerzo)* — Prueba de fusible en PhET y desafío *"Inspector de Seguridad"* (4 casos en Classroom).
+7. `[ ]` **S6 (7–11 dic) — Refuerzo Práctico: Circuitos Seguros desde Cero en PhET** *(Refuerzo sin nota)* — Diagnóstico visual de 3 fallas en pantalla y armado desde cero en PhET (batería + fusible + interruptor + 2 bombillas).
+8. `[ ]` **S7 (14–18 dic) — Repaso Pre-Vacaciones** *(Refuerzo sin nota)* — Trivia relámpago de 5 preguntas, nivelación y circuito libre de 2 bombillas con 2 interruptores en PhET.
+9. `[ ]` **S8 (5–8 ene) — Cierre de Parcial 2 y Autoevaluación** — Mini-quiz de repaso, nivelación final y **Autoevaluación Likert (1–5) en 4 aspectos** previa a Evaluaciones de Áreas Especiales (semana del 11 de enero).
 
 ---
 

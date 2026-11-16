@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"La semana pasada hicimos la nivelación y la sirena de 2 LEDs. Hoy nos ambientamos con el clásico semáforo de 3 luces, pero ya en arquitectura ESP32."*
-* **Propósito en pantalla:** *"Implementar un semáforo con 3 LEDs en ESP32 (Wokwi) controlando pines GPIO y tiempos reales."*
+* **Propósito en pantalla:** *"Construir un semáforo de 3 luces en el ESP32 usando Wokwi para controlar varios pines a tiempo."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **Pines seguros en ESP32 (Wokwi):** Usar por ejemplo `GPIO 12` (Rojo), `GPIO 14` (Amarillo), `GPIO 27` (Verde), cada uno con su resistencia de $220\,\Omega$ a `GND`.
@@ -31,7 +31,7 @@
 ```text
 TÍTULO: Actividad Individual 1: Semáforo en ESP32 (Wokwi)
 
-PROPÓSITO: Implementar un semáforo con 3 LEDs en ESP32 (Wokwi) controlando pines GPIO y tiempos reales.
+PROPÓSITO: Construir un semáforo de 3 luces en el ESP32 usando Wokwi para controlar varios pines a tiempo.
 
 INSTRUCCIONES:
 1. En wokwi.com (ESP32), conecta 3 LEDs (Rojo, Amarillo, Verde) con resistencias de 220 ohmios a GND.

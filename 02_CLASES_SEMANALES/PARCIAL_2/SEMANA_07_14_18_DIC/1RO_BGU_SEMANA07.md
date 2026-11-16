@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Muchos copiaron un número como `400` para su LDR sin mirar qué número marcaba su propio sensor en esta aula. Hoy aprendemos a diagnosticar y calibrar como ingenieros."*
-* **Propósito en pantalla:** *"Calibrar sensores analógicos usando el Monitor Serial para ajustar umbrales reales."*
+* **Propósito en pantalla:** *"Verificar los valores reales de luz en el Monitor Serial para ajustar bien nuestros sensores."*
 
 ### 2. Demostración Rápida de Diagnóstico (05 – 12 min)
 * Proyectar cómo imprimir `Serial.print("Valor: "); Serial.println(analogRead(A0));` y calcular el **punto medio** `(min + max) / 2` como umbral perfecto.
@@ -29,7 +29,7 @@
 ```text
 TÍTULO: Refuerzo Práctico: Calibración de Sensores con Monitor Serial
 
-PROPÓSITO: Calibrar sensores analógicos usando el Monitor Serial para ajustar umbrales reales.
+PROPÓSITO: Verificar los valores reales de luz en el Monitor Serial para ajustar bien nuestros sensores.
 
 ACTIVIDAD:
 - Práctica de diagnóstico en clase calculando el punto medio real de un sensor analógico (LDR / Potenciómetro).

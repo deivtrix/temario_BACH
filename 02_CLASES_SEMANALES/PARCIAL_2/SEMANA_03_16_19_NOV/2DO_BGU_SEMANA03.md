@@ -16,7 +16,7 @@
 
 ### 1. Inicio, Motivación y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"La semana pasada usamos motores que giran en círculos. Pero una puerta automática de centro comercial o el cabezal de una impresora 3D no giran: se deslizan en línea recta. ¿Cómo lo hacemos en Sim Lab?"*
-* **Presentar el Propósito (Página 2):** *"Hoy vamos a **diseñar y simular** un mecanismo con motor deslizante en Sim Lab para comprender cómo se genera movimiento lineal controlado."*
+* **Presentar el Propósito (Página 2):** *"Crear un mecanismo que se mueva en línea recta en Sim Lab, como una puerta automática."**diseñar y simular** un mecanismo con motor deslizante en Sim Lab para comprender cómo se genera movimiento lineal controlado."*
 
 ### 2. Modelación Rápida en Pantalla (05 – 15 min | máx. 10 min)
 * **Proyectar Página 3 y 4:** Mostrar en Sim Lab en vivo:
@@ -40,7 +40,7 @@
 ```text
 TÍTULO: Actividad Grupal: Mecanismo con Motor Deslizante en Tinkercad Sim Lab
 
-PROPÓSITO: Diseñar y simular un mecanismo con motor deslizante en Sim Lab para generar movimiento rectilíneo controlado.
+PROPÓSITO: Crear un mecanismo que se mueva en línea recta en Sim Lab, como una puerta automática.
 
 INSTRUCCIONES (En grupos):
 1. Diseñen en Tinkercad Sim Lab un mecanismo funcional con motor deslizante (puerta corrediza, prensa o lanzador).

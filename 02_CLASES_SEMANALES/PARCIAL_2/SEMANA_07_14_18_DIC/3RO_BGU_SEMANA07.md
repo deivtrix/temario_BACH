@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Si quisiéramos conectar 16 botones sueltos al ESP32, nos quedaríamos sin pines. Un teclado 4x4 usa solo 8 pines (4 filas y 4 columnas) para leer 16 teclas."*
-* **Propósito en pantalla:** *"Integrar un teclado matricial 4x4 con el ESP32 en Wokwi para leer teclas y activar alertas o sonidos."*
+* **Propósito en pantalla:** *"Integrar un teclado 4x4 al ESP32 en Wokwi para leer claves o tocar notas, como una cerradura digital."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **Librería `Keypad.h`:** En Wokwi (`Library Manager` $\rightarrow$ agregar `Keypad`).
@@ -34,7 +34,7 @@
 ```text
 TÍTULO: Actividad Grupal ESP32 (Wokwi): Teclado Matricial 4x4
 
-PROPÓSITO: Integrar un teclado matricial 4x4 con el ESP32 en Wokwi para capturar claves o notas musicales.
+PROPÓSITO: Integrar un teclado 4x4 al ESP32 en Wokwi para leer claves o tocar notas, como una cerradura digital.
 
 INSTRUCCIONES (En grupos de 2):
 1. En wokwi.com (ESP32), agreguen el componente "Membrane Keypad 4x4" y la librería "Keypad" en Library Manager.

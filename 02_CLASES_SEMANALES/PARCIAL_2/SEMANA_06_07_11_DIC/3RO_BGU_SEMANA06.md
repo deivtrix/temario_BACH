@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"¿Cómo sabe un carro moderno o un robot que está a 20 cm de chocar sin tocar la pared? Usa ondas de sonido que rebotan, igual que los murciélagos."*
-* **Propósito en pantalla:** *"Medir distancias en cm con el sensor HC-SR04 y ESP32 en Wokwi para activar alertas de proximidad."*
+* **Propósito en pantalla:** *"Medir distancias en centímetros con el sensor ultrasonido y el ESP32 para activar una alarma de choque."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **Pines del HC-SR04:** `VCC` (5V/3.3V en Wokwi), `GND`, `TRIG` (envía pulso `10 µs`), `ECHO` (recibe rebote con `pulseIn()`).
@@ -32,7 +32,7 @@
 ```text
 TÍTULO: Práctica ESP32 (Wokwi): Sensor Ultrasonido HC-SR04
 
-PROPÓSITO: Medir distancias en cm con el sensor HC-SR04 y ESP32 en Wokwi para activar alertas de proximidad.
+PROPÓSITO: Medir distancias en centímetros con el sensor ultrasonido y el ESP32 para activar una alarma de choque.
 
 INSTRUCCIONES:
 1. En wokwi.com (ESP32), conecta el sensor HC-SR04 (TRIG a GPIO 5, ECHO a GPIO 18), 1 LED en GPIO 13 y 1 Buzzer en GPIO 14.

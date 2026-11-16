@@ -54,6 +54,20 @@ Por cada parcial (8 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 
 ---
 
+## 🎨 5. REGLAS PARA NOTEBOOKLM Y DIAPOSITIVAS (MINI-LIBRO)
+* **Idioma:** 100% en **ESPAÑOL** (prohibido usar inglés en títulos, mapas o etiquetas).
+* **Auto-explicativas ("como un libro"):** Un estudiante que faltó a clase debe poder leer las diapositivas en casa y entender el tema por sí solo (4 slides por clase = 3 clases en 12 slides por generación en NotebookLM).
+* **Etiquetas visibles obligatorias:** En portada y reto mostrar grande `👤 ACTIVIDAD INDIVIDUAL`, `👥 ACTIVIDAD GRUPAL` o `🛠️ REFUERZO`.
+* **Regla de autonomía en diapositivas:**
+  * En **Tema Nuevo:** incluir mapa conceptual, diagrama/diseño, código referencial completo y paso a paso numerado.
+  * En **👤 Individual / 👥 Grupal:** solo enunciado claro + imagen/diseño de referencia + **medidas o materiales** (si aplica) + 1 tip (**CERO código y CERO paso a paso**).
+  * En **🛠️ Refuerzo:** solo nombrar el tema/actividad (sin instrucciones largas ni código).
+* **Cierre de Parcial:** Toda presentación de cierre de parcial lleva al final una diapositiva exclusiva de **Autoevaluación con Escala de Likert (1 al 5)** evaluando 4 aspectos concretos aprendidos.
+* **Temática de personajes:** Se asigna una temática por parcial (ej. **Parcial 2: Tortugas Ninja / TMNT** — Leonardo propósito, Donatello mapas/diagramas, Rafael seguridad, Miguel Ángel reto).
+* **Empaquetado NotebookLM:** Guardar en `04_PARA_NOTEBOOKLM/<CURSO>_PARCIAL<N>/` un solo `FUENTE_<CURSO>_PARCIAL<N>_COMPLETO.md` + `PROMPTS_<CURSO>_PARCIAL<N>_<TEMA>.md`.
+
+---
+
 ## 🛠️ 4. REGLAS TÉCNICAS POR NIVEL (SIN REPETICIONES)
 * **8vo EGB:** PhET, Canva, Tinkercad Circuits, prácticas físicas (empalmes, masa conductora, extensión) y LEGO WeDo 2.0.
 * **9no EGB:** Tinkercad 3D, Inkscape (`.SVG`), mBot/mBlock y Protoboard en Tinkercad Circuits.

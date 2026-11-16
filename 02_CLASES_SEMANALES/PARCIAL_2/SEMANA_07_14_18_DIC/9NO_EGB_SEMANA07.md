@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Para cerrar el bloque de diseño 3D, hoy y la semana de regreso en enero vamos a construir una Casa 3D en Tinkercad. Hoy hacemos los muros, puerta y ventanas."*
-* **Propósito en pantalla:** *"Construir la estructura base de una casa 3D en Tinkercad usando vaciados y alineación."*
+* **Propósito en pantalla:** *"Construir las paredes, puerta y ventanas de una casa 3D en Tinkercad usando cubos huecos."*
 
 ### 2. Modelación Rápida (05 – 15 min)
 * Mostrar el truco rápido de hacer una casa hueca: 1 cubo sólido grande + 1 cubo hueco ligeramente más pequeño adentro $\rightarrow$ `Ctrl + G` = muros con interior hueco, luego abrir puerta y ventanas con cubos huecos.
@@ -30,7 +30,7 @@
 ```text
 TÍTULO: Refuerzo 3D: Casa en Tinkercad (Parte 1 — Muros y Ventanas)
 
-PROPÓSITO: Construir la estructura base de una casa 3D en Tinkercad usando vaciados y alineación.
+PROPÓSITO: Construir las paredes, puerta y ventanas de una casa 3D en Tinkercad usando cubos huecos.
 
 AVANCE DE HOY:
 1. Modela la base de tu casa con interior hueco, 1 puerta y al menos 2 ventanas.

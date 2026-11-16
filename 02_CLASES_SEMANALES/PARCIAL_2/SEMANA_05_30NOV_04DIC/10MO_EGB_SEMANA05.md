@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"La semana pasada controlamos 1 o 2 LEDs usando `13` y `12`. Pero si tuviéramos 20 luces, ¿se acordarían qué hace cada número? Hoy vamos a ponerles nombre con variables."*
-* **Propósito en pantalla:** *"Programar un semáforo de 3 LEDs en Tinkercad usando variables `int` y tiempos reales."*
+* **Propósito en pantalla:** *"Simular un semáforo de 3 luces en Tinkercad usando nombres (`int`) para ordenar los pines."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **Variables `int`:** `int rojo = 13;`, `int amarillo = 12;`, `int verde = 11;`. Si mañana cambias un cable de pin, solo cambias el número arriba una vez.
@@ -31,7 +31,7 @@
 ```text
 TÍTULO: Práctica Arduino: Semáforo Inteligente en Tinkercad
 
-PROPÓSITO: Programar un semáforo de 3 LEDs en Tinkercad usando variables int y tiempos reales.
+PROPÓSITO: Simular un semáforo de 3 luces en Tinkercad usando nombres (`int`) para ordenar los pines.
 
 INSTRUCCIONES:
 1. Conecta 3 LEDs (Rojo en Pin 13, Amarillo en Pin 12, Verde en Pin 11) con sus resistencias de 220 ohmios a GND.

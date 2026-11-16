@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Hoy vamos a usar lo aprendido con bucles y variables para hacer una pieza mecánica real: un engranaje (o hélice) que si cambias una variable pase de 8 a 16 dientes automáticamente."*
-* **Propósito en pantalla:** *"Crear un engranaje paramétrico en Codeblocks usando variables y bucles de rotación."*
+* **Propósito en pantalla:** *"Crear un engranaje en Codeblocks que cambie su número de dientes modificando una sola variable."*
 
 ### 2. Encuadre Técnico (05 – 12 min)
 * Mostrar la lógica matemática simple:
@@ -33,7 +33,7 @@
 ```text
 TÍTULO: Práctica Evaluada Codeblocks: Engranaje / Hélice Paramétrica
 
-PROPÓSITO: Crear un engranaje paramétrico en Codeblocks usando variables y bucles de rotación.
+PROPÓSITO: Crear un engranaje en Codeblocks que cambie su número de dientes modificando una sola variable.
 
 INSTRUCCIONES:
 1. En Tinkercad Codeblocks, crea una variable llamada "dientes" (ej. 12 o 16).

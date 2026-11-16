@@ -24,9 +24,8 @@
 3. `[ ]` **S4 (23–27 nov) — Proyecto: Atenuador de Brillo LED (`map()` + PWM `analogWrite`)** *(Individual 2)* — Regulación suave de 1 LED con potenciómetro en Tinkercad y kit.
 4. `[ ]` **S5 (30 nov – 4 dic) — Proyecto: Poste de Alumbrado Automático (LDR)** *(Práctica Tinkercad + Kit)* — Encendido automático de 1 LED al oscurecer con umbral `>` / `<`.
 5. `[ ]` **S6 (7–11 dic) — Proyecto: Theremin Musical con Luz (LDR + Buzzer `tone()`)** *(Grupal Físico)* — Montaje simple de 2 componentes cambiando el tono según la luz.
-6. `[ ]` **S7 (14–18 dic) — Refuerzo: Calibración con Monitor Serial** *(Refuerzo)* — Uso de `Serial.begin(9600)` para leer y ajustar umbrales de sensores.
-7. `[ ]` **S8 (5–8 ene) — Refuerzo Práctico** *(sin calificación — colchón tras vacaciones)*.
-* **S9 (11–15 ene) — Evaluación Quimestral de Áreas Especiales** — Cierre del Primer Quimestre.
+6. `[ ]` **S7 (14–18 dic) — Refuerzo: Calibración con Monitor Serial** *(Refuerzo)* — Lectura de valores mínimo/máximo de LDR y cálculo del punto medio `(min+max)/2` para ajustar umbrales reales.
+7. `[ ]` **S8 (5–8 ene) — Cierre Parcial 2: Repaso de Sensores Analógicos** *(Refuerzo sin nota)* — Combinación rápida de Potenciómetro/LDR con PWM y nivelación previa a Evaluaciones de Áreas Especiales (semana del 11 de enero).
 
 ---
 

@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"La semana pasada su semáforo funcionó en la pantalla de Tinkercad. Hoy lo traemos al mundo real: van a armarlo en protoboard física y cargarle el código al Arduino UNO."*
-* **Propósito en pantalla:** *"Construir físicamente el semáforo en protoboard con Arduino UNO y comprobar su funcionamiento real."*
+* **Propósito en pantalla:** *"Construir nuestro semáforo en protoboard real con Arduino UNO para verlo funcionar fuera de la pantalla."*
 
 ### 2. Encuadre de Seguridad y Pines (05 – 10 min)
 * **Reglas físicas:** 1) Nunca conectar LEDs sin resistencia de $220\,\Omega$, 2) Verificar pata larga ($+$ al pin) y pata corta ($-$ a GND), 3) Seleccionar `Arduino UNO` y puerto `COM` correcto en el IDE.
@@ -30,7 +30,7 @@
 ```text
 TÍTULO: Actividad Grupal Física: Semáforo Real con Arduino UNO
 
-PROPÓSITO: Construir físicamente el semáforo en protoboard con Arduino UNO y comprobar su funcionamiento real.
+PROPÓSITO: Construir nuestro semáforo en protoboard real con Arduino UNO para verlo funcionar fuera de la pantalla.
 
 INSTRUCCIONES (En grupos):
 1. Armen en protoboard física los 3 LEDs (Rojo, Amarillo, Verde) con resistencias de 220 ohmios hacia GND y conectados a los pines 13, 12 y 11.

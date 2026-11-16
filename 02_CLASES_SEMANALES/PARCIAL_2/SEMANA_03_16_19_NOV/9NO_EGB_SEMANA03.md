@@ -16,7 +16,7 @@
 
 ### 1. Inicio, Motivación y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Chicos, hoy terminamos nuestro Case de iPhone 3D. Imaginen que mañana lo enviamos a imprimir: si la cámara queda chueca o no dejan espacio para el cargador, la funda no sirve."*
-* **Presentar el Propósito (Página 2):** *"Hoy vamos a **modelar y verificar** los cortes y tolerancias de nuestro Case en Tinkercad para diseñar accesorios funcionales reales."*
+* **Presentar el Propósito (Página 2):** *"Modelar los huecos de cámara y botones de nuestra funda 3D para que encaje en un celular."**modelar y verificar** los cortes y tolerancias de nuestro Case en Tinkercad para diseñar accesorios funcionales reales."*
 
 ### 2. Recordatorio Técnico en Pantalla (05 – 10 min)
 * **Proyectar Página 3 y 4:** Recordar en 5 minutos los 3 comandos clave: `L` (Alinear), `Ctrl + G` (Agrupar sólido + hueco) y `Ctrl + D` (Duplicar botones), y mostrar qué debe verse en la captura final (interior vaciado + nombre 3D).
@@ -37,7 +37,7 @@
 ```text
 TÍTULO: Actividad Individual 2: Case de iPhone 3D (Parte 2) + Formulario
 
-PROPÓSITO: Modelar y verificar los cortes y tolerancias de una carcasa 3D en Tinkercad para diseñar accesorios funcionales.
+PROPÓSITO: Modelar los huecos de cámara y botones de nuestra funda 3D para que encaje en un celular.
 
 INSTRUCCIONES:
 1. Termina tu Case de iPhone en Tinkercad 3D (vaciado interno, hueco de cámara, botones, puerto de carga y tu nombre en 3D).

@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Hoy terminamos su carro 3D. Un carro sin ruedas alineadas no rueda: vamos a centrar ejes, colocar las 4 llantas y darle el toque final."*
-* **Propósito en pantalla:** *"Ensamblar ejes, ruedas y detalles finales en el carro 3D para completar el prototipo grupal."*
+* **Propósito en pantalla:** *"Completar nuestro carro 3D poniéndole ejes, 4 llantas alineadas y detalles finales en equipo."*
 
 ### 2. Encuadre Técnico (05 – 10 min)
 * Recordar usar `L` (Alinear) para que las 4 ruedas queden a la misma altura (`Z = 0` tocando el plano de trabajo) y `Ctrl + D` para duplicar llantas idénticas.
@@ -30,7 +30,7 @@
 ```text
 TÍTULO: Proyecto Grupal 3D: Vehículo / Carro (Parte 2 — Entrega Final)
 
-PROPÓSITO: Ensamblar ejes, ruedas y detalles finales en el carro 3D para completar el prototipo grupal.
+PROPÓSITO: Completar nuestro carro 3D poniéndole ejes, 4 llantas alineadas y detalles finales en equipo.
 
 INSTRUCCIONES (En grupos):
 1. Agreguen ejes, 4 ruedas alineadas al plano de trabajo, faros y detalles finales a su carro de la semana pasada.

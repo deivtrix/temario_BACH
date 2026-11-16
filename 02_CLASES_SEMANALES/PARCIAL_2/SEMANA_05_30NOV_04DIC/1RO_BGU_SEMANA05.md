@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"¿Quién apaga y prende los postes de luz de la calle cada noche? No hay una persona con un interruptor: usan un sensor que 've' la oscuridad. Hoy lo armamos."*
-* **Propósito en pantalla:** *"Implementar un sensor LDR con Arduino para encender un LED automáticamente cuando oscurece."*
+* **Propósito en pantalla:** *"Construir un circuito con sensor de luz (LDR) que prenda un LED solo cuando oscurece, como un poste de calle."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **¿Qué es una LDR?** Una resistencia que cambia su valor según la luz que recibe.
@@ -32,7 +32,7 @@
 ```text
 TÍTULO: Práctica Arduino: Poste de Alumbrado Público Automático (LDR)
 
-PROPÓSITO: Implementar un sensor LDR con Arduino para encender un LED automáticamente cuando oscurece.
+PROPÓSITO: Construir un circuito con sensor de luz (LDR) que prenda un LED solo cuando oscurece, como un poste de calle.
 
 CÓDIGO BASE:
 void setup() {

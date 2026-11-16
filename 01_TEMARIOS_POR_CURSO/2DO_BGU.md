@@ -26,9 +26,8 @@
 3. `[ ]` **S4 (23–27 nov) — Introducción a Tinkercad Codeblocks** *(Individual 2)* — Bloques 3D, coordenadas y creación de figura paramétrica (llavero/mesa).
 4. `[ ]` **S5 (30 nov – 4 dic) — Bucles y Rotación en Codeblocks** *(Práctica PC)* — Escalera en espiral / Torre paramétrica con bucles `repeat`.
 5. `[ ]` **S6 (7–11 dic) — Proyecto Codeblocks: Engranaje o Mecanismo Paramétrico** *(Práctica / Entrega)* — Uso de variables para modificar tamaño y número de dientes.
-6. `[ ]` **S7 (14–18 dic) — Refuerzo: Diseño Libre Programado en Codeblocks** *(Refuerzo)* — Aplicación creativa de variables y bucles.
-7. `[ ]` **S8 (5–8 ene) — Refuerzo Práctico** *(sin calificación — colchón tras vacaciones)*.
-* **S9 (11–15 ene) — Evaluación Quimestral de Áreas Especiales** — Cierre del Primer Quimestre.
+6. `[ ]` **S7 (14–18 dic) — Refuerzo: Figura Simétrica Libre en Codeblocks** *(Refuerzo)* — Diseño propio (estrella, adorno o estructura) usando mínimo 1 bucle `Repetir` y rotación radial.
+7. `[ ]` **S8 (5–8 ene) — Cierre Parcial 2: Revisión Final 3D y Puente a Arduino** *(Refuerzo sin nota)* — Nivelación de Sim Lab/Codeblocks previa a Evaluaciones de Áreas Especiales (semana del 11 de enero).
 
 ---
 

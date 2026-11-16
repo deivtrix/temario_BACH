@@ -40,11 +40,15 @@ Genera el guion de clase de 45 minutos y el contenido exacto página por página
 - Herramienta: [Tinkercad Circuits / Tinkercad 3D / Wokwi ESP32 / PhET / Físico]
 
 Reglas obligatorias:
-1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + ámbito temático corto + contexto real, comprensible para el estudiante.
+1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + qué haremos hoy (máx. 12–15 palabras, lenguaje natural para adolescentes).
 2. Incluye siempre una frase clara de "¿Para qué sirve esto en la vida real?".
-3. Teoría máxima de 10 minutos: usa viñetas cortas y visuales, CERO muros de texto.
-4. Si lleva código o circuito, incluye el código completo comentado y funcional (compatible con la herramienta indicada).
+3. Teoría máxima de 10 minutos: usa mapas conceptuales, esquemas visuales o tablas comparativas, CERO muros de texto.
+4. INCLUYE SIEMPRE la etiqueta grande del tipo de clase (`👤 ACTIVIDAD INDIVIDUAL` / `👥 ACTIVIDAD GRUPAL` / `🛠️ REFUERZO` o `📘 TEMA NUEVO`):
+   - Si es **TEMA NUEVO**: incluye mapa conceptual, diagrama/diseño de referencia, CÓDIGO REFERENCIAL completo (si aplica) y paso a paso numerado.
+   - Si es **👤 ACTIVIDAD INDIVIDUAL o 👥 ACTIVIDAD GRUPAL**: incluye SOLO el enunciado claro + imagen/diseño de referencia + **medidas o materiales necesarios** (si aplica) + máximo 1 tip corto (**CERO código y CERO paso a paso**, porque ya se explicó previamente).
+   - Si es **🛠️ REFUERZO**: solo se nombra el tema/actividad de refuerzo (sin instrucciones largas ni código).
 5. Cierra con 2 o 3 preguntas cortas de verificación oral/escrita y el texto listo para pegar en Google Classroom.
+6. Al final de cada parcial, incluye SIEMPRE una diapositiva exclusiva de **Autoevaluación con Escala de Likert (1 al 5)** evaluando 4 aspectos concretos aprendidos en el parcial.
 ```
 
 ---

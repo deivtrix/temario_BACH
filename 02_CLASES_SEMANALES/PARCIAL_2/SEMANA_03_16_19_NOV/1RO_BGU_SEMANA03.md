@@ -16,7 +16,7 @@
 
 ### 1. Inicio, Motivación y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Chicos, ya lograron que 4 LEDs se enciendan por rangos con el potenciómetro. Hoy vamos a documentar técnicamente su circuito y comprobar que entienden qué pasa por dentro."*
-* **Presentar el Propósito (Página 2):** *"Hoy vamos a **documentar y verificar** el funcionamiento del potenciómetro con condicionales (`>` / `<`) para entender cómo los sensores controlan indicadores por rangos en la vida real."*
+* **Presentar el Propósito (Página 2):** *"Explicar cómo la perilla del potenciómetro enciende 4 LEDs por turnos, igual que un medidor de batería."**documentar y verificar** el funcionamiento del potenciómetro con condicionales (`>` / `<`) para entender cómo los sensores controlan indicadores por rangos en la vida real."*
 
 ### 2. Encuadre de los 3 Candados Anti-IA (05 – 10 min)
 * **Proyectar Página 5:** *"Ojo: no quiero definiciones de ChatGPT. Su informe debe tener: 1) Captura con su Nota de Nombre y LEDs prendidos, 2) Sus 4 números exactos de umbral `>`, y 3) Respuestas de máximo 3 líneas sobre lo que vieron en pantalla."*
@@ -37,7 +37,7 @@
 ```text
 TÍTULO: Actividad Individual 1: Informe Potenciómetro 4 LEDs + Cuestionario
 
-PROPÓSITO: Documentar y verificar el funcionamiento de una entrada analógica (potenciómetro) con condicionales (> / <) sobre 4 LEDs.
+PROPÓSITO: Explicar cómo la perilla del potenciómetro enciende 4 LEDs por turnos, igual que un medidor de batería.
 
 PARTE 1 — INFORME CORTO (En Google Docs):
 1. Captura de pantalla de tu circuito en Tinkercad (o foto en físico) con una Nota Virtual / papel con tu NOMBRE y al menos 2 LEDs encendidos.

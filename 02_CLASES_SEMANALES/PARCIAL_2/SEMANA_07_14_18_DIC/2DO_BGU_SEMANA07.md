@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Hoy cerramos el año calendario aplicando todo lo de Codeblocks en un diseño libre: puede ser una estrella simétrica, un copo de nieve o un árbol paramétrico con bucles."*
-* **Propósito en pantalla:** *"Aplicar variables y bucles en Codeblocks creando un diseño simétrico propio."*
+* **Propósito en pantalla:** *"Diseñar una figura simétrica propia (estrella o adorno) en Codeblocks usando bucles `repetir`."*
 
 ### 2. Inspiración Rápida (05 – 10 min)
 * Mostrar cómo combinar un patrón radial (`360 / ramas`) con escala decreciente (`Escalar`) para hacer un pino o estrella en 10 bloques.
@@ -28,7 +28,7 @@
 ```text
 TÍTULO: Refuerzo Creativo Codeblocks: Figura Simétrica Libre
 
-PROPÓSITO: Aplicar variables y bucles en Codeblocks creando un diseño simétrico propio.
+PROPÓSITO: Diseñar una figura simétrica propia (estrella o adorno) en Codeblocks usando bucles `repetir`.
 
 ACTIVIDAD:
 - Diseña una figura simétrica (estrella, adorno o estructura) usando mínimo 1 bucle Repetir.

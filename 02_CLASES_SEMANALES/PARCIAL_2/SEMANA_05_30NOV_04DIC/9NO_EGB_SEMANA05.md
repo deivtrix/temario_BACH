@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Hoy arrancamos un proyecto de 2 semanas en equipos: van a diseñar su propio carro en 3D. Esta semana armamos el chasis y la carrocería, y la próxima le ponemos ejes, ruedas y detalles."*
-* **Propósito en pantalla:** *"Diseñar en equipo el chasis y la carrocería de un carro 3D en Tinkercad con medidas proporcionadas."*
+* **Propósito en pantalla:** *"Diseñar en equipo la carrocería y el chasis de un carro 3D en Tinkercad para armarlo por partes."*
 
 ### 2. Modelación Rápida (05 – 15 min)
 * **Mostrar en Tinkercad 3D:**
@@ -32,7 +32,7 @@
 ```text
 TÍTULO: Proyecto Grupal 3D: Vehículo / Carro (Parte 1 — Chasis y Carrocería)
 
-PROPÓSITO: Diseñar en equipo el chasis y la carrocería de un carro 3D en Tinkercad con medidas proporcionadas.
+PROPÓSITO: Diseñar en equipo la carrocería y el chasis de un carro 3D en Tinkercad para armarlo por partes.
 
 AVANCE DE HOY (Sin entrega final aún):
 1. En grupos de 2–3, creen el chasis y la carrocería principal del vehículo en Tinkercad 3D.

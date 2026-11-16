@@ -16,7 +16,7 @@
 
 ### 1. Inicio, Motivación y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"La semana pasada hicimos empalmes torciendo cables y poniendo cinta. Pero cuando un robot vibra o quieres desconectar rápido un Arduino, ¿cómo lo hacen los ingenieros sin usar cinta?"*
-* **Presentar el Propósito (Página 2):** *"Hoy vamos a **clasificar** conectores y aislantes modernos para realizar uniones seguras y ordenadas en electrónica y robótica."*
+* **Presentar el Propósito (Página 2):** *"Clasificar qué conectores y aislantes usar para unir cables sin que se suelten ni hagan corto."**clasificar** conectores y aislantes modernos para realizar uniones seguras y ordenadas en electrónica y robótica."*
 
 ### 2. Teoría Relámpago (05 – 15 min | máx. 10 min)
 * **Proyectar Página 3 (Conectores):** Explicar **Jumper/Dupont** (para Arduino/protoboard), **Borneras/Clemas** (tornillo seguro) y **Capuchones/Caimanes** (pruebas).
@@ -38,7 +38,7 @@
 ```text
 TÍTULO: Actividad Individual 1: Infografía de Conectores y Aislantes
 
-PROPÓSITO: Clasificar tipos de conectores y materiales aislantes en circuitos para realizar uniones seguras y ordenadas.
+PROPÓSITO: Clasificar qué conectores y aislantes usar para unir cables sin que se suelten ni hagan corto.
 
 INSTRUCCIONES:
 1. En Canva (1 sola página), diseña una infografía clara con:

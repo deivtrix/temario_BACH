@@ -25,9 +25,8 @@
 4. `[ ]` **S4 (23–27 nov) — Primer Programa en Arduino (*Blink*)** *(Individual 2)* — `setup()`, `loop()`, `pinMode()`, `digitalWrite()` y `delay()` en Tinkercad Circuits.
 5. `[ ]` **S5 (30 nov – 4 dic) — Múltiples Salidas: Semáforo en Tinkercad** *(Práctica PC)* — Variables `int` y secuencia de 3 LEDs (Rojo, Amarillo, Verde).
 6. `[ ]` **S6 (7–11 dic) — Semáforo Físico en Protoboard con Arduino UNO** *(Grupal Físico)* — Montaje real y carga de código.
-7. `[ ]` **S7 (14–18 dic) — Reto de Secuencias e Intro a Bucles `for`** *(Refuerzo)* — Optimización de encendido de varios LEDs.
-8. `[ ]` **S8 (5–8 ene) — Refuerzo Práctico** *(sin calificación — colchón)* — Repaso de sintaxis C++ *(tras Navidad/Año Nuevo)*.
-* **S9 (11–15 ene) — Evaluación Quimestral de Áreas Especiales** — Cierre del Primer Quimestre.
+7. `[ ]` **S7 (14–18 dic) — Reto de Secuencias e Intro a Bucles `for`** *(Refuerzo)* — Encendido en fila de 6 LEDs (ida y vuelta) en Tinkercad usando bucles `for`.
+8. `[ ]` **S8 (5–8 ene) — Cierre Parcial 2: Depuración de Código Arduino** *(Refuerzo sin nota)* — Reto *"Encuentra el error"* (llaves, `;`, pines) y nivelación previa a Evaluaciones de Áreas Especiales (semana del 11 de enero).
 
 ---
 

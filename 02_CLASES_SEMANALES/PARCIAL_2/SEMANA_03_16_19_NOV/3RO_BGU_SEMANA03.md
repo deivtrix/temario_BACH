@@ -16,7 +16,7 @@
 
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Chicos, hoy tenemos una oportunidad puntual para nivelar y mejorar calificaciones antes de avanzar a sensores en el ESP32. Primero hacemos el formulario individual y luego nivelamos en Wokwi."*
-* **Presentar el Propósito (Página 2):** *"Hoy vamos a **verificar y corregir** los fundamentos del ESP32 (pines GPIO y $3.3\text{V}$) para consolidar la base técnica sin dañar hardware."*
+* **Presentar el Propósito (Página 2):** *"Revisar cómo funciona el ESP32 y recuperar notas con el formulario antes de pasar a sensores."**verificar y corregir** los fundamentos del ESP32 (pines GPIO y $3.3\text{V}$) para consolidar la base técnica sin dañar hardware."*
 
 ### 2. Repaso Express + Formulario Individual (05 – 25 min)
 * **05 – 08 min (Repaso rápido con Página 3):** Recordar: ESP32 trabaja a **$3.3\text{V}$** (no $5\text{V}$), tiene WiFi/Bluetooth integrado y usa `115200` baudios.
@@ -39,7 +39,7 @@
 ```text
 TÍTULO: Nivelación y Mejora de Calificaciones — Fundamentos ESP32 (Wokwi)
 
-PROPÓSITO: Verificar y corregir los fundamentos del ESP32 (GPIO, 3.3V y salidas digitales) para nivelar calificaciones antes de avanzar a sensores.
+PROPÓSITO: Revisar cómo funciona el ESP32 y recuperar notas con el formulario antes de pasar a sensores.
 
 INSTRUCCIONES:
 1. Completa el Formulario de Nivelación adjunto (20 minutos, individual).

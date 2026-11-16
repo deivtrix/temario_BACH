@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"En el ESP32 casi todos los pines GPIO sirven para PWM. Hoy vamos a hacer que un LED suba y baje de brillo suavemente y que un buzzer suene con distintas notas."*
-* **Propósito en pantalla:** *"Modular el brillo de un LED con PWM y generar tonos en un buzzer usando ESP32 en Wokwi."*
+* **Propósito en pantalla:** *"Modificar el brillo de un LED y hacer sonar notas en un buzzer con el ESP32 para crear alertas."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **PWM en ESP32 (Arduino Core 3.x / Wokwi):** Se puede usar `analogWrite(pin, 0–255);` directamente en pines GPIO (ej. `GPIO 13`) con un bucle `for` de `0` a `255`.
@@ -31,7 +31,7 @@
 ```text
 TÍTULO: Actividad Individual 2: ESP32 PWM y Buzzer en Wokwi
 
-PROPÓSITO: Modular el brillo de un LED con PWM y generar tonos en un buzzer usando ESP32 en Wokwi.
+PROPÓSITO: Modificar el brillo de un LED y hacer sonar notas en un buzzer con el ESP32 para crear alertas.
 
 INSTRUCCIONES:
 1. En wokwi.com (ESP32), conecta 1 LED (con resistencia 220 ohmios) en GPIO 13 y 1 Buzzer en GPIO 14.

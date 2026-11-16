@@ -11,7 +11,7 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"La semana pasada sus LEDs solo tenían dos estados: apagado o prendido al 100%. ¿Cómo hacemos para que un LED suba su brillo suavecito como la pantalla del teléfono?"*
-* **Propósito en pantalla:** *"Regular gradualmente el brillo de un LED con `map()` y `analogWrite()` usando un potenciómetro."*
+* **Propósito en pantalla:** *"Modificar el brillo de un LED suavemente con el potenciómetro, como el brillo de un celular."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **Pines PWM (`~`):** En Arduino UNO son los pines **3, 5, 6, 9, 10, 11**. Aceptan valores de **0 a 255** con `analogWrite(pin, brillo);`.
@@ -33,7 +33,7 @@
 ```text
 TÍTULO: Actividad Individual 2: Atenuador de Brillo LED (map y PWM)
 
-PROPÓSITO: Regular gradualmente el brillo de un LED con map() y analogWrite() usando un potenciómetro.
+PROPÓSITO: Modificar el brillo de un LED suavemente con el potenciómetro, como el brillo de un celular.
 
 CÓDIGO BASE:
 void setup() {
