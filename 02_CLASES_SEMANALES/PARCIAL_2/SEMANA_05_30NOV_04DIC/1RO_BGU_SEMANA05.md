@@ -1,6 +1,6 @@
 # 🔴 1RO BGU — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
 **Tema:** Poste de Alumbrado Público Automático (Sensor LDR)  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura en Tinkercad / visto bueno en kit físico + lectura serial en Classroom.
 

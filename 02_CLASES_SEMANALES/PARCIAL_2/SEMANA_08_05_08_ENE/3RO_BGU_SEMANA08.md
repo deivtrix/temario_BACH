@@ -1,6 +1,6 @@
 # 🟠 3RO BGU — PARCIAL 2 / SEMANA 8 (5 – 8 ene)
 **Tema:** Refuerzo ESP32 en Wokwi y Cierre de Parcial 2 *(Colchón)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
 **Entregable:** Verificación de entregas en Wokwi previas a evaluación quimestral.
 

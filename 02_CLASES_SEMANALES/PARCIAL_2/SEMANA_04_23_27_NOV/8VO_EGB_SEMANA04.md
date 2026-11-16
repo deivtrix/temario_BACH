@@ -1,6 +1,6 @@
 # 📘 8VO EGB — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
 **Tema:** Corriente Continua (DC) vs. Alterna (AC) y Polaridad en PhET (`👥 ACTIVIDAD GRUPAL`)  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo + Trabajo Grupal (45 min)  
 **Entregable:** Ficha grupal en Canva/Docs *"AC vs. DC en mi casa"* + captura de PhET en Classroom.
 

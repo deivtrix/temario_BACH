@@ -1,6 +1,6 @@
 # 📘 8VO EGB — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
 **Tema:** Refuerzo Práctico — Circuitos Seguros desde Cero en PhET (`🛠️ REFUERZO` sin calificación)  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Refuerzo Práctico (45 min)  
 **Entregable:** Visto bueno en vivo en pantalla (sin nota adicional).
 

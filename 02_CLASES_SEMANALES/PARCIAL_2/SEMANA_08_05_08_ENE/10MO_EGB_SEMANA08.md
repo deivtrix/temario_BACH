@@ -1,6 +1,6 @@
 # 📘 10MO EGB — PARCIAL 2 / SEMANA 8 (5 – 8 ene)
 **Tema:** Repaso de Sintaxis C++ y Cierre del Parcial 2 *(Colchón)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
 **Entregable:** Revisión en vivo y nivelación previa a evaluación quimestral.
 

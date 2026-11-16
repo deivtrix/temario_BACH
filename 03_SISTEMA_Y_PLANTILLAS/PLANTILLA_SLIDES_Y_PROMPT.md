@@ -8,7 +8,7 @@ Usa esta plantilla cada vez que vayas a generar las diapositivas de una clase de
 
 * **Página 1 — Portada:**
   * Título llamativo del tema + Curso (ej. `1ro BGU`).
-  * Docente: **Ing. David Castro T.** | Materia: Robótica y Tecnología.
+  * Mediador: **David Castro** | Materia: Robótica y Tecnología.
 * **Página 2 — Propósito y "¿Para qué me sirve en la vida?":**
   * **Propósito LEV:** `[Verbo infinitivo LEV]` + `[Tema corto y preciso]` + `[Contexto real]`.
   * **Motivación:** 1 pregunta activadora sobre un problema cotidiano.
@@ -30,7 +30,7 @@ Usa esta plantilla cada vez que vayas a generar las diapositivas de una clase de
 ## 2. PROMPT LISTO PARA COPIAR Y PEGAR (AQUÍ, GEMINI O NOTEBOOKLM)
 
 ```text
-Actúa como asistente pedagógico del Ing. David Castro T. (Unidad Educativa Lev Vygotsky).
+Actúa como asistente pedagógico del David Castro (Unidad Educativa Lev Vygotsky).
 Genera el guion de clase de 45 minutos y el contenido exacto página por página (Página 1 a Página 7) listo para pasar a Canva, usando estos datos:
 
 - Curso: [EJ. 1RO BGU]

@@ -1,8 +1,8 @@
-# 🧠 ARCHIVO DE MEMORIA DOCENTE Y CONTEXTO DEL CURSO (2026 - 2027)
-**Docente / Mediador:** Ing. David Castro T.  
+# 🧠 ARCHIVO DE MEMORIA Y CONTEXTO DEL CURSO (2026 - 2027)
+**Mediador:** David Castro  
 **Materia:** Robótica y Tecnología  
 
-> ⚠️ **REGLA DE ORO PERMANENTE:** El único y legítimo docente y mediador de este curso es **David Castro T.** (o Ing. David Castro T.). NUNCA usar otro apellido ni asumir autores de archivos heredados.
+> ⚠️ **REGLA DE ORO PERMANENTE:** El único nombre y cargo oficial es **Mediador: David Castro**. NUNCA usar `Ing.`, `Docente` ni `Profesor`, ni asumir autores de archivos heredados.
 
 ---
 
@@ -31,13 +31,13 @@ Todo el currículo oficial, secuenciado y actualizado por curso vive exclusivame
 ### Dos Modos de Clase (45 Minutos)
 1. **Modo A — Clase de Tema Nuevo (Guiada + Reto):**
    * `00–05 min:` **Inicio** (Motivación con problema real + Propósito LEV + para qué sirve en la vida).
-   * `05–15 min:` **Teoría Corta (máx. 10 min)** (Enunciación visual + Modelación paso a paso por el docente).
+   * `05–15 min:` **Teoría Corta (máx. 10 min)** (Enunciación visual + Modelación paso a paso por el mediador).
    * `15–40 min:` **Práctica Conjunta + Reto** (10 min guiados todos juntos + 15 min reto corto autónomo).
    * `40–45 min:` **Cierre** (2–3 preguntas rápidas de verificación de comprensión + entrega/visto bueno).
 
 2. **Modo B — Clase de Actividad Evaluada (Individual / Grupal / Refuerzo):**
    * `00–05 min:` **Encuadre** (Propósito LEV + qué deben entregar y criterios).
-   * `05–40 min:` **Trabajo Autónomo** (trabajan solos o en grupo; el docente interviene para ayudar y destrabar dudas).
+   * `05–40 min:` **Trabajo Autónomo** (trabajan solos o en grupo; el mediador interviene para ayudar y destrabar dudas).
    * `40–45 min:` **Cierre** (Entrega en Classroom o visto bueno en vivo + 2 preguntas rápidas de verificación).
 
 *(En proyectos de 2–3 clases se mantiene la lógica macro Día 1 Comprensión/Simulación $\rightarrow$ Día 2 Desarrollo $\rightarrow$ Día 3 Demostración/Transferencia, pero cada día cierra con verificación).*

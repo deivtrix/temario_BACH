@@ -1,6 +1,6 @@
 # 🟣 2DO BGU — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
 **Tema:** Proyecto Codeblocks: Engranaje o Mecanismo Paramétrico  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Práctica Autónoma Evaluada (45 min)  
 **Entregable:** Captura en Classroom del engranaje/mecanismo + variables visibles.
 
@@ -19,7 +19,7 @@
   * Ángulo de giro por vuelta = `360 / dientes`.
   * Bucle `Repetir dientes veces`: colocar diente en el borde y rotar `360 / dientes` grados alrededor de `[0,0,0]`, luego unir con cilindro central y perforar eje hueco.
 
-### 3. Trabajo Autónomo con Intervención Docente (12 – 40 min)
+### 3. Trabajo Autónomo con Intervención del Mediador (12 – 40 min)
 * **Instrucción:** Cada estudiante programa su engranaje (o hélice/rueda dentada) parametrizado con `dientes`, agrega el hueco central del eje y prueba cambiar el número de `dientes` para verificar que funciona.
 * **Tu rol:** Ayudas a quienes olvidan dividir `360 / dientes` o dejan el centro del diente desfasado.
 

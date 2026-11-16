@@ -1,6 +1,6 @@
 # 🔴 1RO BGU — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
 **Tema:** Refuerzo: Calibración con Monitor Serial y Nivelación *(Refuerzo)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Refuerzo Práctico (45 min)  
 **Entregable:** Revisión en vivo / nivelación de prácticas atrasadas del Parcial 2.
 

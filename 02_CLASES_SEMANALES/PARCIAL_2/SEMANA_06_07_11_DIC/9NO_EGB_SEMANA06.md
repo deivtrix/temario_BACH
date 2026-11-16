@@ -1,6 +1,6 @@
 # 📗 9NO EGB — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
 **Tema:** Proyecto Grupal 3D: Vehículo / Carro — Parte 2 *(Grupal)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Trabajo Autónomo Grupal (45 min)  
 **Entregable:** Captura final del Carro 3D terminado con nombres del grupo en Classroom.
 
@@ -16,7 +16,7 @@
 ### 2. Encuadre Técnico (05 – 10 min)
 * Recordar usar `L` (Alinear) para que las 4 ruedas queden a la misma altura (`Z = 0` tocando el plano de trabajo) y `Ctrl + D` para duplicar llantas idénticas.
 
-### 3. Trabajo Grupal con Intervención Docente (10 – 40 min)
+### 3. Trabajo Grupal con Intervención del Mediador (10 – 40 min)
 * **Instrucción:** En sus grupos, agregan ejes, 4 ruedas con rines, faros/vidrios y los **nombres del equipo** en texto 3D sobre la base o techo.
 * **Tu rol:** Pasas por los equipos revisando que las ruedas no queden flotando ni atravesando la carrocería.
 

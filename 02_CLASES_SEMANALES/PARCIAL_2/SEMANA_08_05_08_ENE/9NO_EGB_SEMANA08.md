@@ -1,6 +1,6 @@
 # 📗 9NO EGB — PARCIAL 2 / SEMANA 8 (5 – 8 ene)
 **Tema:** Refuerzo 3D: Casa en Tinkercad — Parte 2 y Cierre *(Refuerzo)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Cierre de Proyecto y Quimestre (45 min)  
 **Entregable:** Captura final de la Casa 3D terminada + revisión previa a quimestrales.
 

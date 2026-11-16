@@ -1,6 +1,6 @@
 # 🟠 3RO BGU — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
 **Tema:** Sensor Ultrasonido HC-SR04 con ESP32 en Wokwi  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura en Wokwi con distancia en Monitor Serial y alerta LED/Buzzer en Classroom.
 

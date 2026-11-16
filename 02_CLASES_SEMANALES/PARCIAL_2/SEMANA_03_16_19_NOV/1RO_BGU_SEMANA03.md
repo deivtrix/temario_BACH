@@ -1,6 +1,6 @@
 # 🔴 1RO BGU — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
 **Tema:** Informe de Potenciómetro con 4 LEDs (`analogRead`, `>`, `<`) + Cuestionario *(Individual 1)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Actividad Autónoma Evaluada (45 min)  
 **Entregable:** Informe corto anti-IA (con código, parámetros y 3 preguntas vivenciales) + Cuestionario en Classroom.
 

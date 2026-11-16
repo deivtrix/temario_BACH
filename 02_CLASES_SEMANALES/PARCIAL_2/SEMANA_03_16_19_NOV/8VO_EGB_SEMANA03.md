@@ -1,6 +1,6 @@
 # 📘 8VO EGB — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
 **Tema:** Taller de Aislantes Eléctricos — Parte 2 (`👤 ACTIVIDAD INDIVIDUAL`)  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Actividad Autónoma Evaluada (45 min)  
 **Entregable:** Captura en PhET / foto física con nombre + respuesta corta en Classroom.
 
@@ -16,7 +16,7 @@
 ### 2. Repaso / Encuadre Técnico (05 – 10 min)
 * Recordar diferencia entre **Conductor** (foco enciende) y **Aislante** (foco apagado) en el circuito probador (Batería 9V + Interruptor + Bombilla + Terminales abiertos).
 
-### 3. Trabajo Autónomo con Intervención Docente (10 – 40 min)
+### 3. Trabajo Autónomo con Intervención del Mediador (10 – 40 min)
 * **Materiales disponibles en PhET DC:** Moneda, Clip de papel, Borrador de goma, Billete, Mano, Perro, Mina de lápiz (grafito). *(En mesa física: regla plástica, moneda, llaves, borrador, lápiz).*
 * **Tu rol:** Recorres los puestos verificando que nadie cierre un cortocircuito directo sin bombilla.
 

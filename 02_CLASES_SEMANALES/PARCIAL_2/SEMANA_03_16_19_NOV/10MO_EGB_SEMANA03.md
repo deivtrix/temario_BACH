@@ -1,6 +1,6 @@
 # 📘 10MO EGB — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
 **Tema:** Conectores y Aislantes Eléctricos *(Individual 1 — Infografía / Consulta)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Consulta e Infografía Autónoma (30 min) + Cierre (5 min)  
 **Entregable:** Infografía en Canva / Documento de consulta en Classroom.
 

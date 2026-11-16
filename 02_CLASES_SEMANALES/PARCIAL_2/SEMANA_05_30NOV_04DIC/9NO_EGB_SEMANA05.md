@@ -1,6 +1,6 @@
 # 📗 9NO EGB — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
 **Tema:** Proyecto Grupal 3D: Vehículo / Carro — Parte 1 *(Grupal)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo A/B — Modelación (10 min) + Trabajo Grupal (30 min) + Cierre (5 min)  
 **Entregable:** Avance en vivo (chasis y carrocería listos; entrega final en Semana 6).
 
@@ -18,7 +18,7 @@
   * Usar un cubo base largo como **chasis**, cortar con cuñas/huecos el **parabrisas y cabina** (o usar *Techo* / *Cuña*).
   * Cómo trabajar **en equipo**: compartir enlace de edición o dividir tareas (uno hace carrocería, otro los faros/alerón, otro las ruedas para la Parte 2).
 
-### 3. Trabajo Grupal con Intervención Docente (15 – 40 min)
+### 3. Trabajo Grupal con Intervención del Mediador (15 – 40 min)
 * **Instrucción:** En grupos de 2 o 3, diseñan el chasis y la carrocería principal del vehículo (sin ruedas aún, o dejando los arcos/huecos de las ruedas).
 * **Tu rol:** Ayudas a mantener proporciones realistas y que las piezas queden bien alineadas (`L`) y agrupadas.
 

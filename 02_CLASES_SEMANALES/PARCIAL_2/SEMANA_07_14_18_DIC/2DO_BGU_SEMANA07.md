@@ -1,6 +1,6 @@
 # 🟣 2DO BGU — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
 **Tema:** Refuerzo: Diseño Libre Programado en Codeblocks *(Refuerzo)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Refuerzo Creativo (45 min)  
 **Entregable:** Visto bueno en vivo / captura opcional de nivelación en Classroom.
 

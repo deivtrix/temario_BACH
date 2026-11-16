@@ -1,7 +1,7 @@
 # 🟠 3RO BGU — TEMARIO MAESTRO ANUAL (2026 - 2027)
 
 **Materia:** Robótica y Tecnología  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Regla de Clase (45 min):** 10 min de teoría + 35 min de práctica conjunta (**100% Simulador Wokwi + Herramientas Web de IA** — sin ESP32 físico).  
 **Referencia Base ESP32:** Curso de ESP32 de *Programador Novato* (`programadornovato.com/category/curso-de-esp32/`).  
 **Estructura por Parcial:** 4 Parciales (**6 clases reales por parcial** para compensar eventos/pérdidas de clase y graduación en junio).

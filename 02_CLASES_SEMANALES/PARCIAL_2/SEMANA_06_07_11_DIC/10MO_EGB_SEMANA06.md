@@ -1,6 +1,6 @@
 # 📘 10MO EGB — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
 **Tema:** Semáforo Físico en Protoboard con Arduino UNO *(Grupal Físico)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Trabajo Grupal Físico (45 min)  
 **Entregable:** Visto bueno en vivo + foto grupal del semáforo físico encendido en Classroom.
 
@@ -16,7 +16,7 @@
 ### 2. Encuadre de Seguridad y Pines (05 – 10 min)
 * **Reglas físicas:** 1) Nunca conectar LEDs sin resistencia de $220\,\Omega$, 2) Verificar pata larga ($+$ al pin) y pata corta ($-$ a GND), 3) Seleccionar `Arduino UNO` y puerto `COM` correcto en el IDE.
 
-### 3. Trabajo Grupal Físico con Intervención Docente (10 – 40 min)
+### 3. Trabajo Grupal Físico con Intervención del Mediador (10 – 40 min)
 * **Instrucción:** En parejas/grupos arman el circuito (Pines 13, 12, 11 + bus común GND), copian su código de Tinkercad al Arduino IDE, lo suben por USB y prueban el parpadeo real.
 * **Tu rol:** Ayudas a destrabar errores de puerto COM o LEDs puestos al revés en la protoboard.
 

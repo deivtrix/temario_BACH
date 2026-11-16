@@ -1,6 +1,6 @@
 # 📘 8VO EGB — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
 **Tema:** Falsos Contactos, Cortocircuitos y Breakers (`🛠️ REFUERZO` — Inspector de Seguridad)  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo + Refuerzo (45 min)  
 **Entregable:** Desafío *"Inspector de Seguridad"* en Classroom.
 

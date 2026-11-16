@@ -1,6 +1,6 @@
 # 📘 10MO EGB — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
 **Tema:** Primer Programa en Arduino (*Blink*) en Tinkercad *(Individual 2)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura exprés en Classroom del circuito Blink funcionando con código propio.
 

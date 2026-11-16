@@ -1,6 +1,6 @@
 # 🟠 3RO BGU — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
 **Tema:** Formulario de Mejora de Calificaciones + Repaso Base ESP32 en Wokwi  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Recuperación y Nivelación Autónoma (45 min)  
 **Entregable:** Formulario de recuperación enviado + verificación en Wokwi (para quienes debían práctica).
 

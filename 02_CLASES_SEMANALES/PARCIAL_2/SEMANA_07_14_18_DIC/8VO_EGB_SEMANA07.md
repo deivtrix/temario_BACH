@@ -1,6 +1,6 @@
 # 📘 8VO EGB — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
 **Tema:** Repaso y Consolidación Pre-Vacaciones (`🛠️ REFUERZO` sin calificación)  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
 **Entregable:** Nivelación de pendientes + reto libre en PhET (sin nota adicional).
 

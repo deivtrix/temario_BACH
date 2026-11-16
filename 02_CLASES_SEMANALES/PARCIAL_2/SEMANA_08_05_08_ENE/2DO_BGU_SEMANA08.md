@@ -1,6 +1,6 @@
 # 🟣 2DO BGU — PARCIAL 2 / SEMANA 8 (5 – 8 ene)
 **Tema:** Cierre del Bloque 3D / Codeblocks y Puente a Arduino *(Colchón)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Cierre y Nivelación (45 min)  
 **Entregable:** Revisión final de diseños Sim Lab / Codeblocks.
 

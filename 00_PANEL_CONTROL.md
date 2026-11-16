@@ -1,5 +1,5 @@
-# 🎛️ PANEL DE CONTROL DOCENTE (OBSIDIAN 2026 - 2027)
-**Docente:** Ing. David Castro T. | **Materia:** Robótica y Tecnología  
+# 🎛️ PANEL DE CONTROL DEL MEDIADOR (OBSIDIAN 2026 - 2027)
+**Mediador:** David Castro | **Materia:** Robótica y Tecnología  
 **Última actualización:** 16 de noviembre de 2026 (Parcial 2 — Semana 3)
 
 ---

@@ -1,6 +1,6 @@
 # 📘 GUÍA MAESTRA DE GENERACIÓN DE CLASES (45 MINUTOS)
 
-**Propósito de este archivo:** Cuando el docente pida *"genera las clases de la semana X"* o *"genera todas las semanas del parcial"*, se debe seguir **estrictamente** este formato y leer primero `01_TEMARIOS_POR_CURSO/` y `03_SISTEMA_Y_PLANTILLAS/REGLAS_Y_MEMORIA_DOCENTE.md`.
+**Propósito de este archivo:** Cuando el mediador pida *"genera las clases de la semana X"* o *"genera todas las semanas del parcial"*, se debe seguir **estrictamente** este formato y leer primero `01_TEMARIOS_POR_CURSO/` y `03_SISTEMA_Y_PLANTILLAS/REGLAS_Y_MEMORIA_DOCENTE.md`.
 
 ---
 
@@ -20,7 +20,7 @@ Cada archivo (`<CURSO>_SEMANA<NN>.md`) dentro de `02_CLASES_SEMANALES/PARCIAL_<N
 ```markdown
 # <EMOJI> <CURSO> — PARCIAL <N> / SEMANA <NN> (<FECHAS>)
 **Tema:** <Nombre exacto del tema en 01_TEMARIOS_POR_CURSO>
-**Docente / Mediador:** Ing. David Castro T.
+**Mediador:** David Castro
 **Modo de Clase:** <Modo A: Tema Nuevo (45 min) | Modo B: Actividad Autónoma (45 min)>
 **Entregable:** <Captura exprés en Classroom | Visto bueno en vivo | Informe corto anti-IA>
 
@@ -52,7 +52,7 @@ Cada archivo (`<CURSO>_SEMANA<NN>.md`) dentro de `02_CLASES_SEMANALES/PARCIAL_<N
 ---
 
 ## 3. REGLAS INNEGOCIABLES AL GENERAR
-1. **Docente:** Siempre y exclusivamente **Ing. David Castro T.**
+1. **Mediador:** Siempre y exclusivamente **Mediador: David Castro** (nunca `Ing.`, `Docente` ni `Profesor`).
 2. **Herramientas reales por curso:**
    * **8vo:** PhET, Canva, Tinkercad Circuits, prácticas físicas, LEGO WeDo 2.0.
    * **9no:** Tinkercad 3D, Inkscape `.SVG`, mBot/mBlock, Tinkercad Circuits (Protoboard).

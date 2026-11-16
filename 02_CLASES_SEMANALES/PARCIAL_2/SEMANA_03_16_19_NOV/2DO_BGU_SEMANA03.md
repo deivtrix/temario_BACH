@@ -1,6 +1,6 @@
 # 🟣 2DO BGU — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
 **Tema:** Mecanismo de Motor Deslizante en Tinkercad Sim Lab *(Grupal)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo A/B — Encuadre + Modelación rápida (10 min) + Reto Grupal (30 min) + Cierre (5 min)  
 **Entregable:** Captura / video corto del mecanismo funcionando en Sim Lab + 2 preguntas en Classroom.
 
@@ -24,7 +24,7 @@
   2. Conectarlas con el **Motor Deslizante (*Slider*)** orientando la flecha en el eje correcto.
   3. Ajustar velocidad/límite y presionar *Play* para que vean el desplazamiento lineal.
 
-### 3. Trabajo Grupal con Intervención Docente (15 – 40 min)
+### 3. Trabajo Grupal con Intervención del Mediador (15 – 40 min)
 * **Instrucción (Página 6):** *"En equipos, diseñen una Puerta Corrediza, Prensa o Lanzador Lineal usando al menos 1 motor deslizante. Pongan los nombres del grupo en texto 3D sobre la base."*
 * **Tu rol:** Ayudas a corregir cuando dejan la base en modo *Dinámico* (se cae todo) o cuando la flecha del motor apunta al eje equivocado.
 

@@ -1,6 +1,6 @@
 # 🔴 1RO BGU — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
 **Tema:** Theremin Musical Controlado por Luz (LDR + Buzzer `tone()`) *(Grupal Físico)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Montaje Grupal Físico (30 min) + Cierre (5 min)  
 **Entregable:** Visto bueno en vivo + Informe corto anti-IA grupal (con foto y parámetros) en Classroom.
 
@@ -20,7 +20,7 @@
   `tone(8, nota);`
 * Proyectar la simulación funcionando en Tinkercad para que vean cómo suena al mover la luz.
 
-### 3. Trabajo Grupal Físico con Intervención Docente (15 – 40 min)
+### 3. Trabajo Grupal Físico con Intervención del Mediador (15 – 40 min)
 * **Instrucción:** En grupos con su kit físico Arduino, arman la LDR + Buzzer, calibran los valores reales de luz del aula en el Monitor Serial y ajustan `map()` para que suene grave al tapar y agudo con luz.
 * **Tu rol:** Ayudas a diferenciar si el buzzer es activo o pasivo y a calibrar el rango de `map()` según la luz del laboratorio.
 

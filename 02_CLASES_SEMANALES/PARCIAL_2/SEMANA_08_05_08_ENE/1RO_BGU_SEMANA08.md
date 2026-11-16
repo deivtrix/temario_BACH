@@ -1,6 +1,6 @@
 # 🔴 1RO BGU — PARCIAL 2 / SEMANA 8 (5 – 8 ene)
 **Tema:** Repaso General de Sensores Analógicos y Cierre de Parcial 2 *(Colchón)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
 **Entregable:** Revisión de notas y prácticas pendientes del kit / Tinkercad.
 

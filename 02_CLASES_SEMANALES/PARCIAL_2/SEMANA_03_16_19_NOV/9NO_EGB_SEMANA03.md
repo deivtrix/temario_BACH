@@ -1,6 +1,6 @@
 # 📗 9NO EGB — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
 **Tema:** Case de iPhone en Tinkercad 3D — Parte 2 + Formulario *(Individual 2)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Actividad Autónoma Evaluada (45 min)  
 **Entregable:** Captura del Case 3D terminado + Formulario corto en Classroom.
 
@@ -21,7 +21,7 @@
 ### 2. Recordatorio Técnico en Pantalla (05 – 10 min)
 * **Proyectar Página 3 y 4:** Recordar en 5 minutos los 3 comandos clave: `L` (Alinear), `Ctrl + G` (Agrupar sólido + hueco) y `Ctrl + D` (Duplicar botones), y mostrar qué debe verse en la captura final (interior vaciado + nombre 3D).
 
-### 3. Trabajo Autónomo con Intervención Docente (10 – 35 min)
+### 3. Trabajo Autónomo con Intervención del Mediador (10 – 35 min)
 * **Instrucción:** *"Cada uno termina sus cortes de cámara, botones y puerto de carga, y agrega su nombre en 3D."*
 * **Tu rol en estos 25 min:** Pasas por las computadoras ayudando a quienes tienen el hueco descentrado o no logran perforar la cámara sin dañar el borde.
 

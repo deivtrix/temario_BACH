@@ -1,6 +1,6 @@
 # 🟣 2DO BGU — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
 **Tema:** Introducción a Tinkercad Codeblocks (Diseño 3D Programado) *(Individual 2)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura exprés del modelo 3D generado por código + bloques visibles en Classroom.
 

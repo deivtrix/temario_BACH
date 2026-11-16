@@ -1,6 +1,6 @@
 # 🟠 3RO BGU — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
 **Tema:** Semáforo Inteligente con ESP32 en Wokwi *(Individual 1)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo / Ambientación (45 min)  
 **Entregable:** Captura o enlace de Wokwi con el semáforo funcionando en Classroom.
 

@@ -1,6 +1,6 @@
 # 🟠 3RO BGU — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
 **Tema:** ESP32 PWM y Buzzer (Zumbador) en Wokwi *(Individual 2)*  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura en Wokwi con brillo PWM + sonido/melodía en Classroom.
 

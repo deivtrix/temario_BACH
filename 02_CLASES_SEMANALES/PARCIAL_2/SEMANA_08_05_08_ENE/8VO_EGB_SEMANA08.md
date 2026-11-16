@@ -1,6 +1,6 @@
 # 📘 8VO EGB — PARCIAL 2 / SEMANA 8 (5 – 8 ene)
 **Tema:** Cierre de Parcial 2, Autoevaluación y Preparación Quimestral (`🛠️ REFUERZO`)  
-**Docente / Mediador:** Ing. David Castro T.  
+**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Cierre y Autoevaluación (45 min)  
 **Entregable:** Autoevaluación Likert (1–5) + verificación final de notas.
 
