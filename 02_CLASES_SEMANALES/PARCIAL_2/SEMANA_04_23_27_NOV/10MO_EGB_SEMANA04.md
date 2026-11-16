@@ -1,0 +1,55 @@
+# 📘 10MO EGB — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
+**Tema:** Primer Programa en Arduino (*Blink*) en Tinkercad *(Individual 2)*  
+**Docente / Mediador:** Ing. David Castro T.  
+**Modo de Clase:** Modo A — Tema Nuevo (45 min)  
+**Entregable:** Captura exprés en Classroom del circuito Blink funcionando con código propio.
+
+## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
+* **Propósito:** **Simular** un LED que parpadea solo con código Arduino (`Blink`) para dar vida a un circuito.
+* **¿Para qué me sirve en la vida?** Es el primer paso para automatizar cualquier cosa: desde luces intermitentes de bicicleta hasta semáforos y alarmas.
+
+## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
+### 1. Inicio y Propósito (00 – 05 min)
+* **¿Qué decirles?** *"Hasta el parcial pasado, un foco solo prendía si tú aplastabas el interruptor con el dedo. Hoy jubilamos al dedo: vamos a darle cerebro con código C++ para que prenda y apague solo."*
+* **Propósito en pantalla:** *"Programar el parpadeo automático de un LED en Arduino usando `setup()`, `loop()` y `delay()`."*
+
+### 2. Teoría Corta y Modelación (05 – 15 min)
+* **2 bloques obligatorios de Arduino:**
+  * `void setup()` $\rightarrow$ Corre **una sola vez** al prender (`pinMode(13, OUTPUT);`).
+  * `void loop()` $\rightarrow$ Se **repite por siempre** (`digitalWrite(13, HIGH);`, `delay(1000);`, `LOW`).
+* **Modelación en Tinkercad:** Arrastrar Arduino UNO + LED + Resistencia $220\,\Omega$ en Pin 13 y GND, cambiar código a **Texto**, simular y ver parpadear.
+
+### 3. Práctica Guiada y Reto Individual (15 – 40 min)
+* **15 – 25 min (Guiada):** Todos arman el circuito del LED en Pin 13 y prueban el código *Blink* básico contigo.
+* **25 – 40 min (Reto Solos):** *"Agrega un segundo LED en el Pin 12 (con su resistencia) y haz que parpadeen alternados: cuando uno prende, el otro se apaga cada 500 ms. Pon tu nombre en un comentario `// Nombre`."*
+
+### 4. Cierre y Preguntas de Verificación (40 – 45 min)
+* **2 preguntas rápidas:**
+  1. *"¿Qué diferencia hay entre `void setup()` y `void loop()`?"*
+  2. *"Si pongo `delay(500);`, ¿cuántos segundos espera el Arduino?"*
+* **Cierre:** Subir captura en Tinkercad con el LED encendido y el código visible a Classroom.
+
+## 📢 TEXTO PARA GOOGLE CLASSROOM
+```text
+TÍTULO: Actividad Individual 2: Mi Primer Programa en Arduino (Blink Alternado)
+
+PROPÓSITO: Programar el parpadeo automático de un LED en Arduino usando setup(), loop() y delay().
+
+CÓDIGO BASE DE REFERENCIA:
+void setup() {
+  pinMode(13, OUTPUT);
+}
+void loop() {
+  digitalWrite(13, HIGH);
+  delay(1000);
+  digitalWrite(13, LOW);
+  delay(1000);
+}
+
+RETO INDIVIDUAL:
+1. Agrega un segundo LED en el Pin 12 (con resistencia de 220 ohmios a GND).
+2. Haz que ambos LEDs parpadeen alternados cada 500 ms.
+3. Escribe // Tu Nombre Apellido en la línea 1 del código y sube 1 captura de la simulación corriendo.
+
+Calificación: 10 puntos (Actividad Individual 2).
+```
