@@ -1,37 +1,14 @@
-# 📘 8VO EGB — PARCIAL 4 / CLASE 5
-**Tema:** Sensor de Inclinación en LEGO WeDo 2.0 (`📘 TEMA NUEVO` — Práctica Guiada)  
+# 🤖 8VO EGB — PARCIAL 4 / CLASE 5
+**Tema:** Proyecto Integrador WeDo — Parte 1: Construcción (`📘 PRÁCTICA EN EQUIPOS`)  
 **Mediador:** David Castro  
-**Modo de Clase:** Modo A — Tema Nuevo (45 min)  
-**Entregable:** Visto bueno en vivo controlando un motor como joystick con el sensor de inclinación.
+**Modo de Clase:** Práctica Guiada en Equipos (45 min)  
+**Entregable:** Estructura mecánica completa y revisada (avance para Clase 6).
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Usar** el sensor de inclinación de LEGO WeDo 2.0 como un control remoto para cambiar la dirección de un motor.
-* **¿Para qué me sirve en la vida?** Es el mismo principio del giroscopio de los celulares (cuando giras la pantalla o manejas un juego inclinando el teléfono).
+* **Propósito:** **Construir** en equipos la estructura mecánica y los acoplamientos electrónicos de un prototipo oficial WeDo 2.0 (*Rescate / Helicóptero* o *Prevención de Inundaciones / Compuerta*) para resolver un problema real.
+* **¿Para qué me sirve en la vida?** Para trabajar en equipo planificando el ensamblaje mecánico firme antes de pasar a la etapa de programación.
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"¿Cómo sabe tu celular cuando lo pones horizontal para ver un video? Hoy usamos el sensor de inclinación de LEGO como si fuera un control de videojuegos."*
-* **Propósito en pantalla:** *"Usar el sensor de inclinación de LEGO WeDo 2.0 como un control remoto para cambiar la dirección de un motor."*
-
-### 2. Teoría Corta y Modelación (05 – 15 min)
-* El **Sensor de Inclinación** detecta 6 estados (inclinado adelante, atrás, izquierda, derecha, horizontal, sacudido).
-* Programar: Si se inclina a la derecha $\rightarrow$ motor gira a la derecha; si se inclina a la izquierda $\rightarrow$ motor gira a la izquierda; si está plano $\rightarrow$ motor se detiene.
-
-### 3. Práctica Guiada y Reto (15 – 40 min)
-* **15 – 25 min:** Conectan el Sensor de Inclinación como "palanca de mando" y prueban controlar la dirección de un motor con un indicador.
-* **25 – 40 min:** Agregan que al **sacudir** el sensor, el Smart Hub cambie de color y emita un sonido.
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-1. *"¿Qué aparato de tu casa usa un sensor parecido para saber si está inclinado?"*
-2. *"¿Cuántas direcciones distintas puede detectar el sensor de inclinación WeDo?"*
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Práctica WeDo 2.0: Sensor de Inclinación (Control tipo Joystick)
-
-PROPÓSITO: Usar el sensor de inclinación de LEGO WeDo 2.0 como un control remoto para cambiar la dirección de un motor.
-
-ACTIVIDAD EN CLASE:
-- Conectar el Sensor de Inclinación para controlar la dirección del motor (izquierda, derecha, detenerse).
-- Revisión en vivo en el laboratorio.
-```
+* **00–05 min (Inicio):** Propósito en pantalla + elección del modelo oficial en la app WeDo 2.0 (*Soltar y Rescatar / Helicóptero* o *Prevención de Inundaciones / Compuerta*).
+* **05–40 min (Construcción en Equipos):** Ensamblar el modelo oficial verificando: 1) vigas y conectores firmes sin vibración, 2) acceso libre al botón del Smart Hub y puertos, 3) giro manual suave de poleas/engranajes sin atascos.
+* **40–45 min (Cierre):** Resguardo seguro de los prototipos armados para la Clase 6.

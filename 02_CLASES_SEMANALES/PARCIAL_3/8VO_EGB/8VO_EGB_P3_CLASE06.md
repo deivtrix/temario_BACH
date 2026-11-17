@@ -1,37 +1,16 @@
 # 📘 8VO EGB — PARCIAL 3 / CLASE 6
-**Tema:** Proyecto Grupal — Parte 1: Extensión con Foco e Interruptor (`👥 ACTIVIDAD GRUPAL`)  
+**Tema:** Taller Físico: Masa Conductora — Serie y Paralelo (`👥 ACTIVIDAD GRUPAL`)  
 **Mediador:** David Castro  
-**Modo de Clase:** Modo A/B — Encuadre + Seguridad (10 min) + Armado Grupal (30 min) + Cierre (5 min)  
-**Entregable:** Avance en mesa (cables pelados, boquilla e interruptor armados; **prohibido enchufar aún**).
+**Modo de Clase:** Modo B — Taller Grupal Físico (45 min)  
+**Entregable:** Circuitos físicos en Serie y Paralelo funcionando con LEDs en equipos.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Armar** en equipo una extensión funcional con cable, boquilla, foco e interruptor aplicando empalmes seguros y aislamiento.
-* **¿Para qué me sirve en la vida?** Es una instalación eléctrica real básica que sirve para armar una lámpara de escritorio o una extensión con apagador en casa.
+* **Propósito:** **Construir** en equipos circuitos físicos en Serie y en Paralelo usando masa conductora casera y LEDs para comprobar en la práctica la conducción y la polaridad.
+* **¿Para qué me sirve en la vida?** Para demostrar que materiales cotidianos con agua y sal conducen electricidad y para diferenciar físicamente una conexión en serie de una en paralelo.
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Todo lo que aprendieron de empalmes, aislantes y circuitos lo unimos hoy: en equipos van a armar una extensión real con foco e interruptor. Regla #1: nadie enchufa nada hasta la próxima clase cuando yo revise cada tornillo."*
-* **Propósito en pantalla:** *"Armar en equipo una extensión funcional con cable, boquilla, foco e interruptor aplicando empalmes seguros y aislamiento."*
-
-### 2. Esquema y Reglas de Seguridad (05 – 15 min)
-* **Diagrama en pizarra:** El cable doble (2 hilos) va desde el enchufe hacia la boquilla, pero **uno de los dos hilos se corta a la mitad** para conectar ahí en serie los 2 tornillos del **interruptor** (nunca unir los 2 hilos juntos en el interruptor o hará cortocircuito!).
-* **Normas:** Cero "pelos" de cobre salidos de los tornillos; encintar bien si hay uniones expuestas.
-
-### 3. Armado Grupal en Mesas (`👥 ACTIVIDAD GRUPAL`, 15 – 40 min)
-* **Materiales:** Cable gemelo/mellizo, enchufe macho, boquilla con foco, interruptor de paso/sobreponer, destornillador, pelacables, cinta aislante.
-* **Tu rol:** Pasas por los grupos revisando que nadie conecte los dos cables distintos al mismo interruptor.
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-1. *"¿Por qué el interruptor se conecta cortando UNO solo de los dos hilos del cable?"*
-2. *"¿Qué pasaría si un pelito de cobre toca el tornillo de al lado?"*
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: 👥 Proyecto Grupal (Parte 1): Extensión Funcional con Foco e Interruptor
-
-PROPÓSITO: Armar en equipo una extensión funcional con cable, boquilla, foco e interruptor aplicando empalmes seguros y aislamiento.
-
-REGLA DE SEGURIDAD OBLIGATORIA:
-- PROHIBIDO enchufar a la corriente sin revisión previa del Mediador.
-- Hoy dejamos conectados el enchufe, la boquilla y el interruptor en serie sobre un solo hilo; la próxima clase hacemos inspección y prueba funcional.
-```
+* **00–05 min (Encuadre):** Propósito en pantalla + materiales por equipo (1 taza harina, 1/4 taza sal, 1/2 taza agua tibia, 1 cda aceite, pila 9V/portapilas con resistencia protectora 330 Ω, 2–3 LEDs, base aislante).
+* **05–15 min (Paso 1 — Amasado):** Mezclar harina + sal + agua tibia + aceite hasta lograr masa suave (advertencia: si dos masas opuestas se tocan hacen cortocircuito).
+* **15–28 min (Paso 2 — Serie):** 3 bolitas separadas + LEDs en puente respetando polaridad (`+` pata larga, `-` pata corta).
+* **28–40 min (Paso 3 — Paralelo):** 2 tiras paralelas separadas 2 cm (`+` y `-`) + LEDs puenteando; retirar 1 LED para verificar que los demás siguen encendidos.
+* **40–45 min (Cierre):** Limpieza de mesas y verificación en vivo por equipo.

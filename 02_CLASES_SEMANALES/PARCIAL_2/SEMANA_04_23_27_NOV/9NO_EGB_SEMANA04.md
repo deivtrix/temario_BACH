@@ -1,5 +1,5 @@
 # 📗 9NO EGB — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
-**Tema:** Vectorización 2D (Inkscape `.PNG` $\rightarrow$ `.SVG`) + Intro a Litofanías  
+**Tema:** Vectorización 2D (Inkscape `.PNG` $\rightarrow$ `.SVG`) a Tinkercad 3D (`📘 TEMA NUEVO`)
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura exprés en Classroom del logo convertido a 3D en Tinkercad.

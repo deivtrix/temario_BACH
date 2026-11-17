@@ -1,37 +1,18 @@
 # 📘 8VO EGB — PARCIAL 3 / CLASE 2
-**Tema:** Taller Físico Electrostático y Toma a Tierra (`🛠️ PRÁCTICA FÍSICA`)  
+**Tema:** Taller Físico Electrostático y Toma a Tierra (`👤 ACTIVIDAD INDIVIDUAL 1` — Taller Práctico)  
 **Mediador:** David Castro  
-**Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Experimentos Físicos (30 min) + Cierre (5 min)  
-**Entregable:** Visto bueno en mesa / foto corta del experimento en Classroom.
+**Modo de Clase:** Modo B — Taller Práctico (45 min)  
+**Entregable:** Registro de observaciones de los 3 experimentos y explicación de toma a tierra.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Experimentar** con globos, latas y papel picado cómo se atraen y repelen las cargas, y entender cómo nos protege el cable a tierra.
-* **¿Para qué me sirve en la vida?** Para saber cómo protegerse en tormentas eléctricas y por qué los edificios usan pararrayos y enchufes con tercera pata a tierra.
+* **Propósito:** **Experimentar** la atracción y repulsión electrostática con materiales cotidianos y entender cómo nos protege la toma a tierra frente a descargas.
+* **¿Para qué me sirve en la vida?** Para comprender cómo funcionan los pararrayos y por qué los electrodomésticos grandes tienen una tercera pata de conexión a tierra.
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Hoy vamos a mover una lata de aluminio sin tocarla usando solo electricidad estática, y veremos qué tiene que ver eso con los rayos de las tormentas."*
-* **Propósito en pantalla:** *"Experimentar con globos, latas y papel picado cómo se atraen y repelen las cargas, y entender cómo nos protege el cable a tierra."*
-
-### 2. Teoría Corta (05 – 15 min)
-* **Rayos y Pararrayos:** Las nubes se cargan por fricción del aire y descargan hacia la tierra; el pararrayos guía esa energía seguro al suelo.
-* **Cable a tierra (verde/amarillo):** En casa, la tercera pata del enchufe desvía cualquier fuga eléctrica al suelo para no electrocutarnos.
-
-### 3. Taller Físico en Mesas (`🛠️ PRÁCTICA FÍSICA`, 15 – 40 min)
-* **Materiales:** Globos, prenda de lana/cabello, 1 lata vacía de aluminio, papel picado, peine plástico.
-* **Pruebas:** 1) Frotar globo y hacer rodar la lata vacía por la mesa sin tocarla; 2) Levantar papel picado con el peine o globo cargado.
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-1. *"¿Por qué la lata de aluminio rodó hacia el globo si no la tocamos?"*
-2. *"¿Para qué sirve la tercera pata (cable a tierra) de un enchufe?"*
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: 🛠️ Práctica Física: Experimentos Electrostáticos y Toma a Tierra
-
-PROPÓSITO: Experimentar con globos, latas y papel picado cómo se atraen y repelen las cargas, y entender cómo nos protege el cable a tierra.
-
-ACTIVIDAD EN CLASE:
-- Pruebas físicas en mesa: hacer rodar una lata vacía sin tocarla y atraer papel picado con un globo/peine cargado.
-- Sube 1 foto de tu experimento con un papelito con tu nombre (revisión en vivo).
-```
+* **00–05 min (Encuadre):** Propósito en pantalla + presentación de materiales (2 globos, tela de lana, lata de aluminio vacía, papel picado, regla plástica).
+* **05–12 min (Teoría breve):** Rayos como descarga gigante y función protectora de la **toma a tierra** (camino seguro hacia el suelo).
+* **12–40 min (Taller Práctico):**
+  1. *Experimento 1:* Frotar globo/regla 15s y atraer papel picado.
+  2. *Experimento 2:* Acercar globo cargado a 2–3 cm de la lata acostada para hacerla rodar sin tocarla.
+  3. *Experimento 3:* Frotar ambos globos y comprobar repulsión entre cargas iguales.
+* **40–45 min (Cierre):** Verificación de registros y pregunta sobre el tercer pin del enchufe.

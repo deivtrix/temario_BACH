@@ -1,40 +1,15 @@
 # 📘 8VO EGB — PARCIAL 3 / CLASE 5
-**Tema:** Taller Físico: Masa Conductora (Harina + Sal + LEDs) (`👥 ACTIVIDAD GRUPAL`)  
+**Tema:** Circuito en Paralelo y Comparativa Serie vs. Paralelo (`👤 ACTIVIDAD INDIVIDUAL 2`)  
 **Mediador:** David Castro  
-**Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Taller Grupal Físico (30 min) + Cierre (5 min)  
-**Entregable:** Visto bueno en mesa + foto grupal del circuito con masa conductora en Classroom.
+**Modo de Clase:** Modo B — Actividad Individual (45 min)  
+**Entregable:** Simulación en Tinkercad + tabla comparativa Serie vs. Paralelo.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Construir** circuitos en serie y paralelo usando masa conductora casera (harina y sal) y LEDs para comprobar que la sal conduce electricidad.
-* **¿Para qué me sirve en la vida?** Para ver cómo incluso materiales blandos con agua y sal conducen electricidad (como nuestro cuerpo humano) y por qué debemos respetarla.
+* **Propósito:** **Construir** un circuito en Paralelo en Tinkercad y compararlo frente a uno en Serie (brillo, voltaje, esquema y continuidad) para elegir la conexión adecuada.
+* **¿Para qué me sirve en la vida?** Para entender por qué todos los focos y tomacorrientes de una casa o colegio se conectan en paralelo.
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Hoy no usamos cables de cobre ni protoboard: vamos a encender LEDs usando plastilina casera hecha de harina, agua y sal."*
-* **Propósito en pantalla:** *"Construir circuitos en serie y paralelo usando masa conductora casera (harina y sal) y LEDs para comprobar que la sal conduce electricidad."*
-
-### 2. Teoría Corta (05 – 15 min)
-* **¿Por qué conduce la masa?** El agua con sal tiene iones que dejan pasar la corriente; en cambio la plastilina normal (con aceite/azúcar) es aislante.
-* **Regla de oro del LED:** Nunca juntar las dos bolitas de masa conductora entre sí (haría cortocircuito y el LED no prende). Dejar un espacio de aire o plastilina normal en medio.
-
-### 3. Taller Físico en Mesas (`🛠️ PRÁCTICA FÍSICA`, 15 – 40 min)
-* **Materiales:** Masa conductora (harina + agua + sal + colorante), plastilina normal (aislante), pila 9V (o 4xAA), 3 LEDs.
-* **Práctica:** 1) Armar 2 tiras separadas de masa conductora con 2–3 LEDs en **paralelo** (pata larga a tira $+$, pata corta a tira $-$); 2) Probar conectar 2 LEDs en **serie** usando puentes de masa separados.
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-1. *"¿Qué pasa si las dos tiras de masa conductora se tocan entre sí?"*
-2. *"¿Por qué el cuerpo humano también conduce electricidad?"*
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: 🛠️ Taller Físico: Circuitos con Masa Conductora (Harina + Sal + LEDs)
-
-PROPÓSITO: Construir circuitos en serie y paralelo usando masa conductora casera (harina y sal) y LEDs para comprobar que la sal conduce electricidad.
-
-ACTIVIDAD EN CLASE:
-1. En mesas, formen 2 tiras separadas de masa conductora (sin que se toquen) y conecten 3 LEDs en paralelo alimentados con batería.
-2. Prueben cambiar a conexión en serie y comparen el brillo.
-3. Suban 1 foto de sus LEDs encendidos con un papelito con sus nombres.
-
-Calificación: 10 puntos (Taller Práctico).
-```
+* **00–05 min (Encuadre):** Propósito en pantalla + criterio de la actividad individual.
+* **05–12 min (Teoría breve):** Circuito en Paralelo (ramas independientes, mismo voltaje en cada rama, brillo completo, si falla una las demás siguen).
+* **12–40 min (Trabajo Autónomo en Tinkercad):** Armar el circuito en **Paralelo** (fuente, interruptor y 2 cargas protegidas), activar la **Vista Esquemática**, medir voltaje por rama con multímetro y completar la tabla comparativa **Serie vs. Paralelo**.
+* **40–45 min (Cierre):** Revisión de tablas y preguntas de verificación.
