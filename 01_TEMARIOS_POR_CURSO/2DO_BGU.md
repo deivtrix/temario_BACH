@@ -37,9 +37,9 @@
 1. `[ ]` **Juego de Reflejos / Reacción en ms (`millis()` sin `delay()` + Récord Serial)** *(Individual 1 — calificada)* — Medición de tiempo de reacción con LEDs, pulsador y tabla en Monitor Serial.
 2. `[ ]` **Transistor BJT/MOSFET + Motor DC (Rueda / Ventilador)** *(Tema Nuevo — clase normal)* — Encendido seguro de motor con Diodo Flyback 1N4007.
 3. `[ ]` **Ventilador Inteligente por Temperatura / Potenciómetro (PWM)** *(Individual 2 — calificada)* — Regulación automática de velocidad del motor.
-4. `[ ]` **Puente H (L293D / L298N) — Inversión de Giro** *(Tema Nuevo — clase normal)* — Cambiar el sentido de giro (adelante/atrás) y velocidad en Tinkercad y kit.
-5. `[ ]` **Chasis Robot 2WD o Banda Reversible con Puente H — Parte 1** *(Práctica en Equipos — avance)* — Montaje de 2 motores DC y control direccional.
-6. `[ ]` **Chasis Robot 2WD o Banda Reversible — Parte 2 (Reto de Maniobras)** *(Grupal Físico — calificada)* — Prueba cronometrada en mesa/pista y entrega.
+4. `[ ]` **Puente H (L293D) — Inversión de Giro (Simulación Tinkercad)** *(Tema Nuevo — clase normal)* — Cambiar el sentido de giro (adelante/atrás) y velocidad en Tinkercad Circuits.
+5. `[ ]` **Chasis Robot 2WD o Banda Reversible con Puente H — Parte 1 (Tinkercad)** *(Práctica en Equipos — avance)* — Montaje virtual de 2 motores DC y control direccional.
+6. `[ ]` **Chasis Robot 2WD o Banda Reversible — Parte 2 (Reto en Tinkercad)** *(Grupal Virtual — calificada)* — Prueba de maniobras cronometrada/secuencia en simulador y entrega.
 7. `[ ]` **Refuerzo, Depuración y Autoevaluación** *(Refuerzo y Cierre)* — Revisión de errores de potencia/Puente H y **Autoevaluación Likert (1–5)** en 4 aspectos.
 
 ---

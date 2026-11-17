@@ -29,24 +29,24 @@
 
 ---
 
-## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Servomotores, LCD 16x2 y Conectividad WiFi en Wokwi
+## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Servomotores, LCD 16x2 e IoT Bidireccional (Wokwi + Gemini)
 *(Estado: Pendiente — 6 clases | 100% nativo en `wokwi.com` gratis)*
 
-1. `[ ]` **Control de Servomotor (180°) con ESP32** *(Individual 1)* — Posicionamiento angular y barrido en Wokwi.
-2. `[ ]` **Pantalla LCD 16x2 con ESP32 (Textos y *Scroll*)** *(Individual 2)* — Despliegue de mensajes dinámicos en pantalla.
-3. `[ ]` **Proyecto: Barrera de Peaje / Parqueo (HC-SR04 + Servo + LCD 16x2)** *(Grupal en Wokwi)* — Abre al detectar distancia y muestra estado en la LCD.
-4. `[ ]` **Conexión WiFi en Wokwi (`WiFi.h` + `Wokwi-GUEST`) y Consulta API (`HTTPClient`)** *(Práctica PC)* — Conectar el ESP32 a internet virtual y obtener hora/datos reales.
-5. `[ ]` **IA como Copiloto de Ingeniería (Prompting + Depuración)** *(Práctica PC)* — Usar IA para diseñar, explicar y corregir código ESP32 validándolo en Wokwi.
-6. `[ ]` **Refuerzo, Depuración WiFi/ESP32 y Autoevaluación** *(Refuerzo y Cierre)* — Consolidación, pruebas en Wokwi y **Autoevaluación Likert (1–5)** en 4 aspectos.
+1. `[ ]` **Control de Servomotor (180°) con ESP32** *(Individual 1 — calificada)* — Posicionamiento angular y barrido en Wokwi.
+2. `[ ]` **Pantalla LCD 16x2 con ESP32 (Textos y *Scroll*)** *(Individual 2 — calificada)* — Despliegue de mensajes dinámicos en pantalla.
+3. `[ ]` **Proyecto: Barrera de Peaje / Parqueo (HC-SR04 + Servo + LCD 16x2)** *(Grupal en Wokwi — calificada)* — Abre al detectar distancia y muestra estado en la LCD.
+4. `[ ]` **WiFi en Wokwi (`Wokwi-GUEST`) y Protocolo IoT MQTT (`PubSubClient`)** *(Tema Nuevo — clase normal)* — Conectar el ESP32 a un broker público (`broker.hivemq.com`) enviando lecturas (texto/JSON) y recibiendo comandos.
+5. `[ ]` **Panel Web IoT con Gemini (HTML + `mqtt.js`) para Controlar Wokwi en Vivo** *(Práctica PC — sin nota extra / o evaluable)* — Crear en Gemini una página `.html` externa que muestre la distancia del HC-SR04 en vivo y mueva el servo de la puerta en Wokwi.
+6. `[ ]` **Refuerzo, Seguridad IoT (Credenciales/Tópicos) y Autoevaluación** *(Refuerzo y Cierre)* — Buenas prácticas de seguridad IoT, depuración con IA y **Autoevaluación Likert (1–5)** en 4 aspectos.
 
 ---
 
 ## 🟣 PARCIAL 4 (13 abr – 19 jun) — TEMA 4: Inteligencia Artificial + ESP32 (Enfoque Universitario)
 *(Estado: Pendiente — 6 clases | Cierre anticipado por graduación de 3ro BGU)*
 
-1. `[ ]` **Entrenamiento de IA Visual con *Google Teachable Machine*** *(Individual 1)* — Entrenar modelo de cámara en el navegador (gestos de mano / objetos).
-2. `[ ]` **Puente IA $\rightarrow$ ESP32 (Simulación por Monitor Serial en Wokwi)** *(Individual 2)* — Traducir la clase detectada por la IA en comandos (`'A'` / `'C'`) probados en el Monitor Serial de Wokwi.
-3. `[ ]` **Proyecto Final: Acceso Inteligente con Visión IA — Parte 1** *(Grupal)* — Montaje en Wokwi con **LCD 16x2 + Servomotor + LEDs + Buzzer**.
-4. `[ ]` **Proyecto Final: Acceso Inteligente con Visión IA — Parte 2** *(Grupal)* — Pruebas en vivo (la IA reconoce gesto/objeto $\rightarrow$ abre puerta en Wokwi y saluda en la LCD).
-5. `[ ]` **Mini-Sustentación estilo Universitario** *(Refuerzo)* — Defensa técnica de arquitectura (IA $\rightarrow$ ESP32 $\rightarrow$ Actuador).
-6. `[ ]` **Cierre Final de 3ro BGU y Autoevaluación** — Evaluación quimestral previa a graduación y **Autoevaluación Likert (1–5)** en 4 aspectos.
+1. `[ ]` **Entrenamiento de IA Visual con *Google Teachable Machine*** *(Individual 1 — calificada)* — Entrenar modelo de cámara en el navegador (gestos/objetos) y analizar **sesgo de datos** (luz, ángulos y fondos).
+2. `[ ]` **Puente IA -> ESP32 (Simulación por Monitor Serial en Wokwi)** *(Individual 2 — calificada)* — Traducir la clase detectada por la IA en comandos (`'A'` / `'C'`) probados en el Monitor Serial de Wokwi.
+3. `[ ]` **Proyecto Final: Acceso Inteligente con Visión IA — Parte 1** *(Grupal — avance)* — Montaje en Wokwi con **LCD 16x2 + Servomotor + LEDs + Buzzer**.
+4. `[ ]` **Proyecto Final: Acceso Inteligente con Visión IA — Parte 2** *(Grupal — calificada)* — Pruebas en vivo (la IA reconoce gesto/objeto -> abre puerta en Wokwi y saluda en la LCD).
+5. `[ ]` **Mini-Sustentación estilo Universitario** *(Refuerzo)* — Defensa técnica de arquitectura (IA -> ESP32 -> Actuador), límites y ética/sesgo del modelo.
+6. `[ ]` **Cierre Final de 3ro BGU y Autoevaluación** *(Refuerzo y Cierre)* — Evaluación quimestral previa a graduación y **Autoevaluación Likert (1–5)** en 4 aspectos.
