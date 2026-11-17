@@ -3,39 +3,39 @@
 ## 📌 CÓMO USARLO EN 3 PASOS
 1. Crea **1 solo cuaderno** en NotebookLM llamado: **8vo EGB — Robótica y Tecnología**.
 2. Sube **1 solo archivo**: `FUENTE_8VO_EGB_ANUAL_COMPLETO.md` *(y opcionalmente las búsquedas de `fuentes.md`)*.
-3. Copia y pega el prompt del capítulo que necesites. Todos siguen la secuencia didáctica (**Motivación + Propósito LEV -> Teoría 10 min -> Actividad guiada / Autónoma -> Cierre con preguntas de verificación**) en estilo **cómic libre** (sin encasillar personajes, diálogos ni número de slides).
+3. Copia y pega el prompt del capítulo que necesites. Todos siguen la secuencia didáctica (**Motivación + Propósito LEV -> Teoría 10 min con ejemplos reales y datos novedosos -> Actividad guiada por pasos + Trabajo autónomo -> Cierre con preguntas de verificación**) en estilo **cómic libre**.
 
 ---
 
 # PARCIAL 1 — Energía y Circuitos Elementales (Temática: Pokémon)
 
-## CAPÍTULO P1.1 — Introducción a la Energía y Cargas Eléctricas (📘 TEMA NUEVO)
+## CAPÍTULO P1.1 — Introducción a la Energía y Cargas Eléctricas
 ```text
 Crea una presentación tipo cómic educativo con temática libre de Pokémon en español para 8vo EGB (12-13 años) sobre la sección P1.1 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #1: Introducción a la Energía y Cargas Eléctricas" (📘 TEMA NUEVO).
+Título visible: "CAPÍTULO #1: Introducción a la Energía y Cargas Eléctricas".
 Propósito exacto de la clase (Taxonomía LEV): **Identificar** qué es la energía, cómo se originan las cargas eléctricas (protones y electrones) y qué fuentes de energía usamos a diario.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la práctica guiada y un reto corto para hacer solos.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la práctica guiada a manera de pasos y un reto corto para hacer solos.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
-## CAPÍTULO P1.2 — Circuito Cerrado, Voltaje y Pilas en Serie (👤 ACTIVIDAD INDIVIDUAL 1)
+## CAPÍTULO P1.2 — Circuito Cerrado, Voltaje y Pilas en Serie (👤 ACTIVIDAD INDIVIDUAL)
 ```text
 Crea una presentación tipo cómic educativo con temática libre de Pokémon en español para 8vo EGB (12-13 años) sobre la sección P1.2 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #2: Circuito Cerrado, Voltaje y Pilas en Serie" (👤 ACTIVIDAD INDIVIDUAL 1).
+Título y etiqueta visibles: "CAPÍTULO #2: Circuito Cerrado, Voltaje y Pilas en Serie" (👤 ACTIVIDAD INDIVIDUAL).
 Propósito exacto de la clase (Taxonomía LEV): **Construir** un circuito eléctrico cerrado en PhET y medir cómo aumenta el voltaje al conectar pilas en serie.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la actividad autónoma/grupal de la fuente sin regalar las respuestas ni el paso a paso resuelto.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la actividad guiada por pasos previos y luego la actividad autónoma/grupal de la fuente sin regalar las respuestas.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -50,24 +50,24 @@ Propósito exacto de la clase (Taxonomía LEV): **Construir** en equipos una pil
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye los materiales exactos, el procedimiento paso a paso y la verificación de calidad de la fuente.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye los materiales exactos, la guía a manera de pasos numerados y la verificación de calidad de la fuente.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
-## CAPÍTULO P1.4 — Energía Mecánica: Cinética y Potencial (👤 ACTIVIDAD INDIVIDUAL 2)
+## CAPÍTULO P1.4 — Energía Mecánica: Cinética y Potencial (👤 ACTIVIDAD INDIVIDUAL)
 ```text
 Crea una presentación tipo cómic educativo con temática libre de Pokémon en español para 8vo EGB (12-13 años) sobre la sección P1.4 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #4: Energía Mecánica: Cinética y Potencial" (👤 ACTIVIDAD INDIVIDUAL 2).
+Título y etiqueta visibles: "CAPÍTULO #4: Energía Mecánica: Cinética y Potencial" (👤 ACTIVIDAD INDIVIDUAL).
 Propósito exacto de la clase (Taxonomía LEV): **Diferenciar** la energía cinética y la energía potencial en movimientos de la vida cotidiana para entender cómo se transforma la energía mecánica.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la actividad autónoma/grupal de la fuente sin regalar las respuestas ni el paso a paso resuelto.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la actividad guiada por pasos previos y luego la actividad autónoma/grupal de la fuente sin regalar las respuestas.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -82,8 +82,8 @@ Propósito exacto de la clase (Taxonomía LEV): **Comprobar** en PhET DC qué ma
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la práctica guiada y un reto corto para hacer solos. Al final incluye también la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la práctica guiada a manera de pasos y un reto corto para hacer solos. Al final incluye también la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -93,65 +93,65 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables a
 
 # PARCIAL 2 — Aislantes, Empalmes, DC/AC y Seguridad (Temática: Tortugas Ninja)
 
-## CAPÍTULO P2.1 — Conductores y Aislantes (👤 ACTIVIDAD INDIVIDUAL 1)
+## CAPÍTULO P2.1 — Conductores y Aislantes (👤 ACTIVIDAD INDIVIDUAL)
 ```text
 Crea una presentación tipo cómic educativo con temática libre de las Tortugas Ninja en español para 8vo EGB (12-13 años) sobre la sección P2.1 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #1: Conductores y Aislantes" (👤 ACTIVIDAD INDIVIDUAL 1).
+Título y etiqueta visibles: "CAPÍTULO #1: Conductores y Aislantes" (👤 ACTIVIDAD INDIVIDUAL).
 Propósito exacto de la clase (Taxonomía LEV): **Diferenciar** materiales conductores y aislantes para saber qué deja pasar la electricidad y qué nos protege.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la actividad autónoma/grupal de la fuente sin regalar las respuestas ni el paso a paso resuelto.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la actividad guiada por pasos previos y luego la actividad autónoma/grupal de la fuente sin regalar las respuestas.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
-## CAPÍTULO P2.2 — Taller de Empalmes Seguros (👤 ACTIVIDAD INDIVIDUAL 2)
+## CAPÍTULO P2.2 — Taller de Empalmes Seguros (👤 ACTIVIDAD INDIVIDUAL)
 ```text
 Crea una presentación tipo cómic educativo con temática libre de las Tortugas Ninja en español para 8vo EGB (12-13 años) sobre la sección P2.2 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #2: Taller de Empalmes Seguros" (👤 ACTIVIDAD INDIVIDUAL 2).
+Título y etiqueta visibles: "CAPÍTULO #2: Taller de Empalmes Seguros" (👤 ACTIVIDAD INDIVIDUAL).
 Propósito exacto de la clase (Taxonomía LEV): **Construir** empalmes seguros (*Cola de Rata*, *Western Union* y *Derivación Simple*) para unir, alargar o sacar ramas de cables sin falsos contactos.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye los materiales exactos, el procedimiento paso a paso y la verificación de calidad de la fuente.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye los materiales exactos, la guía a manera de pasos numerados y la verificación de calidad de la fuente.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
-## CAPÍTULO P2.3 — Corriente Directa / Continua (DC) y Polaridad (📘 TEMA NUEVO)
+## CAPÍTULO P2.3 — Corriente Directa / Continua (DC) y Polaridad
 ```text
 Crea una presentación tipo cómic educativo con temática libre de las Tortugas Ninja en español para 8vo EGB (12-13 años) sobre la sección P2.3 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #3: Corriente Directa / Continua (DC) y Polaridad" (📘 TEMA NUEVO).
+Título visible: "CAPÍTULO #3: Corriente Directa / Continua (DC) y Polaridad".
 Propósito exacto de la clase (Taxonomía LEV): **Comprender** cómo fluye la Corriente Directa o Continua (DC) y la importancia de respetar su polaridad (`+` y `-`) en baterías y circuitos.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la práctica guiada y un reto corto para hacer solos.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la práctica guiada a manera de pasos y un reto corto para hacer solos.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
-## CAPÍTULO P2.4 — Corriente Alterna (AC) y Transformación a DC (📘 TEMA NUEVO)
+## CAPÍTULO P2.4 — Corriente Alterna (AC) y Transformación a DC
 ```text
 Crea una presentación tipo cómic educativo con temática libre de las Tortugas Ninja en español para 8vo EGB (12-13 años) sobre la sección P2.4 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #4: Corriente Alterna (AC) y Transformación a DC" (📘 TEMA NUEVO).
+Título visible: "CAPÍTULO #4: Corriente Alterna (AC) y Transformación a DC".
 Propósito exacto de la clase (Taxonomía LEV): **Comprender** cómo funciona la Corriente Alterna (AC) que llega a los tomacorrientes y por qué los cargadores la transforman en DC.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la práctica guiada y un reto corto para hacer solos.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la práctica guiada a manera de pasos y un reto corto para hacer solos.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -166,8 +166,8 @@ Propósito exacto de la clase (Taxonomía LEV): **Clasificar** en parejas artefa
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la actividad autónoma/grupal de la fuente sin regalar las respuestas ni el paso a paso resuelto.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la actividad guiada por pasos previos y luego la actividad autónoma/grupal de la fuente sin regalar las respuestas.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -182,8 +182,8 @@ Propósito exacto de la clase (Taxonomía LEV): **Identificar** falsos contactos
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la práctica guiada y un reto corto para hacer solos.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la práctica guiada a manera de pasos y un reto corto para hacer solos.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -198,8 +198,8 @@ Propósito exacto de la clase (Taxonomía LEV): **Comprobar** lo que aprendimos 
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la práctica guiada y un reto corto para hacer solos. Al final incluye también la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la práctica guiada a manera de pasos y un reto corto para hacer solos. Al final incluye también la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -209,81 +209,81 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables a
 
 # PARCIAL 3 — Electrostática, Ley de Ohm y Serie/Paralelo (Temática: Minecraft)
 
-## CAPÍTULO P3.1 — Átomos, Cargas y Electrostática (📘 TEMA NUEVO)
+## CAPÍTULO P3.1 — Átomos, Cargas y Electrostática
 ```text
 Crea una presentación tipo cómic educativo con temática libre de Minecraft en español para 8vo EGB (12-13 años) sobre la sección P3.1 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #1: Átomos, Cargas y Electrostática" (📘 TEMA NUEVO).
+Título visible: "CAPÍTULO #1: Átomos, Cargas y Electrostática".
 Propósito exacto de la clase (Taxonomía LEV): **Comprender** cómo se cargan los objetos por fricción (electrostática) y cómo se comportan las cargas positivas y negativas.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la práctica guiada y un reto corto para hacer solos.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la práctica guiada a manera de pasos y un reto corto para hacer solos.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
-## CAPÍTULO P3.2 — Taller Físico Electrostático y Toma a Tierra (👤 ACTIVIDAD INDIVIDUAL 1)
+## CAPÍTULO P3.2 — Taller Físico Electrostático y Toma a Tierra (👤 ACTIVIDAD INDIVIDUAL)
 ```text
 Crea una presentación tipo cómic educativo con temática libre de Minecraft en español para 8vo EGB (12-13 años) sobre la sección P3.2 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #2: Taller Físico Electrostático y Toma a Tierra" (👤 ACTIVIDAD INDIVIDUAL 1).
+Título y etiqueta visibles: "CAPÍTULO #2: Taller Físico Electrostático y Toma a Tierra" (👤 ACTIVIDAD INDIVIDUAL).
 Propósito exacto de la clase (Taxonomía LEV): **Experimentar** la atracción y repulsión electrostática con materiales cotidianos y entender cómo nos protege la toma a tierra frente a descargas.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye los materiales exactos, el procedimiento paso a paso y la verificación de calidad de la fuente.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye los materiales exactos, la guía a manera de pasos numerados y la verificación de calidad de la fuente.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
-## CAPÍTULO P3.3 — Ley de Ohm (`V = I × R`), Símbolos y Tinkercad Circuits (📘 TEMA NUEVO)
+## CAPÍTULO P3.3 — Ley de Ohm (`V = I × R`), Símbolos y Tinkercad Circuits
 ```text
 Crea una presentación tipo cómic educativo con temática libre de Minecraft en español para 8vo EGB (12-13 años) sobre la sección P3.3 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #3: Ley de Ohm (`V = I × R`), Símbolos y Tinkercad Circuits" (📘 TEMA NUEVO).
+Título visible: "CAPÍTULO #3: Ley de Ohm (`V = I × R`), Símbolos y Tinkercad Circuits".
 Propósito exacto de la clase (Taxonomía LEV): **Calcular** la resistencia adecuada usando la Ley de Ohm (`V = I × R`) y leer símbolos eléctricos estándar en Tinkercad Circuits para proteger un LED sin quemarlo.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la práctica guiada y un reto corto para hacer solos.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la práctica guiada a manera de pasos y un reto corto para hacer solos.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
-## CAPÍTULO P3.4 — Circuito en Serie en Tinkercad Circuits (📘 TEMA NUEVO)
+## CAPÍTULO P3.4 — Circuito en Serie en Tinkercad Circuits
 ```text
 Crea una presentación tipo cómic educativo con temática libre de Minecraft en español para 8vo EGB (12-13 años) sobre la sección P3.4 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #4: Circuito en Serie en Tinkercad Circuits" (📘 TEMA NUEVO).
+Título visible: "CAPÍTULO #4: Circuito en Serie en Tinkercad Circuits".
 Propósito exacto de la clase (Taxonomía LEV): **Simular** y medir un circuito en Serie en Tinkercad (vista física y esquemática) para comprobar cómo se reparte el voltaje y qué pasa si falla un componente.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la práctica guiada y un reto corto para hacer solos.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la práctica guiada a manera de pasos y un reto corto para hacer solos.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
-## CAPÍTULO P3.5 — Circuito en Paralelo y Comparativa Serie vs. Paralelo (👤 ACTIVIDAD INDIVIDUAL 2)
+## CAPÍTULO P3.5 — Circuito en Paralelo y Comparativa Serie vs. Paralelo (👤 ACTIVIDAD INDIVIDUAL)
 ```text
 Crea una presentación tipo cómic educativo con temática libre de Minecraft en español para 8vo EGB (12-13 años) sobre la sección P3.5 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #5: Circuito en Paralelo y Comparativa Serie vs. Paralelo" (👤 ACTIVIDAD INDIVIDUAL 2).
+Título y etiqueta visibles: "CAPÍTULO #5: Circuito en Paralelo y Comparativa Serie vs. Paralelo" (👤 ACTIVIDAD INDIVIDUAL).
 Propósito exacto de la clase (Taxonomía LEV): **Construir** un circuito en Paralelo en Tinkercad y compararlo frente a uno en Serie (brillo, voltaje, esquema y continuidad) para elegir la conexión adecuada.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la actividad autónoma/grupal de la fuente sin regalar las respuestas ni el paso a paso resuelto.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la actividad guiada por pasos previos y luego la actividad autónoma/grupal de la fuente sin regalar las respuestas.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -298,8 +298,8 @@ Propósito exacto de la clase (Taxonomía LEV): **Construir** en equipos circuit
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye los materiales exactos, el procedimiento paso a paso y la verificación de calidad de la fuente.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye los materiales exactos, la guía a manera de pasos numerados y la verificación de calidad de la fuente.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -314,8 +314,8 @@ Propósito exacto de la clase (Taxonomía LEV): **Consolidar** electrostática, 
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la práctica guiada y un reto corto para hacer solos. Al final incluye también la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la práctica guiada a manera de pasos y un reto corto para hacer solos. Al final incluye también la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -325,81 +325,81 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables a
 
 # PARCIAL 4 — Robótica Educativa con LEGO WeDo 2.0 (Temática: Big Hero 6)
 
-## CAPÍTULO P4.1 — Introducción a LEGO WeDo 2.0: Milo, el Róver Científico (Parte A) (📘 TEMA NUEVO)
+## CAPÍTULO P4.1 — Introducción a LEGO WeDo 2.0: Milo, el Róver Científico (Parte A)
 ```text
 Crea una presentación tipo cómic educativo con temática libre de Big Hero 6 en español para 8vo EGB (12-13 años) sobre la sección P4.1 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #1: Introducción a LEGO WeDo 2.0: Milo, el Róver Científico (Parte A)" (📘 TEMA NUEVO).
+Título visible: "CAPÍTULO #1: Introducción a LEGO WeDo 2.0: Milo, el Róver Científico (Parte A)".
 Propósito exacto de la clase (Taxonomía LEV): **Identificar** los componentes electrónicos y mecánicos básicos de LEGO WeDo 2.0 (Smart Hub, motor y piezas estructurales) construyendo y programando el modelo oficial Milo (Parte A).
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la práctica guiada y un reto corto para hacer solos.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la práctica guiada a manera de pasos y un reto corto para hacer solos.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
-## CAPÍTULO P4.2 — Poleas, Correas y Velocidad: Auto de Carreras (👤 ACTIVIDAD INDIVIDUAL 1)
+## CAPÍTULO P4.2 — Poleas, Correas y Velocidad: Auto de Carreras (👤 ACTIVIDAD INDIVIDUAL)
 ```text
 Crea una presentación tipo cómic educativo con temática libre de Big Hero 6 en español para 8vo EGB (12-13 años) sobre la sección P4.2 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #2: Poleas, Correas y Velocidad: Auto de Carreras" (👤 ACTIVIDAD INDIVIDUAL 1).
+Título y etiqueta visibles: "CAPÍTULO #2: Poleas, Correas y Velocidad: Auto de Carreras" (👤 ACTIVIDAD INDIVIDUAL).
 Propósito exacto de la clase (Taxonomía LEV): **Construir** un mecanismo de transmisión por poleas y correas usando el proyecto oficial *Velocidad (Auto de Carreras)* para analizar cómo cambia la rapidez según el tamaño de poleas y ruedas.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la actividad autónoma/grupal de la fuente sin regalar las respuestas ni el paso a paso resuelto.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la actividad guiada por pasos previos y luego la actividad autónoma/grupal de la fuente sin regalar las respuestas.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
-## CAPÍTULO P4.3 — Fuerza, Fricción y Engranajes: Robot de Arrastre (📘 TEMA NUEVO)
+## CAPÍTULO P4.3 — Fuerza, Fricción y Engranajes: Robot de Arrastre
 ```text
 Crea una presentación tipo cómic educativo con temática libre de Big Hero 6 en español para 8vo EGB (12-13 años) sobre la sección P4.3 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #3: Fuerza, Fricción y Engranajes: Robot de Arrastre" (📘 TEMA NUEVO).
+Título visible: "CAPÍTULO #3: Fuerza, Fricción y Engranajes: Robot de Arrastre".
 Propósito exacto de la clase (Taxonomía LEV): **Experimentar** la relación entre fuerza, fricción y trenes de engranajes usando el proyecto oficial *Tirando (Robot de Arrastre)* para mover cargas pesadas sin que el motor se detenga.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la práctica guiada y un reto corto para hacer solos.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la práctica guiada a manera de pasos y un reto corto para hacer solos.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
-## CAPÍTULO P4.4 — Sensores de Movimiento e Inclinación: Milo Partes B y C (👤 ACTIVIDAD INDIVIDUAL 2)
+## CAPÍTULO P4.4 — Sensores de Movimiento e Inclinación: Milo Partes B y C (👤 ACTIVIDAD INDIVIDUAL)
 ```text
 Crea una presentación tipo cómic educativo con temática libre de Big Hero 6 en español para 8vo EGB (12-13 años) sobre la sección P4.4 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #4: Sensores de Movimiento e Inclinación: Milo Partes B y C" (👤 ACTIVIDAD INDIVIDUAL 2).
+Título y etiqueta visibles: "CAPÍTULO #4: Sensores de Movimiento e Inclinación: Milo Partes B y C" (👤 ACTIVIDAD INDIVIDUAL).
 Propósito exacto de la clase (Taxonomía LEV): **Programar** un sistema robótico bajo el modelo **Entrada -> Proceso -> Salida (IPO)** integrando el Sensor de Movimiento y el Sensor de Inclinación en las Partes B y C de Milo.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la actividad autónoma/grupal de la fuente sin regalar las respuestas ni el paso a paso resuelto.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la actividad guiada por pasos previos y luego la actividad autónoma/grupal de la fuente sin regalar las respuestas.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
-## CAPÍTULO P4.5 — Proyecto Integrador WeDo — Parte 1: Construcción (📘 PRÁCTICA EN EQUIPOS)
+## CAPÍTULO P4.5 — Proyecto Integrador WeDo — Parte 1: Construcción
 ```text
 Crea una presentación tipo cómic educativo con temática libre de Big Hero 6 en español para 8vo EGB (12-13 años) sobre la sección P4.5 del archivo FUENTE_8VO_EGB_ANUAL_COMPLETO.md.
 
-Título y etiqueta visibles: "CAPÍTULO #5: Proyecto Integrador WeDo — Parte 1: Construcción" (📘 PRÁCTICA EN EQUIPOS).
+Título visible: "CAPÍTULO #5: Proyecto Integrador WeDo — Parte 1: Construcción".
 Propósito exacto de la clase (Taxonomía LEV): **Construir** en equipos la estructura mecánica y los acoplamientos electrónicos de un prototipo oficial WeDo 2.0 (*Rescate / Helicóptero* o *Prevención de Inundaciones / Compuerta*) para resolver un problema real.
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la práctica guiada y un reto corto para hacer solos.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la práctica guiada a manera de pasos y un reto corto para hacer solos.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -414,8 +414,8 @@ Propósito exacto de la clase (Taxonomía LEV): **Programar**, calibrar y demost
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la actividad autónoma/grupal de la fuente sin regalar las respuestas ni el paso a paso resuelto.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la actividad guiada por pasos previos y luego la actividad autónoma/grupal de la fuente sin regalar las respuestas.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -430,8 +430,8 @@ Propósito exacto de la clase (Taxonomía LEV): **Consolidar** los conceptos mec
 
 Sigue libremente esta secuencia didáctica (sin límite fijo de diapositivas y creando tú mismo la historia del cómic):
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
-2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales y ejemplos de la vida real.
-3. Actividad guiada y actividad para trabajar solos: Incluye la práctica guiada y un reto corto para hacer solos. Al final incluye también la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
+2. Teoría puntual (10 minutos): Explicación clara con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
+3. Actividad guiada (a manera de pasos) y actividad para hacer solos: Incluye la práctica guiada a manera de pasos y un reto corto para hacer solos. Al final incluye también la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
