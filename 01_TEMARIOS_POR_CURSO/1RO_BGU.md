@@ -3,7 +3,7 @@
 **Materia:** Robótica y Tecnología  
 **Mediador:** David Castro  
 **Regla de Clase (45 min):** 10 min de teoría + 35 min de práctica conjunta (Tinkercad Circuits + Kit físico Arduino con sensores).  
-**Estructura por Parcial:** 4 Parciales (1 Tema por Parcial × 8 clases), medido para sesiones de 35 min reales, garantizando mínimo **2 actividades individuales + 1 grupal + 1 refuerzo**.
+**Estructura por Parcial:** 4 Parciales (1 Tema por Parcial × 7 clases), medido para sesiones de 35 min reales, garantizando mínimo **2 actividades individuales + 1 grupal + 1 refuerzo**.
 
 ---
 
@@ -25,32 +25,30 @@
 4. `[ ]` **S5 (30 nov – 4 dic) — Proyecto: Poste de Alumbrado Automático (LDR)** *(Práctica Tinkercad + Kit)* — Encendido automático de 1 LED al oscurecer con umbral `>` / `<`.
 5. `[ ]` **S6 (7–11 dic) — Proyecto: Theremin Musical con Luz (LDR + Buzzer `tone()`)** *(Grupal Físico)* — Montaje simple de 2 componentes cambiando el tono según la luz.
 6. `[ ]` **S7 (14–18 dic) — Refuerzo: Calibración con Monitor Serial** *(Refuerzo)* — Lectura de valores mínimo/máximo de LDR y cálculo del punto medio `(min+max)/2` para ajustar umbrales reales.
-7. `[ ]` **S8 (5–8 ene) — Cierre Parcial 2: Repaso de Sensores Analógicos** *(Refuerzo sin nota)* — Combinación rápida de Potenciómetro/LDR con PWM y nivelación previa a Evaluaciones de Áreas Especiales (semana del 11 de enero).
+7. `[ ]` **S8 (5–8 ene) — Cierre Parcial 2: Repaso y Autoevaluación** *(Refuerzo y Cierre)* — Combinación rápida de Potenciómetro/LDR con PWM, nivelación y **Autoevaluación Likert (1–5)** en 4 aspectos previa a Evaluaciones de Áreas Especiales (semana del 11 de enero).
 
 ---
 
 ## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Sensores del Kit (Temperatura, Ultrasonido, Agua) y Buzzer
-*(Estado: Pendiente — 8 clases)*
+*(Estado: Pendiente — 7 clases | Refuerzo de `analogRead` + `if/else` por umbrales sin abrumar)*
 
-1. `[ ]` **Proyecto: Termómetro Digital por Monitor Serial (TMP36 / LM35)** *(Individual 1)* — Conexión del sensor de temperatura y lectura en °C.
-2. `[ ]` **Proyecto: Alarma Térmica con 2 LEDs y Buzzer** *(Práctica Física)* — Activación por umbral de temperatura (normal vs. alerta).
-3. `[ ]` **Proyecto: Piano Básico de 3 Botones (`tone()`)** *(Individual 2)* — 3 pulsadores con Buzzer en Tinkercad y kit físico.
-4. `[ ]` **Práctica: Medidor de Distancia con Ultrasonido HC-SR04** *(Práctica Tinkercad + Kit)* — Conexión Trigger/Echo y lectura en cm por Monitor Serial.
-5. `[ ]` **Proyecto: Sensor de Parqueo — Parte 1 (Armado y Lógica)** *(Grupal Físico)* — Montaje de HC-SR04 + Buzzer + 2 LEDs de alerta.
-6. `[ ]` **Proyecto: Sensor de Parqueo — Parte 2 (Calibración y Entrega)** *(Grupal Físico)* — Ajuste de distancias, pruebas en vivo y calificación.
-7. `[ ]` **Refuerzo: Detector de Nivel de Agua / Humedad** *(Refuerzo)* — Lectura de sensor de agua con alerta LED.
-8. `[ ]` **Cierre de Parcial 3** *(colchón)* — Evaluación / consolidación.
+1. `[ ]` **Termómetro Digital por Monitor Serial (TMP36 / LM35)** *(Individual 1 — calificada)* — Conexión del sensor de temperatura y lectura en °C.
+2. `[ ]` **Alarma Térmica con 2 LEDs y Buzzer** *(Tema Nuevo — clase normal)* — Refuerzo de `if/else` por umbral de temperatura (normal vs. alerta).
+3. `[ ]` **Medidor de Distancia con Ultrasonido HC-SR04** *(Tema Nuevo — clase normal)* — Conexión Trigger/Echo y lectura en cm por Monitor Serial.
+4. `[ ]` **Sensor de Parqueo — Parte 1 (Simulación en Tinkercad)** *(Individual 2 — calificada)* — `if / else if` por zonas de distancia (verde/amarillo/rojo + alerta Buzzer).
+5. `[ ]` **Sensor de Parqueo — Parte 2 (Montaje Físico y Demo)** *(Grupal Físico — calificada)* — Armado real con HC-SR04 + Buzzer + LEDs y calibración en vivo.
+6. `[ ]` **Refuerzo: Detector de Nivel de Agua / Humedad** *(Refuerzo — sin nota extra)* — Mismo `if` analógico aplicado a un sensor nuevo con alerta LED.
+7. `[ ]` **Cierre de Parcial 3 y Autoevaluación** *(Refuerzo y Cierre)* — Repaso integrador y **Autoevaluación Likert (1–5)** en 4 aspectos.
 
 ---
 
 ## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Servomotores, Control Serial y Barrera Automática
-*(Estado: Pendiente — 8 clases)*
+*(Estado: Pendiente — 7 clases)*
 
-1. `[ ]` **Práctica: Control Angular del Servomotor SG90 (`<Servo.h>`)** *(Individual 1)* — Posicionamiento básico ($0^\circ, 90^\circ, 180^\circ$).
-2. `[ ]` **Proyecto: Aguja Indicadora con Potenciómetro (`map()` + Servo)** *(Individual 2)* — Movimiento del servomotor en tiempo real desde el potenciómetro.
-3. `[ ]` **Práctica: Control desde PC (`Serial.read()`)** *(Práctica PC + Kit)* — Abrir/cerrar el servo escribiendo `'A'` o `'C'` en el Monitor Serial.
-4. `[ ]` **Proyecto Final: Barrera / Garaje Automático — Parte 1 (Simulación)** *(Grupal)* — Diseño y prueba lógica en Tinkercad (Ultrasonido + Servo + LED).
-5. `[ ]` **Proyecto Final: Barrera / Garaje Automático — Parte 2 (Montaje Físico)** *(Grupal)* — Cableado físico en protoboard con el kit Arduino.
-6. `[ ]` **Proyecto Final: Barrera / Garaje Automático — Parte 3 (Programación y Entrega)** *(Grupal)* — Carga de código, calibración y demostración en vivo.
-7. `[ ]` **Refuerzo / Sustentación** *(colchón)* — Ajustes finales.
-8. `[ ]` **Cierre / Evaluación Quimestral** *(Refuerzo Final)* — Cierre del año lectivo.
+1. `[ ]` **Control Angular del Servomotor SG90 (`<Servo.h>`)** *(Individual 1 — calificada)* — Posicionamiento básico (0°, 90°, 180°).
+2. `[ ]` **Aguja Indicadora con Potenciómetro (`map()` + Servo)** *(Individual 2 — calificada)* — Movimiento del servomotor en tiempo real desde el potenciómetro.
+3. `[ ]` **Control desde PC (`Serial.read()`)** *(Tema Nuevo — clase normal)* — Abrir/cerrar el servo escribiendo `'A'` o `'C'` en el Monitor Serial.
+4. `[ ]` **Barrera / Garaje Automático — Parte 1 (Simulación + funciones `void`)** *(Práctica en Equipos — avance)* — Diseño y prueba lógica en Tinkercad (Ultrasonido + Servo + LED + funciones modulares `void`).
+5. `[ ]` **Barrera / Garaje Automático — Parte 2 (Montaje Físico)** *(Práctica en Equipos — avance)* — Cableado físico en protoboard con el kit Arduino.
+6. `[ ]` **Barrera / Garaje Automático — Parte 3 (Programación y Entrega)** *(Grupal — calificada)* — Carga de código, calibración y demostración en vivo.
+7. `[ ]` **Refuerzo, Inventario y Autoevaluación** *(Refuerzo y Cierre)* — Ajustes finales, orden del kit y **Autoevaluación Likert (1–5)** en 4 aspectos.

@@ -25,7 +25,7 @@
 4. `[ ]` **S5 (30 nov – 4 dic) — ESP32 PWM y Buzzer (Zumbador)** *(Individual 2)* — Control de intensidad de LED (PWM) y emisión de frecuencias/tonos con buzzer.
 5. `[ ]` **S6 (7–11 dic) — Sensor Ultrasonido HC-SR04 con ESP32** *(Práctica PC)* — Medición de distancia y alerta con LEDs/Buzzer en Wokwi.
 6. `[ ]` **S7 (14–18 dic) — Proyecto: Teclado Matricial 4x4 (Piano / Clave de Seguridad)** *(Grupal en Wokwi)* — Lectura de teclado 4x4 reproduciendo notas en buzzer o validando clave.
-7. `[ ]` **S8 (5–8 ene) — Cierre Parcial 2: Repaso ESP32 en Wokwi** *(Refuerzo sin nota)* — Nivelación de simulaciones (Semáforo, PWM/Buzzer, HC-SR04, Teclado 4x4) previa a Evaluaciones de Áreas Especiales (semana del 11 de enero).
+7. `[ ]` **S8 (5–8 ene) — Cierre Parcial 2: Repaso ESP32 en Wokwi y Autoevaluación** *(Refuerzo y Cierre)* — Nivelación de simulaciones (Semáforo, PWM/Buzzer, HC-SR04, Teclado 4x4) y **Autoevaluación Likert (1–5)** en 4 aspectos previa a Evaluaciones de Áreas Especiales (semana del 11 de enero).
 
 ---
 
@@ -37,7 +37,7 @@
 3. `[ ]` **Proyecto: Barrera de Peaje / Parqueo (HC-SR04 + Servo + LCD 16x2)** *(Grupal en Wokwi)* — Abre al detectar distancia y muestra estado en la LCD.
 4. `[ ]` **Conexión WiFi en Wokwi (`WiFi.h` + `Wokwi-GUEST`) y Consulta API (`HTTPClient`)** *(Práctica PC)* — Conectar el ESP32 a internet virtual y obtener hora/datos reales.
 5. `[ ]` **IA como Copiloto de Ingeniería (Prompting + Depuración)** *(Práctica PC)* — Usar IA para diseñar, explicar y corregir código ESP32 validándolo en Wokwi.
-6. `[ ]` **Refuerzo / Cierre de Parcial 3** — Consolidación y evaluación.
+6. `[ ]` **Refuerzo, Depuración WiFi/ESP32 y Autoevaluación** *(Refuerzo y Cierre)* — Consolidación, pruebas en Wokwi y **Autoevaluación Likert (1–5)** en 4 aspectos.
 
 ---
 
@@ -49,4 +49,4 @@
 3. `[ ]` **Proyecto Final: Acceso Inteligente con Visión IA — Parte 1** *(Grupal)* — Montaje en Wokwi con **LCD 16x2 + Servomotor + LEDs + Buzzer**.
 4. `[ ]` **Proyecto Final: Acceso Inteligente con Visión IA — Parte 2** *(Grupal)* — Pruebas en vivo (la IA reconoce gesto/objeto $\rightarrow$ abre puerta en Wokwi y saluda en la LCD).
 5. `[ ]` **Mini-Sustentación estilo Universitario** *(Refuerzo)* — Defensa técnica de arquitectura (IA $\rightarrow$ ESP32 $\rightarrow$ Actuador).
-6. `[ ]` **Cierre Final de 3ro BGU** — Evaluación quimestral previa a graduación.
+6. `[ ]` **Cierre Final de 3ro BGU y Autoevaluación** — Evaluación quimestral previa a graduación y **Autoevaluación Likert (1–5)** en 4 aspectos.

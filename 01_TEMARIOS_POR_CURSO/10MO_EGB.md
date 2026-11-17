@@ -3,7 +3,7 @@
 **Materia:** Robótica y Tecnología  
 **Mediador:** David Castro  
 **Regla de Clase (45 min):** 10 min de teoría + 35 min de práctica (Tinkercad Circuits / Arduino UNO físico / Canva).  
-**Estructura por Parcial:** 4 Parciales (1 Tema por Parcial × 8 clases), garantizando mínimo **2 actividades individuales + 1 grupal + 1 refuerzo** (y colchón para feriados/eventos).
+**Estructura por Parcial:** 4 Parciales (1 Tema por Parcial × 7 clases), garantizando mínimo **2 actividades individuales + 1 grupal + 1 refuerzo**.
 
 ---
 
@@ -23,35 +23,32 @@
 2. `[x]` **S2 (9–13 nov) — Práctica de Empalmes (Taller Calificado)** *(Grupal / Físico — ejecutado)* — Uniones eléctricas seguras y prueba de continuidad.
 3. `[→]` **S3 (16–19 nov — Esta semana) — Conectores y Aislantes** *(Individual 1)* — Documento de consulta e infografía explicativa.
 4. `[ ]` **S4 (23–27 nov) — Primer Programa en Arduino (*Blink*)** *(Individual 2)* — `setup()`, `loop()`, `pinMode()`, `digitalWrite()` y `delay()` en Tinkercad Circuits.
-5. `[ ]` **S5 (30 nov – 4 dic) — Múltiples Salidas: Semáforo en Tinkercad** *(Práctica PC)* — Variables `int` y secuencia de 3 LEDs (Rojo, Amarillo, Verde).
-6. `[ ]` **S6 (7–11 dic) — Semáforo Físico en Protoboard con Arduino UNO** *(Grupal Físico)* — Montaje real y carga de código.
-7. `[ ]` **S7 (14–18 dic) — Reto de Secuencias e Intro a Bucles `for`** *(Refuerzo)* — Encendido en fila de 6 LEDs (ida y vuelta) en Tinkercad usando bucles `for`.
-8. `[ ]` **S8 (5–8 ene) — Cierre Parcial 2: Depuración de Código Arduino** *(Refuerzo sin nota)* — Reto *"Encuentra el error"* (llaves, `;`, pines) y nivelación previa a Evaluaciones de Áreas Especiales (semana del 11 de enero).
+5. `[ ]` **S5 (30 nov – 4 dic) — Semáforo Funcional en Tinkercad** *(Tema Nuevo — clase normal)* — Variables `int` y secuencia real de 3 LEDs (Rojo, Amarillo, Verde).
+6. `[ ]` **S6 (7–11 dic) — Semáforo Físico en Protoboard con Arduino UNO** *(Práctica Física)* — Montaje real y carga de código.
+7. `[ ]` **S7 (14–18 dic) — Refuerzo: Depuración de Código (*Encuentra el error*) y Autoevaluación** *(Refuerzo y Cierre)* — Corregir errores reales en Blink y Semáforo (llaves, `;`, pines), nivelación y **Autoevaluación Likert (1–5)** en 4 aspectos previa a Evaluaciones de Áreas Especiales.
 
 ---
 
-## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Bucles `for`, Binario, Condicionales (`if/else`) y Pulsadores
-*(Estado: Pendiente — 8 clases)*
+## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Proyectos Reales con `for`, Binario, `if/else` y Botones
+*(Estado: Pendiente — 7 clases)*
 
-1. `[ ]` **Auto Fantástico (6 LEDs) con Bucles `for`** *(Individual 1)* — Secuencia de barrido ida y vuelta en Tinkercad y físico.
-2. `[ ]` **Sistemas de Numeración y Código Binario** *(Práctica PC)* — Conversión Decimal $\leftrightarrow$ Binario representada con LEDs.
-3. `[ ]` **Lógica Condicional (`if` / `else`)** *(Individual 2)* — Operadores relacionales (`==`, `>`, `<`, `!=`) y toma de decisiones.
-4. `[ ]` **Entradas Digitales (`digitalRead`) y Resistencia Pull-Down ($10\text{k}\Omega$)** *(Práctica PC)* — Control de LED con pulsador sin estado flotante.
-5. `[ ]` **Resistencia Pull-Up Interna (`INPUT_PULLUP`) y Efecto Toggle** *(Práctica)* — Encender/apagar con un clic (antirrebote básico).
-6. `[ ]` **Selector de Modos de Luces con 2 Botones** *(Grupal)* — Condicionales `else if` para alternar secuencias.
-7. `[ ]` **Challenge Tinkercad: Botones y Condicionales** *(Refuerzo)* — Depuración de circuito con errores en Classroom.
-8. `[ ]` **Cierre de Parcial 3** *(colchón)* — Evaluación / consolidación.
+1. `[ ]` **Luces de Patrulla / Auto Fantástico (6 LEDs con `for`)** *(Individual 1 — calificada)* — Secuencia de barrido ida y vuelta en Tinkercad y físico.
+2. `[ ]` **Contador / Dado Binario Digital (4 LEDs, `0–15`)** *(Tema Nuevo — clase normal)* — Conversión Decimal $\leftrightarrow$ Binario representada con 4 LEDs reales.
+3. `[ ]` **Semáforo Inteligente por Consola (`if` / `else` + Monitor Serial)** *(Individual 2 — calificada)* — Operadores relacionales (`==`, `>`, `<`, `!=`) y depuración por Monitor Serial.
+4. `[ ]` **Timbre / Alarma Segura con Pulsador (`digitalRead` + Pull-Down `10kΩ`)** *(Tema Nuevo — clase normal)* — Control de salida sin falsos disparos (evitar estado flotante) y lectura en Serial.
+5. `[ ]` **Interruptor de Lámpara con 1 Clic (`INPUT_PULLUP` + Toggle)** *(Práctica Guiada — sin nota extra)* — Encender y apagar con un clic (antirrebote básico, como un interruptor real).
+6. `[ ]` **Consola de Luces de Emergencia con 2 Botones** *(Grupal — calificada)* — Condicionales `else if` para alternar modos (Patrulla / Ambulancia / Apagado) en protoboard física.
+7. `[ ]` **Refuerzo: Taller de Reparación de Prototipos y Autoevaluación** *(Refuerzo y Cierre)* — Depuración de circuitos/códigos con errores en Tinkercad + **Autoevaluación Likert (1–5)** en 4 aspectos.
 
 ---
 
-## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Robótica Mecánica y Automatización con LEGO WeDo 2.0
-*(Estado: Pendiente — 8 clases)*
+## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Máquinas y Mecanismos Reales con LEGO WeDo 2.0
+*(Estado: Pendiente — 7 clases)*
 
-1. `[ ]` **Kit LEGO WeDo 2.0 y Smart Hub** *(Individual/Parejas 1)* — Inventario, conexión Bluetooth y programación base de motor/luces.
-2. `[ ]` **Transmisión Mecánica: Engranajes y Poleas** *(Individual/Parejas 2)* — Relación velocidad vs. torque en mecanismos.
-3. `[ ]` **Mecanismos Articulados (Biela-Manivela / Palancas)** *(Práctica Guiada)* — Conversión de movimiento rotatorio a lineal.
-4. `[ ]` **Sensor de Movimiento (Distancia)** *(Práctica Guiada)* — Detección de obstáculos y bucles condicionales.
-5. `[ ]` **Sensor de Inclinación** *(Práctica Guiada)* — Control de dirección y estados según ángulo.
-6. `[ ]` **Proyecto Integrador WeDo — Parte 1** *(Grupal)* — Diseño y construcción del prototipo autónomo en equipos.
-7. `[ ]` **Proyecto Integrador WeDo — Parte 2** *(Grupal)* — Programación con sensores combinados y demostración en vivo.
-8. `[ ]` **Cierre / Evaluación Quimestral** *(Refuerzo Final)* — Desmontaje ordenado, inventario y cierre del año lectivo.
+1. `[ ]` **Róver Explorador: Kit WeDo 2.0 y Smart Hub** *(Tema Nuevo — clase normal)* — Inventario, conexión Bluetooth y programación base de motor/luces.
+2. `[ ]` **Auto Veloz vs. Grúa de Carga (Poleas y Engranajes)** *(Individual / Parejas 1 — calificada)* — Relación velocidad vs. torque en mecanismos reales.
+3. `[ ]` **Limpiaparabrisas / Pistón Mecánico (Biela-Manivela y Palancas)** *(Tema Nuevo — clase normal)* — Conversión de movimiento rotatorio a lineal.
+4. `[ ]` **Vehículo Anticolisión con Alerta de Volcamiento (Sensores Combinados)** *(Individual / Parejas 2 — calificada)* — Lógica IPO combinando Sensor de Movimiento e Inclinación.
+5. `[ ]` **Proyecto Integrador: Máquina Automatizada — Parte 1** *(Práctica en Equipos — avance)* — Diseño y construcción mecánica del prototipo autónomo en equipos.
+6. `[ ]` **Proyecto Integrador: Máquina Automatizada — Parte 2** *(Grupal — calificada)* — Programación con sensores, calibración y demostración en vivo.
+7. `[ ]` **Refuerzo, Inventario y Autoevaluación** *(Refuerzo y Cierre)* — Desmontaje ordenado, inventario del kit y **Autoevaluación Likert (1–5)** en 4 aspectos.

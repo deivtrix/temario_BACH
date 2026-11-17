@@ -45,7 +45,7 @@ Todo el currículo oficial, secuenciado y actualizado por curso vive exclusivame
 ---
 
 ## 📤 3. POLÍTICA DE ENTREGABLES Y CANDADOS ANTI-IA
-Por cada parcial (8 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mínimo **2 individuales + 1 grupal + 1 refuerzo**:
+Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mínimo **2 individuales + 1 grupal + 1 refuerzo**:
 * **Tipo 1 — Entrega Exprés (Classroom / En vivo):** Subir 1 captura de pantalla o foto del circuito/diseño funcionando (o visto bueno directo en pantalla/mesa).
 * **Tipo 2 — Informe Corto Anti-IA (Proyectos clave):** Documento breve con 3 candados obligatorios:
   1. *Evidencia visual con autoría:* Nota virtual con nombre en Tinkercad/Wokwi, texto 3D o papel manuscrito en práctica física.
@@ -72,7 +72,8 @@ Por cada parcial (8 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 ### ✅ QUÉ HACER SIEMPRE
 * **Cerrar un parcial completo y validarlo en NotebookLM** antes de pasar al siguiente curso/parcial (prioridad actual: cerrar **8vo Parcial 2**, luego **8vo Parcial 3** y **9no**).
 * **Enseñar materiales + paso a paso + verificación de calidad** en todo **Tema Nuevo y Taller Físico** (*Empalmes*, *Masa Conductora*, *Extensión*, *Protoboard física*), incluyendo pruebas concretas de éxito (ej. prueba del jalón en empalmes, prueba de desconexión en serie vs. paralelo).
-* **Generar 1 capítulo por vez en NotebookLM (5 diapositivas por capítulo)** para que cada slide quede aireada, visual y sin información amontonada.
+* **Generar 1 capítulo por vez en NotebookLM (sin número rígido de slides)** y con prompts cortos/libres para que la explicación sea clara y visual.
+* **Enfoque en Proyecto/Artefacto Real (Cero temas abstractos sueltos):** Cada clase debe girar en torno a un producto reconocible y atractivo (*Semáforo, Luces de Patrulla, Luz Nocturna Automática, Interruptor con 1 Clic, Sensor de Retro*, etc.) que enseñe por dentro el concepto técnico (`for`, `Pull-Down`, `if/else`, etc.).
 * **Incluir la actividad completa** en diapositivas de `🛠️ REFUERZO` (con 2–3 mini-casos concretos si es análisis de casos) y asegurar que **todo lo pedido en el prompt exista en la `FUENTE_...`** para que NotebookLM no improvise.
 * **Cerrar cada parcial con Autoevaluación Likert (1 al 5)** en 4 aspectos que cubran **todos** los temas clave del parcial (sin olvidar los últimos capítulos).
 * **Seguridad eléctrica real en 8vo P2:** Nunca indicar un **LED suelto directo a pila de 9V** sin resistencia (usar bombilla pequeña con portafoco o módulo LED protegido).
@@ -91,7 +92,7 @@ Por cada parcial (8 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 ## 🛠️ 4. REGLAS TÉCNICAS POR NIVEL (SIN REPETICIONES)
 * **8vo EGB:** PhET, Canva, Tinkercad Circuits, prácticas físicas (empalmes, masa conductora, extensión) y LEGO WeDo 2.0.
 * **9no EGB:** Tinkercad 3D, Inkscape (`.SVG`), mBot/mBlock y Protoboard en Tinkercad Circuits.
-* **10mo EGB:** Protoboard, Arduino C++ inicial (*Blink*, Semáforo, `for`, `if/else`, Pulsadores) y LEGO WeDo 2.0 (mecanismos/sensores avanzados).
-* **1ro BGU:** Arduino C++ + Kit físico con sensores (Potenciómetro, PWM, LDR, Buzzer, Temperatura, Ultrasonido HC-SR04, Agua, Servo SG90).
-* **2do BGU:** Tinkercad Sim Lab + Codeblocks (3D programado), Arduino intermedio (`millis()`, Transistores, Puente H L293D/L298N, LCD 16x2).
+* **10mo EGB:** Protoboard, Arduino C++ inicial (*Blink*, Semáforo, `for`, `if/else`, Pulsadores — Proyectos 01–02 del *Arduino Starter Kit*) y LEGO WeDo 2.0 (mecanismos/sensores avanzados).
+* **1ro BGU:** Arduino C++ + Kit físico con sensores (Potenciómetro, PWM, LDR *Theremin*, Temperatura *Medidor de amor*, Ultrasonido HC-SR04, Agua, Servo SG90 *Indicador* — Proyectos 03, 05, 06 del *Arduino Starter Kit*).
+* **2do BGU:** Tinkercad Sim Lab + Codeblocks (3D programado), Arduino intermedio (`millis()`, Transistores *Molinillo*, Puente H L293D/L298N *Zoótropo*, LCD 16x2 *Bola de Cristal* — Proyectos 08–11 del *Arduino Starter Kit*).
 * **3ro BGU:** **100% Simulador Wokwi gratuito** (sin ESP32 físico) siguiendo base de *Programador Novato* + Conectividad WiFi (`HTTPClient`) + IA (*Google Teachable Machine* y copiloto).
