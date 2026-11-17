@@ -31,28 +31,26 @@
 
 ---
 
-## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Electrostática, Serie/Paralelo y Circuitos Funcionales
-*(Estado: Pendiente — 8 clases)*
+## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Electrostática, Ley de Ohm y Circuitos Serie/Paralelo
+*(Estado: Pendiente — 7 clases)*
 
-1. `[ ]` **Átomos, Cargas y Electrostática** *(Individual 1)* — 10 min teoría + simulador PhET (*Globos / John Travoltage*) + ficha Canva *"Electrostática en mi vida"*.
-2. `[ ]` **Taller Físico Electrostático y Toma a Tierra** *(Práctica Física)* — Experimentos con globos, latas de aluminio y papel picado + rayos y cable a tierra.
-3. `[ ]` **Ley de Ohm ($V = I \times R$) y Tinkercad Circuits** *(Individual 2)* — Protoboard virtual, fuente, multímetro y cálculo básico de resistencia para proteger un LED.
-4. `[ ]` **Circuitos en Serie vs. Paralelo en Tinkercad + Informe** *(Individual 2)* — Simulación comparativa de voltaje, corriente y brillo + informe corto con captura.
-5. `[ ]` **Taller Físico: Masa Conductora (Harina + Sal + LEDs)** *(Grupal Físico)* — Construcción en equipos de circuitos en serie y paralelo usando masa conductora casera.
-6. `[ ]` **Proyecto — Parte 1: Extensión con Foco e Interruptor** *(Práctica Física)* — Diagrama, pelado de cables y conexión segura de boquilla e interruptor en serie.
-7. `[ ]` **Proyecto — Parte 2: Inspección y Prueba Funcional** *(Práctica Física)* — Revisión obligatoria de seguridad y aislamiento con el mediador antes de probar encendido.
-8. `[ ]` **Refuerzo: Informe con Fotos de PhET y Preguntas + Autoevaluación** *(Refuerzo)* — Informe con capturas de PhET respondiendo preguntas clave + Autoevaluación Likert (1–5).
+1. `[ ]` **Átomos, Cargas y Electrostática** *(Tema Nuevo — clase normal)* — 10 min teoría + simulador PhET (*Globos / John Travoltage*).
+2. `[ ]` **Taller Físico Electrostático y Toma a Tierra** *(Individual 1 — Taller Práctico calificado)* — Experimentos paso a paso con globos, latas de aluminio y papel picado + rayos y cable a tierra.
+3. `[ ]` **Ley de Ohm (`V = I × R`) y Tinkercad Circuits** *(Tema Nuevo — clase normal)* — 10 min teoría + protoboard virtual, fuente, multímetro, **símbolos eléctricos (Vista Esquemática)** y cálculo básico de resistencia para proteger un LED.
+4. `[ ]` **Circuito en Serie (Tinkercad Circuits)** *(Tema Nuevo — clase normal)* — 10 min teoría + armado, esquema y medición de voltaje/corriente/brillo en **Serie** (con 1 diagnóstico rápido de falla).
+5. `[ ]` **Circuito en Paralelo y Comparativa Serie vs. Paralelo (Tinkercad)** *(Individual 2 — calificada)* — Armado en **Paralelo**, lectura esquemática y comparación directa Serie vs. Paralelo en Tinkercad.
+6. `[ ]` **Taller Físico: Masa Conductora (Harina + Sal + LEDs)** *(Grupal — Taller Práctico calificado en 1 sola clase)* — Receta exacta, amasado y construcción en equipos de circuitos en serie y paralelo usando masa conductora casera.
+7. `[ ]` **Refuerzo, Repaso y Autoevaluación del Parcial 3** *(Refuerzo y Cierre)* — Reto integrador de Ley de Ohm y Serie/Paralelo, nivelación de pendientes y **Autoevaluación Likert (1–5)** en 4 aspectos.
 
 ---
 
 ## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Robótica Educativa con LEGO WeDo 2.0
-*(Estado: Pendiente — 8 clases)*
+*(Estado: Pendiente — 7 clases con modelos oficiales LEGO Education WeDo 2.0 / 45300)*
 
-1. `[ ]` **Introducción a LEGO WeDo 2.0** *(Individual/Parejas 1)* — Reconocimiento del Smart Hub, motor, piezas básicas y bloques de inicio/movimiento.
-2. `[ ]` **Transmisión Mecánica: Poleas y Correas** *(Individual/Parejas 2 — Foto + Informe)* — Construcción de mecanismo, pruebas de giro y entrega de foto + informe corto.
-3. `[ ]` **Engranajes: Velocidad vs. Fuerza** *(Práctica Guiada)* — Armado de tren de engranajes y análisis de velocidad/torque.
-4. `[ ]` **Sensor de Movimiento** *(Práctica Guiada)* — Programación con detección de obstáculos y estructuras condicionales.
-5. `[ ]` **Sensor de Inclinación** *(Práctica Guiada)* — Control de dirección y estados del prototipo según inclinación.
-6. `[ ]` **Proyecto Integrador WeDo — Parte 1** *(Grupal)* — Diseño y construcción del prototipo autónomo en equipos.
-7. `[ ]` **Proyecto Integrador WeDo — Parte 2** *(Grupal — Foto + Informe)* — Programación, calibración de sensores, demostración en vivo y entrega de foto + informe grupal.
-8. `[ ]` **Refuerzo: Formulario Google Forms + Inventario y Cierre** *(Refuerzo)* — Formulario de Google Forms sobre WeDo 2.0, desmontaje ordenado y Autoevaluación Likert (1–5).
+1. `[ ]` **Introducción a LEGO WeDo 2.0: Milo (Parte A)** *(Tema Nuevo — clase normal)* — Reconocimiento del Smart Hub, motor, piezas básicas y bloques de inicio/movimiento.
+2. `[ ]` **Poleas, Correas y Velocidad (*Auto de Carreras*)** *(Individual / Parejas 1 — Taller Práctico calificado)* — Construcción de transmisión mecánica y pruebas de velocidad.
+3. `[ ]` **Fuerza, Fricción y Engranajes (*Tirando / Robot de Arrastre*)** *(Tema Nuevo — clase normal)* — Armado de tren de engranajes y análisis de fuerza/torque con carga.
+4. `[ ]` **Sensores de Movimiento e Inclinación: Milo (Partes B y C)** *(Individual / Parejas 2 — Taller Práctico calificado)* — Modelo **Entrada -> Proceso -> Salida (IPO)**: detección de obstáculos y cambios de estado por inclinación.
+5. `[ ]` **Proyecto Integrador WeDo — Parte 1: Construcción** *(Práctica en Equipos — avance)* — Construcción física del modelo oficial elegido (*Rescate / Helicóptero* o *Prevención de Inundaciones / Compuerta*).
+6. `[ ]` **Proyecto Integrador WeDo — Parte 2: Programación y Demo** *(Grupal — calificada)* — Programación IPO con sensores, calibración, evaluación frente al problema y demostración en vivo.
+7. `[ ]` **Refuerzo, Inventario y Autoevaluación del Parcial 4** *(Refuerzo y Cierre)* — Repaso/cuestionario sobre WeDo 2.0, desmontaje ordenado del kit y **Autoevaluación Likert (1–5)** en 4 aspectos.
