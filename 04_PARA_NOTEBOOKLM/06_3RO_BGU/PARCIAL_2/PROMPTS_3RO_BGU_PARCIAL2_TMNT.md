@@ -21,23 +21,22 @@ REGLAS OBLIGATORIAS:
 - Enfoque "MINI-LIBRO AUTO-EXPLICATIVO". Todo es 100% simulado en Wokwi (sin ESP32 físico).
 - ETIQUETA VISIBLE OBLIGATORIA: `🛠️ REFUERZO`, `👤 ACTIVIDAD INDIVIDUAL` o `📘 TEMA NUEVO`.
 - En `🛠️ REFUERZO` solo se nombra; en `👤 ACTIVIDAD INDIVIDUAL` sobre temas nuevos (Semáforo / PWM en ESP32) incluye diagrama de pines GPIO y código referencial base.
-- Temática: Tortugas Ninja (TMNT). Mediador: David Castro.
-
+- Temática: Tortugas Ninja (TMNT).
 ESTRUCTURA:
 - Slides 1–4 -> SEMANA 3 (Formulario de Mejora y Repaso ESP32 | 🛠️ REFUERZO):
-  1. Portada (`🛠️ REFUERZO` | Mediador: David Castro) + Propósito LEV exacto + ¿Para qué sirve?
+  1. Portada (`🛠️ REFUERZO`) + Propósito LEV exacto + ¿Para qué sirve?
   2. Mapa comparativo: Arduino UNO (5V) vs. ESP32 (3.3V, WiFi/BT, 115200 baudios).
   3. Imagen de referencia: Sirena de Policía en Wokwi (GPIO 2 y GPIO 4 con 220 ohmios).
   4. `🛠️ REFUERZO`: Solo nombrar ("Formulario de mejora de calificaciones y nivelación en Wokwi").
 
 - Slides 5–8 -> SEMANA 4 (Semáforo en ESP32 con Wokwi | 👤 ACTIVIDAD INDIVIDUAL):
-  5. Portada (`👤 ACTIVIDAD INDIVIDUAL` | Mediador: David Castro) + Propósito LEV exacto + ¿Para qué sirve?
+  5. Portada (`👤 ACTIVIDAD INDIVIDUAL`) + Propósito LEV exacto + ¿Para qué sirve?
   6. Mapa técnico: Variables `const int` + pines GPIO seguros (`12, 14, 27`) + `Serial.begin(115200)`.
   7. Diagrama de conexión en Wokwi (3 LEDs con 220 ohmios a GND) + Paso a paso numerado.
   8. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado del reto (parpadeo 3 veces en Verde + estado en Monitor Serial) + 1 tip.
 
 - Slides 9–12 -> SEMANA 5 (ESP32 PWM y Buzzer en Wokwi | 👤 ACTIVIDAD INDIVIDUAL / 📘 TEMA NUEVO):
-  9. Portada (`👤 ACTIVIDAD INDIVIDUAL` | Mediador: David Castro) + Propósito LEV exacto + ¿Para qué sirve?
+  9. Portada (`👤 ACTIVIDAD INDIVIDUAL`) + Propósito LEV exacto + ¿Para qué sirve?
   10. Mapa funcional: `analogWrite(pin, 0-255)` para brillo Fade + `tone(pin, freq, dur)` para notas en Buzzer.
   11. Diagrama en Wokwi (LED en GPIO 13 + Buzzer en GPIO 14) + Código referencial base.
   12. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado (alarma o melodía de 4 notas sincronizada con brillo LED) + 2 preguntas de cierre.
@@ -50,8 +49,7 @@ ESTRUCTURA:
 IDIOMA OBLIGATORIO: Todo el texto, títulos, mapas y etiquetas deben estar 100% en ESPAÑOL. Prohibido usar inglés.
 
 Crea una presentación de exactamente 13 diapositivas para 3ro BGU basada en las SEMANAS 6, 7 y 8 de la fuente subida (4 slides por semana + Slide 13 de Autoevaluación).
-Todo 100% simulado en Wokwi. Temática: Tortugas Ninja (TMNT). Mediador: David Castro.
-
+Todo 100% simulado en Wokwi. Temática: Tortugas Ninja (TMNT).
 ESTRUCTURA:
 - Slides 1–4 -> SEMANA 6 (Sensor Ultrasonido HC-SR04 con ESP32 | 📘 TEMA NUEVO):
   1. Portada (`📘 TEMA NUEVO`) + Propósito LEV exacto + ¿Para qué sirve?

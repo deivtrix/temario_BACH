@@ -21,23 +21,22 @@ REGLAS OBLIGATORIAS:
 - Enfoque "MINI-LIBRO AUTO-EXPLICATIVO".
 - ETIQUETA VISIBLE OBLIGATORIA: `👤 ACTIVIDAD INDIVIDUAL` o `📘 TEMA NUEVO`.
 - En `👤 ACTIVIDAD INDIVIDUAL`: SOLO enunciado + diseño/requisitos + 1 tip (CERO código y CERO paso a paso donde ya se explicó). En TEMA NUEVO sí incluye código referencial completo y paso a paso.
-- Temática: Tortugas Ninja (TMNT). Mediador: David Castro.
-
+- Temática: Tortugas Ninja (TMNT).
 ESTRUCTURA:
 - Slides 1–4 -> SEMANA 3 (Infografía de Conectores y Aislantes | 👤 ACTIVIDAD INDIVIDUAL):
-  1. Portada (`👤 ACTIVIDAD INDIVIDUAL` | Mediador: David Castro) + Propósito LEV exacto + ¿Para qué sirve?
+  1. Portada (`👤 ACTIVIDAD INDIVIDUAL`) + Propósito LEV exacto + ¿Para qué sirve?
   2. Mapa conceptual visual: 3 conectores (Jumper Dupont, Borneras/Clemas, Capuchones/Caimanes) y 3 aislantes (PVC, Termocontraíble, Silicona/Cerámica).
   3. Diseño de referencia: Cómo organizar la infografía en 1 página de Canva (2 columnas + pie con nombre).
   4. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado exacto (4 conectores incluyendo Dupont y Bornera + 4 aislantes incluyendo PVC y Termocontraíble) + 1 tip.
 
 - Slides 5–8 -> SEMANA 4 (Primer Programa Arduino: Blink | 👤 ACTIVIDAD INDIVIDUAL / 📘 TEMA NUEVO):
-  5. Portada (`👤 ACTIVIDAD INDIVIDUAL` | Mediador: David Castro) + Propósito LEV exacto + ¿Para qué sirve?
+  5. Portada (`👤 ACTIVIDAD INDIVIDUAL`) + Propósito LEV exacto + ¿Para qué sirve?
   6. Mapa de estructura C++: `void setup()` (corre 1 vez) vs. `void loop()` (se repite siempre) + `pinMode`, `digitalWrite`, `delay`.
   7. Diagrama de conexión en Tinkercad (Pin 13 -> LED -> 220 ohmios -> GND) + Código referencial base de Blink.
   8. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado del reto (agregar 2do LED en Pin 12 alternado cada 500 ms + `// Nombre`) + 2 preguntas de cierre.
 
 - Slides 9–12 -> SEMANA 5 (Semáforo en Tinkercad | 📘 TEMA NUEVO):
-  9. Portada (`📘 TEMA NUEVO` | Mediador: David Castro) + Propósito LEV exacto + ¿Para qué sirve?
+  9. Portada (`📘 TEMA NUEVO`) + Propósito LEV exacto + ¿Para qué sirve?
   10. Mapa visual: Por qué usar variables `int rojo = 13;` en lugar de números directos.
   11. Diagrama de conexión en Tinkercad (Pines 13, 12, 11 -> 3 LEDs -> 220 ohmios -> GND) + Paso a paso numerado (1, 2, 3).
   12. Reto práctico (Verde parpadea 3 veces antes de Amarillo) + 2 preguntas de cierre y Classroom.
@@ -50,8 +49,7 @@ ESTRUCTURA:
 IDIOMA OBLIGATORIO: Todo el texto, títulos, mapas y etiquetas deben estar 100% en ESPAÑOL. Prohibido usar inglés.
 
 Crea una presentación de exactamente 13 diapositivas para 10mo EGB basada en las SEMANAS 6, 7 y 8 de la fuente subida (4 slides por semana + Slide 13 de Autoevaluación).
-Temática: Tortugas Ninja (TMNT). Mediador: David Castro.
-
+Temática: Tortugas Ninja (TMNT).
 ESTRUCTURA:
 - Slides 1–4 -> SEMANA 6 (Semáforo Físico en Protoboard con Arduino UNO | 👥 ACTIVIDAD GRUPAL):
   1. Portada (`👥 ACTIVIDAD GRUPAL`) + Propósito LEV exacto + ¿Para qué sirve?

@@ -21,15 +21,13 @@
 ## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Aislantes, Conductores, Empalmes y Corriente (AC/DC)
 *(Estado: En curso — Hoy: Semana 3, 16–19 nov | Cierre Áreas Especiales: semana del 11 ene)*
 
-1. `[x]` **Conductores y Aislantes** *(Individual 1)* — Clasificación de materiales conductores vs. aislantes.
-2. `[x]` **Taller de Empalmes Seguros** *(Práctica Física)* — Empalmes *Cola de Rata*, *Western Union* y *Derivación Simple (en T)* probados con pila 9V, LED y cinta aislante.
-3. `[x]` **Taller de Aislantes — Parte 1** *(Individual 2)* — Práctica de aislamiento eléctrico.
-4. `[→]` **Taller de Aislantes — Parte 2** *(Individual 2 — **Semana del 16–19 nov**)* — Cierre de práctica y evidencia.
-5. `[ ]` **S4 (23–27 nov) — Corriente Continua (DC) vs. Alterna (AC) y Polaridad** *(Grupal)* — 10 min teoría + PhET (CA/CD) + ficha Canva *"AC vs. DC en mi casa"* (5 aparatos DC y 5 AC).
-6. `[ ]` **S5 (30 nov – 4 dic) — Falsos Contactos, Cortocircuitos y Breakers** *(Refuerzo)* — Prueba de fusible en PhET y desafío *"Inspector de Seguridad"* (4 casos en Classroom).
-7. `[ ]` **S6 (7–11 dic) — Refuerzo Práctico: Circuitos Seguros desde Cero en PhET** *(Refuerzo sin nota)* — Diagnóstico visual de 3 fallas en pantalla y armado desde cero en PhET (batería + fusible + interruptor + 2 bombillas).
-8. `[ ]` **S7 (14–18 dic) — Repaso Pre-Vacaciones** *(Refuerzo sin nota)* — Trivia relámpago de 5 preguntas, nivelación y circuito libre de 2 bombillas con 2 interruptores en PhET.
-9. `[ ]` **S8 (5–8 ene) — Cierre de Parcial 2 y Autoevaluación** — Mini-quiz de repaso, nivelación final y **Autoevaluación Likert (1–5) en 4 aspectos** previa a Evaluaciones de Áreas Especiales (semana del 11 de enero).
+1. `[x]` **Conductores y Aislantes** *(Individual 1)* — Clasificación de materiales conductores vs. aislantes (electrones libres vs. fuertemente unidos) e infografía.
+2. `[x]` **Taller de Empalmes Seguros** *(Individual 2 — Práctica Física)* — Empalmes *Cola de Rata*, *Western Union* y *Derivación Simple (en T)* probados con pila 9V, bombilla/módulo protegido y cinta aislante.
+3. `[→]` **Corriente Directa / Continua (DC) y Polaridad** *(Práctica en PhET DC)* — 10 min teoría (flujo unidireccional, `+` y `-`, pilas/USB) y simulación de polaridad en PhET.
+4. `[ ]` **Corriente Alterna (AC) y Transformación a DC** *(Práctica en PhET CA)* — 10 min teoría (electrones oscilando, 110V / 60 Hz, función del cargador) y comparación en PhET CA.
+5. `[ ]` **Mapa de Artefactos DC y AC del Colegio** *(Grupal en parejas — Canva)* — Identificar y clasificar **10 artefactos DC y 10 artefactos AC** del colegio en un mapa visual por parejas.
+6. `[ ]` **Seguridad Eléctrica: Falsos Contactos, Cortocircuitos y Breakers** *(Refuerzo)* — Prueba de fusible en PhET y desafío *"Inspector de Seguridad"* (análisis de casos de riesgo eléctrico).
+7. `[ ]` **Repaso, Cierre de Parcial 2 y Autoevaluación** *(Refuerzo)* — Trivia relámpago de repaso (Conductores/Aislantes, Empalmes, DC vs. AC, Breakers), nivelación y **Autoevaluación Likert (1–5) en 4 aspectos** previa a Evaluaciones de Áreas Especiales.
 
 ---
 

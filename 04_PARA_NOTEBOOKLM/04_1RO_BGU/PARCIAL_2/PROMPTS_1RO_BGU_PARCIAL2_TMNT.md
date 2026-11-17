@@ -21,23 +21,22 @@ REGLAS OBLIGATORIAS:
 - Enfoque "MINI-LIBRO AUTO-EXPLICATIVO".
 - ETIQUETA VISIBLE OBLIGATORIA: `👤 ACTIVIDAD INDIVIDUAL` o `📘 TEMA NUEVO`.
 - En `👤 ACTIVIDAD INDIVIDUAL`: SOLO enunciado + diseño de referencia + candados/parámetros + 1 tip (CERO código nuevo si ya se dio; en Semana 4 por ser tema nuevo de PWM sí incluye código referencial).
-- Temática: Tortugas Ninja (TMNT). Mediador: David Castro.
-
+- Temática: Tortugas Ninja (TMNT).
 ESTRUCTURA:
 - Slides 1–4 -> SEMANA 3 (Informe Potenciómetro 4 LEDs + Cuestionario | 👤 ACTIVIDAD INDIVIDUAL):
-  1. Portada (`👤 ACTIVIDAD INDIVIDUAL` | Mediador: David Castro) + Propósito LEV exacto + ¿Para qué sirve?
+  1. Portada (`👤 ACTIVIDAD INDIVIDUAL`) + Propósito LEV exacto + ¿Para qué sirve?
   2. Mapa técnico: `analogRead(A0)` (0 a 1023) + condicionales `if (valor > X)` sobre 4 LEDs.
   3. Imagen de referencia y los 3 Candados Anti-IA (Nota virtual con nombre, 4 umbrales exactos, respuestas de máx. 3 líneas).
   4. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado de entrega (Informe corto + Cuestionario de 4 preguntas en Classroom) + 1 tip (`else { LOW }`).
 
 - Slides 5–8 -> SEMANA 4 (Atenuador PWM con map() | 👤 ACTIVIDAD INDIVIDUAL / 📘 TEMA NUEVO):
-  5. Portada (`👤 ACTIVIDAD INDIVIDUAL` | Mediador: David Castro) + Propósito LEV exacto + ¿Para qué sirve?
+  5. Portada (`👤 ACTIVIDAD INDIVIDUAL`) + Propósito LEV exacto + ¿Para qué sirve?
   6. Mapa conceptual: Pines PWM (`~` 3, 5, 6, 9, 10, 11) + `map(valor, 0, 1023, 0, 255)` + `analogWrite()`.
   7. Diagrama de conexión (Potenciómetro en A0 + LED en Pin ~9) + Código referencial base completo.
   8. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado del reto (2do LED invertido en Pin ~10 con `255 - brillo`) + 2 preguntas de cierre.
 
 - Slides 9–12 -> SEMANA 5 (Poste de Alumbrado con LDR | 📘 TEMA NUEVO):
-  9. Portada (`📘 TEMA NUEVO` | Mediador: David Castro) + Propósito LEV exacto + ¿Para qué sirve?
+  9. Portada (`📘 TEMA NUEVO`) + Propósito LEV exacto + ¿Para qué sirve?
   10. Mapa de conexión: Divisor de voltaje con LDR a 5V y A0 + resistencia 10k ohmios a GND.
   11. Código referencial completo con `Serial.begin(9600)` + Paso a paso numerado (1, 2, 3) para probar luz vs. oscuridad.
   12. Reto práctico + 2 preguntas de verificación y entrega en Classroom.
@@ -50,8 +49,7 @@ ESTRUCTURA:
 IDIOMA OBLIGATORIO: Todo el texto, títulos, mapas y etiquetas deben estar 100% en ESPAÑOL. Prohibido usar inglés.
 
 Crea una presentación de exactamente 13 diapositivas para 1ro BGU basada en las SEMANAS 6, 7 y 8 de la fuente subida (4 slides por semana + Slide 13 de Autoevaluación).
-Temática: Tortugas Ninja (TMNT). Mediador: David Castro.
-
+Temática: Tortugas Ninja (TMNT).
 ESTRUCTURA:
 - Slides 1–4 -> SEMANA 6 (Theremin Musical con Luz: LDR + Buzzer | 👥 ACTIVIDAD GRUPAL):
   1. Portada (`👥 ACTIVIDAD GRUPAL`) + Propósito LEV exacto + ¿Para qué sirve?

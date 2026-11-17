@@ -20,23 +20,22 @@ REGLAS OBLIGATORIAS:
 - Enfoque "MINI-LIBRO AUTO-EXPLICATIVO".
 - ETIQUETA VISIBLE OBLIGATORIA: `👥 ACTIVIDAD GRUPAL`, `👤 ACTIVIDAD INDIVIDUAL` o `📘 TEMA NUEVO`.
 - En `👥 ACTIVIDAD GRUPAL`: SOLO enunciado + diseño de referencia + 1 tip (CERO paso a paso guiado). En TEMA NUEVO sí incluye bloques referenciales y paso a paso.
-- Temática: Tortugas Ninja (TMNT). Mediador: David Castro.
-
+- Temática: Tortugas Ninja (TMNT).
 ESTRUCTURA:
 - Slides 1–4 -> SEMANA 3 (Motor Deslizante en Sim Lab | 👥 ACTIVIDAD GRUPAL):
-  1. Portada (`👥 ACTIVIDAD GRUPAL` | Mediador: David Castro) + Propósito LEV exacto + ¿Para qué sirve?
+  1. Portada (`👥 ACTIVIDAD GRUPAL`) + Propósito LEV exacto + ¿Para qué sirve?
   2. Mapa comparativo: Motor Rotacional vs. Motor Deslizante (*Slider*) + regla Estático (base) vs. Dinámico (pieza móvil).
   3. Imagen de referencia en Sim Lab: Base estática + riel + pieza dinámica + flecha del motor deslizante.
   4. `👥 ACTIVIDAD GRUPAL`: Enunciado directo (Puerta corrediza, prensa o lanzador con nombres del grupo en 3D) + 1 tip.
 
 - Slides 5–8 -> SEMANA 4 (Intro a Tinkercad Codeblocks | 👤 ACTIVIDAD INDIVIDUAL / 📘 TEMA NUEVO):
-  5. Portada (`👤 ACTIVIDAD INDIVIDUAL` | Mediador: David Castro) + Propósito LEV exacto + ¿Para qué sirve?
+  5. Portada (`👤 ACTIVIDAD INDIVIDUAL`) + Propósito LEV exacto + ¿Para qué sirve?
   6. Mapa de bloques base: `Formas`, `Modificar (Mover X,Y,Z / Escalar / Rotar)`, `Crear grupo`.
   7. Diseño de referencia + Paso a paso numerado (1, 2, 3) para generar una placa/mesa con bloques.
   8. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado del reto (llavero o trofeo 100% por bloques con forma hueca) + 2 preguntas de cierre.
 
 - Slides 9–12 -> SEMANA 5 (Bucles y Rotación en Codeblocks | 📘 TEMA NUEVO):
-  9. Portada (`📘 TEMA NUEVO` | Mediador: David Castro) + Propósito LEV exacto + ¿Para qué sirve?
+  9. Portada (`📘 TEMA NUEVO`) + Propósito LEV exacto + ¿Para qué sirve?
   10. Mapa lógico: `Crear variable` + `Repetir N veces` + `Cambiar variable por X` + rotar alrededor de `[0,0,0]`.
   11. Secuencia de bloques referencial + Paso a paso numerado para armar una escalera en espiral de 15 escalones.
   12. Reto de clase (agregar columna central o torre retorcida) + 2 preguntas de cierre.
@@ -49,8 +48,7 @@ ESTRUCTURA:
 IDIOMA OBLIGATORIO: Todo el texto, títulos, mapas y etiquetas deben estar 100% en ESPAÑOL. Prohibido usar inglés.
 
 Crea una presentación de exactamente 13 diapositivas para 2do BGU basada en las SEMANAS 6, 7 y 8 de la fuente subida (4 slides por semana + Slide 13 de Autoevaluación).
-Temática: Tortugas Ninja (TMNT). Mediador: David Castro.
-
+Temática: Tortugas Ninja (TMNT).
 ESTRUCTURA:
 - Slides 1–4 -> SEMANA 6 (Engranaje Paramétrico en Codeblocks | 👤 ACTIVIDAD INDIVIDUAL):
   1. Portada (`👤 ACTIVIDAD INDIVIDUAL`) + Propósito LEV exacto + ¿Para qué sirve?
