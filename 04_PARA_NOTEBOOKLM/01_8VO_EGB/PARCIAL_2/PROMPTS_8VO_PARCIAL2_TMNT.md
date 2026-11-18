@@ -29,6 +29,8 @@ Crea una presentación estilo cómic educativo en español para estudiantes de 8
 
 Mantén al mismo protagonista/equipo de este universo en una historia autoconclusiva libre para este tema. Explica con lenguaje cercano a su edad el propósito LEV y piensa cómo mostrarles para qué les sirve distinguir materiales conductores y aislantes en cables, enchufes y dispositivos que usan a diario. Integra la teoría de 10 minutos (con tecnicismo moderado y diagramas visuales) y el enunciado de la actividad final (sin paso a paso resuelto).
 
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, número fijo de preguntas, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
 
@@ -39,6 +41,8 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica" (temática libre de las Tortugas Ninja) como un capítulo tipo cómic independiente ("Taller de Empalmes Seguros", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el punto 2 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
 
 Mantén al mismo protagonista/equipo de este universo en una historia autoconclusiva libre para este tema. Conecta el propósito LEV con su edad mostrando para qué les sirve hacer uniones eléctricas firmes y bien aisladas sin riesgos ni falsos contactos. Integra el fundamento técnico breve, la lista exacta de materiales (recordando nunca conectar un LED suelto directo a 9V), el procedimiento paso a paso ilustrado de Cola de Rata, Western Union y Derivación Simple en T, y las pruebas de verificación (jalón suave y prueba eléctrica).
+
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
@@ -51,6 +55,8 @@ Crea una presentación estilo cómic educativo en español para estudiantes de 8
 
 Mantén al mismo protagonista/equipo de este universo en una historia autoconclusiva libre para este tema. Muestra con lenguaje cercano a su edad el propósito LEV y piensa cómo explicarles para qué les sirve respetar la polaridad (+ y -) en pilas, puertos USB y baterías que usan todos los días. Integra la teoría de 10 minutos (flujo unidireccional, polaridad y diagramas visuales), la práctica guiada en PhET DC y preguntas de verificación.
 
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
 
@@ -61,6 +67,8 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica" (temática libre de las Tortugas Ninja) como un capítulo tipo cómic independiente ("Corriente Alterna (AC) y Transformación", etiqueta 📘 TEMA NUEVO) basado en el punto 4 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
 
 Mantén al mismo protagonista/equipo de este universo en una historia autoconclusiva libre para este tema. Explica con lenguaje claro para su edad el propósito LEV y para qué les sirve entender por qué los tomacorrientes de casa usan 110V AC mientras el cargador del celular la convierte en DC. Integra la teoría de 10 minutos (electrones oscilando, 110V / 60 Hz, transformación AC a DC con diagramas), la práctica en PhET CA y preguntas de verificación.
+
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
@@ -73,6 +81,8 @@ Crea una presentación estilo cómic educativo en español para estudiantes de 8
 
 Mantén al mismo protagonista/equipo de este universo en una historia autoconclusiva libre para este tema. Conecta el propósito LEV con su edad mostrando para qué les sirve identificar al instante si un aparato funciona con corriente directa o alterna antes de conectarlo o repararlo. Integra un repaso visual rápido del criterio para distinguir DC y AC, y el enunciado claro de la actividad en parejas (mapa visual de 10 artefactos DC y 10 artefactos AC del colegio, sin resolverles los 20 ejemplos).
 
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
 
@@ -84,6 +94,8 @@ Crea una presentación estilo cómic educativo en español para estudiantes de 8
 
 Mantén al mismo protagonista/equipo de este universo en una historia autoconclusiva libre para este tema. Explica con lenguaje cercano a su edad el propósito LEV y para qué les sirve reconocer un falso contacto o un cortocircuito y entender cómo un breaker o fusible protege su hogar. Integra la teoría de 10 minutos con diagramas y completo el desafío "Inspector de Seguridad" con los 3 casos exactos de la fuente (sin mostrar las respuestas).
 
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
 
@@ -94,6 +106,8 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica" (temática libre de las Tortugas Ninja) como un capítulo tipo cómic independiente de repaso y cierre ("Gran Repaso y Autoevaluación", etiqueta 🛠️ REFUERZO) basado en el punto 7 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
 
 Mantén al mismo protagonista/equipo de este universo en una historia autoconclusiva libre de repaso y cierre. Recuerda para su edad el propósito LEV y para qué les sirve dominar las reglas de seguridad eléctrica antes de construir circuitos propios. Integra un mapa resumen del parcial, la trivia de repaso (sin respuestas visibles), las 4 reglas de oro de seguridad, las indicaciones para la Evaluación de Áreas Especiales y la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
+
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```

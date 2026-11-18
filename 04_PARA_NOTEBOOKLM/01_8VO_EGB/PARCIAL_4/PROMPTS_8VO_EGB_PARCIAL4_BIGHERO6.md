@@ -28,6 +28,8 @@ Crea una presentación estilo cómic educativo en español para estudiantes de 8
 
 Como es el Capítulo 1, inicia una historia libre dentro del universo Big Hero 6 que continuará en los siguientes capítulos. Explica con lenguaje cercano a su edad el propósito LEV y piensa cómo mostrarles para qué les sirve entender cómo se conectan un cerebro electrónico, un motor y el código en máquinas que ven a diario. Integra la teoría de 10 minutos (Smart Hub, motor mediano, bloques básicos con diagramas), la práctica guiada de Milo Parte A y preguntas de verificación.
 
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
 
@@ -38,6 +40,8 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 4: "Mecanismos y Control Inicial" (temática libre de Big Hero 6), como un capítulo tipo cómic independiente ("Poleas, Correas y Velocidad", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el punto 2 de FUENTE_8VO_EGB_PARCIAL4_COMPLETO.md.
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Conecta el propósito LEV con su edad mostrando para qué les sirve entender cómo las poleas y el tamaño de las ruedas cambian la velocidad en bicicletas, autos o máquinas reales. Integra el fundamento técnico con diagramas y el enunciado del taller práctico "Velocidad (Auto de Carreras)" con materiales (sin resolver sus mediciones).
+
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
@@ -50,6 +54,8 @@ Crea una presentación estilo cómic educativo en español para estudiantes de 8
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Explica con lenguaje claro para su edad el propósito LEV y para qué les sirve equilibrar fuerza (torque) y velocidad mediante engranajes y fricción en vehículos o herramientas de su entorno. Integra la teoría de 10 minutos (fuerza, fricción, trenes de engranajes y tornillo sin fin con diagramas), la práctica guiada "Tirando (Robot de Arrastre)" y preguntas de verificación.
 
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
 
@@ -60,6 +66,8 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 4: "Mecanismos y Control Inicial" (temática libre de Big Hero 6), como un capítulo tipo cómic independiente ("Sensores y Modelo Entrada-Proceso-Salida", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el punto 4 de FUENTE_8VO_EGB_PARCIAL4_COMPLETO.md.
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Muestra con lenguaje cercano a su edad el propósito LEV y para qué les sirve el modelo Entrada -> Proceso -> Salida para entender cómo reaccionan solos los sensores de un celular, una puerta automática o un robot. Integra la explicación con diagramas del Sensor de Movimiento y Sensor de Inclinación y el enunciado del taller práctico Milo Partes B y C (sin regalar el código final del reto).
+
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
@@ -72,6 +80,8 @@ Crea una presentación estilo cómic educativo en español para estudiantes de 8
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Conecta el propósito LEV con su edad explicando para qué les sirve construir una estructura mecánica firme y bien alineada antes de empezar a programar. Integra las dos opciones oficiales de proyecto (Helicóptero de Rescate o Compuerta de Inundaciones) y los criterios técnicos de ensamblaje y verificación mecánica.
 
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
 
@@ -83,6 +93,8 @@ Crea una presentación estilo cómic educativo en español para estudiantes de 8
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Muestra con lenguaje claro para su edad el propósito LEV y para qué les sirve calibrar tiempos, potencia y sensores probando un prototipo frente a fallas reales. Integra la guía breve de calibración y detección de fallas, los criterios de evaluación y el enunciado de la demostración grupal en vivo (sin regalar el código resuelto).
 
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
 
@@ -93,6 +105,8 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 4: "Mecanismos y Control Inicial" (temática libre de Big Hero 6), como un capítulo tipo cómic independiente ("Repaso, Inventario y Cierre", etiqueta 🛠️ REFUERZO) basado en el punto 7 de FUENTE_8VO_EGB_PARCIAL4_COMPLETO.md.
 
 Mantén al mismo protagonista/equipo de este universo en un capítulo autoconclusivo de repaso y cierre. Recuerda para su edad el propósito LEV y para qué les sirve cuidar el orden de las herramientas y consolidar las bases antes de pasar a Diseño 3D y Robótica Móvil en 9no. Integra el repaso (sin respuestas visibles), el protocolo de desmontaje e inventario y la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
+
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```

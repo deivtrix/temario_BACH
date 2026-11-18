@@ -28,6 +28,8 @@ Crea una presentación estilo cómic educativo en español para estudiantes de 9
 
 Como es el Capítulo 1, inicia una historia libre en el universo Minecraft que continuará en los siguientes capítulos. Explica con lenguaje cercano a chicos de 13-14 años el propósito LEV y piensa cómo mostrarles para qué les sirve entender cómo se conecta un controlador con sus puertos y modos de carga en dispositivos autónomos actuales. Integra la teoría de 10 minutos (placa mCore, puertos RJ25 1-4, motores M1/M2 y modo En Vivo vs. Subir código con diagramas), la práctica guiada y preguntas de verificación.
 
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
 
@@ -38,6 +40,8 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 Crea una presentación estilo cómic educativo en español para estudiantes de 9no EGB (13-14 años) del Volumen 3: "Navegación y Robótica Móvil" (temática libre de Minecraft Redstone), como un capítulo tipo cómic independiente ("Luces RGB y Buzzer", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el punto 2 de FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Conecta el propósito LEV con su edad mostrando para qué les sirve programar indicadores visuales (RGB) y sonoros (buzzer) como los de alarmas, consolas o vehículos. Integra la teoría breve (RGB 0-255, frecuencias del buzzer y pausas esperar) y el enunciado claro del reto individual con 1 consejo (sin regalar el código armado).
+
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
@@ -50,6 +54,8 @@ Crea una presentación estilo cómic educativo en español para estudiantes de 9
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Explica con lenguaje claro para su edad el propósito LEV y para qué les sirve planificar movimientos con diagramas de flujo y variables en robots de reparto, aspiradoras o vehículos de dos ruedas. Integra la teoría de 10 minutos (tracción diferencial M1/M2, variable velocidad 0-255, giros de 90 grados y diagrama de flujo), la práctica guiada y preguntas de verificación.
 
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
 
@@ -60,6 +66,8 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 Crea una presentación estilo cómic educativo en español para estudiantes de 9no EGB (13-14 años) del Volumen 3: "Navegación y Robótica Móvil" (temática libre de Minecraft Redstone), como un capítulo tipo cómic independiente ("Reto Pista Cuadrada 50x50", etiqueta 👥 ACTIVIDAD GRUPAL) basado en el punto 4 de FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Muestra con lenguaje cercano a su edad el propósito LEV y para qué les sirve calibrar un sistema físico real frente al desgaste de batería y fricción del piso en lugar de confiar solo en la simulación. Integra la explicación breve de calibración y bucles repetir, y el enunciado del reto grupal en pista con 1 consejo (sin regalar tiempos ni código).
+
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
@@ -72,6 +80,8 @@ Crea una presentación estilo cómic educativo en español para estudiantes de 9
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Conecta el propósito LEV con su edad explicando para qué les sirve medir distancias sin contacto con ultrasonido en sensores de parqueo de autos, drones o robots autónomos. Integra la explicación técnica (onda, rebote, distancia en cm y lógica continua por siempre) y el enunciado del reto individual con diagrama de flujo previo y 1 consejo (sin regalar el código).
 
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
 
@@ -83,6 +93,8 @@ Crea una presentación estilo cómic educativo en español para estudiantes de 9
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Explica con lenguaje claro para chicos de 13-14 años el propósito LEV y para qué les sirve la lógica binaria de sensores infrarrojos en robots de bodegas industriales o líneas de transporte guiadas. Integra la teoría de 10 minutos (reflexión blanco 1 vs. absorción negro 0 y los 4 estados de corrección con diagrama), la práctica guiada y preguntas de verificación.
 
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
 
@@ -93,6 +105,8 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 Crea una presentación estilo cómic educativo en español para estudiantes de 9no EGB (13-14 años) del Volumen 3: "Navegación y Robótica Móvil" (temática libre de Minecraft Redstone), como un capítulo tipo cómic independiente ("Refuerzo Integrador y Cierre", etiqueta 🛠️ REFUERZO) basado en el punto 7 de FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
 
 Cierra libremente la historia del Volumen 3 conectando todo lo aprendido en la serie. Recuerda para su edad el propósito LEV y para qué les sirve combinar varios sensores y actuadores en un mismo sistema antes de dar el salto a la electrónica analógica. Integra el repaso (sin respuestas visibles), el reto combinado en pista y la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
+
+Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
