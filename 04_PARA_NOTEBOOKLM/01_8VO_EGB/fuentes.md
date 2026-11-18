@@ -13,7 +13,7 @@ Copia y pega estas consultas en **"Descubrir fuentes"** dentro de tu cuaderno ú
 
 ---
 
-## 🟡 PARCIAL 2 — Conductores, Empalmes, DC/AC y Seguridad Eléctrica
+## 🟡 PARCIAL 2 — Conductores, Empalmes y Seguridad Eléctrica
 * `Materiales conductores y aislantes de la electricidad electrones libres ejemplos reales`
 * `Empalmes eléctricos Cola de Rata, Western Union y Derivación en T paso a paso seguro`
 * `Diferencia entre corriente directa DC con polaridad y corriente alterna AC 110V 60Hz`
@@ -22,7 +22,7 @@ Copia y pega estas consultas en **"Descubrir fuentes"** dentro de tu cuaderno ú
 
 ---
 
-## 🔵 PARCIAL 3 — Electrostática, Ley de Ohm y Serie/Paralelo
+## 🔵 PARCIAL 3 — Ley de Ohm y Circuitos Serie/Paralelo
 * `Electrostática cargas por fricción atracción repulsión y cómo funciona la toma a tierra`
 * `Ley de Ohm V = I x R explicación sencilla y cómo calcular resistencia para proteger un LED`
 * `Símbolos eléctricos estándar en diagramas esquemáticos batería resistencia LED interruptor`
@@ -31,7 +31,7 @@ Copia y pega estas consultas en **"Descubrir fuentes"** dentro de tu cuaderno ú
 
 ---
 
-## 🟣 PARCIAL 4 — Robótica Educativa con LEGO WeDo 2.0 (Kit 45300)
+## 🟣 PARCIAL 4 — Mecanismos y Control Inicial
 * `LEGO Education WeDo 2.0 Milo rover científico Smart Hub y motor primeros pasos`
 * `Transmisión mecánica poleas correas y engranajes velocidad vs torque fuerza para secundaria`
 * `Modelo entrada proceso salida en robótica educativa con sensores de movimiento e inclinación`

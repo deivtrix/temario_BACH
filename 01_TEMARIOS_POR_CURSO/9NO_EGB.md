@@ -9,14 +9,14 @@
 
 ---
 
-## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Fundamentos de Fabricación
+## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Procesos de Fabricación
 *(Estado: Cerrado / Ejecutado)*
 
 1. `[x]` **Fundamentos de Fabricación** — Materia prima $\rightarrow$ producto final, elaboración artesanal vs. producción industrial, transformación de materiales y actividades en patio/Canva *(ejecutado)*.
 
 ---
 
-## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Diseño CAD 3D en Tinkercad e Impresión 3D
+## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Modelado Digital 3D y Prototipado
 *(Estado: En curso — 7 clases)*
 
 1. `[x]` **Introducción a Tinkercad 3D y Llavero** *(Individual 1 — ejecutado)* — Ejes X, Y, Z, formas básicas, huecos y agrupación (`Ctrl + G`).
@@ -29,7 +29,7 @@
 
 ---
 
-## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Robótica Móvil con mBot y mBlock
+## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Navegación y Robótica Móvil
 *(Estado: Pendiente — 7 clases)*
 
 1. `[ ]` **Kit mBot, Placa mCore y Entorno mBlock 5** *(Tema Nuevo — clase normal)* — Con los mBot ya armados: reconocimiento de componentes, puertos RJ25, conexión y modo *Live* vs. *Subir código*.
@@ -42,7 +42,7 @@
 
 ---
 
-## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Electrónica Analógica, Lógica y Control sin Microcontrolador
+## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Electrónica Analógica y Lógica Digital
 *(Estado: Pendiente — 7 clases | Sin protoboard física ni soldadura; puente directo a Arduino en 10mo EGB)*
 
 1. `[ ]` **Código de Colores (4 bandas) y Polaridad del LED** *(Tema Nuevo — clase normal)* — Lectura de resistencias por colores, Ánodo/Cátodo del LED y conexión directa en Tinkercad.

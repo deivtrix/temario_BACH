@@ -207,7 +207,7 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables a
 
 ---
 
-# PARCIAL 3 — Electrostática, Ley de Ohm y Serie/Paralelo (Temática: Minecraft)
+# PARCIAL 3 — Ley de Ohm y Circuitos Serie/Paralelo (Temática: Minecraft)
 
 ## CAPÍTULO P3.1 — Átomos, Cargas y Electrostática
 ```text
@@ -323,7 +323,7 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables a
 
 ---
 
-# PARCIAL 4 — Robótica Educativa con LEGO WeDo 2.0 (Temática: Big Hero 6)
+# PARCIAL 4 — Mecanismos y Control Inicial (Temática: Big Hero 6)
 
 ## CAPÍTULO P4.1 — Introducción a LEGO WeDo 2.0: Milo, el Róver Científico (Parte A)
 ```text

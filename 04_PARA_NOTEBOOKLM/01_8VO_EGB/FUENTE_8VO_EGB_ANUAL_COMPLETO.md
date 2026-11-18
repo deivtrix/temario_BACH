@@ -4,11 +4,11 @@
 
 ---
 
-# === PARCIAL 1 — Fundamentos de la Energía y Circuitos (Pokémon) ===
+# === PARCIAL 1 — Fundamentos de Energía y Circuitos (Pokémon) ===
 
 # ⚡ 8VO EGB — PARCIAL 1 (FUENTE ÚNICA PARA NOTEBOOKLM)
 **Materia:** Robótica y Tecnología  
-**Unidad:** Fundamentos de la Energía y Circuitos Elementales
+**Unidad:** Fundamentos de Energía y Circuitos
 
 ---
 
@@ -95,11 +95,11 @@
 
 ---
 
-# === PARCIAL 2 — Aislantes, Empalmes, DC/AC y Seguridad (Tortugas Ninja) ===
+# === PARCIAL 2 — Conductores, Empalmes y Seguridad Eléctrica (Tortugas Ninja) ===
 
 # 📘 8VO EGB — PARCIAL 2 (FUENTE ÚNICA PARA NOTEBOOKLM)
 **Materia:** Robótica y Tecnología  
-**Unidad:** Aislantes, Conductores, Empalmes, Corriente (DC/AC) y Seguridad Eléctrica
+**Unidad:** Conductores, Empalmes y Seguridad Eléctrica
 
 ---
 
@@ -233,11 +233,11 @@
 
 ---
 
-# === PARCIAL 3 — Electrostática, Ley de Ohm y Serie/Paralelo (Minecraft) ===
+# === PARCIAL 3 — Ley de Ohm y Circuitos Serie/Paralelo (Minecraft) ===
 
 # 📘 8VO EGB — PARCIAL 3 (FUENTE ÚNICA PARA NOTEBOOKLM)
 **Materia:** Robótica y Tecnología  
-**Unidad:** Electrostática, Ley de Ohm, Vista Esquemática y Circuitos en Serie y Paralelo
+**Unidad:** Ley de Ohm y Circuitos Serie/Paralelo
 
 ---
 
@@ -369,11 +369,11 @@
 
 ---
 
-# === PARCIAL 4 — Robótica Educativa con LEGO WeDo 2.0 (Big Hero 6) ===
+# === PARCIAL 4 — Mecanismos y Control Inicial (Big Hero 6) ===
 
 # 🤖 8VO EGB — PARCIAL 4 (FUENTE ÚNICA PARA NOTEBOOKLM)
 **Materia:** Robótica y Tecnología  
-**Unidad:** Robótica Educativa con LEGO Education WeDo 2.0 (Kit 45300)
+**Unidad:** Mecanismos y Control Inicial
 
 ---
 

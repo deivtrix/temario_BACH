@@ -9,7 +9,7 @@
 
 ---
 
-## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Modelado 3D y Simulación Física en Tinkercad Sim Lab
+## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Simulación Física y Dinámica 3D
 *(Estado: Cerrado / Ejecutado según `03_PLANIFICACION_SEMANAL`)*
 
 1. `[x]` **Mueble de Cocina Modular en Tinkercad 3D** — Geometría, espesores y vaciado.
@@ -20,7 +20,7 @@
 
 ---
 
-## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Mecanismos Sim Lab y Diseño 3D Programado (Codeblocks)
+## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Diseño Paramétrico por Bloques
 *(Estado: En curso — Hoy: Semana 3, 16–19 nov | Cierre Áreas Especiales: semana del 11 ene)*
 
 1. `[x]` **S1–S2 (4–13 nov) — Mini Golf con Motores en Sim Lab** *(Individual 1 — ejecutado)* — Obstáculos móviles y simulación física.
@@ -33,7 +33,7 @@
 
 ---
 
-## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Arduino Intermedio — `millis()`, Potencia y Puente H
+## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Electrónica de Potencia y Motores
 *(Estado: Pendiente — 7 clases | Base: Proyectos 08–10)*
 
 1. `[ ]` **Juego de Reflejos / Reacción en ms (`millis()` sin `delay()` + Récord Serial)** *(Individual 1 — calificada)* — Medición de tiempo de reacción con LEDs, pulsador y tabla en Monitor Serial.
@@ -46,7 +46,7 @@
 
 ---
 
-## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Pantalla LCD 16x2 y Proyecto Integrador con Arduino
+## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Interfaces Visuales y Sistemas Integrados
 *(Estado: Pendiente — 7 clases | Proyecto 11 del libro)*
 
 1. `[ ]` **Pantalla LCD 16x2 (`<LiquidCrystal.h>`) en Tinkercad — Texto Básico** *(Individual 1 — calificada)* — Conexión virtual sin atascos de cableado y mensajes en 2 filas.

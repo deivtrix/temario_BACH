@@ -9,7 +9,7 @@
 
 ---
 
-## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Variables, Condicionales y Entradas Digitales
+## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Lógica Condicional y Entradas Digitales
 *(Estado: Cerrado / Ejecutado según `03_PLANIFICACION_SEMANAL`)*
 
 1. `[x]` **Tipos de Datos (`bool`, `int`, `float`) y Sirena de Policía** — Refactorización de código e intermitencia en Tinkercad.
@@ -18,7 +18,7 @@
 
 ---
 
-## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Entradas Analógicas, PWM y Sensor de Luz
+## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Señales Analógicas y Regulación PWM
 *(Estado: En curso — Hoy: Semana 3, 16–19 nov | Cierre Áreas Especiales: semana del 11 ene)*
 
 1. `[x]` **S1–S2 (4–13 nov) — Potenciómetro (`analogRead`) + 4 LEDs con `>` y `<`** *(ejecutado)* — Lectura analógica en Arduino y Tinkercad encendiendo LEDs por rangos.
@@ -31,7 +31,7 @@
 
 ---
 
-## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Sensores del Kit (Temperatura, Ultrasonido, Agua) y Buzzer
+## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Detección Ambiental y Alertas
 *(Estado: Pendiente — 7 clases | Refuerzo de `analogRead` + `if/else` por umbrales sin abrumar)*
 
 1. `[ ]` **Termómetro Digital por Monitor Serial (TMP36 / LM35)** *(Individual 1 — calificada)* — Conexión del sensor de temperatura y lectura en °C.
@@ -44,7 +44,7 @@
 
 ---
 
-## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Servomotores, Control Serial y Barrera Automática
+## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Control Angular y Sistemas Autónomos
 *(Estado: Pendiente — 7 clases)*
 
 1. `[ ]` **Control Angular del Servomotor SG90 (`<Servo.h>`)** *(Individual 1 — calificada)* — Posicionamiento básico (0°, 90°, 180°).

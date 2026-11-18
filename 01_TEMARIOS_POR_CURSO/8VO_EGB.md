@@ -9,7 +9,7 @@
 
 ---
 
-## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Fundamentos de la Energía y Circuitos Elementales
+## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Fundamentos de Energía y Circuitos
 *(Estado: Cerrado / Ejecutado)*
 
 1. `[x]` **Introducción a la Energía y Cargas Eléctricas** — Definición de energía, protones/electrones y fuentes renovables vs. no renovables en PhET DC.
@@ -20,7 +20,7 @@
 
 ---
 
-## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Aislantes, Conductores, Empalmes y Corriente (AC/DC)
+## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Conductores, Empalmes y Seguridad Eléctrica
 *(Estado: En curso — Hoy: Semana 3, 16–19 nov | Cierre Áreas Especiales: semana del 11 ene)*
 
 1. `[x]` **Conductores y Aislantes** *(Individual 1)* — Clasificación de materiales conductores vs. aislantes (electrones libres vs. fuertemente unidos) e infografía.
@@ -33,7 +33,7 @@
 
 ---
 
-## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Electrostática, Ley de Ohm y Circuitos Serie/Paralelo
+## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Ley de Ohm y Circuitos Serie/Paralelo
 *(Estado: Pendiente — 7 clases)*
 
 1. `[ ]` **Átomos, Cargas y Electrostática** *(Tema Nuevo — clase normal)* — 10 min teoría + simulador PhET (*Globos / John Travoltage*).
@@ -46,7 +46,7 @@
 
 ---
 
-## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Robótica Educativa con LEGO WeDo 2.0
+## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Mecanismos y Control Inicial
 *(Estado: Pendiente — 7 clases con modelos oficiales LEGO Education WeDo 2.0 / 45300)*
 
 1. `[ ]` **Introducción a LEGO WeDo 2.0: Milo (Parte A)** *(Tema Nuevo — clase normal)* — Reconocimiento del Smart Hub, motor, piezas básicas y bloques de inicio/movimiento.

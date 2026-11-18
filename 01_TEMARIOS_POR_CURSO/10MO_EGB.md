@@ -9,7 +9,7 @@
 
 ---
 
-## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Electrónica Básica y Protoboard
+## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Circuitos Base y Montaje en Protoboard
 *(Estado: Cerrado / Ejecutado)*
 
 1. `[x]` **Magnitudes Eléctricas ($V, I, R$) y Corriente AC vs. DC** — Conceptos base y clasificación de dispositivos AC/DC en Classroom.
@@ -18,7 +18,7 @@
 
 ---
 
-## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Empalmes, Conectores e Inicio de Programación Arduino
+## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Conexiones Seguras y Primer Código
 *(Estado: En curso — Hoy: Semana 3, 16–19 nov | Cierre Áreas Especiales: semana del 11 ene)*
 
 1. `[x]` **S1 (4–6 nov) — ¿Qué es Arduino?** *(ejecutado)* — Introducción conceptual al microcontrolador, hardware/software y modelo IPO.
@@ -31,7 +31,7 @@
 
 ---
 
-## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Proyectos Reales con `for`, Binario, `if/else` y Botones
+## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Control Digital, Bucles y Decisiones
 *(Estado: Pendiente — 7 clases)*
 
 1. `[ ]` **Luces de Patrulla / Auto Fantástico (6 LEDs con `for`)** *(Individual 1 — calificada)* — Secuencia de barrido ida y vuelta en Tinkercad y físico.
@@ -44,7 +44,7 @@
 
 ---
 
-## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Máquinas y Mecanismos Reales con LEGO WeDo 2.0
+## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Mecanismos Articulados y Automatización
 *(Estado: Pendiente — 7 clases)*
 
 1. `[ ]` **Róver Explorador: Kit WeDo 2.0 y Smart Hub** *(Tema Nuevo — clase normal)* — Inventario, conexión Bluetooth y programación base de motor/luces.
