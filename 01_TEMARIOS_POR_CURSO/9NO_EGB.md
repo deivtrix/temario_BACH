@@ -2,6 +2,7 @@
 
 **Materia:** Robótica y Tecnología  
 **Título General del Año:** Diseño Digital y Robótica Móvil  
+**Propósito General:** **Diseñar** soluciones tecnológicas mediante prototipado digital y control robótico para responder a necesidades reales de forma iterativa.  
 **Mediador:** David Castro  
 **Regla de Clase (45 min):** 10 min de teoría + 35 min de práctica (Tinkercad 3D, Inkscape, mBlock/mBot o Tinkercad Circuits).  
 **Estructura por Parcial:** 4 Parciales (1 Tema por Parcial × 7 clases), garantizando mínimo **2 actividades individuales + 1 grupal + 1 refuerzo**.

@@ -2,6 +2,7 @@
 
 **Materia:** Robótica y Tecnología  
 **Título General del Año:** Sensores y Control Automático  
+**Propósito General:** **Integrar** sistemas de percepción y actuación automática para crear prototipos capaces de responder con precisión a su entorno.  
 **Mediador:** David Castro  
 **Regla de Clase (45 min):** 10 min de teoría + 35 min de práctica conjunta (Tinkercad Circuits + Kit físico Arduino con sensores).  
 **Estructura por Parcial:** 4 Parciales (1 Tema por Parcial × 7 clases), medido para sesiones de 35 min reales, garantizando mínimo **2 actividades individuales + 1 grupal + 1 refuerzo**.

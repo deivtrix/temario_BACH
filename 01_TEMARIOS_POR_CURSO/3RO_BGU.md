@@ -2,6 +2,7 @@
 
 **Materia:** Robótica y Tecnología  
 **Título General del Año:** Sistemas Inteligentes Conectados  
+**Propósito General:** **Desarrollar** sistemas inteligentes conectados en red para automatizar procesos reales mediante IoT e Inteligencia Artificial con criterio ético.  
 **Mediador:** David Castro  
 **Regla de Clase (45 min):** 10 min de teoría + 35 min de práctica conjunta (**100% Simulador Wokwi + Herramientas Web de IA** — sin ESP32 físico).  
 **Referencia Base ESP32:** Curso de ESP32 de *Programador Novato* (`programadornovato.com/category/curso-de-esp32/`).  
