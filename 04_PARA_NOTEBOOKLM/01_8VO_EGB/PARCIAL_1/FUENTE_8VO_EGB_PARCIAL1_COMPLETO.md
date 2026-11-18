@@ -1,6 +1,6 @@
 # ⚡ 8VO EGB — PARCIAL 1 (FUENTE ÚNICA PARA NOTEBOOKLM)
 **Materia:** Robótica y Tecnología  
-**Unidad:** Fundamentos de la Energía y Circuitos Elementales
+**Unidad:** Fundamentos de Energía y Circuitos
 
 ---
 

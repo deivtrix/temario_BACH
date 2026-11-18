@@ -1,6 +1,6 @@
 # 📘 8VO EGB — PARCIAL 2 (FUENTE ÚNICA PARA NOTEBOOKLM)
 **Materia:** Robótica y Tecnología  
-**Unidad:** Aislantes, Conductores, Empalmes, Corriente (DC/AC) y Seguridad Eléctrica
+**Unidad:** Conductores, Empalmes y Seguridad Eléctrica
 
 ---
 

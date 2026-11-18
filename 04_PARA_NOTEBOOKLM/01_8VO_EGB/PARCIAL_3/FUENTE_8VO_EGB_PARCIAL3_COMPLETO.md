@@ -1,6 +1,6 @@
 # 📘 8VO EGB — PARCIAL 3 (FUENTE ÚNICA PARA NOTEBOOKLM)
 **Materia:** Robótica y Tecnología  
-**Unidad:** Electrostática, Ley de Ohm, Vista Esquemática y Circuitos en Serie y Paralelo
+**Unidad:** Ley de Ohm y Circuitos Serie/Paralelo
 
 ---
 

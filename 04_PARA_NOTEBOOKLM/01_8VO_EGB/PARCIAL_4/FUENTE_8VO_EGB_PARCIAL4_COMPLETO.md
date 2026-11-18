@@ -1,6 +1,6 @@
 # 🤖 8VO EGB — PARCIAL 4 (FUENTE ÚNICA PARA NOTEBOOKLM)
 **Materia:** Robótica y Tecnología  
-**Unidad:** Robótica Educativa con LEGO Education WeDo 2.0 (Kit 45300)
+**Unidad:** Mecanismos y Control Inicial
 
 ---
 
