@@ -19,6 +19,17 @@
 
 ---
 
+## 🧱 Malla Curricular por Columnas (1 Columna por Curso, Parciales hacia Abajo)
+
+| Parcial | 8VO EGB<br>*Principios de Electricidad y Control* | 9NO EGB<br>*Diseño Digital y Robótica Móvil* | 10MO EGB<br>*Sistemas Programables Iniciales* | 1RO BGU<br>*Sensores y Control Automático* | 2DO BGU<br>*Mecatrónica Aplicada* | 3RO BGU<br>*Sistemas Inteligentes Conectados* |
+| :---: | :--- | :--- | :--- | :--- | :--- | :--- |
+| **P1** | **8VO-P1:** Energía, cargas, pila bioquímica y PhET DC | **9NO-P1:** Fundamentos de Fabricación | **10MO-P1:** Electrónica básica ($V,I,R$) y Protoboard | **1RO-P1:** Tipos de datos, `if/else if` e `INPUT_PULLUP` | **2DO-P1:** Modelado 3D y Sim Lab físico | **3RO-P1:** Potencia con `2N2222` + Diodo Flyback |
+| **P2** | **8VO-P2:** Empalmes, DC vs. AC y Breakers | **9NO-P2:** CAD 3D (Tinkercad, Inkscape `.SVG`, `.STL`) | **10MO-P2:** Empalmes e inicio Arduino C++ (*Blink*, Semáforo) | **1RO-P2:** `analogRead`, PWM, `map()` y LDR | **2DO-P2:** Sim Lab deslizante y Codeblocks paramétrico | **3RO-P2:** ESP32 en Wokwi (GPIO, PWM, HC-SR04, 4×4) |
+| **P3** | **8VO-P3:** Electrostática, Ley de Ohm, Serie/Paralelo y Esquemático | **9NO-P3:** Robótica móvil mBot (flujo, pista, ultrasonido, IR) | **10MO-P3:** Proyectos `for`, binario, `if/else`, Pull-Down | **1RO-P3:** Sensores TMP36, HC-SR04 (Parqueo) y agua | **2DO-P3:** `millis()`, BJT/MOSFET + Flyback y Puente H | **3RO-P3:** Servo, LCD e IoT **WiFi + MQTT + Panel Web** |
+| **P4** | **8VO-P4:** LEGO WeDo 2.0 (poleas, engranajes, IPO) | **9NO-P4:** Código colores, `AND/OR`, LDR, Transistor NPN | **10MO-P4:** Mecanismos WeDo 2.0 (biela-manivela, palancas) | **1RO-P4:** Servo SG90, `Serial.read()`, `void` y Garaje | **2DO-P4:** Pantalla LCD 16x2 y Estación Automatizada | **3RO-P4:** **Visión IA** (*Teachable Machine*) + ESP32 |
+
+---
+
 ## 🔗 Diagrama de Líneas de Progresión (Syllabus Conectado)
 
 Cada línea horizontal muestra un **eje formativo** y cómo cada parcial alimenta al siguiente nivel:
