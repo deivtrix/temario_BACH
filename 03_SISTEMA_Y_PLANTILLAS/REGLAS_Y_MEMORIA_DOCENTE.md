@@ -54,6 +54,16 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 
 ---
 
+## 🛠️ 4. REGLAS TÉCNICAS POR NIVEL (SIN REPETICIONES)
+* **8vo EGB:** PhET, Canva, Tinkercad Circuits (Ohm + Vista Esquemática + Serie/Paralelo), prácticas físicas (limones, empalmes, electrostática, masa conductora) y LEGO WeDo 2.0 (modelos oficiales + IPO).
+* **9no EGB:** Tinkercad 3D, Inkscape (`.SVG`), mBot/mBlock (pre-armados), Tinkercad Circuits (código de colores, `AND/OR`, LDR, transistor) y taller físico seguro sin protoboard ni soldadura.
+* **10mo EGB:** Protoboard física, Arduino C++ inicial (*Blink*, Semáforo, `for`, Binario, `if/else` + Monitor Serial, `Pull-Down`, `INPUT_PULLUP` — Proyectos 01–02 del *Arduino Starter Kit*) y LEGO WeDo 2.0 (mecanismos articulados).
+* **1ro BGU:** Arduino C++ + Kit físico con sensores (Potenciómetro, PWM, LDR *Theremin*, Temperatura *Medidor de amor*, Ultrasonido HC-SR04, Agua, Servo SG90 *Indicador* — Proyectos 03, 05, 06 del *Arduino Starter Kit*).
+* **2do BGU:** Tinkercad Sim Lab + Codeblocks (3D programado), Arduino intermedio (`millis()`, Transistores *Molinillo*, Puente H L293D **solo en Tinkercad** — no hay físico, LCD 16x2 *Bola de Cristal* — Proyectos 08–11 del *Arduino Starter Kit*).
+* **3ro BGU:** **100% Simulador Wokwi gratuito** (sin ESP32 físico) siguiendo base de *Programador Novato* + **WiFi (`Wokwi-GUEST`) + MQTT (`PubSubClient`) + Panel Web en Gemini (`HTML + mqtt.js`)** + IA (*Google Teachable Machine* con envío automático por MQTT y análisis de sesgo).
+
+---
+
 ## 🎨 5. REGLAS PARA NOTEBOOKLM Y DIAPOSITIVAS (MINI-LIBRO)
 * **Idioma y Limpieza:** Todo en **ESPAÑOL** (permitiendo solo nombres técnicos o propios como `PhET`, `Western Union`, `Breaker`, `AC/DC`, `LED`, evitando anglicismos innecesarios como `Tip`). **NO** incluir el nombre del mediador en las diapositivas, **NO** incluir fechas ni "Semana X", y **NO** amarrar entregables ni número de preguntas en las slides (solo la actividad directa).
 * **Cuaderno de estudio en Classroom:** La presentación final unida de cada parcial se sube a Classroom para que el estudiante estudie; por eso **la parte teórica y la guía paso a paso son fundamentales y deben ir completas** (explicaciones claras, ejemplos reales, datos novedosos y código base en cursos de Arduino/ESP32), dejando sin regalar únicamente la solución del reto autónomo (`👤`/`👥`).
@@ -89,13 +99,3 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 * **NUNCA** encasillar a NotebookLM con diálogos forzados, personaje fijo por slide o límite de diapositivas.
 * **NUNCA** regalar el código/solución/paso a paso resuelto ni las respuestas de tablas/experimentos antes de actividades evaluativas (`👤 Individual` / `👥 Grupal`).
 * **NUNCA** usar sintaxis LaTeX (`$\rightarrow$`, `\text{V}`, `$+$`) en archivos `FUENTE_...` para NotebookLM; usar siempre texto plano limpio (`->`, `110V`, `+`, `-`).
-
----
-
-## 🛠️ 4. REGLAS TÉCNICAS POR NIVEL (SIN REPETICIONES)
-* **8vo EGB:** PhET, Canva, Tinkercad Circuits (Ohm + Vista Esquemática + Serie/Paralelo), prácticas físicas (limones, empalmes, electrostática, masa conductora) y LEGO WeDo 2.0 (modelos oficiales + IPO).
-* **9no EGB:** Tinkercad 3D, Inkscape (`.SVG`), mBot/mBlock (pre-armados), Tinkercad Circuits (código de colores, `AND/OR`, LDR, transistor) y taller físico seguro sin protoboard ni soldadura.
-* **10mo EGB:** Protoboard física, Arduino C++ inicial (*Blink*, Semáforo, `for`, Binario, `if/else` + Monitor Serial, `Pull-Down`, `INPUT_PULLUP` — Proyectos 01–02 del *Arduino Starter Kit*) y LEGO WeDo 2.0 (mecanismos articulados).
-* **1ro BGU:** Arduino C++ + Kit físico con sensores (Potenciómetro, PWM, LDR *Theremin*, Temperatura *Medidor de amor*, Ultrasonido HC-SR04, Agua, Servo SG90 *Indicador* — Proyectos 03, 05, 06 del *Arduino Starter Kit*).
-* **2do BGU:** Tinkercad Sim Lab + Codeblocks (3D programado), Arduino intermedio (`millis()`, Transistores *Molinillo*, Puente H L293D **solo en Tinkercad** — no hay físico, LCD 16x2 *Bola de Cristal* — Proyectos 08–11 del *Arduino Starter Kit*).
-* **3ro BGU:** **100% Simulador Wokwi gratuito** (sin ESP32 físico) siguiendo base de *Programador Novato* + **WiFi (`Wokwi-GUEST`) + MQTT (`PubSubClient`) + Panel Web en Gemini (`HTML + mqtt.js`)** + IA (*Google Teachable Machine* con análisis de sesgo).

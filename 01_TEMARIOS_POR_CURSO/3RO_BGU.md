@@ -11,7 +11,7 @@
 ---
 
 ## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Conmutación y Control de Potencia
-*(Estado: Cerrado / Ejecutado según `03_PLANIFICACION_SEMANAL`)*
+*(Estado: Cerrado / Ejecutado según `03_PLANIFICACION_SEMANAL` | Nota: Nivelación de transición 2026–2027; para próximas cohortes se omite al cubrirse en 2do BGU)*
 
 1. `[x]` **Transistor BJT NPN (2N2222) como Interruptor** — Operación en Corte y Saturación (Base, Colector, Emisor).
 2. `[x]` **Control de Motor DC + Diodo Flyback 1N4007 (Cinta Transportadora)** — Protección de potencia y manejo de cargas.
@@ -47,7 +47,7 @@
 *(Estado: Pendiente — 6 clases | Cierre anticipado por graduación de 3ro BGU)*
 
 1. `[ ]` **Entrenamiento de IA Visual con *Google Teachable Machine*** *(Individual 1 — calificada)* — Entrenar modelo de cámara en el navegador (gestos/objetos) y analizar **sesgo de datos** (luz, ángulos y fondos).
-2. `[ ]` **Puente IA -> ESP32 (Simulación por Monitor Serial en Wokwi)** *(Individual 2 — calificada)* — Traducir la clase detectada por la IA en comandos (`'A'` / `'C'`) probados en el Monitor Serial de Wokwi.
+2. `[ ]` **Puente IA -> ESP32 en Vivo vía MQTT (`Teachable Machine` + `mqtt.js` + Wokwi)** *(Individual 2 — calificada)* — Integrar la detección de cámara en una web con `mqtt.js` que publique el comando (`'A'` / `'C'`) a `broker.hivemq.com` para accionar el ESP32 en Wokwi automáticamente.
 3. `[ ]` **Proyecto Final: Acceso Inteligente con Visión IA — Parte 1** *(Grupal — avance)* — Montaje en Wokwi con **LCD 16x2 + Servomotor + LEDs + Buzzer**.
 4. `[ ]` **Proyecto Final: Acceso Inteligente con Visión IA — Parte 2** *(Grupal — calificada)* — Pruebas en vivo (la IA reconoce gesto/objeto -> abre puerta en Wokwi y saluda en la LCD).
 5. `[ ]` **Mini-Sustentación estilo Universitario** *(Refuerzo)* — Defensa técnica de arquitectura (IA -> ESP32 -> Actuador), límites y ética/sesgo del modelo.

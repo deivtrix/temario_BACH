@@ -10,7 +10,7 @@
 ---
 
 ## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Lógica Condicional y Entradas Digitales
-*(Estado: Cerrado / Ejecutado según `03_PLANIFICACION_SEMANAL`)*
+*(Estado: Cerrado / Ejecutado según `03_PLANIFICACION_SEMANAL` | Nota: Nivelación de transición 2026–2027; para próximas cohortes se omite al cubrirse en 10mo EGB)*
 
 1. `[x]` **Tipos de Datos (`bool`, `int`, `float`) y Sirena de Policía** — Refactorización de código e intermitencia en Tinkercad.
 2. `[x]` **Sentencias `if - else` / `else if`** — Comparación de valores, promedio de 3 notas y Semáforo de calificaciones.

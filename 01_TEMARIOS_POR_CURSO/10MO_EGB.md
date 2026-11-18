@@ -28,6 +28,7 @@
 5. `[ ]` **S5 (30 nov – 4 dic) — Semáforo Funcional en Tinkercad** *(Tema Nuevo — clase normal)* — Variables `int` y secuencia real de 3 LEDs (Rojo, Amarillo, Verde).
 6. `[ ]` **S6 (7–11 dic) — Semáforo Físico en Protoboard con Arduino UNO** *(Práctica Física)* — Montaje real y carga de código.
 7. `[ ]` **S7 (14–18 dic) — Refuerzo: Depuración de Código (*Encuentra el error*) y Autoevaluación** *(Refuerzo y Cierre)* — Corregir errores reales en Blink y Semáforo (llaves, `;`, pines), nivelación y **Autoevaluación Likert (1–5)** en 4 aspectos previa a Evaluaciones de Áreas Especiales.
+8. `[ ]` **S8 (5–8 ene) — Nivelación y Repaso General post-vacaciones** *(Colchón / Preparación previa a Evaluaciones de Áreas Especiales — semana del 11 de enero)*.
 
 ---
 
