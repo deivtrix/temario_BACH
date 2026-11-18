@@ -67,35 +67,35 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
   * En **🛠️ Refuerzo:** incluir la actividad completa que harán en clase (ej. los casos a analizar, preguntas de trivia o el reto a armar desde cero) + materiales/referencia, sin regalar las respuestas.
 * **Cierre de Parcial:** Toda presentación de cierre de parcial lleva al final una diapositiva exclusiva de **Autoevaluación con Escala de Likert (1 al 5)** evaluando 4 aspectos concretos aprendidos.
 * **Temática de personajes con hilo narrativo:** Se asigna una temática por parcial (ej. **Parcial 2: Tortugas Ninja / TMNT** — Leonardo propósito, Donatello mapas/diagramas, Rafael seguridad, Miguel Ángel reto), donde cada capítulo conecta una situación o enemigo real de la serie directamente con el tema técnico (solo como título y escena visual, sin globos largos).
-* **Empaquetado NotebookLM:** Guardar en `04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_<N>/` un solo `FUENTE_<CURSO>_PARCIAL<N>_COMPLETO.md` + `PROMPTS_<CURSO>_PARCIAL<N>_<TEMA>.md`.
+* **Empaquetado NotebookLM:** Para cada curso, unificar todo el año en `04_PARA_NOTEBOOKLM/<CURSO>/` con **3 archivos maestros** para trabajar en **1 solo cuaderno**: `FUENTE_<CURSO>_ANUAL_COMPLETO.md` (con códigos `P1.1..P4.7`), `PROMPTS_<CURSO>_ANUAL.md` y `fuentes.md` (para *Descubrir fuentes*).
 
 ---
 
 ## 🚦 6. MEMORIA RÁPIDA PARA LA IA (QUÉ HACER Y QUÉ NO HACER)
 ### ✅ QUÉ HACER SIEMPRE
-* **Cerrar un parcial completo y validarlo en NotebookLM** antes de pasar al siguiente curso/parcial (prioridad actual: cerrar **8vo Parcial 2**, luego **8vo Parcial 3** y **9no**).
-* **Enseñar materiales + paso a paso + verificación de calidad** en todo **Tema Nuevo y Taller Físico** (*Empalmes*, *Masa Conductora*, *Extensión*, *Protoboard física*), incluyendo pruebas concretas de éxito (ej. prueba del jalón en empalmes, prueba de desconexión en serie vs. paralelo).
-* **Generar 1 capítulo por vez en NotebookLM (sin número rígido de slides)** y con prompts cortos/libres para que la explicación sea clara y visual.
+* **Estado actual del proyecto:** Los **6 temarios maestros (`8vo EGB` a `3ro BGU`)** y **todo 8vo EGB (`PARCIAL_1`–`4`, fuente anual, prompts, `fuentes.md` y planes semanales)** ya están cerrados. **9no a 2do BGU** esperan el **inventario físico real del taller** antes de armar sus paquetes NotebookLM.
+* **Enseñar materiales + paso a paso + verificación de calidad** en todo **Taller Físico** (*Limones*, *Empalmes*, *Electrostático*, *Masa Conductora*, *WeDo 2.0*), incluyendo pruebas concretas de éxito (ej. prueba del jalón en empalmes).
+* **Auto-explicativo para estudiar solo en casa:** En clases normales y en evaluativas que introducen tema nuevo, incluir **teoría completa** (10 min con tecnicismo moderado, diagramas, ejemplos reales y datos novedosos), pero en `👤`/`👥` **NO** dar pasos previos ni códigos/diseños resueltos del reto.
 * **Enfoque en Proyecto/Artefacto Real (Cero temas abstractos sueltos):** Cada clase debe girar en torno a un producto reconocible y atractivo (*Semáforo, Luces de Patrulla, Luz Nocturna Automática, Interruptor con 1 Clic, Sensor de Retro*, etc.) que enseñe por dentro el concepto técnico (`for`, `Pull-Down`, `if/else`, etc.).
 * **Incluir la actividad completa** en diapositivas de `🛠️ REFUERZO` (con 2–3 mini-casos concretos si es análisis de casos) y asegurar que **todo lo pedido en el prompt exista en la `FUENTE_...`** para que NotebookLM no improvise.
-* **Cerrar cada parcial con Autoevaluación Likert (1 al 5)** en 4 aspectos que cubran **todos** los temas clave del parcial (sin olvidar los últimos capítulos).
-* **Seguridad eléctrica real en 8vo P2:** Nunca indicar un **LED suelto directo a pila de 9V** sin resistencia (usar bombilla pequeña con portafoco o módulo LED protegido).
-* **Respetar la progresión eléctrica:** PhET básico (8vo P1) $\rightarrow$ Empalmes, AC/DC, Breakers y Serie/Paralelo en PhET (8vo P2) $\rightarrow$ Ley de Ohm y cálculo básico LED en Tinkercad + Masa Conductora + Extensión (8vo P3) $\rightarrow$ Código de colores de resistencias y protoboard física (9no P4).
+* **Cerrar cada parcial con Autoevaluación Likert (1 al 5)** en 4 aspectos que cubran **todos** los temas clave del parcial.
+* **Seguridad eléctrica real:** Nunca indicar un **LED suelto directo a pila de 9V** sin resistencia (usar bombilla pequeña con portafoco o módulo LED protegido) y **cero soldadura con cautín** en EGB.
+* **Respetar la progresión eléctrica:** PhET básico + Limones (8vo P1) $\rightarrow$ Conductores, Empalmes, DC, AC y Breakers (8vo P2) $\rightarrow$ Electrostática, Ley de Ohm + Vista Esquemática, Serie/Paralelo y Masa Conductora (8vo P3) $\rightarrow$ Código de colores, Lógica `AND/OR`, LDR/Potenciómetro y Luz Nocturna con Transistor sin protoboard (9no P4) $\rightarrow$ Protoboard física + Arduino C++ (10mo).
 
 ### ❌ QUÉ NO HACER JAMÁS
 * **NUNCA** poner el nombre del mediador (`David Castro`, `Ing.`, `Docente`, `Profesor`) en diapositivas ni prompts de NotebookLM.
 * **NUNCA** poner fechas ni `"Semana X"` en diapositivas (usar `CAPÍTULO #1`, `#2`, etc.).
 * **NUNCA** amarrar entregables (`"sube captura"`, `"en Classroom"`) ni cantidad fija de preguntas (`"5 preguntas"`, `"4 casos"`) en diapositivas; poner directo la actividad.
-* **NUNCA** llenar las diapositivas de muros de texto o globos de cómic con mucho diálogo.
+* **NUNCA** encasillar a NotebookLM con diálogos forzados, personaje fijo por slide o límite de diapositivas.
 * **NUNCA** regalar el código/solución/paso a paso resuelto ni las respuestas de tablas/experimentos antes de actividades evaluativas (`👤 Individual` / `👥 Grupal`).
 * **NUNCA** usar sintaxis LaTeX (`$\rightarrow$`, `\text{V}`, `$+$`) en archivos `FUENTE_...` para NotebookLM; usar siempre texto plano limpio (`->`, `110V`, `+`, `-`).
 
 ---
 
 ## 🛠️ 4. REGLAS TÉCNICAS POR NIVEL (SIN REPETICIONES)
-* **8vo EGB:** PhET, Canva, Tinkercad Circuits, prácticas físicas (empalmes, masa conductora, extensión) y LEGO WeDo 2.0.
-* **9no EGB:** Tinkercad 3D, Inkscape (`.SVG`), mBot/mBlock y Protoboard en Tinkercad Circuits.
-* **10mo EGB:** Protoboard, Arduino C++ inicial (*Blink*, Semáforo, `for`, `if/else`, Pulsadores — Proyectos 01–02 del *Arduino Starter Kit*) y LEGO WeDo 2.0 (mecanismos/sensores avanzados).
+* **8vo EGB:** PhET, Canva, Tinkercad Circuits (Ohm + Vista Esquemática + Serie/Paralelo), prácticas físicas (limones, empalmes, electrostática, masa conductora) y LEGO WeDo 2.0 (modelos oficiales + IPO).
+* **9no EGB:** Tinkercad 3D, Inkscape (`.SVG`), mBot/mBlock (pre-armados), Tinkercad Circuits (código de colores, `AND/OR`, LDR, transistor) y taller físico seguro sin protoboard ni soldadura.
+* **10mo EGB:** Protoboard física, Arduino C++ inicial (*Blink*, Semáforo, `for`, Binario, `if/else` + Monitor Serial, `Pull-Down`, `INPUT_PULLUP` — Proyectos 01–02 del *Arduino Starter Kit*) y LEGO WeDo 2.0 (mecanismos articulados).
 * **1ro BGU:** Arduino C++ + Kit físico con sensores (Potenciómetro, PWM, LDR *Theremin*, Temperatura *Medidor de amor*, Ultrasonido HC-SR04, Agua, Servo SG90 *Indicador* — Proyectos 03, 05, 06 del *Arduino Starter Kit*).
-* **2do BGU:** Tinkercad Sim Lab + Codeblocks (3D programado), Arduino intermedio (`millis()`, Transistores *Molinillo*, Puente H L293D/L298N *Zoótropo*, LCD 16x2 *Bola de Cristal* — Proyectos 08–11 del *Arduino Starter Kit*).
-* **3ro BGU:** **100% Simulador Wokwi gratuito** (sin ESP32 físico) siguiendo base de *Programador Novato* + Conectividad WiFi (`HTTPClient`) + IA (*Google Teachable Machine* y copiloto).
+* **2do BGU:** Tinkercad Sim Lab + Codeblocks (3D programado), Arduino intermedio (`millis()`, Transistores *Molinillo*, Puente H L293D **solo en Tinkercad** — no hay físico, LCD 16x2 *Bola de Cristal* — Proyectos 08–11 del *Arduino Starter Kit*).
+* **3ro BGU:** **100% Simulador Wokwi gratuito** (sin ESP32 físico) siguiendo base de *Programador Novato* + **WiFi (`Wokwi-GUEST`) + MQTT (`PubSubClient`) + Panel Web en Gemini (`HTML + mqtt.js`)** + IA (*Google Teachable Machine* con análisis de sesgo).
