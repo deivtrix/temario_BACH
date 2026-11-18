@@ -84,7 +84,7 @@ Secuencia didáctica completa dentro de la historia:
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
 2. Teoría puntual (10 minutos): Explicación completa con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
 3. Instrucción puntual de la actividad autónoma/grupal y 1 tip breve (CERO pasos previos, CERO códigos ni diseños resueltos, para que lo logren aplicando la teoría anterior) + criterio de autochequeo ('¿Cómo sé que quedó bien?').
-4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
+4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy + tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
