@@ -77,7 +77,7 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
   * En **🛠️ Refuerzo:** incluir la actividad completa que harán en clase (ej. los casos a analizar, preguntas de trivia o el reto a armar desde cero) + materiales/referencia, sin regalar las respuestas.
 * **Cierre de Parcial:** Toda presentación de cierre de parcial lleva al final una diapositiva exclusiva de **Autoevaluación con Escala de Likert (1 al 5)** evaluando 4 aspectos concretos aprendidos.
 * **Temática de personajes con hilo narrativo:** Se asigna una temática por parcial (ej. **Parcial 2: Tortugas Ninja / TMNT** — Leonardo propósito, Donatello mapas/diagramas, Rafael seguridad, Miguel Ángel reto), donde cada capítulo conecta una situación o enemigo real de la serie directamente con el tema técnico (solo como título y escena visual, sin globos largos).
-* **Empaquetado NotebookLM:** Para cada curso, unificar todo el año en `04_PARA_NOTEBOOKLM/<CURSO>/` con **3 archivos maestros** para trabajar en **1 solo cuaderno**: `FUENTE_<CURSO>_ANUAL_COMPLETO.md` (con códigos `P1.1..P4.7`), `PROMPTS_<CURSO>_ANUAL.md` y `fuentes.md` (para *Descubrir fuentes*).
+* **Empaquetado NotebookLM (1 cuaderno por parcial):** Para evitar amontonamiento de presentaciones en Studio, se crea **1 cuaderno por parcial (Volumen)** en `04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/` con su propio `FUENTE_<CURSO>_PARCIALX_COMPLETO.md`, `PROMPTS_<CURSO>_PARCIALX_<TEMATICA>.md` y las búsquedas de `fuentes.md` correspondientes (máximo 6–7 capítulos por cuaderno).
 
 ---
 
