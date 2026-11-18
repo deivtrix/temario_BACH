@@ -7,7 +7,7 @@
    * `Ley de Ohm voltaje corriente y resistencia`
    * `Circuitos en serie y en paralelo diferencias`
    * `Squishy Circuits masa conductora harina sal`
-3. Copia y pega **1 prompt por semana/capítulo** en orden (`Capítulo 1` al `7`). NotebookLM inventa libremente la trama manteniendo la continuidad del cómic.
+3. Copia y pega **1 prompt por semana/capítulo** en el orden que necesites. NotebookLM inventa libremente la trama manteniendo la continuidad del cómic.
 
 ---
 
@@ -24,7 +24,7 @@ Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregabl
 
 ## 🟢 CAPÍTULO #1: Átomos, Cargas y Electrostática
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), correspondiente al CAPÍTULO #1 de 7 ("Átomos, Cargas y Electrostática", etiqueta 📘 TEMA NUEVO) basado en el punto 1 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
+Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), como un capítulo tipo cómic independiente ("Átomos, Cargas y Electrostática", etiqueta 📘 TEMA NUEVO) basado en el punto 1 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
 
 Crea una historia autoconclusiva libre dentro del universo Minecraft con el mismo protagonista/equipo de este volumen. Explica con lenguaje cercano a su edad el propósito LEV y piensa cómo mostrarles para qué les sirve entender esto en su realidad cotidiana y en los dispositivos que usan. Integra de forma natural la teoría de 10 minutos (protones, neutrones, electrones, carga por fricción y ley de cargas con diagramas), la práctica guiada en PhET y preguntas de verificación al cierre.
 
@@ -35,7 +35,7 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 
 ## 🟢 CAPÍTULO #2: Taller Físico Electrostático y Toma a Tierra
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), correspondiente al CAPÍTULO #2 de 7 ("Taller Electrostático y Toma a Tierra", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el punto 2 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
+Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), como un capítulo tipo cómic independiente ("Taller Electrostático y Toma a Tierra", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el punto 2 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Conecta el propósito LEV con su edad explicando para qué les sirve saber cómo funcionan los rayos y la toma a tierra en su entorno y hogar. Integra de forma natural la teoría técnica, la lista exacta de materiales y el procedimiento paso a paso ilustrado de los 3 experimentos (papel picado, lata de aluminio y repulsión de globos) + verificación final.
 
@@ -46,7 +46,7 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 
 ## 🟡 CAPÍTULO #3: Ley de Ohm, Símbolos y Vista Esquemática
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), correspondiente al CAPÍTULO #3 de 7 ("Ley de Ohm y Vista Esquemática", etiqueta 📘 TEMA NUEVO) basado en el punto 3 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
+Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), como un capítulo tipo cómic independiente ("Ley de Ohm y Vista Esquemática", etiqueta 📘 TEMA NUEVO) basado en el punto 3 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Muestra con lenguaje cercano a su edad el propósito LEV y para qué les sirve calcular voltajes y leer planos de circuitos antes de conectar piezas reales. Integra de forma natural la teoría de 10 minutos (Voltaje, Corriente, Resistencia, fórmula V = I x R, cálculo de resistencia para LED con 9V y símbolos en Vista Esquemática de Tinkercad) y la práctica guiada.
 
@@ -57,7 +57,7 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 
 ## 🟡 CAPÍTULO #4: Circuito en Serie en Tinkercad Circuits
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), correspondiente al CAPÍTULO #4 de 7 ("Circuito en Serie", etiqueta 📘 TEMA NUEVO) basado en el punto 4 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
+Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), como un capítulo tipo cómic independiente ("Circuito en Serie", etiqueta 📘 TEMA NUEVO) basado en el punto 4 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Explica con lenguaje claro para su edad el propósito LEV y para qué les sirve reconocer conexiones en serie en luces, guirnaldas o aparatos que usan. Integra de forma natural la teoría de 10 minutos (camino único, voltaje repartido, qué pasa si falla un componente, diagramas y Vista Esquemática) y la práctica guiada con diagnóstico de falla en Tinkercad.
 
@@ -68,7 +68,7 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 
 ## 🟡 CAPÍTULO #5: Circuito en Paralelo y Comparativa Serie vs. Paralelo
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), correspondiente al CAPÍTULO #5 de 7 ("Circuito en Paralelo y Comparativa", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el punto 5 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
+Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), como un capítulo tipo cómic independiente ("Circuito en Paralelo y Comparativa", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el punto 5 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Conecta el propósito LEV con su edad mostrando para qué les sirve entender por qué las instalaciones de su casa funcionan en paralelo y no en serie. Integra la explicación del circuito en Paralelo con diagramas y Vista Esquemática, y el enunciado claro del reto en Tinkercad con tabla comparativa (sin resolverles la tabla ni dar el circuito armado).
 
@@ -79,7 +79,7 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 
 ## 🟠 CAPÍTULO #6: Taller Físico — Masa Conductora (Serie y Paralelo)
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), correspondiente al CAPÍTULO #6 de 7 ("Taller de Masa Conductora", etiqueta 👥 ACTIVIDAD GRUPAL) basado en el punto 6 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
+Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), como un capítulo tipo cómic independiente ("Taller de Masa Conductora", etiqueta 👥 ACTIVIDAD GRUPAL) basado en el punto 6 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
 
 Mantén al mismo protagonista/equipo de este volumen en una historia autoconclusiva libre para este capítulo. Muestra con lenguaje cercano a su edad el propósito LEV y para qué les sirve comprobar con materiales cotidianos cómo viaja la electricidad y qué provoca un cortocircuito. Integra el fundamento técnico (sal conductora vs. azúcar aislante), la lista exacta de materiales/cantidades, el procedimiento paso a paso ilustrado (amasado, Serie y Paralelo con LEDs respetando polaridad) y la verificación final.
 
@@ -90,9 +90,9 @@ Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables am
 
 ## 🔵 CAPÍTULO #7: Refuerzo, Repaso y Autoevaluación del Parcial 3
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), correspondiente al CAPÍTULO #7 de 7 — FINAL DEL VOLUMEN 3 ("Repaso y Autoevaluación", etiqueta 🛠️ REFUERZO) basado en el punto 7 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
+Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), como un capítulo tipo cómic independiente ("Repaso y Autoevaluación", etiqueta 🛠️ REFUERZO) basado en el punto 7 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
 
-Cierra libremente la historia del Volumen 3 conectando todo lo vivido en los capítulos anteriores. Recuerda para su edad el propósito LEV y para qué les sirve dominar estos fundamentos antes de pasar a mecanismos y robótica. Integra el repaso con preguntas clave (sin respuestas visibles), el reto integrador en Tinkercad con Vista Esquemática y la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
+Mantén al mismo protagonista/equipo de este universo en un capítulo autoconclusivo de repaso y cierre. Recuerda para su edad el propósito LEV y para qué les sirve dominar estos fundamentos antes de pasar a mecanismos y robótica. Integra el repaso con preguntas clave (sin respuestas visibles), el reto integrador en Tinkercad con Vista Esquemática y la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
 ```
