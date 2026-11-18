@@ -1,38 +1,38 @@
-# 🔍 FUENTES DE BÚSQUEDA PARA NOTEBOOKLM — 8VO EGB (PARCIALES 1 AL 4)
+# 🔍 FUENTES DE BÚSQUEDA PARA NOTEBOOKLM — 8VO EGB
 
-Copia y pega estas consultas en **"Descubrir fuentes"** dentro de tu cuaderno único de **8vo EGB** en NotebookLM para enriquecer el contenido técnico y los ejemplos:
+Usa **1 cuaderno por parcial** y pega estas búsquedas cortas en **"Descubrir fuentes"** *(cada línea busca 1 solo tema concreto para que NotebookLM encuentre artículos educativos claros)*:
 
 ---
 
-## 🟢 PARCIAL 1 — Energía y Circuitos Elementales
-* `Qué es la energía, protones, neutrones y electrones explicación para secundaria`
-* `Fuentes de energía renovables y no renovables ejemplos de la vida diaria`
-* `Circuito eléctrico cerrado vs abierto, voltaje y pilas en serie`
-* `Cómo hacer una pila de limón paso a paso y polaridad de un LED ánodo cátodo`
-* `Energía cinética y energía potencial ejemplos cotidianos para secundaria`
+## 🟢 PARCIAL 1 — Fundamentos de Energía y Circuitos
+* `Energía eléctrica cargas protones y electrones`
+* `Fuentes de energía renovables y no renovables`
+* `Circuito eléctrico cerrado voltaje y pilas en serie`
+* `Experimento pila de limón y LED`
+* `Energía cinética y energía potencial ejemplos`
 
 ---
 
 ## 🟡 PARCIAL 2 — Conductores, Empalmes y Seguridad Eléctrica
-* `Materiales conductores y aislantes de la electricidad electrones libres ejemplos reales`
-* `Empalmes eléctricos Cola de Rata, Western Union y Derivación en T paso a paso seguro`
-* `Diferencia entre corriente directa DC con polaridad y corriente alterna AC 110V 60Hz`
-* `Cómo funciona un cargador de celular para transformar corriente AC en DC`
-* `Qué es un falso contacto, cortocircuito y cómo protege un breaker o fusible`
+* `Materiales conductores y aislantes de la electricidad`
+* `Tipos de empalmes eléctricos básicos`
+* `Corriente continua y corriente alterna diferencias`
+* `Cómo funciona un cargador de celular AC DC`
+* `Cortocircuito falso contacto y disyuntor breaker`
 
 ---
 
 ## 🔵 PARCIAL 3 — Ley de Ohm y Circuitos Serie/Paralelo
-* `Electrostática cargas por fricción atracción repulsión y cómo funciona la toma a tierra`
-* `Ley de Ohm V = I x R explicación sencilla y cómo calcular resistencia para proteger un LED`
-* `Símbolos eléctricos estándar en diagramas esquemáticos batería resistencia LED interruptor`
-* `Diferencia entre circuito en serie y circuito en paralelo voltaje corriente y brillo`
-* `Cómo hacer masa conductora casera con harina y sal para circuitos con LEDs`
+* `Electrostática cargas eléctricas y puesta a tierra`
+* `Ley de Ohm voltaje corriente y resistencia`
+* `Símbolos eléctricos básicos diagrama esquemático`
+* `Circuitos en serie y en paralelo diferencias`
+* `Masa conductora casera para circuitos LED`
 
 ---
 
 ## 🟣 PARCIAL 4 — Mecanismos y Control Inicial
-* `LEGO Education WeDo 2.0 Milo rover científico Smart Hub y motor primeros pasos`
-* `Transmisión mecánica poleas correas y engranajes velocidad vs torque fuerza para secundaria`
-* `Modelo entrada proceso salida en robótica educativa con sensores de movimiento e inclinación`
-* `Proyectos oficiales LEGO WeDo 2.0 Velocidad Tirando Rescate y Prevención de inundaciones`
+* `LEGO Education WeDo 2.0 guía de usuario`
+* `Transmisión mecánica poleas y engranajes`
+* `Modelo entrada proceso salida informática robótica`
+* `Sensores de movimiento e inclinación robótica educativa`
