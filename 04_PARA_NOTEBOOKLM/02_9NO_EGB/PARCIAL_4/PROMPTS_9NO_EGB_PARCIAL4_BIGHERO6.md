@@ -1,95 +1,87 @@
-# 🤖 PROMPTS PARA NOTEBOOKLM — 9NO EGB PARCIAL 4 (PROTOBOARD POR CAPÍTULOS)
+# 🦾 PROMPTS PARA NOTEBOOKLM — 9NO EGB PARCIAL 4 (BIG HERO 6 / SERIE POR CAPÍTULOS)
 
 ## 📌 CÓMO USARLO
-1. En **NotebookLM**, sube **1 solo archivo**: `FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md`.
-2. *(Opcional)* En **Descubrir fuentes**, pega estos temas en español:
-   * `Voltaje corriente y resistencia eléctrica explicación básica secundaria`
-   * `Polaridad de un diodo LED y código de colores de resistencias`
-   * `Cómo funciona un protoboard filas columnas y bus de alimentación`
-   * `Circuitos en serie y paralelo en protoboard Tinkercad`
-3. Haz **3 generaciones** (12 + 12 + 9 slides, cero fechas, sin nombre de mediador, visual con diagramas):
+1. En **NotebookLM**, crea **1 cuaderno nuevo** para este parcial y sube **1 solo archivo**: `FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md`.
+2. *(Opcional)* En **Descubrir fuentes**, pega estas búsquedas cortas en español:
+   * `Código de colores resistencias 4 bandas electrónica`
+   * `Compuertas lógicas AND OR tablas de verdad interruptores`
+   * `Cómo funciona una fotorresistencia LDR y potenciómetro`
+   * `Transistor NPN como interruptor automático circuito luz nocturna`
+3. Copia y pega **1 prompt por semana/capítulo** en orden (`Capítulo 1` al `7`). Todos forman parte de la **misma historia continua del Volumen 4** (sin límite fijo de diapositivas).
 
 ---
 
-## 🟢 GENERACIÓN 1 (12 Diapositivas): CAPÍTULOS #1, #2 y #3
+## 🟢 CAPÍTULO #1: Código de Colores y Polaridad del LED
 ```text
-IDIOMA OBLIGATORIO: Todo 100% en ESPAÑOL. Prohibido usar inglés.
-REGLA DE TÍTULOS Y LIMPIEZA: PROHIBIDO fechas, "Semana/Clase X" o nombres de mediador. Numera "CAPÍTULO #1", "CAPÍTULO #2", "CAPÍTULO #3".
+Crea una presentación estilo cómic educativo en español para 9no EGB (13-14 años) del Volumen 4: "Electrónica Analógica y Lógica Digital" (Serie Big Hero 6 — Hiro y Baymax en el taller), correspondiente al CAPÍTULO #1 de 7 ("El Código Secreto de los Colores", etiqueta 📘 TEMA NUEVO) basado en el punto 1 de FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md.
 
-Crea exactamente 12 diapositivas para 9no EGB basadas en las clases 1, 2 y 3 de `FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md`.
-DISEÑO VISUAL: Temática Big Hero 6 (Hiro y Baymax como apoyo visual limpio, máx. 6–8 palabras por personaje). Prioriza DIAGRAMAS GRÁFICOS, ESQUEMAS Y TABLAS, cero muros de texto.
+Como es el Capítulo 1, abre la historia del Volumen 4 donde el equipo entra al laboratorio de electrónica de Hiro y debe evitar quemar componentes identificando resistencias y LEDs. Integra de forma natural: propósito LEV, ¿para qué sirve?, teoría de 10 minutos (tabla de código de colores de 4 bandas con ejemplos 220 Ω, 330 Ω y 10 kΩ, y polaridad Ánodo/Cátodo del LED), la práctica guiada en Tinkercad y preguntas de verificación.
 
-ESTRUCTURA:
-- Slides 1–4 -> CAPÍTULO #1: Magnitudes V, I, R (`👤 ACTIVIDAD INDIVIDUAL 1`):
-  1. Portada ("CAPÍTULO #1: Voltaje, Corriente y Resistencia" | `👤 ACTIVIDAD INDIVIDUAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  2. Mapa comparativo visual: Voltaje (V, empuje), Corriente (A, caudal), Resistencia (Ω, freno).
-  3. Ejemplos gráficos de etiquetas reales (cargadores y pilas).
-  4. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado directo (ficha visual comparando V, I, R y leyendo 3 cargadores/pilas).
-
-- Slides 5–8 -> CAPÍTULO #2: LED, Resistencias y Pulsador (`📘 TEMA NUEVO`):
-  5. Portada ("CAPÍTULO #2: LED, Resistencia y Pulsador" | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  6. Diagrama gráfico: Ánodo (+ pata larga) vs. Cátodo (- pata corta/plana) + resistencia 220 ohmios (Rojo-Rojo-Marrón).
-  7. Esquema paso a paso: Probar valores de resistencias y encender 1 LED con pulsador y pila 9V en Tinkercad.
-  8. Reto en clase + 2 preguntas de verificación.
-
-- Slides 9–12 -> CAPÍTULO #3: Uso del Protoboard en Tinkercad (`👤 ACTIVIDAD INDIVIDUAL 1`):
-  9. Portada ("CAPÍTULO #3: Dominando el Protoboard" | `👤 ACTIVIDAD INDIVIDUAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  10. Diagrama interno del protoboard: Buses horizontales (+ / -) vs. columnas verticales (a–e y f–j) y canal central.
-  11. Diseño de referencia: Pila 9V -> Buses -> Pulsador cruzando el canal central -> Resistencia 330 ohmios -> LED.
-  12. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado directo de armado en Tinkercad + 1 tip (nunca juntar patas en la misma columna).
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
 ---
 
-## 🟡 GENERACIÓN 2 (12 Diapositivas): CAPÍTULOS #4, #5 y #6
+## 🟢 CAPÍTULO #2: Lógica Digital (`AND` / `OR`) y Tablas de Verdad
 ```text
-IDIOMA OBLIGATORIO: Todo 100% en ESPAÑOL. Prohibido usar inglés.
-REGLA DE TÍTULOS Y LIMPIEZA: PROHIBIDO fechas, "Semana/Clase X" o nombres de mediador. Numera "CAPÍTULO #4", "CAPÍTULO #5", "CAPÍTULO #6".
+Crea una presentación estilo cómic educativo en español para 9no EGB (13-14 años) del Volumen 4: "Electrónica Analógica y Lógica Digital" (Serie Big Hero 6), correspondiente al CAPÍTULO #2 de 7 ("Decisiones Binarias: Lógica AND y OR", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el punto 2 de FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md.
 
-Crea exactamente 12 diapositivas visuales (Big Hero 6, diagramas gráficos, cero texto largo) basadas en las clases 4, 5 y 6 de `FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md`.
+Continúa la historia del Capítulo 1: para blindar la bóveda del laboratorio, diseñan sistemas que solo abren si se cumplen dos condiciones (AND) o cualquiera de ellas (OR). Integra en la historia: propósito LEV, ¿para qué sirve?, teoría breve de lógica serie (AND) vs. paralelo (OR) con diagramas y estructura de tabla de verdad 0/1, y el enunciado del reto individual en Tinkercad con 1 consejo (sin resolver la tabla de verdad).
 
-ESTRUCTURA:
-- Slides 1–4 -> CAPÍTULO #4: Serie y Paralelo en Protoboard (`👤 ACTIVIDAD INDIVIDUAL 2`):
-  1. Portada ("CAPÍTULO #4: Serie y Paralelo en Protoboard" | `👤 ACTIVIDAD INDIVIDUAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  2. Diagrama comparativo en protoboard: Bloque Serie (uno tras otro) vs. Bloque Paralelo (ramas al bus + y -).
-  3. Imagen de referencia en Tinkercad Circuits.
-  4. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado directo (armar 3 LEDs en Serie y 3 en Paralelo con pulsador en el mismo protoboard).
-
-- Slides 5–8 -> CAPÍTULO #5: Taller Físico en Protoboard - Parte 1 (`👥 ACTIVIDAD GRUPAL`):
-  5. Portada ("CAPÍTULO #5: Protoboard Real — Parte 1" | `👥 ACTIVIDAD GRUPAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  6. Lista visual de materiales: Protoboard real, pila 9V, 3 LEDs, resistencias 330 ohmios, pulsador, jumpers.
-  7. Diagrama físico de conexión en paralelo.
-  8. `👥 ACTIVIDAD GRUPAL`: Enunciado directo en equipo + 1 tip de seguridad (no cruzar rojo y negro en el mismo bus).
-
-- Slides 9–12 -> CAPÍTULO #6: Taller Físico en Protoboard - Parte 2 (`👥 ACTIVIDAD GRUPAL`):
-  9. Portada ("CAPÍTULO #6: Protoboard Real — Parte 2" | `👥 ACTIVIDAD GRUPAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  10. Diagrama de diagnóstico: 3 cosas que revisar si un LED real no prende (polaridad, columna, pila).
-  11. Imagen de referencia: Serie y Paralelo funcionando lado a lado en mesa.
-  12. `👥 ACTIVIDAD GRUPAL`: Enunciado directo (completar montaje comparativo y demostrar brillo real).
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
 ---
 
-## 🔵 GENERACIÓN 3 (9 Diapositivas): CAPÍTULOS #7, #8 + AUTOEVALUACIÓN FINAL
+## 🟡 CAPÍTULO #3: Sensores Analógicos — Potenciómetro y LDR
 ```text
-IDIOMA OBLIGATORIO: Todo 100% en ESPAÑOL. Prohibido usar inglés.
-REGLA DE TÍTULOS Y LIMPIEZA: PROHIBIDO fechas, "Semana/Clase X" o nombres de mediador. Numera "CAPÍTULO #7" y "CAPÍTULO #8".
+Crea una presentación estilo cómic educativo en español para 9no EGB (13-14 años) del Volumen 4: "Electrónica Analógica y Lógica Digital" (Serie Big Hero 6), correspondiente al CAPÍTULO #3 de 7 ("Sentidos Analógicos: Potenciómetro y LDR", etiqueta 📘 TEMA NUEVO) basado en el punto 3 de FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md.
 
-Crea exactamente 9 diapositivas visuales (Big Hero 6, diagramas gráficos, cero texto largo) basadas en las clases 7 y 8 de `FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md`.
+Continúa la historia del Capítulo 2: los interruptores solo dicen sí o no, pero Baymax necesita medir niveles suaves de luz y giro. Integra en la historia: propósito LEV, ¿para qué sirve?, teoría de 10 minutos (digital vs. analógico, potenciómetro de 3 pines y fotorresistencia LDR con ejemplos reales), la práctica guiada con multímetro en Tinkercad y preguntas de verificación.
 
-ESTRUCTURA:
-- Slides 1–4 -> CAPÍTULO #7: Challenge Tinkercad Circuits (`🛠️ REFUERZO`):
-  1. Portada ("CAPÍTULO #7: Reparando Protoboards" | `🛠️ REFUERZO` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  2. Mapa de fallas comunes en protoboard (LED al revés, sin resistencia, patas en la misma columna).
-  3. Imagen de referencia de circuito con error vs. corregido.
-  4. `🛠️ REFUERZO`: Actividad directa en clase (abrir circuito compartido en Tinkercad y reparar las fallas hasta que encienda).
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
+```
 
-- Slides 5–8 -> CAPÍTULO #8: Cierre del Año Lectivo (`🛠️ REFUERZO`):
-  5. Portada ("CAPÍTULO #8: Cierre y Puente a 10mo EGB" | `🛠️ REFUERZO` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  6. Mapa resumen del año completo de 9no EGB (Fabricación -> Diseño 3D/SVG -> mBot -> Protoboard).
-  7. `🛠️ REFUERZO`: Actividad directa en clase (cuestionario/trivia de repaso sobre V, I, R, LEDs y protoboard).
-  8. Mensaje visual de cierre: listos para programar Arduino en 10mo EGB.
+---
 
-- Slide 9 -> AUTOEVALUACIÓN FINAL DEL PARCIAL 4 (Escala de Likert 1 al 5):
-  9. Tabla visual del 1 al 5 (1 = Todavía me cuesta | 5 = Lo domino y lo puedo explicar) con los 4 aspectos exactos de la Clase 8 de `FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md`.
+## 🟡 CAPÍTULO #4: Luz Nocturna con Transistor NPN y Vista Esquemática
+```text
+Crea una presentación estilo cómic educativo en español para 9no EGB (13-14 años) del Volumen 4: "Electrónica Analógica y Lógica Digital" (Serie Big Hero 6), correspondiente al CAPÍTULO #4 de 7 ("Interruptor Invisible: Luz Nocturna con Transistor", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el punto 4 de FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md.
+
+Continúa la historia del Capítulo 3: el equipo logra que el laboratorio encienda sus luces automáticamente al caer la noche sin usar computadora ni programación. Integra en la historia: propósito LEV, ¿para qué sirve?, explicación del transistor NPN (Base, Colector, Emisor), divisor con LDR y lectura de Vista Esquemática, más el enunciado del reto individual en Tinkercad con 1 consejo (sin regalar el circuito armado).
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
+```
+
+---
+
+## 🟠 CAPÍTULO #5: Taller Físico sin Protoboard (Caimanes / Borneras)
+```text
+Crea una presentación estilo cómic educativo en español para 9no EGB (13-14 años) del Volumen 4: "Electrónica Analógica y Lógica Digital" (Serie Big Hero 6), correspondiente al CAPÍTULO #5 de 7 ("Del Simulador a la Mesa: Taller con Caimanes", etiqueta 📘 PRÁCTICA EN EQUIPOS) basado en el punto 5 de FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md.
+
+Continúa la historia del Capítulo 4: llega la hora de construir el circuito lógico AND/OR en la vida física de forma segura (sin cautín ni protoboard). Integra en la historia: propósito LEV, ¿para qué sirve?, reglas de seguridad eléctrica, lista exacta de materiales, procedimiento paso a paso ilustrado con cables caimán/borneras verificando resistencia por colores, y prueba de calidad sin cortocircuitos.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
+```
+
+---
+
+## 🟠 CAPÍTULO #6: Diagnóstico de Fallas (*Troubleshooting*) y Demo Física
+```text
+Crea una presentación estilo cómic educativo en español para 9no EGB (13-14 años) del Volumen 4: "Electrónica Analógica y Lógica Digital" (Serie Big Hero 6), correspondiente al CAPÍTULO #6 de 7 ("Detectives de Circuitos y Demo en Vivo", etiqueta 👥 ACTIVIDAD GRUPAL) basado en el punto 6 de FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md.
+
+Continúa la historia del Capítulo 5: un villano saboteó los planos del laboratorio y el equipo debe encontrar las fallas ocultas y demostrar su prototipo físico. Integra en la historia: propósito LEV, ¿para qué sirve?, método de diagnóstico en 3 pasos (alimentación, continuidad y polaridad/protección) y el enunciado de la actividad grupal (reparación en Tinkercad + demo física explicando Entrada -> Proceso -> Salida) con 1 consejo (sin resolver las fallas).
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
+```
+
+---
+
+## 🔵 CAPÍTULO #7: Refuerzo, Puente a Arduino (10mo) y Autoevaluación
+```text
+Crea una presentación estilo cómic educativo en español para 9no EGB (13-14 años) del Volumen 4: "Electrónica Analógica y Lógica Digital" (Serie Big Hero 6), correspondiente al CAPÍTULO #7 de 7 — GRAN FINAL DEL VOLUMEN 4 ("El Salto al Código: Puente a 10mo y Cierre", etiqueta 🛠️ REFUERZO) basado en el punto 7 de FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md.
+
+Cierra la aventura del Volumen 4 y de todo 9no EGB: el equipo descubre por qué cambiar cables cada vez es lento y da el salto hacia los microcontroladores programables de 10mo. Integra en la historia: propósito LEV, ¿para qué sirve?, comparativa visual "Transistor automático vs. Arduino", actividad de cierre con repaso (sin respuestas visibles) y la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```

@@ -1,213 +1,123 @@
-# 📗 9NO EGB — PARCIAL 4 (FUENTE ÚNICA PARA NOTEBOOKLM: CAPÍTULOS 1 A 8)
-**Materia:** Robótica y Tecnología
-**Unidad:** Electrónica Básica y Protoboard en Tinkercad Circuits
-
-
----
-
-# 📗 9NO EGB — PARCIAL 4 / CLASE 1
-**Tema:** Herramientas, Electricidad y Magnitudes ($V, I, R$) (`👤 ACTIVIDAD INDIVIDUAL 1`)  
-**Mediador:** David Castro  
-**Modo de Clase:** Modo A — Tema Nuevo (45 min)
-
-## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Diferenciar** voltaje, corriente y resistencia eléctrica para entender qué mide cada magnitud antes de armar circuitos en protoboard.
-* **¿Para qué me sirve en la vida?** Para leer etiquetas de cargadores, pilas y aparatos sin dañar componentes electrónicos.
-
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Antes de armar circuitos en protoboard (que será su base para Arduino en 10mo), hoy aclaramos qué son Voltios, Amperios y Ohmios."*
-* **Propósito en pantalla:** *"Diferenciar voltaje, corriente y resistencia eléctrica para entender qué mide cada magnitud antes de armar circuitos en protoboard."*
-
-### 2. Teoría Corta (05 – 15 min)
-* **Voltaje ($V$ - Voltios):** Fuerza que empuja los electrones.
-* **Corriente ($I$ - Amperios):** Cantidad de electrones que pasan por segundo.
-* **Resistencia ($R$ - Ohmios $\Omega$):** Oposición que frena el paso de corriente.
-
-### 3. Actividad Individual (15 – 40 min)
-* Elaboran una ficha visual comparando $V, I, R$ (unidad, símbolo y analogía) y leyendo 3 cargadores/pilas reales o proyectados.
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-1. *"¿En qué unidad se mide la resistencia eléctrica?"*
-2. *"¿Qué magnitud eléctrica es la 'fuerza' que empuja a los electrones?"*
-
+# 🦾 9NO EGB — PARCIAL 4 (FUENTE ÚNICA PARA NOTEBOOKLM)
+**Materia:** Robótica y Tecnología  
+**Unidad:** Electrónica Analógica y Lógica Digital
 
 ---
 
-# 📗 9NO EGB — PARCIAL 4 / CLASE 2
-**Tema:** Ley de Ohm y Componentes Básicos (LED, Resistencia y Pulsador) (`📘 TEMA NUEVO`)  
-**Mediador:** David Castro  
-**Modo de Clase:** Modo A — Tema Nuevo (45 min)
-
+# 1. Código de Colores (4 bandas) y Polaridad del LED (`📘 TEMA NUEVO`)
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Identificar** la polaridad del diodo LED, el código de colores de resistencias y la función de un pulsador para conectarlos sin quemarlos.
-* **¿Para qué me sirve en la vida?** Para saber conectar cualquier foco LED o botón en electrónica sin equivocarse de pata.
+* **Propósito:** **Interpretar** el código de colores de resistencias de 4 bandas y respetar la polaridad del diodo LED para armar circuitos básicos seguros en simulador.
+* **¿Para qué me sirve en la vida?** Para proteger componentes electrónicos evitando que se quemen por exceso de corriente o conexión invertida.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"¿Por qué un LED tiene una pata más larga que la otra? Si lo conectas al revés no enciende, y si no le pones resistencia se quema."*
-* **Propósito en pantalla:** *"Identificar la polaridad del diodo LED, el código de colores de resistencias y la función de un pulsador para conectarlos sin quemarlos."*
-
-### 2. Teoría Corta (05 – 15 min)
-* **Diodo LED:** Pata larga = Ánodo ($+$); pata corta / lado plano = Cátodo ($-$).
-* **Resistencia ($220\,\Omega$ = Rojo-Rojo-Marrón):** Protege el LED limitando la corriente.
-* **Pulsador (4 patas):** Deja pasar corriente solo mientras lo mantienes presionado.
-
-### 3. Práctica en Tinkercad Circuits (15 – 40 min)
-* Prueban identificar en Tinkercad los valores de resistencias ($220\,\Omega$, $1\text{k}\Omega$, $10\text{k}\Omega$) viendo cómo cambian sus bandas de color, y prueban encender 1 LED con pulsador y pila 9V.
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-1. *"¿Cuál es la pata positiva (Ánodo) de un LED?"*
-2. *"¿Para qué sirve la resistencia de $220\,\Omega$ junto al LED?"*
-
+## 📚 CONTENIDO EXPLICATIVO (TEORÍA PUNTUAL — 10 MIN)
+* **¿Por qué un LED necesita resistencia?** Un LED común funciona aprox. con `2V` y `20 mA`; si se conecta directo a `9V` sin resistencia limitadora, se quema al instante.
+* **Código de colores (4 bandas):**
+  * Banda 1: primer dígito. Banda 2: segundo dígito. Banda 3: multiplicador (cantidad de ceros). Banda 4: tolerancia (dorado = `±5%`).
+  * **Tabla clave:** Negro `0`, Marrón `1`, Rojo `2`, Naranja `3`, Amarillo `4`, Verde `5`, Azul `6`, Violeta `7`, Gris `8`, Blanco `9`.
+  * **Ejemplo práctico:** `Rojo - Rojo - Marrón - Dorado` = `2`, `2`, `x10` = `220 Ω`; `Naranja - Naranja - Marrón` = `330 Ω`; `Marrón - Negro - Naranja` = `10 000 Ω (10 kΩ)`.
+* **Polaridad del LED:**
+  * **Ánodo (`+`):** pata más larga (o esquina doblada en el símbolo).
+  * **Cátodo (`-`):** pata más corta y borde plano en la cápsula.
+* **Práctica guiada:** En Tinkercad Circuits (sin protoboard aún, usando conexiones directas), probar pila de `9V` + resistencia de `330 Ω` + LED verificando brillo y qué ocurre si se invierte la polaridad.
+* **Preguntas de verificación:** ¿Qué valor tiene una resistencia `Naranja - Naranja - Marrón`? ¿Cómo reconoces físicamente el Ánodo y el Cátodo de un LED?
 
 ---
 
-# 📗 9NO EGB — PARCIAL 4 / CLASE 3
-**Tema:** Uso del Protoboard en Tinkercad Circuits (`👤 ACTIVIDAD INDIVIDUAL 1`)  
-**Mediador:** David Castro  
-**Modo de Clase:** Modo A — Tema Nuevo + Individual (45 min)
-
+# 2. Lógica Digital (`AND` / `OR`) y Tablas de Verdad (`👤 ACTIVIDAD INDIVIDUAL 1`)
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Construir** nuestro primer circuito LED en protoboard virtual de Tinkercad entendiendo sus filas y columnas internas.
-* **¿Para qué me sirve en la vida?** El protoboard es la placa universal para probar circuitos sin soldar; dominarlo ahora te deja listo para Arduino en 10mo.
+* **Propósito:** **Modelar** circuitos de seguridad con lógica `AND` (serie) y lógica `OR` (paralelo) completando sus tablas de verdad (`0/1`) en simulador.
+* **¿Para qué me sirve en la vida?** Para comprender cómo toman decisiones los sistemas reales de seguridad (por ejemplo, una caja fuerte que exige llave Y clave, o una alarma que suena si se abre puerta O ventana).
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Hoy conocemos la placa de pruebas o protoboard. Por debajo tiene láminas metálicas escondidas que conectan los agujeros."*
-* **Propósito en pantalla:** *"Construir nuestro primer circuito LED en protoboard virtual de Tinkercad entendiendo sus filas y columnas internas."*
-
-### 2. Modelación en Tinkercad Circuits (05 – 15 min)
-* **Buses horizontales ($+$ rojo / $-$ azul):** Conectan toda la fila a lo largo para alimentar energía.
-* **Columnas centrales (`a–e` y `f–j`):** Conectan de 5 en 5 en vertical, **divididas por el canal central** (donde nunca se debe puentear en corto un componente).
-
-### 3. Actividad Individual (15 – 40 min)
-* Cada estudiante arma en protoboard virtual de Tinkercad: pila 9V energizando los buses $+$ y $-$ $\rightarrow$ pulsador cruzando el canal central $\rightarrow$ resistencia $330\,\Omega$ $\rightarrow$ LED funcionando al presionar.
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-1. *"¿En qué dirección están conectados los agujeros del bus rojo (+) vs. los agujeros del centro?"*
-2. *"¿Por qué el protoboard tiene una zanja o división en la mitad?"*
-
+## 📚 CONTENIDO Y RETO INDIVIDUAL
+* **Fundamento técnico (10 min):**
+  * **Lógica `AND` (Y — Interruptores en serie):** la salida solo se activa (`1`) cuando **ambos** interruptores están cerrados (`1` y `1`). Si falta uno, la corriente no pasa (`0`).
+  * **Lógica `OR` (O — Interruptores en paralelo):** basta con que **al menos uno** de los interruptores esté cerrado (`1`) para que la salida se active (`1`).
+  * **Tabla de verdad:** tabla ordenada con las 4 combinaciones posibles de 2 entradas (`0-0`, `0-1`, `1-0`, `1-1`).
+* **Actividad individual (`👤 ACTIVIDAD INDIVIDUAL` — sin tabla resuelta ni circuito armado):**
+  * Simular en Tinkercad Circuits un **sistema de alarma/seguridad** con 2 interruptores deslizantes (o pulsadores), resistencia protectora y LED en configuración `AND` y otro en configuración `OR`, completando manualmente las 4 filas de sus tablas de verdad (`0` = apagado, `1` = encendido).
+  * **1 Consejo:** Recuerda colocar una resistencia en serie con el LED para que el simulador no muestre advertencia de sobrecarga.
+* **Preguntas de verificación:** En una compuerta `AND`, ¿cuántas combinaciones encienden el LED? Da un ejemplo cotidiano donde usarías lógica `OR`.
 
 ---
 
-# 📗 9NO EGB — PARCIAL 4 / CLASE 4
-**Tema:** Circuitos Serie y Paralelo en Protoboard (Tinkercad) (`👤 ACTIVIDAD INDIVIDUAL 2`)  
-**Mediador:** David Castro  
-**Modo de Clase:** Modo A — Tema Nuevo + Individual (45 min)
-
+# 3. Sensores Analógicos: Potenciómetro y Fotorresistencia (LDR) (`📘 TEMA NUEVO`)
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Simular** circuitos en serie y en paralelo dentro de un protoboard en Tinkercad para comparar su brillo y conexiones.
-* **¿Para qué me sirve en la vida?** Para saber cablear varios LEDs o sensores ordenadamente en una sola placa sin enredar cables.
+* **Propósito:** **Medir** variaciones de resistencia en un potenciómetro y una fotorresistencia (LDR) usando el multímetro virtual para controlar la intensidad de luz o sonido.
+* **¿Para qué me sirve en la vida?** Para entender cómo funcionan las perillas de volumen, los reguladores de brillo y los sensores de luz en lámparas automáticas y celulares.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Ya saben prender 1 LED en protoboard. Hoy conectamos 3 LEDs en Serie y 3 LEDs en Paralelo dentro del mismo protoboard."*
-* **Propósito en pantalla:** *"Simular circuitos en serie y en paralelo dentro de un protoboard en Tinkercad para comparar su brillo y conexiones."*
-
-### 2. Modelación (05 – 15 min)
-* Mostrar cómo en **Serie** la salida de un LED va a la columna de entrada del siguiente; en **Paralelo**, todos los cátodos van al bus $-$ y todos los ánodos (con su resistencia) al bus $+$.
-
-### 3. Actividad Individual (15 – 40 min)
-* Arman en un mismo protoboard de Tinkercad un bloque de **3 LEDs en Serie** y un bloque de **3 LEDs en Paralelo**, cada uno con su interruptor/pulsador.
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-1. *"¿Qué pasa en el protoboard si pones las dos patas de un LED en la misma columna de 5 agujeros?"*
-2. *"¿En qué conexión brillaron más los 3 LEDs?"*
-
+## 📚 CONTENIDO EXPLICATIVO (TEORÍA PUNTUAL — 10 MIN)
+* **Digital vs. Analógico:** Un pulsador solo tiene dos estados (`0` o `1`, encendido/apagado). Un **sensor analógico** cambia de forma continua en un rango amplio de valores.
+* **Potenciómetro (resistencia variable manual):** tiene 3 pines; al girar la perilla cambia la resistencia entre el pin central (`wiper`) y un extremo, permitiendo regular el brillo de un LED o el volumen de un buzzer.
+* **Fotorresistencia o LDR (resistencia dependiente de la luz):** no tiene polaridad; **a mayor luz, menor resistencia** (deja pasar más corriente) y **en oscuridad, resistencia muy alta** (casi bloquea el paso).
+* **Práctica guiada:** Conectar el multímetro de Tinkercad en modo Resistencia (`Ω`) para medir un potenciómetro al girarlo y una LDR al mover su deslizador de oscuridad a luz; luego conectar el potenciómetro en serie con un LED + resistencia fija de `220 Ω` para regular su brillo.
+* **Preguntas de verificación:** ¿Por qué necesitamos dejar siempre una resistencia fija de `220 Ω` aunque usemos un potenciómetro? ¿Qué ocurre con la resistencia de la LDR cuando anochece?
 
 ---
 
-# 📗 9NO EGB — PARCIAL 4 / CLASE 5
-**Tema:** Taller Físico en Protoboard — Parte 1 (`👥 ACTIVIDAD GRUPAL`)  
-**Mediador:** David Castro  
-**Modo de Clase:** Modo B — Armado Grupal Físico (45 min)
-
+# 4. El Transistor como Interruptor Automático: Luz Nocturna (`👤 ACTIVIDAD INDIVIDUAL 2`)
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Construir** en equipo un circuito real en protoboard física con LEDs, resistencias y pila para comprobar lo simulado.
-* **¿Para qué me sirve en la vida?** Para desarrollar destreza real al insertar componentes y cables jumper sin doblar pines ni hacer cortos.
+* **Propósito:** **Construir** en simulador una luz nocturna automática utilizando una LDR y un transistor NPN como interruptor electrónico, interpretando su Vista Esquemática.
+* **¿Para qué me sirve en la vida?** Para entender la pieza fundamental (el transistor) que permitió crear toda la electrónica moderna y las computadoras.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Dejamos el simulador y pasamos a protoboard física real. En grupos arman su circuito en paralelo con LEDs reales y pila."*
-* **Propósito en pantalla:** *"Construir en equipo un circuito real en protoboard física con LEDs, resistencias y pila para comprobar lo simulado."*
-
-### 2. Trabajo Grupal Físico (05 – 40 min)
-* **Materiales:** Protoboard real, pila 9V con broche, 3 LEDs, resistencias $330\,\Omega$, pulsador, cables jumper.
-* Arman el circuito paralelo en protoboard física y verifican que encienda al presionar el pulsador.
-
-### 3. Cierre y Preguntas de Verificación (40 – 45 min)
-1. *"¿Qué fue lo más difícil de pasar de Tinkercad a la protoboard física?"*
-2. *"¿Cómo comprobaron que la pata del LED y la resistencia estaban en la misma columna?"*
-
+## 📚 CONTENIDO Y RETO INDIVIDUAL
+* **Fundamento técnico (10 min):**
+  * **¿Qué es un transistor NPN (ej. 2N2222)?** Funciona como una llave automática controlada por una corriente pequeñísima en su pin central (**Base**). Cuando la Base recibe suficiente voltaje, deja pasar corriente grande entre **Colector** y **Emisor**.
+  * **Divisor de voltaje con LDR:** Al combinar la LDR con una resistencia fija hacia la Base del transistor, cuando llega la **oscuridad** sube el voltaje en la Base, el transistor se activa y **enciende el LED automáticamente**.
+  * **Vista Esquemática:** Permite leer el circuito mediante símbolos estándar (símbolo del transistor con flecha hacia afuera en el Emisor, símbolo de la LDR con flechas de luz).
+* **Actividad individual (`👤 ACTIVIDAD INDIVIDUAL` — sin circuito armado resuelto):**
+  * Armar en Tinkercad Circuits el circuito de **Luz Nocturna Automática** (pila `9V`, transistor NPN, LDR, resistencia de divisor, resistencia de LED `330 Ω` y LED), verificar que el LED encienda únicamente al bajar la luz en el deslizador de la LDR y revisar su **Vista Esquemática**.
+  * **1 Consejo:** Revisa con cuidado el orden de pines del transistor NPN (`Emisor`, `Base`, `Colector`) pasando el cursor sobre sus patas en Tinkercad antes de cablear.
+* **Preguntas de verificación:** ¿Qué función cumple el pin Base del transistor? ¿Por qué el LED permanece apagado cuando hay mucha luz?
 
 ---
 
-# 📗 9NO EGB — PARCIAL 4 / CLASE 6
-**Tema:** Taller Físico en Protoboard — Parte 2 (`👥 ACTIVIDAD GRUPAL`)  
-**Mediador:** David Castro  
-**Modo de Clase:** Modo B — Pruebas, Serie/Paralelo y Entrega Grupal (45 min)
-
+# 5. Taller Físico sin Protoboard: Circuito Lógico `AND`/`OR` (`📘 PRÁCTICA EN EQUIPOS`)
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Comprobar** y **corregir** conexiones físicas en protoboard comparando circuitos en serie y paralelo reales en equipo.
-* **¿Para qué me sirve en la vida?** Para diagnosticar por qué un circuito real no enciende (LED invertido, cable suelto o fila equivocada).
+* **Propósito:** **Ensamblar** físicamente un circuito lógico `AND`/`OR` seguro sin soldadura ni protoboard usando cables caimán o borneras, verificando la resistencia por código de colores.
+* **¿Para qué me sirve en la vida?** Para trasladar un plano virtual a conexiones físicas reales firmes, limpias y libres de cortocircuitos.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **Propósito en pantalla:** *"Comprobar y corregir conexiones físicas en protoboard comparando circuitos en serie y paralelo reales en equipo."*
-
-### 2. Trabajo Grupal y Pruebas (05 – 40 min)
-* Completan el armado comparativo (serie + paralelo) en protoboard física, miden/observan el brillo real y presentan el funcionamiento al mediador.
-
-### 3. Cierre y Preguntas de Verificación (40 – 45 min)
-1. *"¿Qué revisan primero si un LED real no prende en el protoboard?"*
-2. *"¿Por qué nunca debemos conectar el cable rojo y negro directo al mismo bus?"*
-
+## 📚 CONTENIDO, MATERIALES Y PROCEDIMIENTO SEGURO
+* **Reglas de seguridad (5 min):** Cero cautín ni soldadura; trabajar siempre con la pila desconectada hasta revisar toda la ruta; nunca unir directo el polo `+` con el `-` de la pila de `9V`.
+* **Materiales exactos (por equipo):** 1 pila `9V` con broche (o portapilas `6V`), 4 a 6 cables caimán (o regleta/bornera), 2 pulsadores, 1 resistencia de `330 Ω` (`Naranja-Naranja-Marrón`) verificada por colores, 1 LED o buzzer protegido y base de cartón aislante.
+* **Procedimiento en equipos:**
+  1. Verificar con la tabla de colores que la resistencia sea de `330 Ω` (o `220 Ω`) y localizar el Ánodo (`+`) y Cátodo (`-`) del LED.
+  2. Armar primero el circuito **lógico `AND`** conectando los 2 pulsadores en fila (serie) junto con la resistencia y el LED.
+  3. Probar la batería: comprobar que solo enciende al presionar **ambos** pulsadores a la vez.
+  4. Reconfigurar los 2 pulsadores en ramas paralelas para comprobar la **lógica `OR`** (enciende con cualquiera de los dos).
+* **Verificación de calidad:** Revisar que no haya pinzas caimán metálicas rozándose entre sí (cortocircuito) y que el LED no se caliente.
 
 ---
 
-# 📗 9NO EGB — PARCIAL 4 / CLASE 7
-**Tema:** Challenge Tinkercad Circuits: Errores en Protoboard (`🛠️ REFUERZO`)  
-**Mediador:** David Castro  
-**Modo de Clase:** Modo B — Refuerzo Práctico (45 min)
-
+# 6. Diagnóstico de Fallas (*Troubleshooting*) y Demo Física (`👥 ACTIVIDAD GRUPAL`)
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Corregir** errores clásicos de conexión en protoboard dentro de Tinkercad Circuits para afianzar todo antes de 10mo EGB.
-* **¿Para qué me sirve en la vida?** Para detectar fallas de protoboard en segundos cuando empecemos a conectar Arduino el próximo año.
+* **Propósito:** **Diagnosticar** fallas intencionales en circuitos de Tinkercad y sustentar en equipo el montaje físico explicando el flujo Entrada -> Proceso -> Salida.
+* **¿Para qué me sirve en la vida?** Para desarrollar criterio técnico al reparar equipos que no funcionan en lugar de adivinar cambiando piezas al azar.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **Propósito en pantalla:** *"Corregir errores clásicos de conexión en protoboard dentro de Tinkercad Circuits para afianzar todo antes de 10mo EGB."*
-
-### 2. Refuerzo en Tinkercad (05 – 40 min)
-* Abren el enlace del circuito compartido en Tinkercad con errores típicos (LED invertido, resistencia faltante, componente mal ubicado en la columna) y lo reparan hasta que funcione.
-
-### 3. Cierre y Preguntas de Verificación (40 – 45 min)
-1. *"¿Cuál fue el error más escondido que encontraron en el protoboard?"*
-2. *"¿Qué pasa si un LED queda conectado sin resistencia a 9V?"*
-
+## 📚 CONTENIDO Y RETO GRUPAL
+* **Método de Diagnóstico (*Troubleshooting* — 5 min):**
+  1. **Alimentación:** ¿hay voltaje en la fuente y están bien los polos `+` y `-`?
+  2. **Continuidad/Camino:** ¿el circuito está realmente cerrado sin cables sueltos?
+  3. **Polaridad y Protección:** ¿el LED o transistor está invertido? ¿la resistencia tiene el valor correcto?
+* **Actividad grupal (`👥 ACTIVIDAD GRUPAL` — sin respuestas resueltas):**
+  * **Parte A (Simulador):** Abrir el circuito compartido con fallas ocultas en Tinkercad, identificar al menos **3 errores** (polaridad, valor de resistencia o conexión abierta) y repararlo hasta que funcione.
+  * **Parte B (Demo física):** Presentar en mesa su circuito físico `AND`/`OR` funcionando y explicar qué actúa como **Entrada**, qué realiza el **Proceso** y cuál es la **Salida**.
+  * **1 Consejo:** Sigan el camino de la corriente desde el `+` de la batería hasta el `-` paso a paso usando el multímetro virtual.
+* **Preguntas de verificación:** ¿Cuál es el primer paso lógico antes de cambiar un componente que no enciende?
 
 ---
 
-# 📗 9NO EGB — PARCIAL 4 / CLASE 8
-**Tema:** Cierre del Año Lectivo, Repaso Protoboard y Autoevaluación (`🛠️ REFUERZO`)  
-**Mediador:** David Castro  
-**Modo de Clase:** Modo B — Cierre y Autoevaluación (45 min)
-
+# 7. Refuerzo Final, Puente a Arduino (10mo) y Autoevaluación (`🛠️ REFUERZO`)
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Evaluar** lo aprendido sobre electrónica básica y protoboard para cerrar el año listos para programar Arduino en 10mo EGB.
-* **¿Para qué me sirve en la vida?** Para llevar una base sólida de electrónica y diseño 3D hacia el siguiente nivel.
+* **Propósito:** **Comparar** el control analógico con transistor frente a un sistema programable y consolidar los aprendizajes del parcial antes de pasar a 10mo EGB.
+* **¿Para qué me sirve en la vida?** Para comprender por qué existen los microcontroladores (como Arduino) y cuándo conviene usar electrónica fija vs. lógica programada.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **Propósito en pantalla:** *"Evaluar lo aprendido sobre electrónica básica y protoboard para cerrar el año listos para programar Arduino en 10mo EGB."*
-
-### 2. Repaso General (`🛠️ REFUERZO`, 05 – 35 min)
-* Cuestionario/trivia de repaso sobre $V, I, R$, polaridad del LED, código de colores y conexiones del protoboard + nivelación final.
-
-### 3. Autoevaluación Final del Parcial 4 (Escala de Likert 1 al 5) (35 – 45 min)
-Cada estudiante valora del **1 al 5** (*1 = Todavía me cuesta | 5 = Lo domino y lo puedo explicar*):
-1. Diferenciar Voltaje ($V$), Corriente ($I$) y Resistencia ($R$).
-2. Identificar el Ánodo ($+$) y Cátodo ($-$) de un LED y su resistencia de protección.
-3. Conectar circuitos ordenados usando las filas y columnas del protoboard.
-4. Armar y probar circuitos en Serie y Paralelo en Tinkercad y en protoboard física.
+## 📚 CONTENIDO, COMPARATIVA Y AUTOEVALUACIÓN LIKERT (1 AL 5)
+* **Puente directo a 10mo EGB (*Transistor automático vs. Arduino* — 10 min):**
+  * Con el **transistor + LDR** (9no), si queremos que la luz parpadee o espere 5 segundos antes de apagarse, tenemos que cambiar piezas físicas y volver a cablear.
+  * Con un **microcontrolador programable** (10mo), el cableado se simplifica y el comportamiento se cambia escribiendo líneas de código (`if/else`, tiempos, contadores).
+* **Actividad de cierre (`🛠️ REFUERZO`):** Completar la tabla comparativa *"Electrónica fija (Transistor) vs. Electrónica programable (Microcontrolador)"*, ordenar e inventariar los cables caimán/componentes del taller y responder el repaso rápido.
+* **Autoevaluación Escala de Likert (1 = Todavía me cuesta | 3 = Lo entiendo con ayuda | 5 = Lo domino y lo puedo explicar):**
+  1. Leer el código de colores de una resistencia de 4 bandas y respetar la polaridad del LED.
+  2. Construir e interpretar circuitos lógicos `AND` y `OR` con sus tablas de verdad (`0/1`).
+  3. Explicar cómo varían el potenciómetro, la LDR y cómo actúa un transistor NPN como interruptor automático.
+  4. Diagnosticar fallas comunes en un circuito y explicar el modelo Entrada -> Proceso -> Salida.

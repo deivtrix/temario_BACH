@@ -1,94 +1,87 @@
-# ⛏️ PROMPTS PARA NOTEBOOKLM — 9NO EGB PARCIAL 3 (MBOT & MBLOCK POR CAPÍTULOS)
+# ⛏️ PROMPTS PARA NOTEBOOKLM — 9NO EGB PARCIAL 3 (MINECRAFT / SERIE POR CAPÍTULOS)
 
 ## 📌 CÓMO USARLO
-1. En **NotebookLM**, sube **1 solo archivo**: `FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md`.
-2. *(Opcional)* En **Descubrir fuentes**, pega estos temas en español:
-   * `Robot mBot placa mCore puertos RJ25 motores y sensores`
-   * `Programación mBot con mBlock 5 luces RGB sonidos y movimiento`
-   * `mBot sensor ultrasonido esquiva obstáculos y sensor sigue líneas IR`
-3. Haz **3 generaciones** (12 + 12 + 9 slides, cero fechas, sin nombre de mediador, visual con diagramas):
+1. En **NotebookLM**, crea **1 cuaderno nuevo** para este parcial y sube **1 solo archivo**: `FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md`.
+2. *(Opcional)* En **Descubrir fuentes**, pega estas búsquedas cortas en español:
+   * `Robot mBot placa mCore puertos RJ25`
+   * `Tracción diferencial robótica móvil dos ruedas`
+   * `Sensor ultrasonido distancia funcionamiento robótica`
+   * `Sensor infrarrojo sigue líneas robótica educativa`
+3. Copia y pega **1 prompt por semana/capítulo** en orden (`Capítulo 1` al `7`). Todos forman parte de la **misma historia continua del Volumen 3** (sin límite fijo de diapositivas).
 
 ---
 
-## 🟢 GENERACIÓN 1 (12 Diapositivas): CAPÍTULOS #1, #2 y #3
+## 🟢 CAPÍTULO #1: Kit mBot, Placa mCore y mBlock 5
 ```text
-IDIOMA OBLIGATORIO: Todo 100% en ESPAÑOL. Prohibido usar inglés.
-REGLA DE TÍTULOS Y LIMPIEZA: PROHIBIDO fechas, "Semana/Clase X" o nombres de mediador. Numera "CAPÍTULO #1", "CAPÍTULO #2", "CAPÍTULO #3".
+Crea una presentación estilo cómic educativo en español para 9no EGB (13-14 años) del Volumen 3: "Navegación y Robótica Móvil" (Serie Minecraft Redstone), correspondiente al CAPÍTULO #1 de 7 ("El Despertar del Autómata: Placa mCore y mBlock 5", etiqueta 📘 TEMA NUEVO) basado en el punto 1 de FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
 
-Crea exactamente 12 diapositivas para 9no EGB basadas en las clases 1, 2 y 3 de `FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md`.
-DISEÑO VISUAL: Temática Minecraft Redstone (apoyo visual limpio, máx. 6–8 palabras por personaje). Prioriza DIAGRAMAS GRÁFICOS, ESQUEMAS DE PLACA Y BLOQUES, cero muros de texto.
+Como es el Capítulo 1, abre la aventura del Volumen 3 donde el equipo recibe un robot explorador ya ensamblado y debe aprender a comunicarse con su cerebro electrónico. Integra de forma natural: propósito LEV, ¿para qué sirve?, teoría de 10 minutos (placa mCore, puertos RJ25 1-4, motores M1/M2 y modo En Vivo vs. Subir código con diagramas), la práctica guiada y preguntas de verificación.
 
-ESTRUCTURA:
-- Slides 1–4 -> CAPÍTULO #1: Kit mBot y Placa mCore (`👤 ACTIVIDAD INDIVIDUAL 1`):
-  1. Portada ("CAPÍTULO #1: Kit mBot y Placa mCore" | `👤 ACTIVIDAD INDIVIDUAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  2. Diagrama gráfico de la placa mCore: Puertos RJ25 (1–4), salidas M1/M2, LEDs RGB, Buzzer y botón.
-  3. Mapa de conexiones: Qué sensor/motor va en cada puerto.
-  4. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado directo (completar ficha/mapa de puertos de la placa mCore).
-
-- Slides 5–8 -> CAPÍTULO #2: Montaje Básico y Entorno mBlock 5 (`👥 ACTIVIDAD GRUPAL`):
-  5. Portada ("CAPÍTULO #2: Montaje y mBlock 5" | `👥 ACTIVIDAD GRUPAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  6. Esquema comparativo: Modo En Vivo (Live) vs. Modo Cargar (Upload).
-  7. Diagrama de ensamble básico del mBot (motores, llantas, rueda loca, mCore, batería).
-  8. `👥 ACTIVIDAD GRUPAL`: Enunciado directo en equipo (ensamblar chasis y probar conexión en mBlock 5).
-
-- Slides 9–12 -> CAPÍTULO #3: Luces RGB y Sonidos en mBlock 5 (`👤 ACTIVIDAD INDIVIDUAL 1`):
-  9. Portada ("CAPÍTULO #3: Luces RGB y Melodías" | `👤 ACTIVIDAD INDIVIDUAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  10. Diagrama de bloques mBlock: Iluminación RGB + Sonido (notas) + Esperar.
-  11. Ejemplo visual de secuencia de bloques.
-  12. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado directo (3 colores RGB + melodía de 4 notas sincronizada).
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
 ---
 
-## 🟡 GENERACIÓN 2 (12 Diapositivas): CAPÍTULOS #4, #5 y #6
+## 🟢 CAPÍTULO #2: Luces RGB y Buzzer (Salidas Integradas)
 ```text
-IDIOMA OBLIGATORIO: Todo 100% en ESPAÑOL. Prohibido usar inglés.
-REGLA DE TÍTULOS Y LIMPIEZA: PROHIBIDO fechas, "Semana/Clase X" o nombres de mediador. Numera "CAPÍTULO #4", "CAPÍTULO #5", "CAPÍTULO #6".
+Crea una presentación estilo cómic educativo en español para 9no EGB (13-14 años) del Volumen 3: "Navegación y Robótica Móvil" (Serie Minecraft Redstone), correspondiente al CAPÍTULO #2 de 7 ("Señales de Alerta: RGB y Buzzer", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el punto 2 de FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
 
-Crea exactamente 12 diapositivas visuales (Minecraft Redstone, diagramas gráficos, cero texto largo) basadas en las clases 4, 5 y 6 de `FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md`.
+Continúa la historia del Capítulo 1: antes de moverse por cuevas oscuras, el robot necesita luces de estado y señales sonoras para comunicarse. Integra en la historia: propósito LEV, ¿para qué sirve?, teoría breve de LEDs RGB (0-255), buzzer (notas/frecuencias) e importancia del bloque esperar, y el enunciado claro del reto individual con 1 consejo (sin regalar el código armado).
 
-ESTRUCTURA:
-- Slides 1–4 -> CAPÍTULO #4: Control de Motores y Velocidad (`👤 ACTIVIDAD INDIVIDUAL 2`):
-  1. Portada ("CAPÍTULO #4: Motores y Dirección" | `👤 ACTIVIDAD INDIVIDUAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  2. Diagrama de tracción diferencial: Cómo gira un robot de 2 ruedas (rueda izq vs. der).
-  3. Bloques de acción en mBlock 5 (avanzar, retroceder, girar, detener).
-  4. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado directo (avanzar 2s -> girar 90° -> retroceder 1s -> detener).
-
-- Slides 5–8 -> CAPÍTULO #5: Trayectoria Cuadrada 50x50 cm (`👥 ACTIVIDAD GRUPAL`):
-  5. Portada ("CAPÍTULO #5: Reto Cuadrado en Pista" | `👥 ACTIVIDAD GRUPAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  6. Diagrama de trayectoria: Cuadrado 50x50 cm + bucle `repetir 4 veces`.
-  7. Esquema de calibración (tiempo de avance vs. ángulo de giro 90°).
-  8. `👥 ACTIVIDAD GRUPAL`: Enunciado directo en pista + 1 tip de calibración.
-
-- Slides 9–12 -> CAPÍTULO #6: Sensor Ultrasonido Esquiva-Obstáculos (`👥 ACTIVIDAD GRUPAL`):
-  9. Portada ("CAPÍTULO #6: Robot Esquiva-Obstáculos" | `👥 ACTIVIDAD GRUPAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  10. Diagrama del sensor ultrasonido: Onda emitida -> rebote -> distancia en cm.
-  11. Flujo lógico visual: `por siempre` -> `si distancia < 20 cm` (retroceder y girar) `si no` (avanzar).
-  12. `👥 ACTIVIDAD GRUPAL`: Enunciado directo en laberinto de cajas sin chocar.
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
 
 ---
 
-## 🔵 GENERACIÓN 3 (9 Diapositivas): CAPÍTULOS #7, #8 + AUTOEVALUACIÓN FINAL
+## 🟡 CAPÍTULO #3: Motores DC, Velocidad (0–255) y Giros
 ```text
-IDIOMA OBLIGATORIO: Todo 100% en ESPAÑOL. Prohibido usar inglés.
-REGLA DE TÍTULOS Y LIMPIEZA: PROHIBIDO fechas, "Semana/Clase X" o nombres de mediador. Numera "CAPÍTULO #7" y "CAPÍTULO #8".
+Crea una presentación estilo cómic educativo en español para 9no EGB (13-14 años) del Volumen 3: "Navegación y Robótica Móvil" (Serie Minecraft Redstone), correspondiente al CAPÍTULO #3 de 7 ("Tracción Diferencial: Motores y Giros", etiqueta 📘 TEMA NUEVO) basado en el punto 3 de FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
 
-Crea exactamente 9 diapositivas visuales (Minecraft Redstone, diagramas gráficos, cero texto largo) basadas en las clases 7 y 8 de `FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md`.
+Continúa la historia del Capítulo 2: el robot ya brilla y suena, ahora toca enseñarle a avanzar, retroceder y girar con precisión. Integra en la historia: propósito LEV, ¿para qué sirve?, teoría de 10 minutos (tracción diferencial M1/M2, variable velocidad 0-255, giros de 90 grados y diagrama de flujo previo con esquemas claros), la práctica guiada y preguntas de verificación.
 
-ESTRUCTURA:
-- Slides 1–4 -> CAPÍTULO #7: Sensor Sigue-Líneas IR (`🛠️ REFUERZO`):
-  1. Portada ("CAPÍTULO #7: Robot Sigue-Líneas" | `🛠️ REFUERZO` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  2. Diagrama del sensor IR: Blanco refleja (1) vs. Negro absorbe (0).
-  3. Esquema visual de corrección en curvas (izquierda/derecha).
-  4. `🛠️ REFUERZO`: Actividad directa en pista de cinta negra (ajustando velocidad baja en curvas).
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
+```
 
-- Slides 5–8 -> CAPÍTULO #8: Cierre Parcial 3 (`🛠️ REFUERZO`):
-  5. Portada ("CAPÍTULO #8: Repaso y Cierre mBot" | `🛠️ REFUERZO` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  6. Mapa resumen del Parcial 3 (mCore -> mBlock -> Motores -> Ultrasonido -> Sigue-líneas).
-  7. `🛠️ REFUERZO`: Actividad directa en clase (cuestionario/trivia de repaso + pruebas en pista).
-  8. Adelanto de Electrónica y Protoboard en Tinkercad.
+---
 
-- Slide 9 -> AUTOEVALUACIÓN FINAL DEL PARCIAL 3 (Escala de Likert 1 al 5):
-  9. Tabla visual del 1 al 5 (1 = Todavía me cuesta | 5 = Lo domino y lo puedo explicar) con los 4 aspectos exactos de la Clase 8 de `FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md`.
+## 🟡 CAPÍTULO #4: Reto Pista Cuadrada (50 x 50 cm)
+```text
+Crea una presentación estilo cómic educativo en español para 9no EGB (13-14 años) del Volumen 3: "Navegación y Robótica Móvil" (Serie Minecraft Redstone), correspondiente al CAPÍTULO #4 de 7 ("Prueba de Campo: Pista Cuadrada 50x50", etiqueta 👥 ACTIVIDAD GRUPAL) basado en el punto 4 de FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
+
+Continúa la historia del Capítulo 3: el equipo enfrenta su primera misión real en la arena de pruebas y descubre que la fricción del suelo y la batería cambian los giros. Integra en la historia: propósito LEV, ¿para qué sirve?, explicación de calibración física iterativa y bucles repetir, y el enunciado del reto grupal en pista con 1 consejo (sin regalar tiempos ni código).
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
+```
+
+---
+
+## 🟠 CAPÍTULO #5: Sensor Ultrasonido (Esquiva-Obstáculos)
+```text
+Crea una presentación estilo cómic educativo en español para 9no EGB (13-14 años) del Volumen 3: "Navegación y Robótica Móvil" (Serie Minecraft Redstone), correspondiente al CAPÍTULO #5 de 7 ("Evasión Autónoma: Sensor Ultrasonido", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el punto 5 de FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
+
+Continúa la historia del Capítulo 4: aparecen muros móviles en el laberinto y el robot debe detectarlos sin chocar usando ecolocalización. Integra en la historia: propósito LEV, ¿para qué sirve?, explicación técnica del sensor ultrasonido (onda, rebote, distancia en cm y lógica continua por siempre), y el enunciado del reto individual con diagrama de flujo previo y 1 consejo (sin regalar el código).
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
+```
+
+---
+
+## 🟠 CAPÍTULO #6: Sensor Sigue-Líneas (IR)
+```text
+Crea una presentación estilo cómic educativo en español para 9no EGB (13-14 años) del Volumen 3: "Navegación y Robótica Móvil" (Serie Minecraft Redstone), correspondiente al CAPÍTULO #6 de 7 ("Ruta Segura: Sensor Sigue-Líneas IR", etiqueta 📘 PRÁCTICA GUIADA) basado en el punto 6 de FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
+
+Continúa la historia del Capítulo 5: para cruzar un puente estrecho sin caer al vacío, el robot debe seguir una línea oscura trazada en el suelo. Integra en la historia: propósito LEV, ¿para qué sirve?, teoría de 10 minutos (sensores infrarrojos, reflexión blanco 1 vs. absorción negro 0 y los 4 estados de corrección con diagrama), la práctica guiada y preguntas de verificación.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
+```
+
+---
+
+## 🔵 CAPÍTULO #7: Refuerzo Integrador en Pista y Autoevaluación
+```text
+Crea una presentación estilo cómic educativo en español para 9no EGB (13-14 años) del Volumen 3: "Navegación y Robótica Móvil" (Serie Minecraft Redstone), correspondiente al CAPÍTULO #7 de 7 — GRAN FINAL DEL VOLUMEN 3 ("Misión Combinada y Cierre", etiqueta 🛠️ REFUERZO) basado en el punto 7 de FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
+
+Cierra la aventura del Volumen 3 integrando todo lo aprendido en un último recorrido con línea y obstáculos. Integra en la historia: propósito LEV, ¿para qué sirve?, repaso integrador (sin respuestas visibles), el reto combinado de refuerzo en pista y la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
 ```
