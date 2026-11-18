@@ -11,11 +11,11 @@
 
 ---
 
-## 🎬 VIDEO RESUMEN DEL PARCIAL (Para Studio -> Video)
+## 🎬 VIDEO DE REPASO DEL PARCIAL (Para Studio -> Video)
 ```text
-Crea un video resumen animado en español para estudiantes de 8vo EGB (12-13 años) sobre todo el Volumen 4: "Mecanismos y Control Inicial" usando el archivo FUENTE_8VO_EGB_PARCIAL4_COMPLETO.md.
+Crea un video explicativo de repaso en español para estudiantes de 8vo EGB (12-13 años) sobre todo el Volumen 4: "Mecanismos y Control Inicial" usando el archivo FUENTE_8VO_EGB_PARCIAL4_COMPLETO.md.
 
-Usa únicamente personajes de Sonic (Sonic, Tails en su taller, Knuckles y Dr. Eggman) en un recorrido claro y visual por todos los temas del parcial (controlador Smart Hub y motor, poleas y velocidad, fuerza, fricción y engranajes, sensores con modelo Entrada -> Proceso -> Salida y el proyecto integrador). Explica con lenguaje cercano a su edad por qué y para qué les sirve entender cómo funcionan las máquinas y sensores que ven en su entorno.
+Cubre de forma ordenada y solo teórica todos los temas y subtemas del parcial (controlador Smart Hub y motor, bloques básicos de control, transmisión por poleas/correas y velocidad, fuerza, fricción y trenes de engranajes para torque, y sensores de movimiento e inclinación bajo el modelo Entrada -> Proceso -> Salida). Usa gráficos claros, diagramas de mecanismos y ejemplos cotidianos cercanos a su edad explicando para qué les sirve entenderlo (sin personajes de cómics).
 
 Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
 ```

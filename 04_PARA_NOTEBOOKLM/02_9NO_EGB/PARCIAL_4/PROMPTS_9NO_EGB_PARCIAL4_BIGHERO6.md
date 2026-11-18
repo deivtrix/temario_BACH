@@ -11,11 +11,11 @@
 
 ---
 
-## 🎬 VIDEO RESUMEN DEL PARCIAL (Para Studio -> Video)
+## 🎬 VIDEO DE REPASO DEL PARCIAL (Para Studio -> Video)
 ```text
-Crea un video resumen animado en español para estudiantes de 9no EGB (13-14 años) sobre todo el Volumen 4: "Electrónica Analógica y Lógica Digital" usando el archivo FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md.
+Crea un video explicativo de repaso en español para estudiantes de 9no EGB (13-14 años) sobre todo el Volumen 4: "Electrónica Analógica y Lógica Digital" usando el archivo FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md.
 
-Conecta en un recorrido claro y visual todos los temas del parcial (código de colores y polaridad LED, lógica AND/OR con tablas de verdad, potenciómetro y LDR, luz nocturna con transistor NPN, taller con caimanes y diagnóstico de fallas) con un hilo narrativo libre estilo Big Hero 6. Explica con lenguaje cercano a su edad por qué y para qué les sirve comprender la electrónica antes de dar el salto a programar microcontroladores en 10mo.
+Cubre de forma ordenada y solo teórica todos los temas y subtemas del parcial (código de colores de 4 bandas y polaridad del LED, lógica AND y OR con tablas de verdad, señales analógicas con potenciómetro y LDR, funcionamiento del transistor NPN como interruptor automático, Vista Esquemática, método de diagnóstico de fallas y comparativa transistor vs. microcontrolador). Usa gráficos claros y ejemplos cotidianos cercanos a su edad (sin personajes de cómics).
 
 Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
 ```

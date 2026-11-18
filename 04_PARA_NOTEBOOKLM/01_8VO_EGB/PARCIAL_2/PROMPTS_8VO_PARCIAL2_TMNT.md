@@ -12,11 +12,11 @@
 
 ---
 
-## 🎬 VIDEO RESUMEN DEL PARCIAL (Para Studio -> Video)
+## 🎬 VIDEO DE REPASO DEL PARCIAL (Para Studio -> Video)
 ```text
-Crea un video resumen animado en español para estudiantes de 8vo EGB (12-13 años) sobre todo el Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica" usando el archivo FUENTE_8VO_PARCIAL2_COMPLETO.md.
+Crea un video explicativo de repaso en español para estudiantes de 8vo EGB (12-13 años) sobre todo el Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica" usando el archivo FUENTE_8VO_PARCIAL2_COMPLETO.md.
 
-Usa únicamente personajes de las Tortugas Ninja (Leonardo, Donatello, Rafael, Miguel Ángel y el Maestro Splinter) en un recorrido claro y visual por todos los temas del parcial (materiales conductores y aislantes, empalmes seguros, corriente directa DC y alterna AC, transformación en cargadores, cortocircuitos, falsos contactos y breakers). Explica con lenguaje cercano a su edad por qué y para qué les sirve aprender esto en su entorno y en los aparatos que usan a diario.
+Cubre de forma ordenada y solo teórica todos los temas y subtemas del parcial (materiales conductores y aislantes, tipos de empalmes seguros y pruebas, corriente directa DC con polaridad, corriente alterna AC 110V/60Hz y transformación en cargadores, falsos contactos, cortocircuitos y protección con breakers/fusibles). Usa gráficos claros, diagramas comparativos y ejemplos cotidianos cercanos a su edad explicando para qué les sirve entenderlo (sin personajes de cómics).
 
 Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
 ```

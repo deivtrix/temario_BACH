@@ -11,11 +11,11 @@
 
 ---
 
-## 🎬 VIDEO RESUMEN DEL PARCIAL (Para Studio -> Video)
+## 🎬 VIDEO DE REPASO DEL PARCIAL (Para Studio -> Video)
 ```text
-Crea un video resumen animado en español para estudiantes de 9no EGB (13-14 años) sobre todo el Volumen 3: "Navegación y Robótica Móvil" usando el archivo FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
+Crea un video explicativo de repaso en español para estudiantes de 9no EGB (13-14 años) sobre todo el Volumen 3: "Navegación y Robótica Móvil" usando el archivo FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
 
-Conecta en un recorrido claro y visual todos los temas del parcial (placa mCore y modos de carga, luces RGB y buzzer, tracción diferencial con motores DC y giros, calibración en pista, sensor ultrasonido esquiva-obstáculos y sigue-líneas IR) con un hilo narrativo libre estilo Minecraft Redstone. Explica con lenguaje cercano a su edad por qué y para qué les sirve programar vehículos y sistemas que navegan solos.
+Cubre de forma ordenada y solo teórica todos los temas y subtemas del parcial (arquitectura de la placa mCore y puertos RJ25, modo En Vivo vs. Subir código, luces RGB y buzzer, tracción diferencial M1/M2 y giros con diagramas de flujo, calibración física por fricción/batería, sensor ultrasonido en cm y lógica binaria 0/1 del sensor sigue-líneas IR). Usa gráficos claros, diagramas de flujo y ejemplos cotidianos cercanos a su edad (sin personajes de cómics).
 
 Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
 ```

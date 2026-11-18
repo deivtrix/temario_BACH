@@ -11,11 +11,11 @@
 
 ---
 
-## 🎬 VIDEO RESUMEN DEL PARCIAL (Para Studio -> Video)
+## 🎬 VIDEO DE REPASO DEL PARCIAL (Para Studio -> Video)
 ```text
-Crea un video resumen animado en español para estudiantes de 8vo EGB (12-13 años) sobre todo el Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" usando el archivo FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
+Crea un video explicativo de repaso en español para estudiantes de 8vo EGB (12-13 años) sobre todo el Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" usando el archivo FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
 
-Usa únicamente personajes de Dragon Ball Z (Goku, Gohan, Bulma y villanos como Cell o los Androides) en un recorrido claro y visual por todos los temas del parcial (electrostática y toma a tierra, Ley de Ohm y Vista Esquemática, circuitos en serie y en paralelo, y masa conductora). Explica con lenguaje cercano a su edad por qué y para qué les sirve aprender esto en su entorno y en los dispositivos que usan a diario.
+Cubre de forma ordenada y solo teórica todos los temas y subtemas del parcial (estructura del átomo, carga por fricción, ley de cargas, rayos y toma a tierra, magnitudes V-I-R y Ley de Ohm para proteger un LED, símbolos en Vista Esquemática, circuitos en serie, circuitos en paralelo y principio de masa conductora con sal vs. azúcar). Usa gráficos claros, diagramas comparativos y ejemplos cotidianos cercanos a su edad explicando para qué les sirve entenderlo (sin personajes de cómics).
 
 Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
 ```

@@ -75,7 +75,7 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
   * En **👤 Individual / 👥 Grupal:** solo enunciado claro + imagen/diseño de referencia + **medidas o materiales** (si aplica) + 1 consejo (**CERO código y CERO paso a paso resuelto**).
   * En **🛠️ Refuerzo:** incluir la actividad completa que harán en clase + materiales/referencia, sin regalar las respuestas.
 * **Cierre de Parcial:** Toda presentación de cierre de parcial lleva al final una diapositiva exclusiva de **Autoevaluación con Escala de Likert (1 al 5)** evaluando 4 aspectos concretos aprendidos.
-* **Video Resumen del Parcial:** Cada archivo `PROMPTS_...` incluye al inicio un **prompt de Video Resumen (Studio $\rightarrow$ Video)** que recorre todos los temas de ese parcial con la temática del Volumen y explica su utilidad para la edad del grupo.
+* **Video de Repaso del Parcial:** Cada archivo `PROMPTS_...` incluye al inicio un **prompt de Video de Repaso (Studio $\rightarrow$ Video)** **sin personajes de cómics** (para que NotebookLM lo genere sin bloqueos), enfocado 100% en repaso teórico ordenado cubriendo todos los temas y subtemas con gráficos, diagramas y ejemplos cercanos a la edad.
 * **Empaquetado NotebookLM (1 cuaderno por parcial):** Se crea **1 cuaderno por parcial** en `04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/` con su `FUENTE_<CURSO>_PARCIALX_COMPLETO.md` y `PROMPTS_<CURSO>_PARCIALX_<TEMATICA>.md` (máximo 6–7 capítulos por cuaderno).
 * **Consultas en `fuentes.md` ("Descubrir fuentes"):** Usar siempre **1 solo tema concreto por línea (5–7 palabras)** sin mezclar subtemas para obtener resultados precisos.
 
