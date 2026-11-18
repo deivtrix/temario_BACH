@@ -19,14 +19,14 @@ temario_BACH/
 ## ✅ Estado Actual por Área
 
 ### 1. `01_TEMARIOS_POR_CURSO/` *(100% Cerrado y Alineado)*
-| Archivo | Clases/Parcial | Enfoque Principal | Estado |
-| :--- | :---: | :--- | :---: |
-| [8VO_EGB.md](01_TEMARIOS_POR_CURSO/8VO_EGB.md) | **7** | Energía, Empalmes, AC/DC, Ohm + Esquemático, Masa Conductora, WeDo 2.0 (IPO) | ✅ Cerrado |
-| [9NO_EGB.md](01_TEMARIOS_POR_CURSO/9NO_EGB.md) | **7** | CAD 3D + `.SVG`, mBot pre-armado, Electrónica UK (Colores, `AND`/`OR`, LDR, Transistor sin protoboard) | ✅ Cerrado |
-| [10MO_EGB.md](01_TEMARIOS_POR_CURSO/10MO_EGB.md) | **7** | Protoboard + Arduino (`Blink`, Semáforo, `for`, Binario, `if/else`, `Pull-Down`, `INPUT_PULLUP`) + WeDo 2.0 | ✅ Cerrado |
-| [1RO_BGU.md](01_TEMARIOS_POR_CURSO/1RO_BGU.md) | **7** | Arduino UNO + Sensores (Potenciómetro, LDR, Temperatura, Ultrasonido, Agua) + Servo SG90 + `void` | ✅ Cerrado |
-| [2DO_BGU.md](01_TEMARIOS_POR_CURSO/2DO_BGU.md) | **7** | Sim Lab, Codeblocks, `millis()`, Transistor + Flyback, Puente H *(Tinkercad)*, LCD 16x2 | ✅ Cerrado |
-| [3RO_BGU.md](01_TEMARIOS_POR_CURSO/3RO_BGU.md) | **6** | 100% Wokwi gratis: ESP32, WiFi (`Wokwi-GUEST`) + MQTT + Panel Web Gemini (`mqtt.js`) + *Teachable Machine* | ✅ Cerrado |
+| Archivo | Título General del Año | Clases/Parcial | Estado |
+| :--- | :--- | :---: | :---: |
+| [8VO_EGB.md](01_TEMARIOS_POR_CURSO/8VO_EGB.md) | **Principios de Electricidad y Control** | **7** | ✅ Cerrado |
+| [9NO_EGB.md](01_TEMARIOS_POR_CURSO/9NO_EGB.md) | **Diseño Digital y Robótica Móvil** | **7** | ✅ Cerrado |
+| [10MO_EGB.md](01_TEMARIOS_POR_CURSO/10MO_EGB.md) | **Sistemas Programables Iniciales** | **7** | ✅ Cerrado |
+| [1RO_BGU.md](01_TEMARIOS_POR_CURSO/1RO_BGU.md) | **Sensores y Control Automático** | **7** | ✅ Cerrado |
+| [2DO_BGU.md](01_TEMARIOS_POR_CURSO/2DO_BGU.md) | **Mecatrónica Aplicada** | **7** | ✅ Cerrado |
+| [3RO_BGU.md](01_TEMARIOS_POR_CURSO/3RO_BGU.md) | **Sistemas Inteligentes Conectados** | **6** | ✅ Cerrado |
 
 ---
 

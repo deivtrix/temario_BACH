@@ -1,6 +1,7 @@
 # 📘 10MO EGB — TEMARIO MAESTRO ANUAL (2026 - 2027)
 
 **Materia:** Robótica y Tecnología  
+**Título General del Año:** Sistemas Programables Iniciales  
 **Mediador:** David Castro  
 **Regla de Clase (45 min):** 10 min de teoría + 35 min de práctica (Tinkercad Circuits / Arduino UNO físico / Canva).  
 **Estructura por Parcial:** 4 Parciales (1 Tema por Parcial × 7 clases), garantizando mínimo **2 actividades individuales + 1 grupal + 1 refuerzo**.
