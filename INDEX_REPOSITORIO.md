@@ -28,6 +28,7 @@ temario_BACH/
 | [2DO_BGU.md](01_TEMARIOS_POR_CURSO/2DO_BGU.md) | **Mecatrónica Aplicada** | **7** | ✅ Cerrado |
 | [3RO_BGU.md](01_TEMARIOS_POR_CURSO/3RO_BGU.md) | **Sistemas Inteligentes Conectados** | **6** | ✅ Cerrado |
 | [MAPA_DE_RUTA_CURRICULAR.md](01_TEMARIOS_POR_CURSO/MAPA_DE_RUTA_CURRICULAR.md) | **Mapa de Ruta (8vo EGB → 3ro BGU)** | **5 Ejes** | ✅ Listo |
+| [malla_curricular_robotica.html](01_TEMARIOS_POR_CURSO/malla_curricular_robotica.html) | **Malla Curricular Interactiva (HTML)** | **6 Cursos** | ✅ Listo |
 
 ---
 
