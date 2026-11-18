@@ -35,7 +35,7 @@ Propósito exacto de la clase (Taxonomía LEV): **Construir** un circuito eléct
 Secuencia didáctica completa dentro de la historia:
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
 2. Teoría puntual (10 minutos): Explicación completa con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
-3. Guía básica de uso de la herramienta/simulador a manera de pasos + instrucción puntual de la actividad autónoma/grupal (sin regalar las respuestas ni el diseño final) y criterio de autochequeo ('¿Cómo sé que quedó bien?').
+3. Instrucción puntual de la actividad autónoma/grupal y 1 tip breve (CERO pasos previos, CERO códigos ni diseños resueltos, para que lo logren aplicando la teoría anterior) + criterio de autochequeo ('¿Cómo sé que quedó bien?').
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -67,7 +67,7 @@ Propósito exacto de la clase (Taxonomía LEV): **Diferenciar** la energía cin�
 Secuencia didáctica completa dentro de la historia:
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
 2. Teoría puntual (10 minutos): Explicación completa con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
-3. Guía básica de uso de la herramienta/simulador a manera de pasos + instrucción puntual de la actividad autónoma/grupal (sin regalar las respuestas ni el diseño final) y criterio de autochequeo ('¿Cómo sé que quedó bien?').
+3. Instrucción puntual de la actividad autónoma/grupal y 1 tip breve (CERO pasos previos, CERO códigos ni diseños resueltos, para que lo logren aplicando la teoría anterior) + criterio de autochequeo ('¿Cómo sé que quedó bien?').
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -83,7 +83,7 @@ Propósito exacto de la clase (Taxonomía LEV): **Comprobar** en PhET DC qué ma
 Secuencia didáctica completa dentro de la historia:
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
 2. Teoría puntual (10 minutos): Explicación completa con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
-3. Guía básica de uso de la herramienta/simulador a manera de pasos + instrucción puntual de la actividad autónoma/grupal (sin regalar las respuestas ni el diseño final) y criterio de autochequeo ('¿Cómo sé que quedó bien?').
+3. Instrucción puntual de la actividad autónoma/grupal y 1 tip breve (CERO pasos previos, CERO códigos ni diseños resueltos, para que lo logren aplicando la teoría anterior) + criterio de autochequeo ('¿Cómo sé que quedó bien?').
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -103,7 +103,7 @@ Propósito exacto de la clase (Taxonomía LEV): **Diferenciar** materiales condu
 Secuencia didáctica completa dentro de la historia:
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
 2. Teoría puntual (10 minutos): Explicación completa con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
-3. Guía básica de uso de la herramienta/simulador a manera de pasos + instrucción puntual de la actividad autónoma/grupal (sin regalar las respuestas ni el diseño final) y criterio de autochequeo ('¿Cómo sé que quedó bien?').
+3. Instrucción puntual de la actividad autónoma/grupal y 1 tip breve (CERO pasos previos, CERO códigos ni diseños resueltos, para que lo logren aplicando la teoría anterior) + criterio de autochequeo ('¿Cómo sé que quedó bien?').
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -283,7 +283,7 @@ Propósito exacto de la clase (Taxonomía LEV): **Construir** un circuito en Par
 Secuencia didáctica completa dentro de la historia:
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
 2. Teoría puntual (10 minutos): Explicación completa con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
-3. Guía básica de uso de la herramienta/simulador a manera de pasos + instrucción puntual de la actividad autónoma/grupal (sin regalar las respuestas ni el diseño final) y criterio de autochequeo ('¿Cómo sé que quedó bien?').
+3. Instrucción puntual de la actividad autónoma/grupal y 1 tip breve (CERO pasos previos, CERO códigos ni diseños resueltos, para que lo logren aplicando la teoría anterior) + criterio de autochequeo ('¿Cómo sé que quedó bien?').
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -351,7 +351,7 @@ Propósito exacto de la clase (Taxonomía LEV): **Construir** un mecanismo de tr
 Secuencia didáctica completa dentro de la historia:
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
 2. Teoría puntual (10 minutos): Explicación completa con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
-3. Guía básica de uso de la herramienta/simulador a manera de pasos + instrucción puntual de la actividad autónoma/grupal (sin regalar las respuestas ni el diseño final) y criterio de autochequeo ('¿Cómo sé que quedó bien?').
+3. Instrucción puntual de la actividad autónoma/grupal y 1 tip breve (CERO pasos previos, CERO códigos ni diseños resueltos, para que lo logren aplicando la teoría anterior) + criterio de autochequeo ('¿Cómo sé que quedó bien?').
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -383,7 +383,7 @@ Propósito exacto de la clase (Taxonomía LEV): **Programar** un sistema robóti
 Secuencia didáctica completa dentro de la historia:
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
 2. Teoría puntual (10 minutos): Explicación completa con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
-3. Guía básica de uso de la herramienta/simulador a manera de pasos + instrucción puntual de la actividad autónoma/grupal (sin regalar las respuestas ni el diseño final) y criterio de autochequeo ('¿Cómo sé que quedó bien?').
+3. Instrucción puntual de la actividad autónoma/grupal y 1 tip breve (CERO pasos previos, CERO códigos ni diseños resueltos, para que lo logren aplicando la teoría anterior) + criterio de autochequeo ('¿Cómo sé que quedó bien?').
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
@@ -415,7 +415,7 @@ Propósito exacto de la clase (Taxonomía LEV): **Programar**, calibrar y demost
 Secuencia didáctica completa dentro de la historia:
 1. Inicio y Motivación: Qué vamos a aprender hoy (propósito exacto) y ¿para qué sirve en la vida? de la fuente.
 2. Teoría puntual (10 minutos): Explicación completa con tecnicismo moderado, diagramas visuales, ejemplos de la vida real y datos novedosos/curiosos.
-3. Guía básica de uso de la herramienta/simulador a manera de pasos + instrucción puntual de la actividad autónoma/grupal (sin regalar las respuestas ni el diseño final) y criterio de autochequeo ('¿Cómo sé que quedó bien?').
+3. Instrucción puntual de la actividad autónoma/grupal y 1 tip breve (CERO pasos previos, CERO códigos ni diseños resueltos, para que lo logren aplicando la teoría anterior) + criterio de autochequeo ('¿Cómo sé que quedó bien?').
 4. Cierre de la clase: Preguntas rápidas de verificación para comprobar qué aprendieron hoy.
 
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X" o entregables amarrados.
