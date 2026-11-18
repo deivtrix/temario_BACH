@@ -11,6 +11,17 @@
 
 ---
 
+## 🎬 VIDEO RESUMEN DEL PARCIAL (Para Studio -> Video)
+```text
+Crea un video resumen animado en español para estudiantes de 9no EGB (13-14 años) sobre todo el Volumen 4: "Electrónica Analógica y Lógica Digital" usando el archivo FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md.
+
+Conecta en un recorrido claro y visual todos los temas del parcial (código de colores y polaridad LED, lógica AND/OR con tablas de verdad, potenciómetro y LDR, luz nocturna con transistor NPN, taller con caimanes y diagnóstico de fallas) con un hilo narrativo libre estilo Big Hero 6. Explica con lenguaje cercano a su edad por qué y para qué les sirve comprender la electrónica antes de dar el salto a programar microcontroladores en 10mo.
+
+Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
+```
+
+---
+
 ## 🟢 CAPÍTULO #1: Código de Colores y Polaridad del LED
 ```text
 Crea una presentación estilo cómic educativo en español para estudiantes de 9no EGB (13-14 años) del Volumen 4: "Electrónica Analógica y Lógica Digital" (temática libre de Big Hero 6), correspondiente al CAPÍTULO #1 de 7 ("Código de Colores y Polaridad del LED", etiqueta 📘 TEMA NUEVO) basado en el punto 1 de FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md.

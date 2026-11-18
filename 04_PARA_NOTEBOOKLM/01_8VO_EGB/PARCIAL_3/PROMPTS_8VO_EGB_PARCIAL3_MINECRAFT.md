@@ -11,6 +11,17 @@
 
 ---
 
+## 🎬 VIDEO RESUMEN DEL PARCIAL (Para Studio -> Video)
+```text
+Crea un video resumen animado en español para estudiantes de 8vo EGB (12-13 años) sobre todo el Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" usando el archivo FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.
+
+Conecta en un recorrido claro y visual todos los temas del parcial (electrostática y toma a tierra, Ley de Ohm y Vista Esquemática, circuitos en serie y en paralelo, y masa conductora) con un hilo narrativo libre estilo Minecraft Redstone. Explica con lenguaje cercano a su edad por qué y para qué les sirve aprender esto en su entorno y en los dispositivos que usan a diario.
+
+Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
+```
+
+---
+
 ## 🟢 CAPÍTULO #1: Átomos, Cargas y Electrostática
 ```text
 Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 3: "Ley de Ohm y Circuitos Serie/Paralelo" (temática libre de Minecraft Redstone), correspondiente al CAPÍTULO #1 de 7 ("Átomos, Cargas y Electrostática", etiqueta 📘 TEMA NUEVO) basado en el punto 1 de FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md.

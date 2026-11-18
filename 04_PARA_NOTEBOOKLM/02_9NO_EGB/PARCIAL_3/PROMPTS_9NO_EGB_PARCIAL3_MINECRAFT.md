@@ -11,6 +11,17 @@
 
 ---
 
+## 🎬 VIDEO RESUMEN DEL PARCIAL (Para Studio -> Video)
+```text
+Crea un video resumen animado en español para estudiantes de 9no EGB (13-14 años) sobre todo el Volumen 3: "Navegación y Robótica Móvil" usando el archivo FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
+
+Conecta en un recorrido claro y visual todos los temas del parcial (placa mCore y modos de carga, luces RGB y buzzer, tracción diferencial con motores DC y giros, calibración en pista, sensor ultrasonido esquiva-obstáculos y sigue-líneas IR) con un hilo narrativo libre estilo Minecraft Redstone. Explica con lenguaje cercano a su edad por qué y para qué les sirve programar vehículos y sistemas que navegan solos.
+
+Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
+```
+
+---
+
 ## 🟢 CAPÍTULO #1: Kit mBot, Placa mCore y mBlock 5
 ```text
 Crea una presentación estilo cómic educativo en español para estudiantes de 9no EGB (13-14 años) del Volumen 3: "Navegación y Robótica Móvil" (temática libre de Minecraft Redstone), correspondiente al CAPÍTULO #1 de 7 ("Placa mCore y mBlock 5", etiqueta 📘 TEMA NUEVO) basado en el punto 1 de FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.

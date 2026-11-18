@@ -11,6 +11,17 @@
 
 ---
 
+## 🎬 VIDEO RESUMEN DEL PARCIAL (Para Studio -> Video)
+```text
+Crea un video resumen animado en español para estudiantes de 8vo EGB (12-13 años) sobre todo el Volumen 4: "Mecanismos y Control Inicial" usando el archivo FUENTE_8VO_EGB_PARCIAL4_COMPLETO.md.
+
+Conecta en un recorrido claro y visual todos los temas del parcial (Smart Hub y motor, poleas y velocidad, fuerza, fricción y engranajes, sensores con modelo Entrada -> Proceso -> Salida y el proyecto integrador) con un hilo narrativo libre estilo Big Hero 6. Explica con lenguaje cercano a su edad por qué y para qué les sirve entender cómo funcionan las máquinas y sensores que ven en su entorno.
+
+Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
+```
+
+---
+
 ## 🟢 CAPÍTULO #1: Introducción a Mecanismos y Control Inicial (Milo — Parte A)
 ```text
 Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 4: "Mecanismos y Control Inicial" (temática libre de Big Hero 6), correspondiente al CAPÍTULO #1 de 7 ("Primer Robot Explorador: Milo Parte A", etiqueta 📘 TEMA NUEVO) basado en el punto 1 de FUENTE_8VO_EGB_PARCIAL4_COMPLETO.md.

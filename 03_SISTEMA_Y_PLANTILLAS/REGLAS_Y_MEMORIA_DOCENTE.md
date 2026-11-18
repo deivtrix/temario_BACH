@@ -64,38 +64,39 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 
 ---
 
-## 🎨 5. REGLAS PARA NOTEBOOKLM Y DIAPOSITIVAS (MINI-LIBRO)
-* **Idioma y Limpieza:** Todo en **ESPAÑOL** (permitiendo solo nombres técnicos o propios como `PhET`, `Western Union`, `Breaker`, `AC/DC`, `LED`, evitando anglicismos innecesarios como `Tip`). **NO** incluir el nombre del mediador en las diapositivas, **NO** incluir fechas ni "Semana X", y **NO** amarrar entregables ni número de preguntas en las slides (solo la actividad directa).
-* **Cuaderno de estudio en Classroom:** La presentación final unida de cada parcial se sube a Classroom para que el estudiante estudie; por eso **la parte teórica y la guía paso a paso son fundamentales y deben ir completas** (explicaciones claras, ejemplos reales, datos novedosos y código base en cursos de Arduino/ESP32), dejando sin regalar únicamente la solución del reto autónomo (`👤`/`👥`).
-* **Prompts cortos, libres y con secuencia didáctica en NotebookLM (Cero encasillamiento):** NO dictar guiones, personajes por slide, diálogos ni número fijo de diapositivas; todo el contenido debe ir **inmerso dentro de la historia del cómic** que NotebookLM cree libremente:
-  * **En clases normales (Tema Nuevo):** **1)** Motivación + Propósito LEV exacto + ¿Para qué sirve? $\rightarrow$ **2)** Teoría puntual (10 min: tecnicismo moderado, diagramas, ejemplos reales y datos novedosos) $\rightarrow$ **3)** Actividad guiada a manera de pasos + reto corto para hacer solos (solo la instrucción) $\rightarrow$ **4)** Cierre con preguntas de verificación.
-  * **En `👤 ACTIVIDAD INDIVIDUAL`, `👥 ACTIVIDAD GRUPAL` o `🛠️ REFUERZO`:** Contexto inmerso en la historia del cómic + Propósito LEV + ¿Para qué sirve? $\rightarrow$ recordatorio breve o tip + **de manera puntual qué deben realizar** (**CERO códigos ni diseños resueltos**; salvo en talleres físicos donde sí van materiales y pasos de seguridad) $\rightarrow$ cierre con preguntas de verificación *(y Likert 1–5 al final del parcial)*.
+## 🎨 5. REGLAS PARA NOTEBOOKLM, CÓMICS Y VIDEO RESUMEN
+* **Idioma y Limpieza:** Todo en **ESPAÑOL** (permitiendo solo nombres técnicos o propios como `PhET`, `Western Union`, `Breaker`, `AC/DC`, `LED`, evitando anglicismos innecesarios como `Tip` — usar `consejo`). **NO** incluir el nombre del mediador en las diapositivas/videos, **NO** incluir fechas ni "Semana X", y **NO** amarrar entregables ni número de preguntas en las slides.
+* **Lógica Editorial (Parcial = Volumen | Clase = Capítulo):** Cada parcial tiene un **nombre oficial estilo UK sin mencionar marcas ni aparatos** (`01_TEMARIOS_POR_CURSO/MAPA_DE_RUTA_CURRICULAR.md`) que actúa como título del **Volumen**. Cada semana/clase es un **Capítulo continuo (`Capítulo #1` de 7, `#2` de 7...)** de la misma historia tipo cómic.
+* **Cero encasillamiento de trama y edad/realidad pensada por NotebookLM:** NO pre-escribir escenas, diálogos, personajes por slide ni número fijo de diapositivas. Indicar siempre la **edad exacta del curso** y pedir a NotebookLM que **piense y explique con lenguaje cercano para qué les sirve ese tema en su entorno y dispositivos cotidianos** (evitando frases genéricas como *"en la vida real"*).
+* **Cuaderno de estudio en Classroom:** La presentación de cada capítulo se sube a Classroom; por eso la **teoría de 10 min y la guía paso a paso deben ir completas**, dejando sin regalar únicamente la solución del reto autónomo (`👤`/`👥`).
 * **Etiquetas visibles obligatorias:** Mostrar únicamente `👤 ACTIVIDAD INDIVIDUAL`, `👥 ACTIVIDAD GRUPAL` o `🛠️ REFUERZO` (en clases normales de tema nuevo no se pone etiqueta).
 * **Regla de autonomía en diapositivas:**
-  * En **Tema Nuevo y Talleres Físicos** (*Empalmes*, *Masa Conductora*, *Extensión*, *Protoboard física*, etc.): incluir **lista exacta de materiales necesarios** (herramientas, calibres o ingredientes/cantidades), mapa conceptual, diagrama/diseño, código referencial completo (si aplica) y **procedimiento paso a paso numerado** enseñando cómo hacerlo.
-  * En **👤 Individual / 👥 Grupal:** solo enunciado claro + imagen/diseño de referencia + **medidas o materiales** (si aplica) + 1 tip (**CERO código y CERO paso a paso**).
-  * En **🛠️ Refuerzo:** incluir la actividad completa que harán en clase (ej. los casos a analizar, preguntas de trivia o el reto a armar desde cero) + materiales/referencia, sin regalar las respuestas.
+  * En **Tema Nuevo y Talleres Físicos** (*Empalmes*, *Masa Conductora*, *Caimanes/Borneras*, *Mecanismos*, etc.): incluir **lista exacta de materiales**, diagramas, código referencial completo (si aplica) y **procedimiento paso a paso numerado**.
+  * En **👤 Individual / 👥 Grupal:** solo enunciado claro + imagen/diseño de referencia + **medidas o materiales** (si aplica) + 1 consejo (**CERO código y CERO paso a paso resuelto**).
+  * En **🛠️ Refuerzo:** incluir la actividad completa que harán en clase + materiales/referencia, sin regalar las respuestas.
 * **Cierre de Parcial:** Toda presentación de cierre de parcial lleva al final una diapositiva exclusiva de **Autoevaluación con Escala de Likert (1 al 5)** evaluando 4 aspectos concretos aprendidos.
-* **Temática de personajes con hilo narrativo:** Se asigna una temática por parcial (ej. **Parcial 2: Tortugas Ninja / TMNT** — Leonardo propósito, Donatello mapas/diagramas, Rafael seguridad, Miguel Ángel reto), donde cada capítulo conecta una situación o enemigo real de la serie directamente con el tema técnico (solo como título y escena visual, sin globos largos).
-* **Empaquetado NotebookLM (1 cuaderno por parcial):** Para evitar amontonamiento de presentaciones en Studio, se crea **1 cuaderno por parcial (Volumen)** en `04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/` con su propio `FUENTE_<CURSO>_PARCIALX_COMPLETO.md`, `PROMPTS_<CURSO>_PARCIALX_<TEMATICA>.md` y las búsquedas de `fuentes.md` correspondientes (máximo 6–7 capítulos por cuaderno).
+* **Video Resumen del Parcial:** Cada archivo `PROMPTS_...` incluye al inicio un **prompt de Video Resumen (Studio $\rightarrow$ Video)** que recorre todos los temas de ese parcial con la temática del Volumen y explica su utilidad para la edad del grupo.
+* **Empaquetado NotebookLM (1 cuaderno por parcial):** Se crea **1 cuaderno por parcial** en `04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/` con su `FUENTE_<CURSO>_PARCIALX_COMPLETO.md` y `PROMPTS_<CURSO>_PARCIALX_<TEMATICA>.md` (máximo 6–7 capítulos por cuaderno).
+* **Consultas en `fuentes.md` ("Descubrir fuentes"):** Usar siempre **1 solo tema concreto por línea (5–7 palabras)** sin mezclar subtemas para obtener resultados precisos.
 
 ---
 
 ## 🚦 6. MEMORIA RÁPIDA PARA LA IA (QUÉ HACER Y QUÉ NO HACER)
 ### ✅ QUÉ HACER SIEMPRE
-* **Estado actual del proyecto:** Los **6 temarios maestros (`8vo EGB` a `3ro BGU`)** y **todo 8vo EGB (`PARCIAL_1`–`4`, fuente anual, prompts, `fuentes.md` y planes semanales)** ya están cerrados. **9no a 2do BGU** esperan el **inventario físico real del taller** antes de armar sus paquetes NotebookLM.
-* **Enseñar materiales + paso a paso + verificación de calidad** en todo **Taller Físico** (*Limones*, *Empalmes*, *Electrostático*, *Masa Conductora*, *WeDo 2.0*), incluyendo pruebas concretas de éxito (ej. prueba del jalón en empalmes).
-* **Auto-explicativo para estudiar solo en casa:** En clases normales y en evaluativas que introducen tema nuevo, incluir **teoría completa** (10 min con tecnicismo moderado, diagramas, ejemplos reales y datos novedosos), pero en `👤`/`👥` **NO** dar pasos previos ni códigos/diseños resueltos del reto.
-* **Enfoque en Proyecto/Artefacto Real (Cero temas abstractos sueltos):** Cada clase debe girar en torno a un producto reconocible y atractivo (*Semáforo, Luces de Patrulla, Luz Nocturna Automática, Interruptor con 1 Clic, Sensor de Retro*, etc.) que enseñe por dentro el concepto técnico (`for`, `Pull-Down`, `if/else`, etc.).
-* **Incluir la actividad completa** en diapositivas de `🛠️ REFUERZO` (con 2–3 mini-casos concretos si es análisis de casos) y asegurar que **todo lo pedido en el prompt exista en la `FUENTE_...`** para que NotebookLM no improvise.
-* **Cerrar cada parcial con Autoevaluación Likert (1 al 5)** en 4 aspectos que cubran **todos** los temas clave del parcial.
-* **Seguridad eléctrica real:** Nunca indicar un **LED suelto directo a pila de 9V** sin resistencia (usar bombilla pequeña con portafoco o módulo LED protegido) y **cero soldadura con cautín** en EGB.
+* **Estado actual del proyecto:**
+  * **6 temarios maestros (`8vo EGB` a `3ro BGU`)** cerrados con Títulos Generales, Propósitos Generales y nombres de parciales estilo UK sin marcas.
+  * **Malla Curricular conectada:** `01_TEMARIOS_POR_CURSO/MAPA_DE_RUTA_CURRICULAR.md` y `malla_curricular_robotica.html` (escalera completa `8vo -> 3ro BGU`).
+  * **Panel de control:** `00_PANEL_CONTROL.md` alineado en agenda P2.
+  * **NotebookLM por parcial:** **8vo EGB (`P1–P4`)** y **9no EGB (`P2–P4`)** completos con lógica de serie continua y Video Resumen en P3–P4; **10mo–3ro BGU** tienen `P2` listo y avanzan a `P3–P4` sin bloquearse por inventario (si falta algún componente físico en clase, se ajusta ese capítulo y se regenera).
+* **Enseñar materiales + paso a paso + verificación de calidad** en todo **Taller Físico**, incluyendo pruebas concretas de éxito.
+* **Enfoque en Proyecto/Artefacto Real (Cero temas abstractos sueltos):** Cada clase debe girar en torno a un producto reconocible (*Semáforo, Luces de Patrulla, Luz Nocturna Automática, Interruptor con 1 Clic, Sensor de Retro*, etc.).
+* **Seguridad eléctrica real:** Nunca indicar un **LED suelto directo a pila de 9V** sin resistencia y **cero soldadura con cautín** en EGB.
 * **Respetar la progresión eléctrica:** PhET básico + Limones (8vo P1) $\rightarrow$ Conductores, Empalmes, DC, AC y Breakers (8vo P2) $\rightarrow$ Electrostática, Ley de Ohm + Vista Esquemática, Serie/Paralelo y Masa Conductora (8vo P3) $\rightarrow$ Código de colores, Lógica `AND/OR`, LDR/Potenciómetro y Luz Nocturna con Transistor sin protoboard (9no P4) $\rightarrow$ Protoboard física + Arduino C++ (10mo).
 
 ### ❌ QUÉ NO HACER JAMÁS
-* **NUNCA** poner el nombre del mediador (`David Castro`, `Ing.`, `Docente`, `Profesor`) en diapositivas ni prompts de NotebookLM.
-* **NUNCA** poner fechas ni `"Semana X"` en diapositivas (usar `CAPÍTULO #1`, `#2`, etc.).
-* **NUNCA** amarrar entregables (`"sube captura"`, `"en Classroom"`) ni cantidad fija de preguntas (`"5 preguntas"`, `"4 casos"`) en diapositivas; poner directo la actividad.
-* **NUNCA** encasillar a NotebookLM con diálogos forzados, personaje fijo por slide o límite de diapositivas.
+* **NUNCA** poner el nombre del mediador (`David Castro`, `Ing.`, `Docente`, `Profesor`) en diapositivas, videos ni prompts de NotebookLM.
+* **NUNCA** poner fechas ni `"Semana X"` en diapositivas o videos (usar `CAPÍTULO #1`, `#2`, etc.).
+* **NUNCA** amarrar entregables (`"sube captura"`, `"en Classroom"`) ni cantidad fija de preguntas (`"5 preguntas"`, `"4 casos"`).
+* **NUNCA** encasillar a NotebookLM pre-escribiendo tramas, diálogos, personaje fijo por slide o límite de diapositivas.
 * **NUNCA** regalar el código/solución/paso a paso resuelto ni las respuestas de tablas/experimentos antes de actividades evaluativas (`👤 Individual` / `👥 Grupal`).
 * **NUNCA** usar sintaxis LaTeX (`$\rightarrow$`, `\text{V}`, `$+$`) en archivos `FUENTE_...` para NotebookLM; usar siempre texto plano limpio (`->`, `110V`, `+`, `-`).
