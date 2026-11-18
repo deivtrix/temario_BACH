@@ -1,285 +1,119 @@
-# 📘 9NO EGB — PARCIAL 2 (FUENTE ÚNICA PARA NOTEBOOKLM)
-**Mediador:** David Castro | **Materia:** Robótica y Tecnología
-**Unidad:** Diseño 3D en Tinkercad, Inkscape .SVG y Casa 3D
-**Ya ejecutado al inicio del Parcial 2:** S1: Intro Tinkercad 3D y Llavero (Individual 1). S2: Case de iPhone Parte 1.
-
+# 🐢 9NO EGB — PARCIAL 2 (FUENTE ÚNICA PARA NOTEBOOKLM)
+**Materia:** Robótica y Tecnología  
+**Unidad:** Modelado Digital 3D y Prototipado
 
 ---
 
-# 📗 9NO EGB — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
-**Tema:** Case de iPhone en Tinkercad 3D — Parte 2 + Formulario *(Individual 2)*  
-**Mediador:** David Castro  
-**Modo de Clase:** Modo B — Actividad Autónoma Evaluada (45 min)  
-**Entregable:** Captura del Case 3D terminado + Formulario corto en Classroom.
-
----
-
-## 🎯 PROPÓSITO LEV Y SENTIDO PRÁCTICO
-* **Propósito:** **Modelar** los huecos de cámara y botones de nuestra funda 3D para que encaje en un celular.
-* **¿Para qué me sirve en la vida?** Para diseñar piezas 3D con medidas reales antes de imprimirlas y no desperdiciar material.
-
----
-
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-
-### 1. Inicio, Motivación y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Chicos, hoy terminamos nuestro Case de iPhone 3D. Imaginen que mañana lo enviamos a imprimir: si la cámara queda chueca o no dejan espacio para el cargador, la funda no sirve."*
-* **Presentar el Propósito (Página 2):** *"Modelar los huecos de cámara y botones de nuestra funda 3D para que encaje en un celular."**modelar y verificar** los cortes y tolerancias de nuestro Case en Tinkercad para diseñar accesorios funcionales reales."*
-
-### 2. Recordatorio Técnico en Pantalla (05 – 10 min)
-* **Proyectar Página 3 y 4:** Recordar en 5 minutos los 3 comandos clave: `L` (Alinear), `Ctrl + G` (Agrupar sólido + hueco) y `Ctrl + D` (Duplicar botones), y mostrar qué debe verse en la captura final (interior vaciado + nombre 3D).
-
-### 3. Trabajo Autónomo con Intervención del Mediador (10 – 35 min)
-* **Instrucción:** *"Cada uno termina sus cortes de cámara, botones y puerto de carga, y agrega su nombre en 3D."*
-* **Tu rol en estos 25 min:** Pasas por las computadoras ayudando a quienes tienen el hueco descentrado o no logran perforar la cámara sin dañar el borde.
-
-### 4. Formulario, Cierre y Verificación (35 – 45 min)
-* **35 – 42 min:** *"Tomen su captura en ángulo 3D, súbanla a Classroom y respondan el formulario de 4 preguntas."*
-* **42 – 45 min (Preguntas orales de cierre):**
-  1. *"¿Para qué sirve la tecla `L` en Tinkercad?"*
-  2. *"¿Qué diferencia hay entre agrupar dos sólidos vs. un sólido con un hueco?"*
-
----
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM + PREGUNTAS DEL FORMULARIO
-```text
-TÍTULO: Actividad Individual 2: Case de iPhone 3D (Parte 2) + Formulario
-
-PROPÓSITO: Modelar los huecos de cámara y botones de nuestra funda 3D para que encaje en un celular.
-
-INSTRUCCIONES:
-1. Termina tu Case de iPhone en Tinkercad 3D (vaciado interno, hueco de cámara, botones, puerto de carga y tu nombre en 3D).
-2. Sube 1 captura de pantalla clara donde se vea tu diseño completo.
-3. Responde el Formulario adjunto (4 preguntas rápidas):
-   - P1: ¿Qué comando usaste para centrar el hueco interno dentro de la base? (Alinear / L)
-   - P2: ¿Qué ocurre si agrupas (Ctrl + G) dos piezas sólidas vs. una sólida y una hueca?
-   - P3: ¿Cuántos milímetros de grosor dejaste en las paredes de tu Case?
-   - P4: ¿Cuál fue el corte más difícil de alinear y cómo lo resolviste?
-
-Calificación: 10 puntos (Diseño 3D + Formulario).
-```
-
-
----
-
-# 📗 9NO EGB — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
-**Tema:** Vectorización 2D (Inkscape `.PNG` $\rightarrow$ `.SVG`) + Intro a Litofanías  
-**Mediador:** David Castro  
-**Modo de Clase:** Modo A — Tema Nuevo (45 min)  
-**Entregable:** Captura exprés en Classroom del logo convertido a 3D en Tinkercad.
-
+# 1. Introducción a Tinkercad 3D y Llavero (`👤 ACTIVIDAD INDIVIDUAL 1`)
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Convertir** un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad.
-* **¿Para qué me sirve en la vida?** Para fabricar llaveros, sellos, placas personalizadas y conocer cómo una foto común se transforma en relieve 3D (litofanías).
+* **Propósito:** **Diseñar** un llavero personalizado en Tinkercad 3D dominando los ejes `X, Y, Z`, formas sólidas/huecas, alineación (`L`) y agrupación (`Ctrl + G`).
+* **¿Para qué me sirve en la vida?** Para crear objetos reales imprimibles en 3D entendiendo cómo se ubican y combinan piezas en el espacio tridimensional.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Chicos, en Tinkercad solo tenemos cubos y cilindros, pero ¿cómo hacen las empresas para imprimir en 3D el escudo de un equipo o el logo de Nike? Hoy vamos a pasar una imagen de Google directo a 3D."*
-* **Propósito en pantalla:** *"Convertir un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad."*
-
-### 2. Teoría Corta y Modelación (05 – 15 min)
-* **Concepto (3 min):** Diferencia entre **Imagen Pixelada (`.PNG`/`.JPG`)** y **Vector (`.SVG`)** (el `.SVG` guarda líneas matemáticas que Tinkercad sí puede extruir).
-* **Modelación en Inkscape $\rightarrow$ Tinkercad (7 min):**
-  1. Pegar logo simple en blanco y negro en Inkscape.
-  2. `Trayecto` $\rightarrow$ `Vectorizar mapa de bits` $\rightarrow$ Aplicar $\rightarrow$ Borrar la imagen original.
-  3. Guardar como `.SVG` e **Importar** en Tinkercad 3D.
-* **Demo relámpago (1 min):** Mostrar `3dwork.io/litofania/` como anuncio de que las fotos con grises también se vuelven placas 3D traslúcidas.
-
-### 3. Práctica Guiada y Reto Individual (15 – 40 min)
-* **15 – 25 min (Guiada):** Todos descargan un ícono simple (alto contraste, sin fondo) y lo vectorizan juntos en Inkscape a `.SVG`.
-* **25 – 40 min (Reto Solos):** Importan su `.SVG` a Tinkercad 3D, le dan altura (`4 mm`) y lo montan sobre una base rectangular con un agujero para convertirlo en **placa/llavero con logo**.
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-* **2 preguntas rápidas:**
-  1. *"¿Por qué Tinkercad no acepta una foto `.JPG` normal y sí un archivo `.SVG`?"*
-  2. *"¿Qué es una litofanía en impresión 3D?"*
-* **Cierre:** Subir 1 captura del logo ya en 3D dentro de Tinkercad a Classroom.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Práctica 3D: De Imagen 2D a Vector .SVG en Tinkercad
-
-PROPÓSITO: Convertir un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad.
-
-INSTRUCCIONES:
-1. Elige un logo o ícono simple en blanco y negro.
-2. Vectorízalo en Inkscape (Trayecto -> Vectorizar mapa de bits) y guárdalo como .SVG.
-3. Impórtalo en Tinkercad 3D, colócalo sobre una base con tu nombre o iniciales y tómale 1 captura.
-4. Sube la captura aquí antes de terminar la clase.
-
-Calificación: 10 puntos (Práctica de clase).
-```
-
+## 📚 CONTENIDO Y RETO INDIVIDUAL
+* **Fundamento técnico (10 min):**
+  * **Espacio 3D (`X, Y, Z`):** `X` (ancho izquierda/derecha), `Y` (profundidad adelante/atrás) y `Z` (altura arriba/abajo sobre el plano de trabajo).
+  * **Sólido vs. Hueco:** Un objeto hueco restado y agrupado (`Ctrl + G`) con un sólido recorta perforaciones exactas (como el ojal de un llavero).
+  * **Comandos clave:** `L` (Alinear centros y bordes), `Ctrl + D` (Duplicar), `Ctrl + G` (Agrupar) y `Ctrl + Shift + G` (Desagrupar).
+* **Actividad individual (`👤 ACTIVIDAD INDIVIDUAL` — sin diseño resuelto):**
+  * Diseñar un llavero propio con base de bordes suaves, nombre o iniciales en relieve y perforación circular pasante para argolla.
+  * **1 Consejo:** Usa la herramienta Alinear (`L`) antes de agrupar para que el texto y el agujero queden centrados con precisión.
+* **Preguntas de verificación:** ¿Qué hace la combinación `Ctrl + G` cuando unes un cilindro hueco con una placa sólida? ¿Para qué sirve la tecla `L`?
 
 ---
 
-# 📗 9NO EGB — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
-**Tema:** Proyecto Grupal 3D: Vehículo / Carro — Parte 1 *(Grupal)*  
-**Mediador:** David Castro  
-**Modo de Clase:** Modo A/B — Modelación (10 min) + Trabajo Grupal (30 min) + Cierre (5 min)  
-**Entregable:** Avance en vivo (chasis y carrocería listos; entrega final en Semana 6).
-
+# 2. Case de iPhone en Tinkercad 3D — Parte 1 (`📘 PRÁCTICA GUIADA`)
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Diseñar** en equipo la carrocería y el chasis de un carro 3D en Tinkercad para armarlo por partes.
-* **¿Para qué me sirve en la vida?** Para aprender a dividir un producto complejo en partes (chasis, cabina, ruedas) igual que en diseño automotriz o robótica móvil.
+* **Propósito:** **Modelar** la estructura base de un protector (case) con medidas reales en milímetros y vaciado interno preciso.
+* **¿Para qué me sirve en la vida?** Para diseñar piezas que deben encajar exactamente alrededor de objetos reales usando medidas en milímetros.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Hoy arrancamos un proyecto de 2 semanas en equipos: van a diseñar su propio carro en 3D. Esta semana armamos el chasis y la carrocería, y la próxima le ponemos ejes, ruedas y detalles."*
-* **Propósito en pantalla:** *"Diseñar en equipo la carrocería y el chasis de un carro 3D en Tinkercad para armarlo por partes."*
-
-### 2. Modelación Rápida (05 – 15 min)
-* **Mostrar en Tinkercad 3D:**
-  * Usar un cubo base largo como **chasis**, cortar con cuñas/huecos el **parabrisas y cabina** (o usar *Techo* / *Cuña*).
-  * Cómo trabajar **en equipo**: compartir enlace de edición o dividir tareas (uno hace carrocería, otro los faros/alerón, otro las ruedas para la Parte 2).
-
-### 3. Trabajo Grupal con Intervención del Mediador (15 – 40 min)
-* **Instrucción:** En grupos de 2 o 3, diseñan el chasis y la carrocería principal del vehículo (sin ruedas aún, o dejando los arcos/huecos de las ruedas).
-* **Tu rol:** Ayudas a mantener proporciones realistas y que las piezas queden bien alineadas (`L`) y agrupadas.
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-* **2 preguntas rápidas:**
-  1. *"¿Por qué conviene dejar los arcos/espacios de las ruedas antes de pegarlas la próxima semana?"*
-  2. *"¿Qué herramientas usaron hoy para dar forma aerodinámica al carro?"*
-* **Cierre:** Guardar el proyecto en Tinkercad con el nombre del grupo (ej. `Carro_GrupoX`).
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Proyecto Grupal 3D: Vehículo / Carro (Parte 1 — Chasis y Carrocería)
-
-PROPÓSITO: Diseñar en equipo la carrocería y el chasis de un carro 3D en Tinkercad para armarlo por partes.
-
-AVANCE DE HOY (Sin entrega final aún):
-1. En grupos de 2–3, creen el chasis y la carrocería principal del vehículo en Tinkercad 3D.
-2. Usen formas huecas para recortar ventanas/cabina y espacios para las ruedas.
-3. Guarden el proyecto con los nombres del grupo; la próxima semana agregamos ejes, ruedas y entregamos la captura final.
-```
-
+## 📚 CONTENIDO EXPLICATIVO Y PRÁCTICA GUIADA
+* **Fundamento técnico (10 min):**
+  * **Medición en milímetros (`mm`):** En diseño 3D e impresión 3D la unidad estándar es el milímetro (`1 cm = 10 mm`).
+  * **Vaciado por diferencia:** Para crear una carcasa con paredes de `2 mm` de grosor, al bloque exterior se le resta un bloque hueco interior `4 mm` más estrecho en `X` y `Y`, elevado `2 mm` sobre `Z` (fondo sólido).
+* **Práctica guiada:** Crear el bloque exterior del teléfono, duplicar (`Ctrl + D`), convertir en hueco, restar `4 mm` en ancho y largo, elevar `2 mm` en `Z`, alinear (`L`) al centro y agrupar (`Ctrl + G`) para obtener la bandeja base.
+* **Preguntas de verificación:** Si la pared debe medir `2 mm` en cada lado, ¿cuántos milímetros en total debemos restar al ancho del bloque hueco interior?
 
 ---
 
-# 📗 9NO EGB — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
-**Tema:** Proyecto Grupal 3D: Vehículo / Carro — Parte 2 *(Grupal)*  
-**Mediador:** David Castro  
-**Modo de Clase:** Modo B — Trabajo Autónomo Grupal (45 min)  
-**Entregable:** Captura final del Carro 3D terminado con nombres del grupo en Classroom.
-
+# 3. Case de iPhone — Parte 2: Tolerancias y Cortes (`👤 ACTIVIDAD INDIVIDUAL 2`)
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Completar** nuestro carro 3D poniéndole ejes, 4 llantas alineadas y detalles finales en equipo.
-* **¿Para qué me sirve en la vida?** Para verificar que todas las piezas móviles (ruedas, ejes) encajen sin chocar con la carrocería antes de fabricar un modelo.
+* **Propósito:** **Completar** el case 3D aplicando holguras/tolerancias reales y aberturas exactas para cámara, botones laterales y puerto de carga.
+* **¿Para qué me sirve en la vida?** Para aprender por qué las piezas fabricadas necesitan décimas de milímetro de holgura para no quedar apretadas ni sueltas.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Hoy terminamos su carro 3D. Un carro sin ruedas alineadas no rueda: vamos a centrar ejes, colocar las 4 llantas y darle el toque final."*
-* **Propósito en pantalla:** *"Completar nuestro carro 3D poniéndole ejes, 4 llantas alineadas y detalles finales en equipo."*
-
-### 2. Encuadre Técnico (05 – 10 min)
-* Recordar usar `L` (Alinear) para que las 4 ruedas queden a la misma altura (`Z = 0` tocando el plano de trabajo) y `Ctrl + D` para duplicar llantas idénticas.
-
-### 3. Trabajo Grupal con Intervención del Mediador (10 – 40 min)
-* **Instrucción:** En sus grupos, agregan ejes, 4 ruedas con rines, faros/vidrios y los **nombres del equipo** en texto 3D sobre la base o techo.
-* **Tu rol:** Pasas por los equipos revisando que las ruedas no queden flotando ni atravesando la carrocería.
-
-### 4. Cierre, Preguntas y Entrega (40 – 45 min)
-* **2 preguntas rápidas:**
-  1. *"¿Cómo aseguraron que las 4 ruedas quedaran exactamente a la misma altura?"*
-  2. *"¿Qué comando usaron para hacer las 4 llantas del mismo tamaño sin dibujarlas de cero?"*
-* **Cierre:** Subir 1 captura grupal en perspectiva 3D a Classroom.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Proyecto Grupal 3D: Vehículo / Carro (Parte 2 — Entrega Final)
-
-PROPÓSITO: Completar nuestro carro 3D poniéndole ejes, 4 llantas alineadas y detalles finales en equipo.
-
-INSTRUCCIONES (En grupos):
-1. Agreguen ejes, 4 ruedas alineadas al plano de trabajo, faros y detalles finales a su carro de la semana pasada.
-2. Coloquen los nombres de los integrantes en texto 3D junto al vehículo.
-3. Un integrante sube 1 captura clara en ángulo 3D con el archivo terminado.
-
-Calificación: 10 puntos (Proyecto Grupal).
-```
-
+## 📚 CONTENIDO Y RETO INDIVIDUAL
+* **Fundamento técnico (5 min):**
+  * **Tolerancia / Holgura (`0.3` a `0.5 mm`):** Si un teléfono mide exactamente `71.5 mm` de ancho y haces el hueco de `71.5 mm`, en plástico impreso no entrará; se suma holgura para un ajuste funcional.
+  * **Cortes funcionales:** Ventana trasera para módulo de cámara, ranura inferior para cargador y rebajes laterales para botones.
+* **Actividad individual (`👤 ACTIVIDAD INDIVIDUAL` — sin diseño resuelto):**
+  * Completar el case agregando con precisión el recorte de cámara, el puerto de carga y los botones laterales, verificando medidas y tolerancias reales.
+  * **1 Consejo:** Usa el plano de trabajo auxiliar (`W`) sobre la cara lateral o trasera para colocar los huecos de botones y cámara sin que floten fuera de lugar.
+* **Preguntas de verificación:** ¿Qué ocurriría al imprimir en 3D si diseñamos el hueco interno exactamente igual al ancho físico del teléfono sin holgura?
 
 ---
 
-# 📗 9NO EGB — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
-**Tema:** Refuerzo 3D: Casa en Tinkercad — Parte 1 *(Refuerzo)*  
-**Mediador:** David Castro  
-**Modo de Clase:** Modo A — Tema de Refuerzo (45 min)  
-**Entregable:** Avance en Tinkercad (muros, puerta y ventanas listos; entrega final en Semana 8).
-
+# 4. Vectorización 2D (Inkscape `.PNG` -> `.SVG`) a Tinkercad 3D (`📘 TEMA NUEVO`)
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Construir** las paredes, puerta y ventanas de una casa 3D en Tinkercad usando cubos huecos.
-* **¿Para qué me sirve en la vida?** Para practicar el modelado arquitectónico básico y el uso preciso de huecos antes de diseñar piezas más complejas.
+* **Propósito:** **Convertir** imágenes planas (`.PNG`/`.JPG`) en gráficos vectoriales limpios (`.SVG`) mediante Inkscape para importarlos y extruirlos en volumen 3D.
+* **¿Para qué me sirve en la vida?** Para transformar cualquier logotipo, silueta o escudo 2D en placas, sellos, llaveros o piezas físicas en 3D.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Para cerrar el bloque de diseño 3D, hoy y la semana de regreso en enero vamos a construir una Casa 3D en Tinkercad. Hoy hacemos los muros, puerta y ventanas."*
-* **Propósito en pantalla:** *"Construir las paredes, puerta y ventanas de una casa 3D en Tinkercad usando cubos huecos."*
-
-### 2. Modelación Rápida (05 – 15 min)
-* Mostrar el truco rápido de hacer una casa hueca: 1 cubo sólido grande + 1 cubo hueco ligeramente más pequeño adentro $\rightarrow$ `Ctrl + G` = muros con interior hueco, luego abrir puerta y ventanas con cubos huecos.
-
-### 3. Práctica Individual (15 – 40 min)
-* Cada estudiante arma la base de su casa, vacía el interior y perfora al menos **1 puerta y 2 ventanas**.
-* **Tu rol:** Ayudas a alinear las ventanas a la misma altura (`L` o elevación con la flecha negra superior).
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-* **2 preguntas rápidas:**
-  1. *"¿Cómo logras que las paredes de la casa tengan el mismo grosor en los 4 lados?"*
-  2. *"¿Qué herramienta usaste para levantar las ventanas del suelo?"*
-* **Cierre:** Guardar el proyecto (`Casa_Nombre`) para terminar techo y jardín en enero.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Refuerzo 3D: Casa en Tinkercad (Parte 1 — Muros y Ventanas)
-
-PROPÓSITO: Construir las paredes, puerta y ventanas de una casa 3D en Tinkercad usando cubos huecos.
-
-AVANCE DE HOY:
-1. Modela la base de tu casa con interior hueco, 1 puerta y al menos 2 ventanas.
-2. Guarda tu diseño en Tinkercad; en enero agregamos el techo y detalles para la entrega final.
-```
-
+## 📚 CONTENIDO EXPLICATIVO (TEORÍA PUNTUAL — 10 MIN)
+* **Mapa de bits (`.PNG`/`.JPG`) vs. Vector (`.SVG`):**
+  * Una imagen **`.PNG`** está formada por cuadritos (píxeles); si la amplías mucho se ve borrosa y un software CAD 3D no puede convertir píxeles directos en volumen limpio.
+  * Un archivo **`.SVG` (Gráficos Vectoriales Escalables)** guarda curvas y líneas matemáticas; conserva nitidez infinita y Tinkercad puede darle altura (`extrusión`) al instante.
+* **Flujo paso a paso en Inkscape -> Tinkercad 3D:**
+  1. Abrir/importar la imagen limpia (alto contraste, ideal blanco y negro) en **Inkscape**.
+  2. Seleccionar la imagen y usar **Trayecto -> Vectorizar mapa de bits** (ajustando umbral para obtener silueta limpia sin manchas sueltas).
+  3. Borrar la imagen original de fondo y guardar únicamente el trazo como **`.SVG`**.
+  4. En Tinkercad 3D, usar **Importar**, ajustar escala en `mm` y definir altura de relieve (`3` a `4 mm`).
+* **Práctica guiada:** Vectorizar un logotipo sencillo en Inkscape, limpiarlo y extruirlo sobre una placa base en Tinkercad 3D.
+* **Preguntas de verificación:** ¿Por qué Tinkercad 3D necesita archivos `.SVG` y no `.PNG` directos? ¿Por qué conviene borrar el mapa de bits original antes de guardar?
 
 ---
 
-# 📗 9NO EGB — PARCIAL 2 / SEMANA 8 (5 – 8 ene)
-**Tema:** Refuerzo 3D: Casa en Tinkercad — Parte 2 y Cierre *(Refuerzo)*  
-**Mediador:** David Castro  
-**Modo de Clase:** Modo B — Cierre de Proyecto y Quimestre (45 min)  
-**Entregable:** Captura final de la Casa 3D terminada + revisión previa a quimestrales.
-
+# 5. Proyecto Grupal 3D: Vehículo / Carro — Parte 1 (`📘 PRÁCTICA EN EQUIPOS`)
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Completar** el techo y jardín de nuestra Casa 3D en Tinkercad para cerrar el bloque de diseño.
-* **¿Para qué me sirve en la vida?** Para terminar proyectos 3D completos con orden, estética y limpieza antes de pasar a robótica física.
+* **Propósito:** **Modelar** en equipos la estructura principal (chasis y carrocería) de un vehículo 3D cuidando proporciones y pasos de rueda.
+* **¿Para qué me sirve en la vida?** Para planificar diseños mecánicos compuestos por varias piezas que luego deberán ensamblarse con ejes móviles.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"¡Feliz año! Hoy terminamos su Casa 3D poniéndole techo, puerta y un toque personal (jardín, cerca o chimenea) para cerrar el quimestre."*
-* **Propósito en pantalla:** *"Completar el techo y jardín de nuestra Casa 3D en Tinkercad para cerrar el bloque de diseño."*
+## 📚 CONTENIDO EXPLICATIVO Y AVANCE EN EQUIPOS
+* **Fundamento técnico (5 min):**
+  * **Diseño modular:** Antes de poner ruedas, un vehículo necesita un **chasis firme**, **carrocería** (cabina con parabrisas recortado o aerodinámica) y **espacios libres (guardafangos)** para que las ruedas no choquen con el cuerpo.
+  * **Simetría:** Usar `L` (Alinear) sobre el eje central para que ambos lados del carro queden equilibrados.
+* **Práctica en equipos:** Diseñar en equipo la base del chasis y la carrocería del vehículo (dejando los arcos o espacios libres para las 4 ruedas).
+* **Preguntas de verificación:** ¿Por qué debemos dejar espacio libre alrededor de donde irán las ruedas?
 
-### 2. Trabajo Autónomo (05 – 35 min)
-* Abren `Casa_Nombre` de diciembre, agregan techo inclinado (`Techo` o `Cuña`), detalles exteriores y su nombre en 3D.
-* **Tu rol:** Revisas entregas pendientes de diciembre y das visto bueno al diseño terminado.
+---
 
-### 3. Cierre y Autoevaluación Likert (1 al 5) (35 – 45 min)
-* Suben captura final de la Casa 3D a Classroom + completan su autoevaluación del **1 al 5** (*1 = Todavía me cuesta | 5 = Lo domino y lo puedo explicar*):
-  1. Modelar piezas 3D con medidas exactas y huecos (`Ctrl + G`, `L`).
-  2. Convertir imágenes 2D (`.PNG`) a vectores `.SVG` en Inkscape.
-  3. Diseñar un vehículo o estructura 3D completa en equipo.
-  4. Organizar y terminar una Casa 3D limpia en Tinkercad.
+# 6. Proyecto Grupal 3D: Vehículo / Carro — Parte 2 (`👥 ACTIVIDAD GRUPAL`)
+## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
+* **Propósito:** **Ensamblar** ejes, ruedas con holgura (`0.3–0.5 mm`) y detalles finales en el vehículo 3D, exportándolo en formato `.STL` listo para impresión.
+* **¿Para qué me sirve en la vida?** Para preparar un prototipo 3D real exportable a impresora 3D verificando que todas sus piezas apoyen bien y puedan girar.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Refuerzo 3D: Casa en Tinkercad (Parte 2 — Entrega Final)
+## 📚 CONTENIDO Y RETO GRUPAL
+* **Fundamento técnico (5 min):**
+  * **Apoyo al suelo (`Z = 0`):** Las 4 ruedas deben tocar exactamente el plano de trabajo (`Z = 0`), mientras el chasis queda elevado por los ejes sin rozar el piso.
+  * **Holgura de eje (`0.3–0.5 mm`):** Si el eje atraviesa un agujero del chasis, el agujero debe ser ligeramente más ancho que el eje para que pueda girar al imprimir.
+  * **Formato `.STL`:** Formato universal de malla de triángulos que leen las impresoras 3D (laminadores).
+* **Actividad grupal (`👥 ACTIVIDAD GRUPAL` — sin diseño resuelto):**
+  * Completar el vehículo en equipo agregando los 2 ejes, las 4 ruedas alineadas al suelo (`Z = 0`) con holgura real, detalles (faros, alerón o matrícula) y exportarlo en `.STL`.
+  * **1 Consejo:** Seleccionen las 4 ruedas y usen la vista frontal/lateral para comprobar que todas tocan el plano `Z = 0` por igual.
+* **Preguntas de verificación:** ¿Para qué sirve exportar el diseño en formato `.STL`? ¿Qué pasa si el chasis toca el suelo más abajo que las ruedas?
 
-PROPÓSITO: Completar el techo y jardín de nuestra Casa 3D en Tinkercad para cerrar el bloque de diseño.
+---
 
-INSTRUCCIONES:
-1. Abre tu casa de la clase anterior y agrega el techo, puerta y detalles exteriores (cerca, chimenea o jardín).
-2. Coloca tu nombre en 3D y sube 1 captura clara en perspectiva.
+# 7. Refuerzo 3D: Casa en Tinkercad y Autoevaluación (`🛠️ REFUERZO`)
+## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
+* **Propósito:** **Consolidar** todas las herramientas 3D (vaciado, alineación, huecos, rotación y techo) modelando una vivienda completa y evaluando el dominio propio.
+* **¿Para qué me sirve en la vida?** Para integrar múltiples técnicas de diseño CAD en un proyecto arquitectónico o de maqueta funcional.
 
-Calificación: Refuerzo / Cierre de Parcial 2 (10 puntos).
-```
+## 📚 CONTENIDO, RETO Y AUTOEVALUACIÓN LIKERT (1 AL 5)
+* **Repaso integrador (sin respuestas visibles):**
+  * ¿Qué comando alinea objetos respecto a un borde o centro?
+  * ¿Cuál es la diferencia práctica entre un archivo `.PNG`, un `.SVG` y un `.STL`?
+  * ¿Por qué se añade `0.3–0.5 mm` de holgura entre un eje y su agujero?
+* **Reto integrador (`🛠️ REFUERZO`):** Modelar una **Casa 3D** con muros huecos uniformes, 1 puerta, 2 ventanas pasantes, techo inclinado alineado y al menos 1 detalle exterior (jardín, cerca o placa `.SVG`).
+* **Autoevaluación Escala de Likert (1 = Todavía me cuesta | 3 = Lo entiendo con ayuda | 5 = Lo domino y lo puedo explicar):**
+  1. Utilizar ejes `X, Y, Z`, formas huecas y comandos clave (`L`, `Ctrl + G`, `Ctrl + D`).
+  2. Aplicar medidas en milímetros y tolerancias/holguras reales (`0.3–0.5 mm`) en diseños funcionales.
+  3. Vectorizar imágenes 2D a `.SVG` en Inkscape e importarlos/extruirlos en Tinkercad 3D.
+  4. Ensamblar proyectos completos de varias piezas (Vehículo y Casa 3D) y exportarlos en `.STL`.

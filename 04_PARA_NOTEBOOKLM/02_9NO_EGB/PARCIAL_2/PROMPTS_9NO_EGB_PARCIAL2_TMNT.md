@@ -1,88 +1,167 @@
-# 🐢 PROMPTS PARA NOTEBOOKLM — 9NO EGB PARCIAL 2 (VISUAL POR CAPÍTULOS)
+# 🐢 PROMPTS PARA NOTEBOOKLM — 9NO EGB PARCIAL 2 (TORTUGAS NINJA)
 
 ## 📌 CÓMO USARLO
-1. En **NotebookLM**, sube **1 solo archivo**: `FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md`.
-2. *(Opcional)* En **Descubrir fuentes**, pega estos temas en español:
-   * `Diseño 3D en Tinkercad comandos alinear agrupar y huecos guía básica`
-   * `Cómo convertir imagen PNG a vector SVG en Inkscape paso a paso`
-   * `Qué es una litofanía en impresión 3D explicación sencilla`
-3. Haz **3 generaciones** (cero fechas, cero "Semana X", sin nombre de mediador, visual con diagramas):
+1. En **NotebookLM**, crea **1 cuaderno nuevo** para este parcial y sube **1 solo archivo**: `FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md`.
+2. *(Opcional)* En **Descubrir fuentes**, pega estas búsquedas cortas en español:
+   * `Diseño 3D en Tinkercad alinear agrupar y huecos`
+   * `Tolerancias y holguras en impresión 3D`
+   * `Vectorizar imagen PNG a SVG en Inkscape`
+   * `Exportar archivo STL para impresión 3D`
+3. Copia y pega **1 prompt por tema** en el orden que necesites. Todos comparten el universo de **Tortugas Ninja**, alternando **viñetas de acción/conflicto** con **láminas explicativas profundas** para estudiar en Classroom.
 
 ---
 
-## 🟢 GENERACIÓN 1 (12 Diapositivas): CAPÍTULOS #1, #2 y #3
+## 🎬 VIDEO DE REPASO DEL PARCIAL (Para Studio -> Video)
 ```text
-IDIOMA OBLIGATORIO: Todo 100% en ESPAÑOL. Prohibido usar inglés.
-REGLA DE TÍTULOS Y LIMPIEZA: PROHIBIDO poner fechas, "Semana X" o nombres de profesor/mediador. Numera como "CAPÍTULO #1", "CAPÍTULO #2", "CAPÍTULO #3".
+Crea un video explicativo de repaso en español para estudiantes de 9no EGB (13-14 años) sobre todo el Volumen 2: "Modelado Digital 3D y Prototipado" usando el archivo FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
 
-Crea exactamente 12 diapositivas para 9no EGB (13-14 años) basadas en las clases de Llavero, Case de iPhone e Inkscape del archivo `FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md`.
-DISEÑO VISUAL: Tortugas Ninja (TMNT) como apoyo visual limpio (máx. 6–8 palabras por personaje). Prioriza DIAGRAMAS GRÁFICOS, ESQUEMAS CON FLECHAS E ÍCONOS GRANDES; cero bloques de texto (solo definiciones clave cortas de 1–2 líneas).
+Cubre de forma ordenada y solo teórica todos los temas y subtemas del parcial (ejes X-Y-Z, sólido vs. hueco y comandos L/Ctrl+G/Ctrl+D, medición en milímetros y vaciado interno, tolerancias de 0.3 a 0.5 mm, diferencia entre mapa de bits PNG y vector SVG con Inkscape, diseño modular con apoyo Z=0 y exportación STL). Usa gráficos claros, diagramas comparativos y ejemplos cercanos a su edad (sin personajes de cómics).
 
-ESTRUCTURA:
-- Slides 1–4 -> CAPÍTULO #1: Intro a Tinkercad 3D y Llavero (`👤 ACTIVIDAD INDIVIDUAL 1`):
-  1. Portada ("CAPÍTULO #1: Tinkercad 3D y Llavero" | `👤 ACTIVIDAD INDIVIDUAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  2. Diagrama visual: Ejes X, Y, Z y comandos clave (`L` Alinear, `Ctrl+G` Agrupar sólido + hueco, `Ctrl+D` Duplicar).
-  3. Diseño de referencia: Llavero 3D con base, texto en relieve y orificio hueco.
-  4. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado directo de la actividad (sin paso a paso ni entregable amarrado).
-
-- Slides 5–8 -> CAPÍTULO #2: Case de iPhone 3D (`👤 ACTIVIDAD INDIVIDUAL 2`):
-  5. Portada ("CAPÍTULO #2: Case de iPhone 3D" | `👤 ACTIVIDAD INDIVIDUAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  6. Diagrama técnico: Vaciado interno (sólido - hueco centrado) y medidas/tolerancias en mm.
-  7. Diseño de referencia: Case 3D mostrando cortes de cámara, botones y puerto de carga.
-  8. `👤 ACTIVIDAD INDIVIDUAL`: Enunciado directo del diseño a completar + 1 tip de alineación.
-
-- Slides 9–12 -> CAPÍTULO #3: Vectorización 2D (Inkscape .SVG) + Intro Litofanías (`📘 TEMA NUEVO`):
-  9. Portada ("CAPÍTULO #3: De Imagen 2D a Vector 3D" | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  10. Diagrama comparativo: Imagen pixelada (.PNG) vs. Vector (.SVG) + qué es una litofanía (`3dwork.io/litofania/`).
-  11. Esquema paso a paso (1, 2, 3): Inkscape (Trayecto -> Vectorizar -> .SVG) -> Importar a Tinkercad 3D.
-  12. Actividad en clase (placa 3D con logo vectorizado a 4 mm) + 2 preguntas de cierre.
+Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
 ```
 
 ---
 
-## 🟡 GENERACIÓN 2 (8 Diapositivas): CAPÍTULOS #4 y #5 (CARRO 3D GRUPAL)
+## 🟢 CAPÍTULO #1: Introducción a Tinkercad 3D y Llavero
 ```text
-IDIOMA OBLIGATORIO: Todo 100% en ESPAÑOL. Prohibido usar inglés.
-REGLA DE TÍTULOS Y LIMPIEZA: PROHIBIDO fechas, "Semana X" o nombres de mediador. Numera como "CAPÍTULO #4" y "CAPÍTULO #5".
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 9no EGB (13-14 años) del Volumen 2: "Modelado Digital 3D y Prototipado", como un capítulo autoconclusivo independiente ("Tinkercad 3D y Llavero", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el punto 1 de FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
 
-Crea exactamente 8 diapositivas visuales (estilo limpio TMNT, diagramas gráficos, cero texto largo) para 9no EGB basadas en el Proyecto Carro 3D del archivo `FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md`.
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y el Maestro Splinter (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos en el taller donde diseñan su primer emblema/llavero 3D.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo pizarra/cuadrícula comparativa ("Ejes X, Y, Z en el espacio 3D" y "Sólido + Hueco + Ctrl+G = Perforación exacta"), con diagramas claros presentados por Donatello sin globos largos que tapen el esquema.
 
-ESTRUCTURA:
-- Slides 1–4 -> CAPÍTULO #4: Vehículo / Carro 3D - Parte 1 (`👥 ACTIVIDAD GRUPAL`):
-  1. Portada ("CAPÍTULO #4: Carro 3D — Chasis y Carrocería" | `👥 ACTIVIDAD GRUPAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  2. Diagrama de partes: Chasis, cabina/parabrisas con huecos y espacios para ruedas.
-  3. Diseño de referencia: Carrocería base en perspectiva sin ruedas aún.
-  4. `👥 ACTIVIDAD GRUPAL`: Enunciado directo en equipo + 1 tip de proporción.
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
+2. Propósito LEV y explicación cercana a chicos de 13-14 años de para qué les sirve ubicar piezas en 3D para crear objetos imprimibles reales.
+3. Láminas explicativas profundas (ejes X-Y-Z, sólido vs. hueco y comandos L, Ctrl+D, Ctrl+G).
+4. Enunciado claro de la actividad individual (llavero 3D con texto en relieve y perforación pasante + 1 consejo, PROHIBIDO dar el diseño resuelto).
+5. Verificación y cierre autoconclusivo.
 
-- Slides 5–8 -> CAPÍTULO #5: Vehículo / Carro 3D - Parte 2 (`👥 ACTIVIDAD GRUPAL`):
-  5. Portada ("CAPÍTULO #5: Carro 3D — Ejes y Ruedas" | `👥 ACTIVIDAD GRUPAL` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  6. Diagrama técnico: Alinear las 4 ruedas al plano de trabajo (`Z = 0`) con `L` y `Ctrl+D`.
-  7. Diseño de referencia: Carro 3D terminado con ejes, 4 llantas y faros.
-  8. `👥 ACTIVIDAD GRUPAL`: Enunciado directo de acabado final + 1 tip.
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```
 
 ---
 
-## 🔵 GENERACIÓN 3 (9 Diapositivas): CAPÍTULOS #6, #7 + AUTOEVALUACIÓN FINAL
+## 🟢 CAPÍTULO #2: Case de iPhone en Tinkercad 3D — Parte 1
 ```text
-IDIOMA OBLIGATORIO: Todo 100% en ESPAÑOL. Prohibido usar inglés.
-REGLA DE TÍTULOS Y LIMPIEZA: PROHIBIDO fechas, "Semana X" o nombres de mediador. Numera como "CAPÍTULO #6" y "CAPÍTULO #7".
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 9no EGB (13-14 años) del Volumen 2: "Modelado Digital 3D y Prototipado", como un capítulo autoconclusivo independiente ("Case de iPhone 3D — Parte 1") basado en el punto 2 de FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
 
-Crea exactamente 9 diapositivas visuales (estilo limpio TMNT, diagramas gráficos, cero texto largo) para 9no EGB basadas en Casa 3D del archivo `FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md`.
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor o un Soldado del Pie (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos protegiendo su comunicador móvil con una carcasa diseñada a medida.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Bloque exterior sólido menos Bloque interior hueco elevado 2 mm en Z = Paredes exactas de 2 mm"), con cotas en milímetros presentadas por Donatello sin globos que tapen las medidas.
 
-ESTRUCTURA:
-- Slides 1–4 -> CAPÍTULO #6: Casa 3D en Tinkercad - Parte 1 (`🛠️ REFUERZO`):
-  1. Portada ("CAPÍTULO #6: Casa 3D — Muros y Ventanas" | `🛠️ REFUERZO` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  2. Diagrama de construcción: Cubo sólido menos cubo hueco = paredes uniformes.
-  3. Diseño de referencia: Casa en corte mostrando muros huecos, 1 puerta y 2 ventanas.
-  4. `🛠️ REFUERZO`: Actividad directa en clase (modelar base hueca, puerta y ventanas).
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial.
+2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué les sirve diseñar en milímetros cuando una pieza debe encajar alrededor de un objeto real.
+3. Lámina explicativa profunda de medición en milímetros y vaciado por diferencia.
+4. Práctica guiada paso a paso para modelar la bandeja base del case en Tinkercad 3D.
+5. Preguntas de verificación (con pista breve de comprobación) y cierre autoconclusivo.
 
-- Slides 5–8 -> CAPÍTULO #7: Casa 3D - Parte 2 y Cierre (`🛠️ REFUERZO`):
-  5. Portada ("CAPÍTULO #7: Casa 3D — Techo y Detalles" | `🛠️ REFUERZO` | 9no EGB) + Propósito LEV + ¿Para qué sirve?
-  6. Mapa visual de detalles: Techo inclinado (`Techo`/`Cuña`), jardín/cerca y acabados.
-  7. `🛠️ REFUERZO`: Actividad directa en clase (completar techo y detalles finales).
-  8. Mapa resumen del Parcial 2 (Tinkercad 3D -> SVG -> Carro -> Casa).
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```
 
-- Slide 9 -> AUTOEVALUACIÓN FINAL DEL PARCIAL 2 (Escala de Likert 1 al 5):
-  9. Tabla visual del 1 al 5 (1 = Todavía me cuesta | 5 = Lo domino y lo puedo explicar) evaluando: 1) Comandos básicos 3D (`L`, `Ctrl+G`), 2) Medidas y vaciados (Case), 3) Vectorización 2D `.SVG` a 3D, 4) Ensamble completo (Carro y Casa 3D).
+---
+
+## 🟡 CAPÍTULO #3: Case de iPhone — Parte 2 (Tolerancias y Cortes)
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 9no EGB (13-14 años) del Volumen 2: "Modelado Digital 3D y Prototipado", como un capítulo autoconclusivo independiente ("Case de iPhone — Parte 2", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el punto 3 de FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael y Miguel Ángel (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Problema, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos al probar su carcasa y notar qué pasa si no dejan holgura o cortes de botones.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Sin holgura = No entra vs. Con 0.3-0.5 mm de holgura = Encaje perfecto"), con diagramas claros presentados por Donatello sin globos que tapen las cotas.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
+2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué sirven las tolerancias/holguras en cualquier pieza fabricada o impresa en 3D.
+3. Lámina explicativa profunda de tolerancia (0.3-0.5 mm) y cortes funcionales (cámara, botones, carga).
+4. Enunciado claro de la actividad individual + 1 consejo sobre el plano de trabajo auxiliar W (PROHIBIDO dar el diseño terminado).
+5. Verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```
+
+---
+
+## 🟡 CAPÍTULO #4: Vectorización 2D (Inkscape `.PNG` -> `.SVG`) a Tinkercad 3D
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 9no EGB (13-14 años) del Volumen 2: "Modelado Digital 3D y Prototipado", como un capítulo autoconclusivo independiente ("Vectorización 2D .SVG a 3D") basado en el punto 4 de FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Misión, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos convirtiendo un emblema plano en un sello/placa 3D real.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Imagen .PNG con píxeles borrosos vs. Vector .SVG con curvas matemáticas nítidas" y "Paso 1-2-3-4 de Inkscape a Tinkercad"), presentadas por Donatello sin globos que tapen el flujo.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial.
+2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué les sirve transformar logotipos o dibujos 2D en placas y piezas físicas 3D.
+3. Lámina explicativa profunda comparando mapa de bits (.PNG) vs. vector (.SVG).
+4. Lámina paso a paso del flujo Inkscape (Trayecto -> Vectorizar) -> Importar y extruir en Tinkercad 3D.
+5. Práctica guiada dentro de la historia, preguntas de verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```
+
+---
+
+## 🟠 CAPÍTULO #5: Proyecto Grupal 3D — Vehículo / Carro (Parte 1)
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 9no EGB (13-14 años) del Volumen 2: "Modelado Digital 3D y Prototipado", como un capítulo autoconclusivo independiente ("Vehículo 3D — Chasis y Carrocería") basado en el punto 5 de FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En Portada, Conflicto y Cierre: viñetas dinámicas de cómic con diálogos diseñando el chasis de su vehículo de patrulla frente a Destructor.
+- En Teoría: lámina explicativa visual mostrando diseño modular (chasis firme, carrocería simétrica con L y espacios libres/guardafangos para ruedas) presentada por Donatello sin globos que tapen las partes.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de acción.
+2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué sirve diseñar por módulos antes de colocar piezas móviles como ruedas.
+3. Lámina explicativa visual de partes del vehículo (chasis, carrocería, simetría y guardafangos).
+4. Guía de avance en equipos (sin regalar el diseño resuelto) y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```
+
+---
+
+## 🟠 CAPÍTULO #6: Proyecto Grupal 3D — Vehículo / Carro (Parte 2)
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 9no EGB (13-14 años) del Volumen 2: "Modelado Digital 3D y Prototipado", como un capítulo autoconclusivo independiente ("Vehículo 3D — Ejes, Ruedas y .STL", etiqueta 👥 ACTIVIDAD GRUPAL) basado en el punto 6 de FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En Portada, Prueba y Cierre: viñetas dinámicas de cómic con diálogos ensamblando y probando el vehículo terminado.
+- En Teoría: lámina explicativa profunda estilo cuadrícula comparativa ("Ruedas en Z = 0 + Holgura de eje 0.3-0.5 mm vs. Eje pegado o chasis arrastrando" y "Exportar a .STL para imprimir"), presentada por Donatello sin globos que tapen el diagrama.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de prueba con etiqueta 👥 ACTIVIDAD GRUPAL.
+2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué sirve verificar apoyos al suelo, holguras de giro y exportar en .STL.
+3. Lámina explicativa profunda (apoyo Z = 0, holgura de eje y formato .STL).
+4. Enunciado claro de la actividad grupal + 1 consejo de vista frontal/lateral (PROHIBIDO dar el diseño resuelto).
+5. Cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```
+
+---
+
+## 🔵 CAPÍTULO #7: Refuerzo 3D — Casa en Tinkercad y Autoevaluación
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 9no EGB (13-14 años) del Volumen 2: "Modelado Digital 3D y Prototipado", como un capítulo autoconclusivo independiente ("Casa 3D y Autoevaluación", etiqueta 🛠️ REFUERZO) basado en el punto 7 de FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y el Maestro Splinter (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En Portada, Reto y Cierre: viñetas dinámicas de cómic con diálogos construyendo una nueva guarida 3D completa.
+- En el Repaso: lámina visual limpia resumiendo vaciado de muros, tolerancias, .SVG y .STL sin globos largos que tapen los esquemas.
+
+Usa las diapositivas que necesites, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 🛠️ REFUERZO.
+2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué les sirve integrar múltiples técnicas CAD en maquetas o proyectos completos.
+3. Lámina visual resumen integrando las técnicas del Parcial 2.
+4. Preguntas de repaso (SIN respuestas visibles) y enunciado del reto integrador Casa 3D (muros huecos, puerta, ventanas, techo alineado y detalle exterior).
+5. Tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```
