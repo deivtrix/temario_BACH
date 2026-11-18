@@ -1,14 +1,13 @@
 # 📘 2DO BGU — PARCIAL 2 (FUENTE ÚNICA PARA NOTEBOOKLM)
-**Mediador:** David Castro | **Materia:** Robótica y Tecnología
-**Unidad:** Mecanismos Sim Lab y Diseño 3D Programado (Codeblocks)
+**Materia:** Robótica y Tecnología
+**Unidad:** Diseño Paramétrico por Bloques
 **Ya ejecutado al inicio del Parcial 2:** S1-S2: Mini Golf con motores en Tinkercad Sim Lab (Individual 1).
 
 
 ---
 
-# 🟣 2DO BGU — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
+# CAPÍTULO #1
 **Tema:** Mecanismo de Motor Deslizante en Tinkercad Sim Lab *(Grupal)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo A/B — Encuadre + Modelación rápida (10 min) + Reto Grupal (30 min) + Cierre (5 min)  
 **Entregable:** Captura / video corto del mecanismo funcionando en Sim Lab + 2 preguntas en Classroom.
 
@@ -63,9 +62,8 @@ Calificación: 10 puntos (Trabajo grupal en laboratorio).
 
 ---
 
-# 🟣 2DO BGU — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
+# CAPÍTULO #2
 **Tema:** Introducción a Tinkercad Codeblocks (Diseño 3D Programado) *(Individual 2)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura exprés del modelo 3D generado por código + bloques visibles en Classroom.
 
@@ -79,7 +77,7 @@ Calificación: 10 puntos (Trabajo grupal en laboratorio).
 * **Propósito en pantalla:** *"Crear figuras 3D en Tinkercad usando bloques de código en lugar de moverlas con el mouse."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
-* **¿Dónde entrar?** En Tinkercad $\rightarrow$ **Crear** $\rightarrow$ **Bloques de código (Codeblocks)**.
+* **¿Dónde entrar?** En Tinkercad -> **Crear** -> **Bloques de código (Codeblocks)**.
 * **3 bloques base:** `Formas` (Cilindro/Cubo), `Modificar` (`Mover X, Y, Z`, `Escalar`, `Rotar`), `Crear grupo`.
 * **Modelación:** Programar una **mini mesa o llavero** en 6 bloques y presionar *Play* para ver cómo se construye solo paso a paso.
 
@@ -111,9 +109,8 @@ Calificación: 10 puntos (Actividad Individual 2).
 
 ---
 
-# 🟣 2DO BGU — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
+# CAPÍTULO #3
 **Tema:** Bucles y Rotación en Tinkercad Codeblocks (Escalera / Torre Paramétrica)  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura exprés en Classroom de la estructura generada con bucles `repetir`.
 
@@ -159,9 +156,8 @@ Calificación: 10 puntos (Práctica de clase).
 
 ---
 
-# 🟣 2DO BGU — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
+# CAPÍTULO #4
 **Tema:** Proyecto Codeblocks: Engranaje o Mecanismo Paramétrico  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Práctica Autónoma Evaluada (45 min)  
 **Entregable:** Captura en Classroom del engranaje/mecanismo + variables visibles.
 
@@ -208,9 +204,8 @@ Calificación: 10 puntos (Práctica de clase).
 
 ---
 
-# 🟣 2DO BGU — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
+# CAPÍTULO #5
 **Tema:** Refuerzo: Diseño Libre Programado en Codeblocks *(Refuerzo)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Refuerzo Creativo (45 min)  
 **Entregable:** Visto bueno en vivo / captura opcional de nivelación en Classroom.
 
@@ -248,9 +243,8 @@ ACTIVIDAD:
 
 ---
 
-# 🟣 2DO BGU — PARCIAL 2 / SEMANA 8 (5 – 8 ene)
+# CAPÍTULO #6
 **Tema:** Cierre del Bloque 3D / Codeblocks y Puente a Arduino *(Colchón)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Cierre y Nivelación (45 min)  
 **Entregable:** Revisión final de diseños Sim Lab / Codeblocks.
 

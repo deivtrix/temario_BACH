@@ -89,7 +89,7 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
   * **6 temarios maestros (`8vo EGB` a `3ro BGU`)** cerrados con Títulos Generales, Propósitos Generales y nombres de parciales estilo UK sin marcas.
   * **Malla Curricular conectada:** `01_TEMARIOS_POR_CURSO/MAPA_DE_RUTA_CURRICULAR.md` y `malla_curricular_robotica.html` (escalera completa `8vo -> 3ro BGU`).
   * **Panel de control:** `00_PANEL_CONTROL.md` alineado en agenda P2.
-  * **NotebookLM por parcial:** **8vo EGB (`P1–P4`)** y **9no EGB (`P2–P4`)** completos con lógica de serie continua y Video Resumen en P3–P4; **10mo–3ro BGU** tienen `P2` listo y avanzan a `P3–P4` sin bloquearse por inventario (si falta algún componente físico en clase, se ajusta ese capítulo y se regenera).
+  * **NotebookLM por parcial (Formato Híbrido Ganador):** **8vo EGB (`P1–P4`)**, **9no EGB (`P2–P4`)** y **10mo EGB a 3ro BGU (`P2`)** ya están 100% homologados con Video de Repaso (sin personajes) + capítulos autoconclusivos híbridos (*Cómic de Historia/Versus + Láminas Explicativas Profundas*); **10mo–3ro BGU (`P3–P4`)** listos para generarse bajo este mismo molde cuando se indique.
 * **Enseñar materiales + paso a paso + verificación de calidad** en todo **Taller Físico**, incluyendo pruebas concretas de éxito.
 * **Enfoque en Proyecto/Artefacto Real (Cero temas abstractos sueltos):** Cada clase debe girar en torno a un producto reconocible (*Semáforo, Luces de Patrulla, Luz Nocturna Automática, Interruptor con 1 Clic, Sensor de Retro*, etc.).
 * **Seguridad eléctrica real:** Nunca indicar un **LED suelto directo a pila de 9V** sin resistencia y **cero soldadura con cautín** en EGB.

@@ -1,14 +1,13 @@
 # 📘 1RO BGU — PARCIAL 2 (FUENTE ÚNICA PARA NOTEBOOKLM)
-**Mediador:** David Castro | **Materia:** Robótica y Tecnología
-**Unidad:** Entradas Analógicas (Potenciómetro), PWM y Sensor LDR
+**Materia:** Robótica y Tecnología
+**Unidad:** Señales Analógicas y Regulación PWM
 **Ya ejecutado al inicio del Parcial 2:** S1-S2: Potenciómetro (analogRead) + 4 LEDs con > y < en Tinkercad y Arduino.
 
 
 ---
 
-# 🔴 1RO BGU — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
+# CAPÍTULO #1
 **Tema:** Informe de Potenciómetro con 4 LEDs (`analogRead`, `>`, `<`) + Cuestionario *(Individual 1)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Actividad Autónoma Evaluada (45 min)  
 **Entregable:** Informe corto anti-IA (con código, parámetros y 3 preguntas vivenciales) + Cuestionario en Classroom.
 
@@ -67,9 +66,8 @@ Calificación: 10 puntos (Informe 6 pts + Cuestionario 4 pts).
 
 ---
 
-# 🔴 1RO BGU — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
+# CAPÍTULO #2
 **Tema:** Atenuador de Brillo LED (`map()` + PWM `analogWrite`) *(Individual 2)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura en Tinkercad / visto bueno en kit físico + reto de velocidad en Classroom.
 
@@ -125,9 +123,8 @@ Calificación: 10 puntos (Actividad Individual 2).
 
 ---
 
-# 🔴 1RO BGU — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
+# CAPÍTULO #3
 **Tema:** Poste de Alumbrado Público Automático (Sensor LDR)  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura en Tinkercad / visto bueno en kit físico + lectura serial en Classroom.
 
@@ -142,16 +139,16 @@ Calificación: 10 puntos (Actividad Individual 2).
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **¿Qué es una LDR?** Una resistencia que cambia su valor según la luz que recibe.
-* **Conexión (Divisor de Voltaje):** 1 pata de la LDR a `5V`, la otra pata al pin **`A0`**, y desde ese mismo punto **`A0`** una resistencia de **$10\text{k}\Omega$ a `GND`**.
+* **Conexión (Divisor de Voltaje):** 1 pata de la LDR a `5V`, la otra pata al pin **`A0`**, y desde ese mismo punto **`A0`** una resistencia de **10 kΩ a `GND`**.
 * **Modelación:** Leer `analogRead(A0)` en Monitor Serial, tapar la LDR con el dedo para ver cómo cambia el número y poner el `if (luz < umbral)`.
 
 ### 3. Práctica Guiada y Reto Individual (15 – 40 min)
-* **15 – 25 min (Guiada):** Conectan la LDR + resistencia $10\text{k}\Omega$ + 1 LED en Pin 9 y ven los valores de luz vs. oscuridad en el Monitor Serial.
+* **15 – 25 min (Guiada):** Conectan la LDR + resistencia 10 kΩ + 1 LED en Pin 9 y ven los valores de luz vs. oscuridad en el Monitor Serial.
 * **25 – 40 min (Reto Solos):** *"Ajusta tu umbral para que el LED prenda cuando tapas la LDR, y agrega un **segundo LED** o haz que el brillo suba gradualmente con `map()` mientras más oscuro esté."*
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
 * **2 preguntas rápidas:**
-  1. *"¿Por qué la LDR necesita una resistencia de $10\text{k}\Omega$ hacia `GND` para poder leerse en `A0`?"*
+  1. *"¿Por qué la LDR necesita una resistencia de 10 kΩ hacia `GND` para poder leerse en `A0`?"*
   2. *"¿Qué número marcó tu Monitor Serial con luz vs. tapado con el dedo?"*
 * **Cierre:** Visto bueno en kit / subida de captura con valores reales en Classroom.
 
@@ -187,9 +184,8 @@ Calificación: 10 puntos (Práctica de clase).
 
 ---
 
-# 🔴 1RO BGU — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
+# CAPÍTULO #4
 **Tema:** Theremin Musical Controlado por Luz (LDR + Buzzer `tone()`) *(Grupal Físico)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Montaje Grupal Físico (30 min) + Cierre (5 min)  
 **Entregable:** Visto bueno en vivo + Informe corto anti-IA grupal (con foto y parámetros) en Classroom.
 
@@ -203,7 +199,7 @@ Calificación: 10 puntos (Práctica de clase).
 * **Propósito en pantalla:** *"Construir un instrumento musical (Theremin) que cambia de sonido al tapar la luz con la mano."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
-* **Mismo circuito LDR de la semana pasada** (`A0` + $10\text{k}\Omega$ a GND) + **1 Buzzer** conectado al Pin `8` y `GND`.
+* **Mismo circuito LDR de la semana pasada** (`A0` + 10 kΩ a GND) + **1 Buzzer** conectado al Pin `8` y `GND`.
 * **Lógica clave:**
   `int nota = map(luz, 100, 900, 150, 2000);`  
   `tone(8, nota);`
@@ -249,9 +245,8 @@ Calificación: 10 puntos (Actividad Grupal Física).
 
 ---
 
-# 🔴 1RO BGU — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
+# CAPÍTULO #5
 **Tema:** Refuerzo: Calibración con Monitor Serial y Nivelación *(Refuerzo)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Refuerzo Práctico (45 min)  
 **Entregable:** Revisión en vivo / nivelación de prácticas atrasadas del Parcial 2.
 
@@ -290,9 +285,8 @@ ACTIVIDAD:
 
 ---
 
-# 🔴 1RO BGU — PARCIAL 2 / SEMANA 8 (5 – 8 ene)
+# CAPÍTULO #6
 **Tema:** Repaso General de Sensores Analógicos y Cierre de Parcial 2 *(Colchón)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
 **Entregable:** Revisión de notas y prácticas pendientes del kit / Tinkercad.
 

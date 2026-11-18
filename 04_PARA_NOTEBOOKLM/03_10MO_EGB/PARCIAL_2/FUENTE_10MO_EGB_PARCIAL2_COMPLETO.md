@@ -1,14 +1,13 @@
 # 📘 10MO EGB — PARCIAL 2 (FUENTE ÚNICA PARA NOTEBOOKLM)
-**Mediador:** David Castro | **Materia:** Robótica y Tecnología
-**Unidad:** Empalmes, Conectores e Inicio de Programación Arduino
+**Materia:** Robótica y Tecnología
+**Unidad:** Conexiones Seguras y Primer Código
 **Ya ejecutado al inicio del Parcial 2:** S1: ¿Qué es Arduino? (concepto). S2: Práctica de Empalmes (Taller Calificado Grupal).
 
 
 ---
 
-# 📘 10MO EGB — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
+# CAPÍTULO #1
 **Tema:** Conectores y Aislantes Eléctricos *(Individual 1 — Infografía / Consulta)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Consulta e Infografía Autónoma (30 min) + Cierre (5 min)  
 **Entregable:** Infografía en Canva / Documento de consulta en Classroom.
 
@@ -61,9 +60,8 @@ Calificación: 10 puntos (Trabajo individual de clase).
 
 ---
 
-# 📘 10MO EGB — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
+# CAPÍTULO #2
 **Tema:** Primer Programa en Arduino (*Blink*) en Tinkercad *(Individual 2)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura exprés en Classroom del circuito Blink funcionando con código propio.
 
@@ -78,9 +76,9 @@ Calificación: 10 puntos (Trabajo individual de clase).
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **2 bloques obligatorios de Arduino:**
-  * `void setup()` $\rightarrow$ Corre **una sola vez** al prender (`pinMode(13, OUTPUT);`).
-  * `void loop()` $\rightarrow$ Se **repite por siempre** (`digitalWrite(13, HIGH);`, `delay(1000);`, `LOW`).
-* **Modelación en Tinkercad:** Arrastrar Arduino UNO + LED + Resistencia $220\,\Omega$ en Pin 13 y GND, cambiar código a **Texto**, simular y ver parpadear.
+  * `void setup()` -> Corre **una sola vez** al prender (`pinMode(13, OUTPUT);`).
+  * `void loop()` -> Se **repite por siempre** (`digitalWrite(13, HIGH);`, `delay(1000);`, `LOW`).
+* **Modelación en Tinkercad:** Arrastrar Arduino UNO + LED + Resistencia 220 Ω en Pin 13 y GND, cambiar código a **Texto**, simular y ver parpadear.
 
 ### 3. Práctica Guiada y Reto Individual (15 – 40 min)
 * **15 – 25 min (Guiada):** Todos arman el circuito del LED en Pin 13 y prueban el código *Blink* básico contigo.
@@ -120,9 +118,8 @@ Calificación: 10 puntos (Actividad Individual 2).
 
 ---
 
-# 📘 10MO EGB — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
+# CAPÍTULO #3
 **Tema:** Múltiples Salidas Digitales: Semáforo en Tinkercad  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura exprés en Classroom del semáforo funcionando con variables `int`.
 
@@ -137,7 +134,7 @@ Calificación: 10 puntos (Actividad Individual 2).
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **Variables `int`:** `int rojo = 13;`, `int amarillo = 12;`, `int verde = 11;`. Si mañana cambias un cable de pin, solo cambias el número arriba una vez.
-* **Modelación en Tinkercad:** Conectar 3 LEDs (Rojo, Amarillo, Verde) con resistencias de $220\,\Omega$ a GND y cargar el ciclo básico.
+* **Modelación en Tinkercad:** Conectar 3 LEDs (Rojo, Amarillo, Verde) con resistencias de 220 Ω a GND y cargar el ciclo básico.
 
 ### 3. Práctica Guiada y Reto Individual (15 – 40 min)
 * **15 – 25 min (Guiada):** Todos arman el semáforo de 3 LEDs en protoboard dentro de Tinkercad y prueban el encendido secuencial.
@@ -167,9 +164,8 @@ Calificación: 10 puntos (Práctica de clase).
 
 ---
 
-# 📘 10MO EGB — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
+# CAPÍTULO #4
 **Tema:** Semáforo Físico en Protoboard con Arduino UNO *(Grupal Físico)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Trabajo Grupal Físico (45 min)  
 **Entregable:** Visto bueno en vivo + foto grupal del semáforo físico encendido en Classroom.
 
@@ -183,7 +179,7 @@ Calificación: 10 puntos (Práctica de clase).
 * **Propósito en pantalla:** *"Construir nuestro semáforo en protoboard real con Arduino UNO para verlo funcionar fuera de la pantalla."*
 
 ### 2. Encuadre de Seguridad y Pines (05 – 10 min)
-* **Reglas físicas:** 1) Nunca conectar LEDs sin resistencia de $220\,\Omega$, 2) Verificar pata larga ($+$ al pin) y pata corta ($-$ a GND), 3) Seleccionar `Arduino UNO` y puerto `COM` correcto en el IDE.
+* **Reglas físicas:** 1) Nunca conectar LEDs sin resistencia de 220 Ω, 2) Verificar pata larga (+ al pin) y pata corta (- a GND), 3) Seleccionar `Arduino UNO` y puerto `COM` correcto en el IDE.
 
 ### 3. Trabajo Grupal Físico con Intervención del Mediador (10 – 40 min)
 * **Instrucción:** En parejas/grupos arman el circuito (Pines 13, 12, 11 + bus común GND), copian su código de Tinkercad al Arduino IDE, lo suben por USB y prueban el parpadeo real.
@@ -191,7 +187,7 @@ Calificación: 10 puntos (Práctica de clase).
 
 ### 4. Cierre, Preguntas y Entrega (40 – 45 min)
 * **2 preguntas rápidas:**
-  1. *"¿Cómo identificas físicamente cuál es el ánodo ($+$) y el cátodo ($-$) de un LED real?"*
+  1. *"¿Cómo identificas físicamente cuál es el ánodo (+) y el cátodo (-) de un LED real?"*
   2. *"¿Qué pasó al subir el código si el cable USB o el puerto COM no estaban seleccionados?"*
 * **Cierre:** Visto bueno en mesa + subir foto con papelito de nombres en Classroom.
 
@@ -212,9 +208,8 @@ Calificación: 10 puntos (Actividad Grupal Física).
 
 ---
 
-# 📘 10MO EGB — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
+# CAPÍTULO #5
 **Tema:** Reto de Secuencias e Intro a Bucles `for` *(Refuerzo)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo / Refuerzo (45 min)  
 **Entregable:** Captura en Tinkercad del barrido de LEDs usando `for` en Classroom.
 
@@ -265,9 +260,8 @@ Calificación: Refuerzo formativo (10 puntos).
 
 ---
 
-# 📘 10MO EGB — PARCIAL 2 / SEMANA 8 (5 – 8 ene)
+# CAPÍTULO #6
 **Tema:** Repaso de Sintaxis C++ y Cierre del Parcial 2 *(Colchón)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
 **Entregable:** Revisión en vivo y nivelación previa a evaluación quimestral.
 

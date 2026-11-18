@@ -1,14 +1,13 @@
 # 📘 3RO BGU — PARCIAL 2 (FUENTE ÚNICA PARA NOTEBOOKLM)
-**Mediador:** David Castro | **Materia:** Robótica y Tecnología
-**Unidad:** ESP32 desde Cero en Wokwi (Salidas, PWM, HC-SR04 y Teclado 4x4)
+**Materia:** Robótica y Tecnología
+**Unidad:** Microcontroladores y Periféricos Digitales
 **Ya ejecutado al inicio del Parcial 2:** S2: ¿Qué es el ESP32? (3.3V, GPIO) + Sirena de Policía en Wokwi.
 
 
 ---
 
-# 🟠 3RO BGU — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
+# CAPÍTULO #1
 **Tema:** Formulario de Mejora de Calificaciones + Repaso Base ESP32 en Wokwi  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Recuperación y Nivelación Autónoma (45 min)  
 **Entregable:** Formulario de recuperación enviado + verificación en Wokwi (para quienes debían práctica).
 
@@ -16,7 +15,7 @@
 
 ## 🎯 PROPÓSITO LEV Y SENTIDO PRÁCTICO
 * **Propósito:** **Revisar** cómo funciona el ESP32 y recuperar notas con el formulario antes de pasar a sensores.
-* **¿Para qué me sirve en la vida?** Para no quemar placas de $3.3\text{V}$ y tener claras las bases antes de programar proyectos IoT.
+* **¿Para qué me sirve en la vida?** Para no quemar placas de 3.3V y tener claras las bases antes de programar proyectos IoT.
 
 ---
 
@@ -24,10 +23,10 @@
 
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"Chicos, hoy tenemos una oportunidad puntual para nivelar y mejorar calificaciones antes de avanzar a sensores en el ESP32. Primero hacemos el formulario individual y luego nivelamos en Wokwi."*
-* **Presentar el Propósito (Página 2):** *"Revisar cómo funciona el ESP32 y recuperar notas con el formulario antes de pasar a sensores."**verificar y corregir** los fundamentos del ESP32 (pines GPIO y $3.3\text{V}$) para consolidar la base técnica sin dañar hardware."*
+* **Presentar el Propósito (Página 2):** *"Revisar cómo funciona el ESP32 y recuperar notas con el formulario antes de pasar a sensores."**verificar y corregir** los fundamentos del ESP32 (pines GPIO y 3.3V) para consolidar la base técnica sin dañar hardware."*
 
 ### 2. Repaso Express + Formulario Individual (05 – 25 min)
-* **05 – 08 min (Repaso rápido con Página 3):** Recordar: ESP32 trabaja a **$3.3\text{V}$** (no $5\text{V}$), tiene WiFi/Bluetooth integrado y usa `115200` baudios.
+* **05 – 08 min (Repaso rápido con Página 3):** Recordar: ESP32 trabaja a **3.3V** (no 5V), tiene WiFi/Bluetooth integrado y usa `115200` baudios.
 * **08 – 25 min (Formulario):** Trabajo estrictamente individual en el formulario de Classroom.
 
 ### 3. Nivelación Práctica en Wokwi (25 – 40 min)
@@ -38,7 +37,7 @@
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
 * **Retroalimentación rápida del formulario:**
-  1. *"¿Por qué un sensor o alimentación de $5\text{V}$ directo al pin GPIO puede dañar el ESP32?"*
+  1. *"¿Por qué un sensor o alimentación de 5V directo al pin GPIO puede dañar el ESP32?"*
   2. *"¿A cuántos baudios configuramos el Monitor Serial del ESP32?"*
 
 ---
@@ -59,9 +58,8 @@ Calificación: Nota de recuperación / mejora registrada en el parcial.
 
 ---
 
-# 🟠 3RO BGU — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
+# CAPÍTULO #2
 **Tema:** Semáforo Inteligente con ESP32 en Wokwi *(Individual 1)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo / Ambientación (45 min)  
 **Entregable:** Captura o enlace de Wokwi con el semáforo funcionando en Classroom.
 
@@ -75,11 +73,11 @@ Calificación: Nota de recuperación / mejora registrada en el parcial.
 * **Propósito en pantalla:** *"Construir un semáforo de 3 luces en el ESP32 usando Wokwi para controlar varios pines a tiempo."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
-* **Pines seguros en ESP32 (Wokwi):** Usar por ejemplo `GPIO 12` (Rojo), `GPIO 14` (Amarillo), `GPIO 27` (Verde), cada uno con su resistencia de $220\,\Omega$ a `GND`.
+* **Pines seguros en ESP32 (Wokwi):** Usar por ejemplo `GPIO 12` (Rojo), `GPIO 14` (Amarillo), `GPIO 27` (Verde), cada uno con su resistencia de 220 Ω a `GND`.
 * **Buenas prácticas:** Declarar variables `const int` al inicio y usar `Serial.begin(115200);` para imprimir en consola qué luz está activa (`"VERDE - AVANCE"`).
 
 ### 3. Práctica Guiada y Reto Individual (15 – 40 min)
-* **15 – 25 min (Guiada):** Montan en `wokwi.com/projects/new/esp32` los 3 LEDs y prueban el ciclo básico Verde $\rightarrow$ Amarillo $\rightarrow$ Rojo.
+* **15 – 25 min (Guiada):** Montan en `wokwi.com/projects/new/esp32` los 3 LEDs y prueban el ciclo básico Verde -> Amarillo -> Rojo.
 * **25 – 40 min (Reto Solos):** *"Haz que la luz Verde parpadee 3 veces antes de pasar a Amarillo (aviso peatonal) e imprime el estado actual en el Monitor Serial a 115200 baudios."*
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
@@ -106,9 +104,8 @@ Calificación: 10 puntos (Actividad Individual 1).
 
 ---
 
-# 🟠 3RO BGU — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
+# CAPÍTULO #3
 **Tema:** ESP32 PWM y Buzzer (Zumbador) en Wokwi *(Individual 2)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura en Wokwi con brillo PWM + sonido/melodía en Classroom.
 
@@ -153,9 +150,8 @@ Calificación: 10 puntos (Actividad Individual 2).
 
 ---
 
-# 🟠 3RO BGU — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
+# CAPÍTULO #4
 **Tema:** Sensor Ultrasonido HC-SR04 con ESP32 en Wokwi  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura en Wokwi con distancia en Monitor Serial y alerta LED/Buzzer en Classroom.
 
@@ -201,9 +197,8 @@ Calificación: 10 puntos (Práctica de clase).
 
 ---
 
-# 🟠 3RO BGU — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
+# CAPÍTULO #5
 **Tema:** Proyecto Grupal: Teclado Matricial 4x4 (Piano / Clave de Seguridad) en Wokwi *(Grupal)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Proyecto Grupal Wokwi (30 min) + Cierre (5 min)  
 **Entregable:** Captura grupal en Wokwi mostrando el Teclado 4x4 funcionando en Monitor Serial + LED/Buzzer.
 
@@ -217,7 +212,7 @@ Calificación: 10 puntos (Práctica de clase).
 * **Propósito en pantalla:** *"Integrar un teclado 4x4 al ESP32 en Wokwi para leer claves o tocar notas, como una cerradura digital."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
-* **Librería `Keypad.h`:** En Wokwi (`Library Manager` $\rightarrow$ agregar `Keypad`).
+* **Librería `Keypad.h`:** En Wokwi (`Library Manager` -> agregar `Keypad`).
 * **Conexión:** 4 pines de filas + 4 pines de columnas a GPIOs del ESP32 (ej. `13, 12, 14, 27` y `26, 25, 33, 32`).
 * **Modelación:** Imprimir la tecla presionada en Monitor Serial (`char tecla = keypad.getKey();`).
 
@@ -252,9 +247,8 @@ Calificación: 10 puntos (Actividad Grupal).
 
 ---
 
-# 🟠 3RO BGU — PARCIAL 2 / SEMANA 8 (5 – 8 ene)
+# CAPÍTULO #6
 **Tema:** Refuerzo ESP32 en Wokwi y Cierre de Parcial 2 *(Colchón)*  
-**Mediador:** David Castro  
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
 **Entregable:** Verificación de entregas en Wokwi previas a evaluación quimestral.
 
@@ -273,7 +267,7 @@ Calificación: 10 puntos (Actividad Grupal).
 
 ### 4. Cierre y Autoevaluación Likert (1 al 5) (35 – 45 min)
 * Repaso de criterios para el 11 de enero + autoevaluación del **1 al 5** (*1 = Todavía me cuesta | 5 = Lo domino*):
-  1. Diferenciar pines GPIO y voltaje lógico de $3.3\text{V}$ del ESP32 en Wokwi.
+  1. Diferenciar pines GPIO y voltaje lógico de 3.3V del ESP32 en Wokwi.
   2. Programar salidas digitales y PWM/tonos (`analogWrite`, `tone`) en el ESP32.
   3. Medir distancias en cm con el sensor ultrasonido HC-SR04 y activar alertas.
   4. Integrar un teclado matricial 4x4 con `Keypad.h` para leer claves o notas.
