@@ -1,4 +1,4 @@
-# 🐢 PROMPTS PARA NOTEBOOKLM — 8VO EGB PARCIAL 2 (TMNT / CAPÍTULOS INDEPENDIENTES)
+# 🐢 PROMPTS PARA NOTEBOOKLM — 8VO EGB PARCIAL 2 (TORTUGAS NINJA)
 
 ## 📌 CÓMO USARLO
 1. En **NotebookLM**, crea **1 cuaderno nuevo** para este parcial y sube **1 solo archivo**: `FUENTE_8VO_PARCIAL2_COMPLETO.md`.
@@ -8,7 +8,7 @@
    * `Corriente continua y corriente alterna diferencias`
    * `Cómo funciona un cargador de celular AC DC`
    * `Cortocircuito falso contacto y disyuntor breaker`
-3. Copia y pega **1 prompt por tema** en el orden que necesites. Todos comparten el mismo universo del Volumen 2, pero cada capítulo es autoconclusivo (sin límite fijo de diapositivas).
+3. Copia y pega **1 prompt por tema** en el orden que necesites. Todos comparten el universo de **Tortugas Ninja** (`Leonardo, Donatello, Rafael, Miguel Ángel, Splinter y Destructor/Krang`), pero cada capítulo es **100% autoconclusivo** (sin spoilers ni orden rígido).
 
 ---
 
@@ -16,7 +16,7 @@
 ```text
 Crea un video resumen animado en español para estudiantes de 8vo EGB (12-13 años) sobre todo el Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica" usando el archivo FUENTE_8VO_PARCIAL2_COMPLETO.md.
 
-Conecta en un recorrido claro y visual todos los temas del parcial (materiales conductores y aislantes, empalmes seguros, corriente directa DC y alterna AC, transformación en cargadores, cortocircuitos, falsos contactos y breakers) con un hilo narrativo libre estilo Tortugas Ninja. Explica con lenguaje cercano a su edad por qué y para qué les sirve aprender esto en su entorno y en los aparatos que usan a diario.
+Usa únicamente personajes de las Tortugas Ninja (Leonardo, Donatello, Rafael, Miguel Ángel y el Maestro Splinter) en un recorrido claro y visual por todos los temas del parcial (materiales conductores y aislantes, empalmes seguros, corriente directa DC y alterna AC, transformación en cargadores, cortocircuitos, falsos contactos y breakers). Explica con lenguaje cercano a su edad por qué y para qué les sirve aprender esto en su entorno y en los aparatos que usan a diario.
 
 Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
 ```
@@ -25,89 +25,134 @@ Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregabl
 
 ## 🟢 CAPÍTULO #1: Conductores y Aislantes
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica" (temática libre de las Tortugas Ninja) como un capítulo tipo cómic independiente ("Conductores y Aislantes", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el punto 1 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Conductores y Aislantes", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el punto 1 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
 
-Mantén al mismo protagonista/equipo de este universo en una historia autoconclusiva libre para este tema. Explica con lenguaje cercano a su edad el propósito LEV y piensa cómo mostrarles para qué les sirve distinguir materiales conductores y aislantes en cables, enchufes y dispositivos que usan a diario. Integra la teoría de 10 minutos (con tecnicismo moderado y diagramas visuales) y el enunciado de la actividad final (sin paso a paso resuelto).
+ELENCO Y REGLA DE HISTORIA EN TODAS LAS LÁMINAS:
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor o Krang (prohibido dibujar niños genéricos, profesores o personajes externos). La historia debe avanzar en TODAS las láminas: enfrentan un problema eléctrico en la guarida y Donatello junto a sus hermanos explican y dibujan cada diagrama para resolverlo.
 
-Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
+2. Propósito LEV y explicación cercana a su edad (12-13 años) de para qué les sirve distinguir materiales conductores y aislantes en cables, enchufes y dispositivos cotidianos.
+3. Fundamento técnico en varias láminas con diagramas claros (electrones libres vs. electrones fuertemente unidos, ejemplos metálicos y plásticos/caucho).
+4. Enunciado claro de la actividad individual (sin paso a paso resuelto ni regalar la clasificación completa).
+5. Verificación y cierre autoconclusivo.
 
-Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, número fijo de preguntas, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, número fijo de preguntas, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```
 
 ---
 
 ## 🟢 CAPÍTULO #2: Taller de Empalmes Seguros
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica" (temática libre de las Tortugas Ninja) como un capítulo tipo cómic independiente ("Taller de Empalmes Seguros", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el punto 2 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Taller de Empalmes Seguros", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el punto 2 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
 
-Mantén al mismo protagonista/equipo de este universo en una historia autoconclusiva libre para este tema. Conecta el propósito LEV con su edad mostrando para qué les sirve hacer uniones eléctricas firmes y bien aisladas sin riesgos ni falsos contactos. Integra el fundamento técnico breve, la lista exacta de materiales (recordando nunca conectar un LED suelto directo a 9V), el procedimiento paso a paso ilustrado de Cola de Rata, Western Union y Derivación Simple en T, y las pruebas de verificación (jalón suave y prueba eléctrica).
+ELENCO Y REGLA DE HISTORIA EN TODAS LAS LÁMINAS:
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y el Maestro Splinter (prohibido dibujar niños genéricos, profesores o personajes externos). La historia debe avanzar en TODAS las láminas: deben reparar cables dañados en la guarida realizando uniones firmes y seguras sin riesgos.
 
-Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
+2. Propósito LEV y explicación cercana a su edad (12-13 años) de para qué les sirve hacer empalmes firmes y bien aislados sin provocar falsos contactos.
+3. Fundamento técnico breve y regla de seguridad (nunca conectar un LED suelto directo a pila de 9V).
+4. Lista exacta de materiales para el taller físico.
+5. Procedimiento paso a paso ilustrado de Cola de Rata, Western Union y Derivación Simple en T.
+6. Pruebas de verificación (jalón suave y prueba eléctrica) y cierre autoconclusivo.
 
-Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```
 
 ---
 
 ## 🟡 CAPÍTULO #3: Corriente Directa / Continua (DC) y Polaridad
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica" (temática libre de las Tortugas Ninja) como un capítulo tipo cómic independiente ("Corriente Directa (DC) y Polaridad", etiqueta 📘 TEMA NUEVO) basado en el punto 3 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Corriente Directa (DC) y Polaridad") basado en el punto 3 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
 
-Mantén al mismo protagonista/equipo de este universo en una historia autoconclusiva libre para este tema. Muestra con lenguaje cercano a su edad el propósito LEV y piensa cómo explicarles para qué les sirve respetar la polaridad (+ y -) en pilas, puertos USB y baterías que usan todos los días. Integra la teoría de 10 minutos (flujo unidireccional, polaridad y diagramas visuales), la práctica guiada en PhET DC y preguntas de verificación.
+ELENCO Y REGLA DE HISTORIA EN TODAS LAS LÁMINAS:
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael y Miguel Ángel (prohibido dibujar niños genéricos, profesores o personajes externos). La historia debe avanzar en TODAS las láminas: investigan por qué una batería portátil no enciende un equipo cuando se invierten los polos.
 
-Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial.
+2. Propósito LEV y explicación cercana a su edad (12-13 años) de para qué les sirve respetar la polaridad (+ y -) en pilas, puertos USB y baterías que usan todos los días.
+3. Concepto 1 (flujo unidireccional de corriente directa DC) + diagrama visual claro.
+4. Concepto 2 (polaridad positivo y negativo y qué pasa si se invierte) + ejemplo en Tortugas Ninja y ejemplo cotidiano.
+5. Práctica guiada paso a paso en simulador PhET DC.
+6. Preguntas de verificación (con pista breve de comprobación) y cierre autoconclusivo.
 
-Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```
 
 ---
 
 ## 🟡 CAPÍTULO #4: Corriente Alterna (AC) y Transformación a DC
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica" (temática libre de las Tortugas Ninja) como un capítulo tipo cómic independiente ("Corriente Alterna (AC) y Transformación", etiqueta 📘 TEMA NUEVO) basado en el punto 4 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Corriente Alterna (AC) y Transformación") basado en el punto 4 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
 
-Mantén al mismo protagonista/equipo de este universo en una historia autoconclusiva libre para este tema. Explica con lenguaje claro para su edad el propósito LEV y para qué les sirve entender por qué los tomacorrientes de casa usan 110V AC mientras el cargador del celular la convierte en DC. Integra la teoría de 10 minutos (electrones oscilando, 110V / 60 Hz, transformación AC a DC con diagramas), la práctica en PhET CA y preguntas de verificación.
+ELENCO Y REGLA DE HISTORIA EN TODAS LAS LÁMINAS:
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos). La historia debe avanzar en TODAS las láminas: comparan la energía de los tomacorrientes de la ciudad con la de las baterías del equipo.
 
-Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial.
+2. Propósito LEV y explicación cercana a su edad (12-13 años) de para qué les sirve entender por qué los tomacorrientes usan 110V AC mientras el cargador del celular la convierte en DC.
+3. Concepto 1 (electrones oscilando en corriente alterna 110V / 60 Hz y por qué viaja largas distancias) + diagrama visual.
+4. Concepto 2 (cómo transforma un cargador AC en DC y diferencia visual DC vs. AC) + ejemplo cotidiano.
+5. Práctica guiada paso a paso en PhET CA.
+6. Preguntas de verificación (con pista breve de comprobación) y cierre autoconclusivo.
 
-Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```
 
 ---
 
 ## 🟡 CAPÍTULO #5: Mapa de Artefactos DC y AC del Colegio
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica" (temática libre de las Tortugas Ninja) como un capítulo tipo cómic independiente ("Artefactos DC y AC del Colegio", etiqueta 👥 ACTIVIDAD GRUPAL) basado en el punto 5 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Artefactos DC y AC del Colegio", etiqueta 👥 ACTIVIDAD GRUPAL) basado en el punto 5 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
 
-Mantén al mismo protagonista/equipo de este universo en una historia autoconclusiva libre para este tema. Conecta el propósito LEV con su edad mostrando para qué les sirve identificar al instante si un aparato funciona con corriente directa o alterna antes de conectarlo o repararlo. Integra un repaso visual rápido del criterio para distinguir DC y AC, y el enunciado claro de la actividad en parejas (mapa visual de 10 artefactos DC y 10 artefactos AC del colegio, sin resolverles los 20 ejemplos).
+ELENCO Y REGLA DE HISTORIA EN TODAS LAS LÁMINAS:
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael y Miguel Ángel (prohibido dibujar niños genéricos, profesores o personajes externos). La historia debe avanzar en TODAS las láminas: realizan una inspección por toda la base para clasificar equipos según su tipo de corriente.
 
-Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 👥 ACTIVIDAD GRUPAL.
+2. Propósito LEV y explicación cercana a su edad (12-13 años) de para qué les sirve identificar al instante si un aparato usa corriente directa o alterna antes de conectarlo.
+3. Repaso visual rápido del criterio para distinguir equipos DC y AC con diagramas.
+4. Enunciado claro de la actividad en parejas (mapa visual de 10 artefactos DC y 10 artefactos AC del colegio + 1 consejo, PROHIBIDO resolverles los 20 ejemplos).
+5. Cierre autoconclusivo.
 
-Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```
 
 ---
 
 ## 🟡 CAPÍTULO #6: Seguridad Eléctrica (Falsos Contactos, Cortocircuitos y Breakers)
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica" (temática libre de las Tortugas Ninja) como un capítulo tipo cómic independiente ("Seguridad Eléctrica y Breakers", etiqueta 🛠️ REFUERZO) basado en el punto 6 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Seguridad Eléctrica y Breakers", etiqueta 🛠️ REFUERZO) basado en el punto 6 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
 
-Mantén al mismo protagonista/equipo de este universo en una historia autoconclusiva libre para este tema. Explica con lenguaje cercano a su edad el propósito LEV y para qué les sirve reconocer un falso contacto o un cortocircuito y entender cómo un breaker o fusible protege su hogar. Integra la teoría de 10 minutos con diagramas y completo el desafío "Inspector de Seguridad" con los 3 casos exactos de la fuente (sin mostrar las respuestas).
+ELENCO Y REGLA DE HISTORIA EN TODAS LAS LÁMINAS:
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos). La historia debe avanzar en TODAS las láminas: Destructor provoca fallas eléctricas en la ciudad y las Tortugas actúan como inspectores de seguridad.
 
-Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 🛠️ REFUERZO.
+2. Propósito LEV y explicación cercana a su edad (12-13 años) de para qué les sirve reconocer un falso contacto o un cortocircuito y cómo protege un breaker o fusible.
+3. Teoría visual en varias láminas con diagramas (falso contacto, cortocircuito y funcionamiento de fusible/breaker).
+4. Desafío completo "Inspector de Seguridad" con los 3 casos exactos de la fuente (SIN mostrar las respuestas).
+5. Cierre autoconclusivo.
 
-Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```
 
 ---
 
 ## 🔵 CAPÍTULO #7: Repaso, Cierre y Autoevaluación del Parcial 2
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica" (temática libre de las Tortugas Ninja) como un capítulo tipo cómic independiente de repaso y cierre ("Gran Repaso y Autoevaluación", etiqueta 🛠️ REFUERZO) basado en el punto 7 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Gran Repaso y Autoevaluación", etiqueta 🛠️ REFUERZO) basado en el punto 7 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
 
-Mantén al mismo protagonista/equipo de este universo en una historia autoconclusiva libre de repaso y cierre. Recuerda para su edad el propósito LEV y para qué les sirve dominar las reglas de seguridad eléctrica antes de construir circuitos propios. Integra un mapa resumen del parcial, la trivia de repaso (sin respuestas visibles), las 4 reglas de oro de seguridad, las indicaciones para la Evaluación de Áreas Especiales y la tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
+ELENCO Y REGLA DE HISTORIA EN TODAS LAS LÁMINAS:
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y el Maestro Splinter (prohibido dibujar niños genéricos, profesores o personajes externos). La historia debe avanzar en TODAS las láminas como una sesión de repaso y evaluación final en el dojo.
 
-Desarrolla la teoría con calma en varias diapositivas usando diagramas claros y ejemplos reales concretos narrados dentro del mismo universo del cómic (nunca comprimas la explicación en una sola lámina rápida), para que el estudiante comprenda todo por sí solo.
+Usa las diapositivas que necesites, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 🛠️ REFUERZO.
+2. Propósito LEV y explicación cercana a su edad (12-13 años) de para qué les sirve dominar las reglas de seguridad eléctrica.
+3. Mapa visual resumen de todo el Parcial 2 y las 4 reglas de oro de seguridad.
+4. Trivia de repaso (SIN respuestas visibles) e indicaciones generales de cierre de parcial.
+5. Tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente y cierre autoconclusivo.
 
-Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (el capítulo cierra aquí).
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```
