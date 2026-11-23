@@ -103,5 +103,6 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 * **NUNCA** amarrar entregables (`"sube captura"`, `"en Classroom"`) ni cantidad fija de preguntas (`"5 preguntas"`, `"4 casos"`).
 * **NUNCA** encasillar a NotebookLM pre-escribiendo tramas, diálogos, personaje fijo por slide o límite de diapositivas.
 * **NUNCA** permitir que NotebookLM se desvíe a temas gigantes o futuros: todo prompt debe llevar un **candado explícito de alcance** (*"Usa ÚNICAMENTE los bloques/instrucciones de esta clase; PROHIBIDO introducir bucles `for`, motores o conceptos avanzados no vistos aún"*), enseñando primero el control básico poquito a poco.
+* **NUNCA** permitir que NotebookLM invente o alucine código por su cuenta: en las láminas previas a construir, priorizar la **teoría esencial y consejos preventivos repetidos** (*resistencia protectora, polaridad, pines `~`, `GND` común*), usando únicamente código verificado de la `FUENTE_...` (cuando corresponda) y **cero código inventado**.
 * **NUNCA** regalar el código/solución/paso a paso resuelto ni las respuestas de tablas/experimentos antes de actividades evaluativas (`👤 Individual` / `👥 Grupal`).
 * **NUNCA** usar sintaxis LaTeX (`$\rightarrow$`, `\text{V}`, `$+$`) en archivos `FUENTE_...` para NotebookLM; usar siempre texto plano limpio (`->`, `110V`, `+`, `-`).
