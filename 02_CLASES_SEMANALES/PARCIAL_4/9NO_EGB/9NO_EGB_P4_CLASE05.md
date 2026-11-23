@@ -28,6 +28,7 @@ Crea una presentación estilo cómic educativo de Bob Esponja en español para e
 
 ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 Usa únicamente personajes de Bob Esponja en TODAS las diapositivas: Bob Esponja, Patricio y Arenita en su mesa de trabajo (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
 - En Portada, Misión y Cierre: viñetas dinámicas de cómic con diálogos armando su circuito físico sin soldar.
 - En Seguridad y Pasos: láminas explicativas claras estilo manual visual paso a paso ("Conexión segura con caimanes vs. Cortocircuito") presentadas por Arenita sin globos que tapen los trazos.
 
@@ -38,5 +39,6 @@ Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exacta
 4. Láminas paso a paso ilustradas (verificar resistencia 330 Ω por colores, armar lógica AND en serie y reconfigurar lógica OR en paralelo).
 5. Prueba de calidad sin cortocircuitos y cierre autoconclusivo.
 
+ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

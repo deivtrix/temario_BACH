@@ -65,6 +65,7 @@ Crea una presentación estilo cómic educativo de las Tortugas Ninja en español
 
 ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael y Miguel Ángel (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
 - En los bloques de HISTORIA (Portada, Problema al anochecer, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos automatizando las luminarias de la ciudad al caer la noche.
 - En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Por qué la LDR necesita resistencia de 10 kΩ en divisor de voltaje" y "De día vs. De noche: cambio de lectura en A0 y decisión if/else"), presentadas por Donatello sin globos que tapen el circuito.
 
@@ -75,5 +76,6 @@ Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exacta
 4. Práctica guiada paso a paso en Tinkercad y kit físico dentro de la historia.
 5. Preguntas de verificación (con pista breve de comprobación) y cierre autoconclusivo.
 
+ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

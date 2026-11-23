@@ -21,6 +21,7 @@ Crea una presentación estilo cómic educativo de Sonic en español para estudia
 
 ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 Usa únicamente personajes de Sonic en TODAS las diapositivas: Sonic, Tails, Knuckles y Dr. Eggman (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
 - En Portada, Emergencia y Cierre: viñetas dinámicas de cómic con diálogos ante una emergencia provocada por Eggman.
 - En Opciones y Criterios Técnicos: láminas explicativas visuales limpias comparando el Helicóptero de Rescate vs. Compuerta de Inundaciones y puntos clave de firmeza mecánica.
 
@@ -31,5 +32,6 @@ Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exacta
 4. Lámina de criterios técnicos de ensamblaje firme y verificación mecánica (ejes, engranajes/poleas y ubicación de sensores).
 5. Instrucciones de trabajo en equipos y cierre autoconclusivo.
 
+ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

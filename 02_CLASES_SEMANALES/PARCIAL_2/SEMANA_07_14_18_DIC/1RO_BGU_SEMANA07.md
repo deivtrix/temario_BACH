@@ -44,6 +44,7 @@ Crea una presentación estilo cómic educativo de las Tortugas Ninja en español
 
 ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
 - En Portada, Problema de luz real y Cierre: viñetas dinámicas de cómic con diálogos resolviendo por qué un código falla cuando cambia la luz del aula.
 - En Teoría: lámina explicativa profunda paso a paso ("Medir Mínimo (oscuro) + Medir Máximo (luz) -> Calcular Punto Medio (min + max) / 2"), presentada por Donatello sin globos que tapen la fórmula.
 
@@ -53,5 +54,6 @@ Usa las diapositivas que necesites, siguiendo exactamente este orden de bloques:
 3. Lámina explicativa profunda del método de calibración con Monitor Serial.
 4. Reto práctico de calibración en clase (SIN regalar los valores medidos) y cierre autoconclusivo.
 
+ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

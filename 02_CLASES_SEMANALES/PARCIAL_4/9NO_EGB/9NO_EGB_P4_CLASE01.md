@@ -32,6 +32,7 @@ Crea una presentación estilo cómic educativo de Bob Esponja en español para e
 
 ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 Usa únicamente personajes de Bob Esponja en TODAS las diapositivas: Bob Esponja, Patricio, Arenita en su cúpula-laboratorio y el villano Plankton (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
 - En los bloques de HISTORIA (Portada, Conflicto/Versus, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos, humor y el conflicto contra Plankton intentando sobrecargar los circuitos del Crustáceo Cascarudo.
 - En los bloques de TEORÍA (Conceptos 1 y 2): usa láminas explicativas profundas estilo pizarra/cuadrícula comparativa ("Qué pasa sin resistencia vs. con resistencia" y "Paso 1-2-3 para leer 4 bandas"), con diagramas grandes, colores nítidos y explicación clara debajo, presentados por Arenita sin globos largos que tapen el diagrama.
 
@@ -43,5 +44,6 @@ Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exacta
 5. Práctica guiada paso a paso en Tinkercad Circuits (conexión directa 9V + 330 Ω + LED y prueba de polaridad) dentro de la historia.
 6. Preguntas de verificación (con pista breve de comprobación) y cierre autoconclusivo con la victoria del equipo.
 
+ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

@@ -22,6 +22,7 @@ Crea una presentación estilo cómic educativo de Dragon Ball Z en español para
 
 ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 Usa únicamente personajes de Dragon Ball Z en TODAS las diapositivas: Goku, Gohan, Bulma y los Androides 17 y 18 (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
 - En los bloques de HISTORIA (Portada, Conflicto/Versus, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos enfrentando a los Androides 17 y 18 para proteger la red eléctrica de la ciudad.
 - En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Circuito en Serie vs. Circuito en Paralelo: caminos, brillo y qué pasa si falla 1 LED"), con diagramas y Vista Esquemática grandes presentados por Bulma sin globos que tapen el esquema.
 
@@ -32,5 +33,6 @@ Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exacta
 4. Enunciado claro del reto individual en Tinkercad Circuits y estructura de la tabla comparativa Serie vs. Paralelo + 1 consejo (PROHIBIDO resolverles la tabla o mostrar el circuito terminado).
 5. Verificación final y cierre autoconclusivo.
 
+ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

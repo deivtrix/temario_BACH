@@ -25,6 +25,7 @@ Crea una presentación estilo cómic educativo de Dragon Ball Z en español para
 
 ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 Usa únicamente personajes de Dragon Ball Z en TODAS las diapositivas: Goku, Gohan, Bulma y el villano Cell (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
 - En los bloques de HISTORIA (Portada, Conflicto/Versus y Cierre): usa viñetas dinámicas de cómic con diálogos y batalla contra Cell desatando tormentas eléctricas sobre Capsule Corp.
 - En los bloques de TEORÍA Y EXPERIMENTOS: usa láminas explicativas profundas estilo cuadrícula comparativa ("Lo que ven tus ojos vs. Lo que ven los átomos: Paso 1-2-3" y esquema de descarga a tierra), con diagramas grandes de cargas + y - presentados por Bulma/Gohan sin globos que tapen los esquemas.
 
@@ -36,5 +37,6 @@ Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exacta
 5. Láminas paso a paso ilustradas de los 3 experimentos (papel picado, lata de aluminio por inducción y repulsión de globos) mostrando el efecto Macro y Micro.
 6. Verificación final y cierre autoconclusivo con la victoria del equipo.
 
+ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

@@ -22,6 +22,7 @@ Crea una presentación estilo cómic educativo de Sonic en español para estudia
 
 ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 Usa únicamente personajes de Sonic en TODAS las diapositivas: Knuckles, Tails, Sonic y un robot pesado de Dr. Eggman (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
 - En los bloques de HISTORIA (Portada, Conflicto/Versus, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos donde Knuckles enfrenta una carga pesada bloqueando el paso.
 - En los bloques de TEORÍA (Conceptos 1 y 2): usa láminas explicativas profundas estilo cuadrícula comparativa ("Fuerza equilibrada vs. desequilibrada" y "Engranaje rápido vs. Engranaje de alto torque + tornillo sin fin"), con diagramas claros presentados por Tails sin globos que tapen el diagrama.
 
@@ -33,5 +34,6 @@ Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exacta
 5. Práctica guiada paso a paso del modelo "Tirando (Robot de Arrastre)" dentro de la historia.
 6. Preguntas de verificación (con pista breve de comprobación) y cierre autoconclusivo.
 
+ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

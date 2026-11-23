@@ -51,6 +51,7 @@ Crea una presentación estilo cómic educativo de las Tortugas Ninja en español
 
 ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael y Miguel Ángel (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
 - En los bloques de HISTORIA (Portada, Misión de detección, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos midiendo distancias de intrusos con telemetría en tiempo real.
 - En los bloques de TEORÍA: usa láminas explicativas profundas ("Trigger 10 µs -> Echo pulseIn() -> Fórmula distancia = duracion * 0.034 / 2" y "Precaución de 3.3V con Echo en hardware real"), presentadas por Donatello sin globos que tapen el cálculo.
 
@@ -60,5 +61,6 @@ Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exacta
 3. Láminas explicativas profundas del HC-SR04 con ESP32 y fórmula de conversión a centímetros.
 4. Práctica guiada paso a paso en Wokwi dentro de la historia, preguntas de verificación y cierre autoconclusivo.
 
+ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

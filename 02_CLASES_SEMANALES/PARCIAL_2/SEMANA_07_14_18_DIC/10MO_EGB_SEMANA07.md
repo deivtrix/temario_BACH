@@ -56,6 +56,7 @@ Crea una presentación estilo cómic educativo de las Tortugas Ninja en español
 
 ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor saboteando el código (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
 - En Portada, Sabotaje y Cierre: viñetas dinámicas de cómic con diálogos detectando fallas introducidas en el código de la guarida.
 - En Teoría: lámina explicativa visual ("Los 4 errores clásicos en Arduino C++: falta de punto y coma ;, llaves { } abiertas, pin equivocado y mayúsculas/minúsculas"), sin mostrar las respuestas de los retos.
 
@@ -66,5 +67,6 @@ Usa las diapositivas que necesites, siguiendo exactamente este orden de bloques:
 4. Casos de código con errores para corregir en clase (SIN mostrar las soluciones) y tabla de Autoevaluación Escala de Likert (1 al 5) si aplica al cierre.
 5. Cierre autoconclusivo.
 
+ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

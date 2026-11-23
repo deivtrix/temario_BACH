@@ -30,6 +30,7 @@ Crea una presentación estilo cómic educativo de Super Mario en español para e
 
 ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 Usa únicamente personajes de Super Mario en TODAS las diapositivas: Mario, Luigi, Toad y Shy Guy (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
 - En los bloques de HISTORIA (Portada, Conflicto/Carrera, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos compitiendo en una pista de curvas contra Shy Guy.
 - En los bloques de TEORÍA (Conceptos 1 y 2): usa láminas explicativas profundas estilo cuadrícula comparativa ("Tracción diferencial: Avanzar vs. Retroceder vs. Giro 90 grados con M1/M2" y "Diagrama de flujo paso a paso"), con flechas claras presentadas por Toad sin globos que tapen el diagrama.
 
@@ -41,5 +42,6 @@ Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exacta
 5. Práctica guiada paso a paso para programar ida y vuelta en línea recta dentro de la historia.
 6. Preguntas de verificación (con pista breve de comprobación) y cierre autoconclusivo.
 
+ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

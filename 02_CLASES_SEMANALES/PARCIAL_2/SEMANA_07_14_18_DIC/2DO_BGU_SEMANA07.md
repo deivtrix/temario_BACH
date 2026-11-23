@@ -43,6 +43,7 @@ Crea una presentación estilo cómic educativo de las Tortugas Ninja en español
 
 ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael y Miguel Ángel (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
 - En Portada, Reto y Cierre: viñetas dinámicas de cómic con diálogos poniendo a prueba su dominio de simetría radial.
 - En Teoría: lámina explicativa visual ("Simetría radial: cómo repartir copias cada 360/N grados sin superposiciones desordenadas"), sin dar el código resuelto del diseño libre.
 
@@ -52,5 +53,6 @@ Usa las diapositivas que necesites, siguiendo exactamente este orden de bloques:
 3. Lámina visual de simetría radial y rotación alrededor del origen.
 4. Enunciado del reto creativo de refuerzo (mínimo 1 bucle Repetir y rotación radial, SIN regalar el diseño) y cierre autoconclusivo.
 
+ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
 Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```
