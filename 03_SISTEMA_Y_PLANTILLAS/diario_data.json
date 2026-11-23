@@ -54,13 +54,13 @@
         "9no_altruistas": {"estado": "dada", "motivo": "", "nota": ""},
         "10mo_positivos": {"estado": "dada", "motivo": "", "nota": ""},
         "8vo_disciplinados": {"estado": "dada", "motivo": "", "nota": ""},
-        "9no_autenticos": {"estado": "dada", "motivo": "", "nota": ""},
+        "9no_autenticos": {"estado": "dada", "motivo": "", "nota": "Pendiente: debe Formulario"},
         "9no_asertivos": {"estado": "dada", "motivo": "", "nota": ""},
         "2do_honestos": {"estado": "dada", "motivo": "", "nota": ""},
-        "1ro_confiables": {"estado": "perdida", "motivo": "Feriado", "nota": "Feriado viernes 20 nov"},
-        "3ro_solidarios": {"estado": "perdida", "motivo": "Feriado", "nota": "Feriado viernes 20 nov"},
-        "9no_audaces": {"estado": "perdida", "motivo": "Feriado", "nota": "Feriado viernes 20 nov"},
-        "3ro_empaticos": {"estado": "perdida", "motivo": "Feriado", "nota": "Feriado viernes 20 nov"}
+        "1ro_confiables": {"estado": "alcance", "motivo": "Feriado", "nota": "Nivelado"},
+        "3ro_solidarios": {"estado": "alcance", "motivo": "Feriado", "nota": "Nivelado"},
+        "9no_audaces": {"estado": "alcance", "motivo": "Feriado", "nota": "Nivelado"},
+        "3ro_empaticos": {"estado": "alcance", "motivo": "Feriado", "nota": "Nivelado"}
       }
     },
     "4": {
@@ -77,7 +77,8 @@
         "2do_proactivos": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
         "10mo_persistentes": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
         "1ro_leales": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
-        "3ro_vanguardistas": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"}
+        "3ro_vanguardistas": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
+        "1ro_integros": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"}
       }
     },
     "5": {
