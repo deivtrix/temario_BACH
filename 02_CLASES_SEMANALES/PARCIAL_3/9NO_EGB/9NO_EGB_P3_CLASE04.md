@@ -22,3 +22,24 @@
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
 1. *"¿Cómo logra girar un robot de 2 ruedas si no tiene volante como un carro?"*
 2. *"¿Qué bloque es obligatorio al final para que el mBot no siga rodando infinito?"*
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de Super Mario en español para estudiantes de 9no EGB (13-14 años) del Volumen 3: "Navegación y Robótica Móvil", como un capítulo autoconclusivo independiente ("Reto Pista Cuadrada 50x50", etiqueta 👥 ACTIVIDAD GRUPAL) basado en el punto 4 de FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de Super Mario en TODAS las diapositivas: Mario, Luigi, Toad y Bowser (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto/Versus, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos en el circuito cuadrado de Bowser.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Simulación ideal vs. Pista física con fricción y desgaste de batería" y "Código largo vs. Bucle repetir 4 veces"), presentadas por Toad sin globos que tapen el diagrama.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de desafío con etiqueta 👥 ACTIVIDAD GRUPAL.
+2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué les sirve calibrar un sistema físico real frente a fricción y batería en lugar de confiar solo en teoría.
+3. Lámina explicativa profunda de calibración iterativa y bucle repetir 4 veces.
+4. Enunciado claro del reto grupal en pista cuadrada real de 50x50 cm + 1 consejo (PROHIBIDO regalar tiempos exactos ni código resuelto).
+5. Cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

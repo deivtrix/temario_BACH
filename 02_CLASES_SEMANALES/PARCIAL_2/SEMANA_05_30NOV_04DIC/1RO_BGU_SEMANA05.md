@@ -56,3 +56,24 @@ ENTREGA:
 
 Calificación: 10 puntos (Práctica de clase).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 1ro BGU (15-16 años) del Volumen 2: "Señales Analógicas y Regulación PWM", como un capítulo autoconclusivo independiente ("Poste de Alumbrado Automático (LDR)") basado en el CAPÍTULO #3 de FUENTE_1RO_BGU_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael y Miguel Ángel (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Problema al anochecer, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos automatizando las luminarias de la ciudad al caer la noche.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Por qué la LDR necesita resistencia de 10 kΩ en divisor de voltaje" y "De día vs. De noche: cambio de lectura en A0 y decisión if/else"), presentadas por Donatello sin globos que tapen el circuito.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial.
+2. Propósito LEV y explicación cercana a su edad (15-16 años) de para qué les sirve usar divisores de voltaje con sensores resistivos en alumbrado público o celulares.
+3. Láminas explicativas profundas de la LDR, divisor de voltaje con 10 kΩ y lectura en A0.
+4. Práctica guiada paso a paso en Tinkercad y kit físico dentro de la historia.
+5. Preguntas de verificación (con pista breve de comprobación) y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

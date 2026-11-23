@@ -47,3 +47,23 @@ INSTRUCCIONES:
 
 Calificación: Nota de recuperación / mejora registrada en el parcial.
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 3ro BGU (17-18 años) del Volumen 2: "Microcontroladores y Periféricos Digitales", como un capítulo autoconclusivo independiente ("Arquitectura ESP32 y Lógica 3.3V", etiqueta 🛠️ REFUERZO) basado en el CAPÍTULO #1 de FUENTE_3RO_BGU_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos migrando los sistemas de control a un microcontrolador moderno de 3.3V.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo hoja de datos técnica ("Arduino 5V vs. ESP32 3.3V: qué pines son seguros y cuáles son solo entrada"), con pinout claro presentado por Donatello sin globos que tapen los pines.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho técnico con etiqueta 🛠️ REFUERZO.
+2. Propósito LEV y explicación cercana a jóvenes de 17-18 años de para qué sirve respetar niveles lógicos de 3.3V y conocer el pinout del ESP32 en hardware IoT real.
+3. Lámina explicativa profunda de pines GPIO del ESP32 y precauciones de 3.3V.
+4. Preguntas de verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

@@ -41,3 +41,24 @@ INSTRUCCIONES:
 
 Calificación: 10 puntos (Actividad Individual 2).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 3ro BGU (17-18 años) del Volumen 2: "Microcontroladores y Periféricos Digitales", como un capítulo autoconclusivo independiente ("ESP32 PWM y Buzzer", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el CAPÍTULO #3 de FUENTE_3RO_BGU_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos calibrando señales de alerta acústica y regulación de potencia luminosa.
+- En los bloques de TEORÍA: usa láminas explicativas profundas ("PWM en ESP32: ciclo de trabajo para brillo gradual vs. Frecuencias en Hz para tonos en buzzer"), con gráficas de onda cuadrada presentadas por Donatello sin globos que tapen las fórmulas.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
+2. Propósito LEV y explicación cercana a su edad (17-18 años) de para qué sirve la modulación PWM y el control de frecuencias en audio digital, iluminación y motores.
+3. Láminas explicativas profundas de PWM en ESP32 y generación de tonos en buzzer.
+4. Enunciado claro del reto individual en Wokwi + 1 consejo (PROHIBIDO regalar el código resuelto).
+5. Verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

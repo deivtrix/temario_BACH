@@ -47,3 +47,24 @@ INSTRUCCIONES:
 
 Calificación: Refuerzo formativo (10 puntos).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 10mo EGB (14-15 años) del Volumen 2: "Conexiones Seguras y Primer Código", como un capítulo autoconclusivo independiente ("Depuración de Código: Encuentra el Error", etiqueta 🛠️ REFUERZO) basado en el CAPÍTULO #5 de FUENTE_10MO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor saboteando el código (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En Portada, Sabotaje y Cierre: viñetas dinámicas de cómic con diálogos detectando fallas introducidas en el código de la guarida.
+- En Teoría: lámina explicativa visual ("Los 4 errores clásicos en Arduino C++: falta de punto y coma ;, llaves { } abiertas, pin equivocado y mayúsculas/minúsculas"), sin mostrar las respuestas de los retos.
+
+Usa las diapositivas que necesites, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de sabotaje con etiqueta 🛠️ REFUERZO.
+2. Propósito LEV y explicación cercana a su edad (14-15 años) de para qué les sirve saber leer mensajes de error y depurar código como programadores reales.
+3. Lámina visual de errores comunes de sintaxis y lógica.
+4. Casos de código con errores para corregir en clase (SIN mostrar las soluciones) y tabla de Autoevaluación Escala de Likert (1 al 5) si aplica al cierre.
+5. Cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

@@ -27,3 +27,24 @@
   1. *"¿Qué ventaja tiene diseñar con Codeblocks frente a arrastrar figuras con el mouse?"*
   2. *"¿Cómo calculaste las coordenadas `X, Y, Z` para que las 4 patas de la silla no queden volando ni chuecas?"*
 * **Cierre:** Actividad 4 (Individual 2 — Silla 3D en Codeblocks) verificada con los bloques visibles y el modelo terminado.
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 2do BGU (16-17 años) del Volumen 2: "Diseño Paramétrico por Bloques", como un capítulo autoconclusivo independiente ("Diseño 3D Programado en Codeblocks", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el CAPÍTULO #2 de FUENTE_2DO_BGU_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos automatizando la creación de piezas mediante código en lugar de arrastrar a mano.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo plano técnico ("Modelado manual vs. Modelado programado por coordenadas X, Y, Z desde el centro 0,0,0" y "Bloques Crear Objeto, Mover y Crear Grupo"), presentadas por Donatello sin globos que tapen el diagrama cartesiano.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
+2. Propósito LEV y explicación cercana a su edad (16-17 años) de para qué sirve programar geometría 3D con precisión matemática exacta.
+3. Láminas explicativas profundas de coordenadas centradas en (0,0,0) y flujo Crear -> Mover -> Agrupar.
+4. Enunciado claro del reto individual en Codeblocks + 1 consejo (PROHIBIDO regalar los bloques armados del reto).
+5. Verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

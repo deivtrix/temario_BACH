@@ -41,3 +41,24 @@ INSTRUCCIONES:
 
 Calificación: 10 puntos (Práctica de clase).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 10mo EGB (14-15 años) del Volumen 2: "Conexiones Seguras y Primer Código", como un capítulo autoconclusivo independiente ("Semáforo Funcional en Tinkercad") basado en el CAPÍTULO #3 de FUENTE_10MO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael y Miguel Ángel (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Problema de tráfico, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos sincronizando el cruce de túneles de la ciudad.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Números sueltos difíciles de leer vs. Variables int con nombre claro" y "Secuencia temporal Rojo -> Verde -> Amarillo"), con diagramas claros presentados por Donatello sin globos que tapen el esquema.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial.
+2. Propósito LEV y explicación cercana a su edad (14-15 años) de para qué les sirve organizar pines con variables int y controlar múltiples salidas sincronizadas.
+3. Láminas explicativas profundas sobre variables int y secuencia de 3 LEDs con resistencias de 220 Ω.
+4. Práctica guiada paso a paso en Tinkercad Circuits dentro de la historia.
+5. Preguntas de verificación (con pista breve de comprobación) y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

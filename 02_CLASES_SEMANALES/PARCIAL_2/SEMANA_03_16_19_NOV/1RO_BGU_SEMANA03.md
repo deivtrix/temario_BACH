@@ -55,3 +55,24 @@ PARTE 2 — CUESTIONARIO (4 preguntas):
 
 Calificación: 10 puntos (Informe 6 pts + Cuestionario 4 pts).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 1ro BGU (15-16 años) del Volumen 2: "Señales Analógicas y Regulación PWM", como un capítulo autoconclusivo independiente ("Lectura Analógica: Potenciómetro con 4 LEDs", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el CAPÍTULO #1 de FUENTE_1RO_BGU_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos midiendo niveles de energía con un indicador analógico.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo pizarra/cuadrícula comparativa ("Pin digital 0/1 vs. Pin analógico A0 con analogRead 0-1023" y "Rangos por umbrales > y < para 4 LEDs"), con diagramas claros presentados por Donatello sin globos que tapen la escala.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de conflicto con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
+2. Propósito LEV y explicación cercana a chicos de 15-16 años de para qué les sirve leer señales continuas en medidores de volumen, batería o sensores industriales.
+3. Lámina explicativa profunda de analogRead (0–1023) y división en 4 rangos.
+4. Enunciado claro de la actividad individual + 1 consejo (PROHIBIDO resolverles el cuestionario o el informe).
+5. Verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

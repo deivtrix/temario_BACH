@@ -37,13 +37,13 @@ temario_BACH/
 
 ---
 
-### 3. `04_PARA_NOTEBOOKLM/` *(1 Cuaderno por Parcial — Formato Híbrido Ganador)*
-* **8vo EGB (`PARCIAL_1` a `PARCIAL_4`):** 100% listo por parcial (Pokémon, Tortugas Ninja, Dragon Ball Z, Sonic) + [fuentes.md](04_PARA_NOTEBOOKLM/01_8VO_EGB/fuentes.md).
-* **9no EGB (`PARCIAL_2` a `PARCIAL_4`):** 100% listo por parcial (Tortugas Ninja, Mario Bros, Bob Esponja).
-* **10mo EGB a 3ro BGU (`PARCIAL_2`):** 100% listo y limpio (Tortugas Ninja, sin menciones a Classroom/Entregables); `PARCIAL_3` y `PARCIAL_4` listos para generarse bajo el mismo molde cuando se indique.
+### 3. `04_PARA_NOTEBOOKLM/` *(Solo Fuentes y Búsquedas para Subir a NotebookLM — 1 Cuaderno por Parcial)*
+* **8vo EGB (`PARCIAL_1` a `PARCIAL_4`):** `FUENTE_...` + `fuentes.md` listos.
+* **9no EGB (`PARCIAL_2` a `PARCIAL_4`):** `FUENTE_...` + `fuentes.md` listos.
+* **10mo EGB a 3ro BGU (`PARCIAL_2`):** `FUENTE_...` + `fuentes.md` listos (sin menciones a Classroom/Entregables); `PARCIAL_3` y `PARCIAL_4` listos para generarse cuando se indique.
 
 ---
 
-### 4. `02_CLASES_SEMANALES/` *(Guiones de 45 min)*
-* **Parcial 2 (`SEMANA_03` a `SEMANA_08`):** Sincronizado con los temarios maestros (incluyendo **2do BGU S4: Codeblocks Silla 3D**).
-* **Parcial 3 y Parcial 4 de 8vo EGB:** 7 clases exactas (`CLASE01..CLASE07`) alineadas con `FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md` y `FUENTE_8VO_EGB_PARCIAL4_COMPLETO.md`.
+### 4. `02_CLASES_SEMANALES/` *(Guiones de 45 min + Prompt de NotebookLM al pie de cada clase)*
+* **Parcial 2 (`SEMANA_03` a `SEMANA_08`):** Sincronizado con los temarios maestros (incluyendo **2do BGU S4: Codeblocks Silla 3D**) y con su `## 🎨 PROMPT PARA NOTEBOOKLM` al final de cada clase *(y Video de Repaso en la clase de cierre)*.
+* **Parcial 3 y Parcial 4 (8vo y 9no EGB):** 7 clases exactas (`CLASE01..CLASE07`) con su `## 🎨 PROMPT PARA NOTEBOOKLM` al pie de cada archivo.

@@ -34,3 +34,23 @@ ACTIVIDAD:
 - Diseña una figura simétrica (estrella, adorno o estructura) usando mínimo 1 bucle Repetir.
 - Nivelación de entregas pendientes del Parcial 2.
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 2do BGU (16-17 años) del Volumen 2: "Diseño Paramétrico por Bloques", como un capítulo autoconclusivo independiente ("Figura Simétrica Libre en Codeblocks", etiqueta 🛠️ REFUERZO) basado en el CAPÍTULO #5 de FUENTE_2DO_BGU_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael y Miguel Ángel (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En Portada, Reto y Cierre: viñetas dinámicas de cómic con diálogos poniendo a prueba su dominio de simetría radial.
+- En Teoría: lámina explicativa visual ("Simetría radial: cómo repartir copias cada 360/N grados sin superposiciones desordenadas"), sin dar el código resuelto del diseño libre.
+
+Usa las diapositivas que necesites, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 🛠️ REFUERZO.
+2. Propósito LEV y explicación cercana a su edad (16-17 años) de para qué sirve la simetría radial en rines, turbinas y diseño industrial.
+3. Lámina visual de simetría radial y rotación alrededor del origen.
+4. Enunciado del reto creativo de refuerzo (mínimo 1 bucle Repetir y rotación radial, SIN regalar el diseño) y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

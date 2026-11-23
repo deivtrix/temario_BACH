@@ -36,3 +36,33 @@ ACTIVIDAD:
 - Práctica de depuración en Tinkercad (encontrar errores de llaves, punto y coma y pines).
 - Cierre y nivelación de entregas previas a Evaluaciones de Áreas Especiales (11 de enero).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 10mo EGB (14-15 años) del Volumen 2: "Conexiones Seguras y Primer Código", como un capítulo autoconclusivo independiente ("Nivelación y Cierre del Parcial", etiqueta 🛠️ REFUERZO) basado en el CAPÍTULO #6 de FUENTE_10MO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y el Maestro Splinter (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En Portada, Reto y Cierre: viñetas dinámicas de cómic con diálogos en la sesión de repaso final.
+- En el Resumen: lámina visual limpia integrando conectores, Arduino Blink, Semáforo y depuración sin globos largos que tapen los esquemas.
+
+Usa las diapositivas que necesites, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 🛠️ REFUERZO.
+2. Propósito LEV y explicación cercana a su edad (14-15 años) de para qué les sirve consolidar sus bases de Arduino C++.
+3. Lámina visual resumen del Parcial 2.
+4. Preguntas de repaso (SIN respuestas visibles) y tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos clave del parcial.
+5. Cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```
+
+### 🎬 VIDEO DE REPASO DEL PARCIAL
+```text
+Crea un video explicativo de repaso en español para estudiantes de 10mo EGB (14-15 años) sobre todo el Volumen 2: "Conexiones Seguras y Primer Código" usando el archivo FUENTE_10MO_EGB_PARCIAL2_COMPLETO.md.
+
+Cubre de forma ordenada y solo teórica todos los temas y subtemas del parcial (conectores eléctricos seguros y cinta aislante vs. termocontraíble, estructura básica de un programa en Arduino con setup/loop, pinMode, digitalWrite y delay en Blink, uso de variables int en un Semáforo simulado y físico con protoboard, y depuración de errores comunes de sintaxis). Usa gráficos claros, diagramas de código y ejemplos cercanos a su edad (sin personajes de cómics).
+
+Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
+```

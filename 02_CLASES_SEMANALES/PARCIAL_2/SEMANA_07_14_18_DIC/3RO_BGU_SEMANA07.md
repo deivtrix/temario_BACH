@@ -45,3 +45,24 @@ INSTRUCCIONES (En grupos de 2):
 
 Calificación: 10 puntos (Actividad Grupal).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 3ro BGU (17-18 años) del Volumen 2: "Microcontroladores y Periféricos Digitales", como un capítulo autoconclusivo independiente ("Teclado Matricial 4x4 con ESP32", etiqueta 👥 ACTIVIDAD GRUPAL) basado en el CAPÍTULO #5 de FUENTE_3RO_BGU_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos protegiendo la compuerta de acceso con una clave numérica en Wokwi.
+- En los bloques de TEORÍA: usa láminas explicativas profundas ("Matriz de 4 filas x 4 columnas = 16 teclas usando solo 8 pines" y "Librería Keypad.h en Wokwi"), presentadas por Donatello sin globos que tapen la matriz de conexiones.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de seguridad con etiqueta 👥 ACTIVIDAD GRUPAL.
+2. Propósito LEV y explicación cercana a su edad (17-18 años) de para qué sirve el multiplexado por filas y columnas en teclados, cajeros y controles de acceso.
+3. Lámina explicativa profunda de matriz 4x4 y uso de Keypad.h.
+4. Enunciado claro del reto grupal en Wokwi (Piano o Clave de seguridad) + 1 consejo (PROHIBIDO dar el código resuelto).
+5. Verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

@@ -36,3 +36,33 @@ AVANCE DE HOY:
 1. Modela la base de tu casa con interior hueco, 1 puerta y al menos 2 ventanas.
 2. Guarda tu diseño en Tinkercad; en enero agregamos el techo y detalles para la entrega final.
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 9no EGB (13-14 años) del Volumen 2: "Modelado Digital 3D y Prototipado", como un capítulo autoconclusivo independiente ("Casa 3D y Autoevaluación", etiqueta 🛠️ REFUERZO) basado en el punto 7 de FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y el Maestro Splinter (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En Portada, Reto y Cierre: viñetas dinámicas de cómic con diálogos construyendo una nueva guarida 3D completa.
+- En el Repaso: lámina visual limpia resumiendo vaciado de muros, tolerancias, .SVG y .STL sin globos largos que tapen los esquemas.
+
+Usa las diapositivas que necesites, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 🛠️ REFUERZO.
+2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué les sirve integrar múltiples técnicas CAD en maquetas o proyectos completos.
+3. Lámina visual resumen integrando las técnicas del Parcial 2.
+4. Preguntas de repaso (SIN respuestas visibles) y enunciado del reto integrador Casa 3D (muros huecos, puerta, ventanas, techo alineado y detalle exterior).
+5. Tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```
+
+### 🎬 VIDEO DE REPASO DEL PARCIAL
+```text
+Crea un video explicativo de repaso en español para estudiantes de 9no EGB (13-14 años) sobre todo el Volumen 2: "Modelado Digital 3D y Prototipado" usando el archivo FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
+
+Cubre de forma ordenada y solo teórica todos los temas y subtemas del parcial (ejes X-Y-Z, sólido vs. hueco y comandos L/Ctrl+G/Ctrl+D, medición en milímetros y vaciado interno, tolerancias de 0.3 a 0.5 mm, diferencia entre mapa de bits PNG y vector SVG con Inkscape, diseño modular con apoyo Z=0 y exportación STL). Usa gráficos claros, diagramas comparativos y ejemplos cercanos a su edad (sin personajes de cómics).
+
+Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
+```

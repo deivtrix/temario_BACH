@@ -56,3 +56,24 @@ INSTRUCCIONES (En grupos):
 
 Calificación: 10 puntos (Actividad Grupal Física).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 1ro BGU (15-16 años) del Volumen 2: "Señales Analógicas y Regulación PWM", como un capítulo autoconclusivo independiente ("Theremin Musical con Luz", etiqueta 👥 ACTIVIDAD GRUPAL) basado en el CAPÍTULO #4 de FUENTE_1RO_BGU_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Desafío sonoro, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos creando un instrumento musical sin contacto controlado por sombra y luz.
+- En los bloques de TEORÍA: usa láminas explicativas profundas ("Función tone(pin, frecuencia) y mapeo de luz 0-1023 a rango audible en Hz"), con diagramas claros presentados por Donatello sin globos que tapen la sintaxis.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 👥 ACTIVIDAD GRUPAL.
+2. Propósito LEV y explicación cercana a su edad (15-16 años) de para qué sirve convertir la lectura de un sensor en frecuencias sonoras o alarmas variables.
+3. Lámina explicativa profunda de tone() y mapeo de frecuencias.
+4. Enunciado claro de la actividad grupal física + 1 consejo de montaje (PROHIBIDO dar el código resuelto del reto).
+5. Verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

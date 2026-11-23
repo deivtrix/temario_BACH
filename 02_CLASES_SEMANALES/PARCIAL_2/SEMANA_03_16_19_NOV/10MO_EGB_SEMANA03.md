@@ -49,3 +49,24 @@ INSTRUCCIONES:
 
 Calificación: 10 puntos (Trabajo individual de clase).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 10mo EGB (14-15 años) del Volumen 2: "Conexiones Seguras y Primer Código", como un capítulo autoconclusivo independiente ("Conectores y Aislantes Eléctricos", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el CAPÍTULO #1 de FUENTE_10MO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos inspeccionando cables expuestos tras un ataque en la ciudad.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo pizarra/cuadrícula comparativa ("Conexión floja con cinta mal puesta vs. Conector seguro y tubo termocontraíble"), con diagramas grandes presentados por Donatello sin globos largos que tapen el esquema.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de conflicto con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
+2. Propósito LEV y explicación cercana a chicos de 14-15 años de para qué les sirve elegir conectores y aislantes adecuados en proyectos reales o en casa.
+3. Lámina explicativa profunda comparando tipos de conectores (borneras, terminales, regletas) y aislantes seguros.
+4. Enunciado claro de la actividad individual (clasificación e infografía comparativa + 1 consejo, PROHIBIDO darles la infografía resuelta).
+5. Verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

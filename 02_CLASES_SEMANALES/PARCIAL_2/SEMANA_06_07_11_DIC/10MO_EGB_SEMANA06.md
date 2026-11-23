@@ -39,3 +39,24 @@ INSTRUCCIONES (En grupos):
 
 Calificación: 10 puntos (Actividad Grupal Física).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 10mo EGB (14-15 años) del Volumen 2: "Conexiones Seguras y Primer Código", como un capítulo autoconclusivo independiente ("Semáforo Físico con Arduino UNO") basado en el CAPÍTULO #4 de FUENTE_10MO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y el Maestro Splinter (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Transición al taller físico y Cierre): usa viñetas dinámicas de cómic con diálogos armando su primer circuito programable real en mesa.
+- En los bloques de TEORÍA Y SEGURIDAD: usa láminas explicativas profundas estilo manual visual ("3 Reglas de Oro antes de conectar el USB: Resistencias 220 Ω, Polaridad del LED y GND común en protoboard"), presentadas por Donatello sin globos que tapen el diagrama físico.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial.
+2. Propósito LEV y explicación cercana a su edad (14-15 años) de para qué les sirve pasar del simulador al montaje físico cuidando pines y polaridad.
+3. Lámina explicativa profunda de reglas de seguridad física y mapa de conexiones a protoboard + Arduino UNO.
+4. Procedimiento paso a paso de montaje y carga de código desde la PC.
+5. Pruebas de verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

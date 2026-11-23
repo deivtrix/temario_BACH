@@ -36,3 +36,33 @@ ACTIVIDAD:
 - Trivia relámpago de repaso en vivo y nivelación de actividades pendientes.
 - Autoevaluación Escala de Likert (1 al 5) sobre los temas del Parcial 2.
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Gran Repaso y Autoevaluación", etiqueta 🛠️ REFUERZO) basado en el punto 7 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y el Maestro Splinter (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En Portada, Reto y Cierre: viñetas dinámicas de cómic con diálogos en la prueba final del dojo.
+- En el Mapa Resumen: lámina visual limpia integrando todos los conceptos clave del parcial sin globos largos que tapen los esquemas.
+
+Usa las diapositivas que necesites, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 🛠️ REFUERZO.
+2. Propósito LEV y explicación cercana a su edad (12-13 años) de para qué les sirve dominar las reglas de seguridad eléctrica.
+3. Lámina visual resumen de todo el Parcial 2 y las 4 reglas de oro de seguridad.
+4. Trivia de repaso (SIN respuestas visibles) e indicaciones generales de cierre de parcial.
+5. Tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```
+
+### 🎬 VIDEO DE REPASO DEL PARCIAL
+```text
+Crea un video explicativo de repaso en español para estudiantes de 8vo EGB (12-13 años) sobre todo el Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica" usando el archivo FUENTE_8VO_PARCIAL2_COMPLETO.md.
+
+Cubre de forma ordenada y solo teórica todos los temas y subtemas del parcial (materiales conductores y aislantes, tipos de empalmes seguros y pruebas, corriente directa DC con polaridad, corriente alterna AC 110V/60Hz y transformación en cargadores, falsos contactos, cortocircuitos y protección con breakers/fusibles). Usa gráficos claros, diagramas comparativos y ejemplos cotidianos cercanos a su edad explicando para qué les sirve entenderlo (sin personajes de cómics).
+
+Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
+```

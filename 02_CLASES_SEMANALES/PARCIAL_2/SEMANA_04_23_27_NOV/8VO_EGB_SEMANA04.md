@@ -36,3 +36,25 @@ ACTIVIDAD:
 - Teoría puntual (10 min) y comparación en PhET (Kit de Construcción de Circuitos CA) entre batería DC y fuente AC.
 - Revisión en vivo en pantalla (sin entrega obligatoria).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Corriente Alterna (AC) y Transformación") basado en el punto 4 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto/Versus, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos y acción evitando que Destructor sobrecargue los equipos de la ciudad.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("DC unidireccional vs. AC oscilando 60 veces por segundo" y "Cómo un cargador convierte 110V AC en 5V DC"), con diagramas grandes y explicación clara debajo, presentados por Donatello sin globos que tapen el diagrama.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de conflicto.
+2. Propósito LEV y explicación cercana a su edad (12-13 años) de para qué les sirve entender por qué los tomacorrientes usan 110V AC mientras el cargador del celular la convierte en DC.
+3. Concepto 1 (electrones oscilando en corriente alterna 110V / 60 Hz y transporte a largas distancias) en lámina explicativa profunda.
+4. Concepto 2 (transformación AC a DC dentro de un cargador) en lámina comparativa paso a paso + ejemplo cotidiano.
+5. Práctica guiada paso a paso en PhET CA dentro de la historia.
+6. Preguntas de verificación (con pista breve de comprobación) y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

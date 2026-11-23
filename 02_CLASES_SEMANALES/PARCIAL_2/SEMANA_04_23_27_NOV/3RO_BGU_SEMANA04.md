@@ -41,3 +41,24 @@ INSTRUCCIONES:
 
 Calificación: 10 puntos (Actividad Individual 1).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 3ro BGU (17-18 años) del Volumen 2: "Microcontroladores y Periféricos Digitales", como un capítulo autoconclusivo independiente ("Semáforo ESP32 en Wokwi", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el CAPÍTULO #2 de FUENTE_3RO_BGU_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos controlando intersecciones urbanas en simulador Wokwi.
+- En los bloques de TEORÍA: usa láminas explicativas profundas ("Flujo de trabajo en Wokwi: pines seguros GPIO 12/14/27, resistencias y temporización"), presentadas por Donatello sin globos que tapen el esquema.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
+2. Propósito LEV y explicación cercana a su edad (17-18 años) de para qué sirve validar circuitos digitales en simuladores profesionales antes de armar hardware.
+3. Lámina explicativa profunda de pines seguros en ESP32 y lógica de tiempos del semáforo.
+4. Enunciado claro de la actividad individual en Wokwi + 1 consejo (PROHIBIDO dar el código terminado del reto).
+5. Verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

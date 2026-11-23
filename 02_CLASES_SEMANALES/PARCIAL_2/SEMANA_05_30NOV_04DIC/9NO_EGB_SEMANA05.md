@@ -39,3 +39,23 @@ AVANCE DE HOY (Sin entrega final aún):
 2. Usen formas huecas para recortar ventanas/cabina y espacios para las ruedas.
 3. Guarden el proyecto con los nombres del grupo; la próxima semana agregamos ejes, ruedas y entregamos la captura final.
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 9no EGB (13-14 años) del Volumen 2: "Modelado Digital 3D y Prototipado", como un capítulo autoconclusivo independiente ("Vehículo 3D — Chasis y Carrocería") basado en el punto 5 de FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En Portada, Conflicto y Cierre: viñetas dinámicas de cómic con diálogos diseñando el chasis de su vehículo de patrulla frente a Destructor.
+- En Teoría: lámina explicativa visual mostrando diseño modular (chasis firme, carrocería simétrica con L y espacios libres/guardafangos para ruedas) presentada por Donatello sin globos que tapen las partes.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de acción.
+2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué sirve diseñar por módulos antes de colocar piezas móviles como ruedas.
+3. Lámina explicativa visual de partes del vehículo (chasis, carrocería, simetría y guardafangos).
+4. Guía de avance en equipos (sin regalar el diseño resuelto) y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

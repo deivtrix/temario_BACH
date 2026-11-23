@@ -32,3 +32,24 @@ PROPÓSITO: Clasificar en parejas artefactos reales del entorno escolar según e
 ACTIVIDAD:
 - En parejas, diseñar un mapa visual (en Canva) clasificando 10 artefactos DC y 10 artefactos AC del colegio (aulas, laboratorio, secretaría, patio) con una breve explicación de por qué pertenecen a cada tipo.
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Artefactos DC y AC del Colegio", etiqueta 👥 ACTIVIDAD GRUPAL) basado en el punto 5 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael y Miguel Ángel (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Misión, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos en su misión de inspección por la ciudad/base.
+- En el bloque de TEORÍA: usa una lámina explicativa comparativa clara ("Pistas para reconocer si un aparato usa DC o AC") con iconos/esquemas limpios presentados por Donatello sin globos que tapen la tabla.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 👥 ACTIVIDAD GRUPAL.
+2. Propósito LEV y explicación cercana a su edad (12-13 años) de para qué les sirve identificar al instante si un aparato usa corriente directa o alterna antes de conectarlo.
+3. Lámina explicativa visual con el criterio para distinguir equipos DC y AC.
+4. Enunciado claro de la actividad en parejas (mapa visual de 10 artefactos DC y 10 artefactos AC del colegio + 1 consejo, PROHIBIDO resolverles los 20 ejemplos).
+5. Cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

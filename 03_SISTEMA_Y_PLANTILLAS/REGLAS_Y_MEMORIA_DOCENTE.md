@@ -78,7 +78,9 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
   * En **🛠️ Refuerzo:** incluir la actividad completa que harán en clase + materiales/referencia, sin regalar las respuestas.
 * **Cierre de Parcial:** Toda presentación de cierre de parcial lleva al final una diapositiva exclusiva de **Autoevaluación con Escala de Likert (1 al 5)** evaluando 4 aspectos concretos aprendidos.
 * **Video de Repaso del Parcial:** Cada archivo `PROMPTS_...` incluye al inicio un **prompt de Video de Repaso (Studio $\rightarrow$ Video)** **sin personajes de cómics** (para que NotebookLM lo genere sin bloqueos), enfocado 100% en repaso teórico ordenado cubriendo todos los temas y subtemas con gráficos, diagramas y ejemplos cercanos a la edad.
-* **Empaquetado NotebookLM (1 cuaderno por parcial):** Se crea **1 cuaderno por parcial** en `04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/` con su `FUENTE_<CURSO>_PARCIALX_COMPLETO.md` y `PROMPTS_<CURSO>_PARCIALX_<TEMATICA>.md` (máximo 6–7 capítulos por cuaderno).
+* **Empaquetado y Ubicación (Sin saltar entre carpetas):**
+  * **`04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/`:** Contiene **únicamente** `FUENTE_<CURSO>_PARCIALX_COMPLETO.md` (el archivo único que se sube 1 vez por parcial a NotebookLM) y `fuentes.md` (consultas cortas para *"Descubrir fuentes"*).
+  * **`02_CLASES_SEMANALES/`:** Cada archivo de clase semanal incluye al pie su propia sección **`## 🎨 PROMPT PARA NOTEBOOKLM`** lista para copiar y pegar *(y en la última clase del parcial, también el **`🎬 VIDEO DE REPASO DEL PARCIAL`**)* — así no hay archivos `PROMPTS_...` separados.
 * **Consultas en `fuentes.md` ("Descubrir fuentes"):** Usar siempre **1 solo tema concreto por línea (5–7 palabras)** sin mezclar subtemas para obtener resultados precisos.
 
 ---

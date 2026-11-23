@@ -22,3 +22,24 @@
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
 1. *"¿Qué diferencia hay entre Modo En Vivo y Modo Cargar en mBlock?"*
 2. *"¿Por qué debemos revisar que los cables de motores queden bien puestos en M1 y M2?"*
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de Super Mario en español para estudiantes de 9no EGB (13-14 años) del Volumen 3: "Navegación y Robótica Móvil", como un capítulo autoconclusivo independiente ("Luces RGB y Buzzer", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el punto 2 de FUENTE_9NO_EGB_PARCIAL3_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de Super Mario en TODAS las diapositivas: Mario, Luigi, Toad y Kamek (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto/Versus, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos enfrentando un túnel oscuro encantado por Kamek.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Mezcla RGB 0-255 + Frecuencias de Buzzer" y "Con bloque esperar vs. Sin bloque esperar"), con diagramas claros presentados por Toad sin globos que tapen la explicación.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de conflicto con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
+2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué les sirve programar indicadores visuales (RGB) y sonoros (buzzer) como los de alarmas, consolas o vehículos.
+3. Láminas explicativas profundas de LEDs RGB, buzzer y pausas esperar.
+4. Enunciado claro del reto individual (secuencia de 3 estados RGB + melodía de 4 notas) + 1 consejo (PROHIBIDO regalar el código armado).
+5. Verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

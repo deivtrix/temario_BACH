@@ -35,3 +35,23 @@ ACTIVIDAD:
 - Práctica de diagnóstico en clase calculando el punto medio real de un sensor analógico (LDR / Potenciómetro).
 - Nivelación de entregas pendientes antes de vacaciones.
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 1ro BGU (15-16 años) del Volumen 2: "Señales Analógicas y Regulación PWM", como un capítulo autoconclusivo independiente ("Calibración con Monitor Serial", etiqueta 🛠️ REFUERZO) basado en el CAPÍTULO #5 de FUENTE_1RO_BGU_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En Portada, Problema de luz real y Cierre: viñetas dinámicas de cómic con diálogos resolviendo por qué un código falla cuando cambia la luz del aula.
+- En Teoría: lámina explicativa profunda paso a paso ("Medir Mínimo (oscuro) + Medir Máximo (luz) -> Calcular Punto Medio (min + max) / 2"), presentada por Donatello sin globos que tapen la fórmula.
+
+Usa las diapositivas que necesites, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 🛠️ REFUERZO.
+2. Propósito LEV y explicación cercana a su edad (15-16 años) de para qué sirve calibrar umbrales reales en vez de copiar números fijos de internet.
+3. Lámina explicativa profunda del método de calibración con Monitor Serial.
+4. Reto práctico de calibración en clase (SIN regalar los valores medidos) y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

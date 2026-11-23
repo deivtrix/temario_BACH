@@ -39,3 +39,24 @@ INSTRUCCIONES (En grupos):
 
 Calificación: 10 puntos (Proyecto Grupal).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 9no EGB (13-14 años) del Volumen 2: "Modelado Digital 3D y Prototipado", como un capítulo autoconclusivo independiente ("Vehículo 3D — Ejes, Ruedas y .STL", etiqueta 👥 ACTIVIDAD GRUPAL) basado en el punto 6 de FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En Portada, Prueba y Cierre: viñetas dinámicas de cómic con diálogos ensamblando y probando el vehículo terminado.
+- En Teoría: lámina explicativa profunda estilo cuadrícula comparativa ("Ruedas en Z = 0 + Holgura de eje 0.3-0.5 mm vs. Eje pegado o chasis arrastrando" y "Exportar a .STL para imprimir"), presentada por Donatello sin globos que tapen el diagrama.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de prueba con etiqueta 👥 ACTIVIDAD GRUPAL.
+2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué sirve verificar apoyos al suelo, holguras de giro y exportar en .STL.
+3. Lámina explicativa profunda (apoyo Z = 0, holgura de eje y formato .STL).
+4. Enunciado claro de la actividad grupal + 1 consejo de vista frontal/lateral (PROHIBIDO dar el diseño resuelto).
+5. Cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

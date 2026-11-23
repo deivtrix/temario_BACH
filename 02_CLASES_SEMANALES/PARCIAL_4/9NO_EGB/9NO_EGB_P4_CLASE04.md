@@ -21,3 +21,24 @@
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
 1. *"¿Qué pasa en el protoboard si pones las dos patas de un LED en la misma columna de 5 agujeros?"*
 2. *"¿En qué conexión brillaron más los 3 LEDs?"*
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de Bob Esponja en español para estudiantes de 9no EGB (13-14 años) del Volumen 4: "Electrónica Analógica y Lógica Digital", como un capítulo autoconclusivo independiente ("Luz Nocturna con Transistor NPN", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el punto 4 de FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de Bob Esponja en TODAS las diapositivas: Bob Esponja, Arenita, Gary y Plankton (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto/Versus, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos cuando cae la noche en Fondo de Bikini y Plankton intenta infiltrarse a oscuras.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("De día: Base apagada = LED apagado vs. De noche: Base activada = LED encendido" y "Pines Base, Colector y Emisor en Vista Esquemática"), presentadas por Arenita sin globos que tapen el esquema.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de conflicto con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
+2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué les sirve entender el transistor como la pieza clave que automatiza luces y hace posibles los procesadores modernos.
+3. Láminas explicativas profundas del transistor NPN (Base, Colector, Emisor), divisor con LDR y Vista Esquemática.
+4. Enunciado claro del reto individual en Tinkercad Circuits (Luz Nocturna Automática + Vista Esquemática) + 1 consejo (PROHIBIDO regalar el circuito armado).
+5. Verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

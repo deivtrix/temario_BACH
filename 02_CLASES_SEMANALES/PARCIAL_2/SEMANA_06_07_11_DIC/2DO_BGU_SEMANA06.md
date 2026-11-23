@@ -43,3 +43,23 @@ INSTRUCCIONES:
 
 Calificación: 10 puntos (Práctica de clase).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 2do BGU (16-17 años) del Volumen 2: "Diseño Paramétrico por Bloques", como un capítulo autoconclusivo independiente ("Engranaje Paramétrico con Variables") basado en el CAPÍTULO #4 de FUENTE_2DO_BGU_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos necesitando fabricar engranajes de distintos tamaños al instante cambiando un solo parámetro.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo ingeniería ("Diseño fijo vs. Diseño Paramétrico con Variables: ángulo = 360 / num_dientes"), presentadas por Donatello sin globos que tapen las fórmulas.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de ingeniería.
+2. Propósito LEV y explicación cercana a su edad (16-17 años) de para qué sirve parametrizar piezas mecánicas con variables en manufactura digital.
+3. Lámina explicativa profunda de variables paramétricas y cálculo automático de ángulo (360 / número de dientes).
+4. Guía de proyecto en Codeblocks dentro de la historia y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

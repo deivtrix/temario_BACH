@@ -42,3 +42,24 @@ INSTRUCCIONES:
 
 Calificación: 10 puntos (Práctica de clase).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 2do BGU (16-17 años) del Volumen 2: "Diseño Paramétrico por Bloques", como un capítulo autoconclusivo independiente ("Bucles y Rotación Espacial en 3D") basado en el CAPÍTULO #3 de FUENTE_2DO_BGU_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael y Miguel Ángel (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Desafío arquitectónico, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos construyendo una torre en espiral con pocas líneas de código.
+- En los bloques de TEORÍA: usa láminas explicativas profundas ("Bucle Repetir N veces + Desplazamiento incremental en Z + Rotación alrededor del eje Z usando pivote 0,0,0"), presentadas por Donatello sin globos que tapen la geometría.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial.
+2. Propósito LEV y explicación cercana a su edad (16-17 años) de para qué sirven los bucles en diseño generativo, arquitectura e ingeniería CAD.
+3. Láminas explicativas profundas sobre bucles `repeat`, rotación en eje Z y pivote.
+4. Práctica guiada paso a paso (escalera en espiral / torre) dentro de la historia.
+5. Preguntas de verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

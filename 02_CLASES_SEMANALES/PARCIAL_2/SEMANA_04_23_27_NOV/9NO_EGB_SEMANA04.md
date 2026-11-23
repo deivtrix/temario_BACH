@@ -45,3 +45,24 @@ INSTRUCCIONES:
 
 Calificación: 10 puntos (Práctica de clase).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 9no EGB (13-14 años) del Volumen 2: "Modelado Digital 3D y Prototipado", como un capítulo autoconclusivo independiente ("Vectorización 2D .SVG a 3D") basado en el punto 4 de FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Misión, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos convirtiendo un emblema plano en un sello/placa 3D real.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Imagen .PNG con píxeles borrosos vs. Vector .SVG con curvas matemáticas nítidas" y "Paso 1-2-3-4 de Inkscape a Tinkercad"), presentadas por Donatello sin globos que tapen el flujo.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial.
+2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué les sirve transformar logotipos o dibujos 2D en placas y piezas físicas 3D.
+3. Lámina explicativa profunda comparando mapa de bits (.PNG) vs. vector (.SVG).
+4. Lámina paso a paso del flujo Inkscape (Trayecto -> Vectorizar) -> Importar y extruir en Tinkercad 3D.
+5. Práctica guiada dentro de la historia, preguntas de verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

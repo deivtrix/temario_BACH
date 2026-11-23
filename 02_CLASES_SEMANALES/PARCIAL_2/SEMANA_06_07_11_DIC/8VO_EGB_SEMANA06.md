@@ -38,3 +38,24 @@ ACTIVIDAD:
 - Desafío "Inspector de Seguridad" en clase (clasificar Falso Contacto, Cortocircuito o Circuito Seguro).
 - Práctica en PhET DC probando protección con fusible en serie.
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Seguridad Eléctrica y Breakers", etiqueta 🛠️ REFUERZO) basado en el punto 6 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto/Versus, Desafío y Cierre): usa viñetas dinámicas de cómic con diálogos y batalla contra el sabotaje eléctrico de Destructor.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Falso contacto vs. Cortocircuito vs. Protección con Breaker/Fusible"), con diagramas claros de lo que pasa con el calor y la corriente, presentados por Donatello sin globos que tapen el diagrama.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de batalla con etiqueta 🛠️ REFUERZO.
+2. Propósito LEV y explicación cercana a su edad (12-13 años) de para qué les sirve reconocer un falso contacto o un cortocircuito y cómo protege un breaker o fusible.
+3. Láminas explicativas profundas con diagramas (falso contacto, cortocircuito y funcionamiento de fusible/breaker).
+4. Desafío completo "Inspector de Seguridad" con los 3 casos exactos de la fuente (SIN mostrar las respuestas).
+5. Cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

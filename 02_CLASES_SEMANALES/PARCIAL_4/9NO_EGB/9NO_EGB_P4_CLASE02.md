@@ -23,3 +23,24 @@
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
 1. *"¿Cuál es la pata positiva (Ánodo) de un LED?"*
 2. *"¿Para qué sirve la resistencia de $220\,\Omega$ junto al LED?"*
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de Bob Esponja en español para estudiantes de 9no EGB (13-14 años) del Volumen 4: "Electrónica Analógica y Lógica Digital", como un capítulo autoconclusivo independiente ("Lógica Digital AND/OR y Tablas de Verdad", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el punto 2 de FUENTE_9NO_EGB_PARCIAL4_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de Bob Esponja en TODAS las diapositivas: Don Cangrejo, Bob Esponja, Arenita y Plankton (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto/Versus, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos protegiendo la fórmula secreta de Plankton con sistemas de seguridad.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Lógica AND en serie vs. Lógica OR en paralelo" y "Estructura de Tabla de Verdad 0/1"), con diagramas claros presentados por Arenita sin globos que tapen la tabla.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de conflicto con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
+2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué les sirve la lógica AND y OR en sistemas de seguridad, contraseñas o alarmas de su entorno.
+3. Láminas explicativas profundas de interruptores serie (AND), paralelo (OR) y estructura de tabla de verdad 0/1.
+4. Enunciado claro del reto individual en Tinkercad Circuits + 1 consejo (PROHIBIDO resolver la tabla de verdad ni mostrar el circuito armado).
+5. Verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

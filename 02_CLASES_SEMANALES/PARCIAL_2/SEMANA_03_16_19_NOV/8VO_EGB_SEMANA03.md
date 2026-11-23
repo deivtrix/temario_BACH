@@ -36,3 +36,25 @@ ACTIVIDAD:
 - Teoría puntual (10 min) y práctica guiada en PhET Kit de Construcción de Circuitos (CD).
 - Revisión en vivo del flujo de electrones y polaridad de baterías (sin entrega obligatoria).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Corriente Directa (DC) y Polaridad") basado en el punto 3 de FUENTE_8VO_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto/Versus, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos y acción enfrentando un apagón de baterías provocado por Krang.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Polaridad correcta + / - vs. Polaridad invertida"), con diagramas de flujo de electrones en un solo sentido y explicación clara debajo, presentados por Donatello sin globos que tapen el diagrama.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho de batalla.
+2. Propósito LEV y explicación cercana a su edad (12-13 años) de para qué les sirve respetar la polaridad (+ y -) en pilas, puertos USB y baterías que usan todos los días.
+3. Concepto 1 (flujo unidireccional de corriente directa DC) en lámina explicativa profunda con diagrama claro.
+4. Concepto 2 (polaridad positivo/negativo y qué ocurre al invertir polos) en lámina comparativa + ejemplo en Tortugas Ninja y cotidiano.
+5. Práctica guiada paso a paso en simulador PhET DC dentro de la historia.
+6. Preguntas de verificación (con pista breve de comprobación) y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```

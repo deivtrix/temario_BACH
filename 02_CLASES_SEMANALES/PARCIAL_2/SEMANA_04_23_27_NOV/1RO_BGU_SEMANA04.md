@@ -52,3 +52,24 @@ RETO INDIVIDUAL:
 
 Calificación: 10 puntos (Actividad Individual 2).
 ```
+
+---
+
+## 🎨 PROMPT PARA NOTEBOOKLM
+```text
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 1ro BGU (15-16 años) del Volumen 2: "Señales Analógicas y Regulación PWM", como un capítulo autoconclusivo independiente ("Atenuador de Brillo PWM con map()", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el CAPÍTULO #2 de FUENTE_1RO_BGU_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
+- En los bloques de HISTORIA (Portada, Conflicto, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos regulando sigilosamente la intensidad de las luces en una infiltración nocturna.
+- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Qué es PWM: pulsos rápidos ON/OFF con analogWrite 0-255" y "Por qué necesitamos map(valor, 0, 1023, 0, 255)"), con ondas cuadradas y diagramas claros presentados por Donatello sin globos que tapen las fórmulas.
+
+Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
+1. Portada y gancho inicial con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
+2. Propósito LEV y explicación cercana a su edad (15-16 años) de para qué sirve PWM en reguladores de brillo de pantallas, motores y luces inteligentes.
+3. Láminas explicativas profundas de PWM (pines ~) y la función map().
+4. Enunciado claro de la actividad individual en Tinkercad y kit físico + 1 consejo (PROHIBIDO regalar el código final del reto).
+5. Verificación y cierre autoconclusivo.
+
+Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
+```
