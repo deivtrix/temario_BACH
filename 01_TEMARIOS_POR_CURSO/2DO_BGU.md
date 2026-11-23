@@ -21,11 +21,11 @@
 ---
 
 ## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Diseño Paramétrico por Bloques
-*(Estado: En curso — Hoy: Semana 3, 16–19 nov | Cierre Áreas Especiales: semana del 11 ene)*
+*(Estado: En curso — Hoy: Semana 4, 23–27 nov | Cierre Áreas Especiales: semana del 11 ene)*
 
 1. `[x]` **S1–S2 (4–13 nov) — Mini Golf con Motores en Sim Lab** *(Individual 1 — ejecutado)* — Obstáculos móviles y simulación física.
-2. `[→]` **S3 (16–19 nov — Esta semana) — Motor Deslizante en Sim Lab** *(Grupal)* — Mecanismo de desplazamiento lineal en grupo.
-3. `[ ]` **S4 (23–27 nov) — Introducción a Tinkercad Codeblocks** *(Individual 2)* — Bloques 3D, coordenadas y creación de figura paramétrica (llavero/mesa).
+2. `[x]` **S3 (16–19 nov) — Motor Deslizante en Sim Lab** *(Grupal — ejecutado)* — Mecanismo de desplazamiento lineal en grupo.
+3. `[x]` **S4 (23–27 nov) — Introducción a Tinkercad Codeblocks: Silla 3D** *(Individual 2 / Actividad 4 — ejecutado 23 nov)* — Bloques 3D, coordenadas `X, Y, Z`, agrupación y modelado programado de una silla subida a Classroom.
 4. `[ ]` **S5 (30 nov – 4 dic) — Bucles y Rotación en Codeblocks** *(Práctica PC)* — Escalera en espiral / Torre paramétrica con bucles `repeat`.
 5. `[ ]` **S6 (7–11 dic) — Proyecto Codeblocks: Engranaje o Mecanismo Paramétrico** *(Práctica / Entrega)* — Uso de variables para modificar tamaño y número de dientes.
 6. `[ ]` **S7 (14–18 dic) — Refuerzo: Figura Simétrica Libre en Codeblocks** *(Refuerzo)* — Diseño propio (estrella, adorno o estructura) usando mínimo 1 bucle `Repetir` y rotación radial.

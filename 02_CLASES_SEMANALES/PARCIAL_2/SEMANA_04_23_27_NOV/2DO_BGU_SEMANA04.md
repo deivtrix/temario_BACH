@@ -19,26 +19,26 @@
 * **Modelación:** Programar una **mini mesa o llavero** en 6 bloques y presionar *Play* para ver cómo se construye solo paso a paso.
 
 ### 3. Práctica Guiada y Reto Individual (15 – 40 min)
-* **15 – 25 min (Guiada):** Todos crean la base de una **mesa pequeña o placa** usando bloques `Cubo`, `Mover` y `Crear grupo`.
-* **25 – 40 min (Reto Solos):** *"Programa un **llavero o trofeo simple** que tenga: base, hueco perforado (usando forma hueca + Crear grupo) y un detalle encima, todo generado 100% por bloques."*
+* **15 – 25 min (Guiada):** Todos crean la base de una **mesa pequeña o asiento** usando bloques `Cubo`, `Mover` y `Crear grupo`.
+* **25 – 40 min (Reto Solos — Actividad 4):** *"Programa una **Silla 3D completa** usando 100% bloques en Codeblocks (4 patas alineadas en `X, Y, Z`, asiento y espaldar firme, todo unido con `Crear grupo`)."*
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
 * **2 preguntas rápidas:**
   1. *"¿Qué ventaja tiene diseñar con Codeblocks frente a arrastrar figuras con el mouse?"*
-  2. *"¿Para qué sirve el bloque `Crear grupo` después de colocar una forma hueca?"*
-* **Cierre:** Subir captura donde se vea el modelo 3D y los bloques de código a la izquierda.
+  2. *"¿Cómo calculaste las coordenadas `X, Y, Z` para que las 4 patas de la silla no queden volando ni chuecas?"*
+* **Cierre:** Subir captura donde se vea la silla 3D y los bloques de código a la izquierda en Classroom.
 
 ## 📢 TEXTO PARA GOOGLE CLASSROOM
 ```text
-TÍTULO: Actividad Individual 2: Mi Primer Diseño 3D Programado (Codeblocks)
+TÍTULO: Actividad 4 (Individual 2): Silla 3D Programada en Codeblocks
 
 PROPÓSITO: Crear figuras 3D en Tinkercad usando bloques de código en lugar de moverlas con el mouse.
 
 INSTRUCCIONES:
 1. En Tinkercad, crea un proyecto nuevo en la sección "Bloques de código" (Codeblocks).
-2. Programa una placa/llavero o trofeo geométrico usando al menos: 2 formas sólidas, 1 forma hueca, bloques "Mover" y "Crear grupo".
-3. Presiona "Ejecutar" y toma 1 captura donde se vean tanto los bloques de programación como la figura 3D terminada.
+2. Programa una Silla 3D completa (4 patas, asiento y espaldar) usando bloques de Formas, "Mover (X, Y, Z)" y "Crear grupo".
+3. Presiona "Ejecutar" y toma 1 captura donde se vean tanto los bloques de programación como la silla 3D terminada.
 4. Escribe tu nombre en el título del proyecto y súbela aquí.
 
-Calificación: 10 puntos (Actividad Individual 2).
+Calificación: 10 puntos (Actividad 4 / Individual 2).
 ```

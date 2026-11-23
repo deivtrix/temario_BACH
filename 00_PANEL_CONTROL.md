@@ -1,6 +1,6 @@
 # 🎛️ PANEL DE CONTROL DEL MEDIADOR (OBSIDIAN 2026 - 2027)
 **Mediador:** David Castro | **Materia:** Robótica y Tecnología  
-**Última actualización:** 16 de noviembre de 2026 (Parcial 2 — Semana 3)
+**Última actualización:** 23 de noviembre de 2026 (Parcial 2 — Semana 4)
 
 ---
 
@@ -31,7 +31,7 @@
 ## 🗓️ 3. AGENDA SEMANAL DE PREPARACIÓN Y ESTUDIO (PARCIAL 2)
 *(Revisa esta lista el fin de semana antes de cada lunes para preparar diapositivas y probar la práctica).*
 
-### ✅ Semana 3 (16 – 19 nov) — *EN CURSO (Vie 20 feriado)*
+### ✅ Semana 3 (16 – 19 nov) — *CERRADA*
 * **8vo:** Corriente Directa / Continua (DC) y Polaridad en PhET DC
 * **9no:** Case de iPhone — Parte 2 + Formulario *(Individual 2)*
 * **10mo:** Conectores y Aislantes *(Individual 1 — infografía/consulta)*
@@ -39,12 +39,12 @@
 * **2do BGU:** Motor deslizante en Sim Lab *(Grupal)*
 * **3ro BGU:** Formulario de mejora de calificaciones + repaso ESP32
 
-### ⏭️ Semana 4 (23 – 27 nov) — *Qué estudiar / preparar antes del lunes 23*
+### 🚀 Semana 4 (23 – 27 nov) — *EN CURSO*
 * **8vo:** Corriente Alterna (AC) y Transformación a DC en PhET CA $\rightarrow$ *Preparar comparación DC vs. AC y cargador.*
 * **9no:** Inkscape `.PNG` $\rightarrow$ `.SVG` + Tinkercad 3D $\rightarrow$ *Probar conversión rápida de 1 logo en Inkscape.*
 * **10mo:** Primer programa Arduino (*Blink*) en Tinkercad $\rightarrow$ *Tener circuito base de Blink listo para proyectar.*
 * **1ro BGU:** Atenuador de brillo LED (`map()` + PWM `analogWrite`) $\rightarrow$ *Probar código con potenciómetro y 1 LED en pin PWM.*
-* **2do BGU:** Intro a Tinkercad Codeblocks $\rightarrow$ *Armar 1 figura paramétrica sencilla en Codeblocks para modelar en vivo.*
+* **2do BGU:** Intro a Tinkercad Codeblocks: **Silla 3D (Actividad 4 en Classroom — ejecutado 23 nov)** ✅
 * **3ro BGU:** Semáforo en Wokwi *(Individual 1)* $\rightarrow$ *Tener el circuito base del semáforo ESP32 en Wokwi listo.*
 
 ### 📅 Semana 5 (30 nov – 4 dic)
