@@ -9,7 +9,6 @@
 # CAPÍTULO #1
 **Tema:** Mecanismo de Motor Deslizante en Tinkercad Sim Lab *(Grupal)*  
 **Modo de Clase:** Modo A/B — Encuadre + Modelación rápida (10 min) + Reto Grupal (30 min) + Cierre (5 min)  
-**Entregable:** Captura / video corto del mecanismo funcionando en Sim Lab + 2 preguntas en Classroom.
 
 ---
 
@@ -39,25 +38,9 @@
 * **Preguntas orales antes de salir:**
   1. *"¿Qué pasa si dejas la base en modo Dinámico cuando arranca el motor deslizante?"*
   2. *"¿Dónde ves este mismo movimiento lineal en máquinas reales?"*
-* **Entrega:** Subir captura de la simulación funcionando + nombres del grupo en Classroom.
 
 ---
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Actividad Grupal: Mecanismo con Motor Deslizante en Tinkercad Sim Lab
-
-PROPÓSITO: Crear un mecanismo que se mueva en línea recta en Sim Lab, como una puerta automática.
-
-INSTRUCCIONES (En grupos):
-1. Diseñen en Tinkercad Sim Lab un mecanismo funcional con motor deslizante (puerta corrediza, prensa o lanzador).
-2. Aseguren la base en modo Estático y la pieza móvil en modo Dinámico.
-3. Coloquen los nombres de los integrantes en texto 3D sobre la base.
-4. Suban 1 captura de la simulación en movimiento y respondan en el comentario:
-   - ¿Qué pasó si aumentaron demasiado la velocidad o fuerza del motor deslizante?
-
-Calificación: 10 puntos (Trabajo grupal en laboratorio).
-```
 
 
 ---
@@ -65,7 +48,6 @@ Calificación: 10 puntos (Trabajo grupal en laboratorio).
 # CAPÍTULO #2
 **Tema:** Introducción a Tinkercad Codeblocks (Diseño 3D Programado) *(Individual 2)*  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
-**Entregable:** Captura exprés del modelo 3D generado por código + bloques visibles en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Crear** figuras 3D en Tinkercad usando bloques de código en lugar de moverlas con el mouse.
@@ -89,22 +71,8 @@ Calificación: 10 puntos (Trabajo grupal en laboratorio).
 * **2 preguntas rápidas:**
   1. *"¿Qué ventaja tiene diseñar con Codeblocks frente a arrastrar figuras con el mouse?"*
   2. *"¿Cómo calculaste las coordenadas `X, Y, Z` para que las 4 patas de la silla no queden volando ni chuecas?"*
-* **Cierre:** Subir captura donde se vea la silla 3D y los bloques de código a la izquierda.
+* **Cierre:** Comprobar el funcionamiento en vivo y responder las preguntas de verificación.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Actividad 4 (Individual 2): Silla 3D Programada en Codeblocks
-
-PROPÓSITO: Crear figuras 3D en Tinkercad usando bloques de código en lugar de moverlas con el mouse.
-
-INSTRUCCIONES:
-1. En Tinkercad, crea un proyecto nuevo en la sección "Bloques de código" (Codeblocks).
-2. Programa una Silla 3D completa (4 patas, asiento y espaldar) usando bloques de Formas, "Mover (X, Y, Z)" y "Crear grupo".
-3. Presiona "Ejecutar" y toma 1 captura donde se vean tanto los bloques de programación como la silla 3D terminada.
-4. Escribe tu nombre en el título del proyecto y súbela aquí.
-
-Calificación: 10 puntos (Actividad 4 / Individual 2).
-```
 
 
 ---
@@ -112,7 +80,6 @@ Calificación: 10 puntos (Actividad 4 / Individual 2).
 # CAPÍTULO #3
 **Tema:** Bucles y Rotación en Tinkercad Codeblocks (Escalera / Torre Paramétrica)  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
-**Entregable:** Captura exprés en Classroom de la estructura generada con bucles `repetir`.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Construir** una escalera en espiral en Codeblocks usando bucles `repetir` para no dibujar pieza por pieza.
@@ -137,21 +104,8 @@ Calificación: 10 puntos (Actividad 4 / Individual 2).
 * **2 preguntas rápidas:**
   1. *"¿Qué hace el bloque `Cambiar variable por...` dentro del bucle `Repetir`?"*
   2. *"¿Qué pasa si rotas la pieza alrededor de su propio centro vs. alrededor del origen `[0,0,0]`?"*
-* **Cierre:** Subir captura con los bloques y la figura 3D terminada a Classroom.
+* **Cierre:** Comprobar el funcionamiento en vivo y responder las preguntas de verificación.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Práctica Codeblocks: Escalera en Espiral / Torre con Bucles
-
-PROPÓSITO: Construir una escalera en espiral en Codeblocks usando bucles `repetir` para no dibujar pieza por pieza.
-
-INSTRUCCIONES:
-1. En Tinkercad Codeblocks, programa una escalera en espiral o torre paramétrica usando al menos 1 bucle "Repetir" y 1 variable que cambie altura o ángulo en cada vuelta.
-2. Agrega una base o columna central para completar la estructura.
-3. Toma 1 captura donde se vean los bloques y la figura final, y súbela aquí.
-
-Calificación: 10 puntos (Práctica de clase).
-```
 
 
 ---
@@ -159,7 +113,6 @@ Calificación: 10 puntos (Práctica de clase).
 # CAPÍTULO #4
 **Tema:** Proyecto Codeblocks: Engranaje o Mecanismo Paramétrico  
 **Modo de Clase:** Modo B — Práctica Autónoma Evaluada (45 min)  
-**Entregable:** Captura en Classroom del engranaje/mecanismo + variables visibles.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Crear** un engranaje en Codeblocks que cambie su número de dientes modificando una sola variable.
@@ -184,22 +137,8 @@ Calificación: 10 puntos (Práctica de clase).
 * **2 preguntas rápidas:**
   1. *"¿Qué fórmula matemática usamos para saber cuántos grados rotar cada diente?"*
   2. *"¿Por qué decimos que este diseño es 'paramétrico'?"*
-* **Cierre:** Subir captura con bloques y engranaje 3D a Classroom.
+* **Cierre:** Comprobar el funcionamiento en vivo y responder las preguntas de verificación.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Práctica Evaluada Codeblocks: Engranaje / Hélice Paramétrica
-
-PROPÓSITO: Crear un engranaje en Codeblocks que cambie su número de dientes modificando una sola variable.
-
-INSTRUCCIONES:
-1. En Tinkercad Codeblocks, crea una variable llamada "dientes" (ej. 12 o 16).
-2. Usa un bucle "Repetir (dientes) veces" rotando cada diente (360 / dientes) grados alrededor del origen.
-3. Agrega el disco base, un hueco central para el eje y agrupa todo (Crear grupo).
-4. Sube 1 captura donde se vean tus bloques y el engranaje terminado.
-
-Calificación: 10 puntos (Práctica de clase).
-```
 
 
 ---
@@ -207,7 +146,6 @@ Calificación: 10 puntos (Práctica de clase).
 # CAPÍTULO #5
 **Tema:** Refuerzo: Diseño Libre Programado en Codeblocks *(Refuerzo)*  
 **Modo de Clase:** Modo B — Refuerzo Creativo (45 min)  
-**Entregable:** Visto bueno en vivo / captura opcional de nivelación en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Diseñar** una figura simétrica propia (estrella o adorno) en Codeblocks usando bucles `repetir`.
@@ -229,16 +167,6 @@ Calificación: 10 puntos (Práctica de clase).
   1. *"¿Qué fue lo más útil que aprendiste de Codeblocks frente al Tinkercad normal?"*
   2. *"¿Cuántos grados rotaste cada brazo de tu figura simétrica?"*
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Refuerzo Creativo Codeblocks: Figura Simétrica Libre
-
-PROPÓSITO: Diseñar una figura simétrica propia (estrella o adorno) en Codeblocks usando bucles `repetir`.
-
-ACTIVIDAD:
-- Diseña una figura simétrica (estrella, adorno o estructura) usando mínimo 1 bucle Repetir.
-- Nivelación de entregas pendientes del Parcial 2.
-```
 
 
 ---
@@ -246,7 +174,6 @@ ACTIVIDAD:
 # CAPÍTULO #6
 **Tema:** Cierre del Bloque 3D / Codeblocks y Puente a Arduino *(Colchón)*  
 **Modo de Clase:** Modo B — Cierre y Nivelación (45 min)  
-**Entregable:** Revisión final de diseños Sim Lab / Codeblocks.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Evaluar** nuestros diseños finales de Sim Lab y Codeblocks para cerrar el módulo 3D antes de Arduino.
@@ -267,13 +194,3 @@ ACTIVIDAD:
   3. Usar variables y bucles `Repetir` para diseñar estructuras en espiral o simétricas.
   4. Programar piezas paramétricas (engranajes) cambiando el número de dientes con una variable.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Cierre del Parcial 2: Revisión Final Sim Lab y Codeblocks
-
-PROPÓSITO: Evaluar nuestros diseños finales de Sim Lab y Codeblocks para cerrar el módulo 3D antes de Arduino.
-
-ACTIVIDAD:
-- Revisión de entregas pendientes de Sim Lab y Tinkercad Codeblocks.
-- Indicaciones para la semana de Evaluaciones de Áreas Especiales (11 de enero).
-```

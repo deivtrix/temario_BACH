@@ -26,19 +26,4 @@
 * **2 preguntas rápidas:**
   1. *"¿Qué ventaja tiene diseñar con Codeblocks frente a arrastrar figuras con el mouse?"*
   2. *"¿Cómo calculaste las coordenadas `X, Y, Z` para que las 4 patas de la silla no queden volando ni chuecas?"*
-* **Cierre:** Subir captura donde se vea la silla 3D y los bloques de código a la izquierda en Classroom.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Actividad 4 (Individual 2): Silla 3D Programada en Codeblocks
-
-PROPÓSITO: Crear figuras 3D en Tinkercad usando bloques de código en lugar de moverlas con el mouse.
-
-INSTRUCCIONES:
-1. En Tinkercad, crea un proyecto nuevo en la sección "Bloques de código" (Codeblocks).
-2. Programa una Silla 3D completa (4 patas, asiento y espaldar) usando bloques de Formas, "Mover (X, Y, Z)" y "Crear grupo".
-3. Presiona "Ejecutar" y toma 1 captura donde se vean tanto los bloques de programación como la silla 3D terminada.
-4. Escribe tu nombre en el título del proyecto y súbela aquí.
-
-Calificación: 10 puntos (Actividad 4 / Individual 2).
-```
+* **Cierre:** Actividad 4 (Individual 2 — Silla 3D en Codeblocks) verificada con los bloques visibles y el modelo terminado.

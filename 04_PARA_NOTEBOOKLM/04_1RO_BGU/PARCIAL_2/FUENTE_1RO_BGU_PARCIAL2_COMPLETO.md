@@ -9,7 +9,6 @@
 # CAPÍTULO #1
 **Tema:** Informe de Potenciómetro con 4 LEDs (`analogRead`, `>`, `<`) + Cuestionario *(Individual 1)*  
 **Modo de Clase:** Modo B — Actividad Autónoma Evaluada (45 min)  
-**Entregable:** Informe corto anti-IA (con código, parámetros y 3 preguntas vivenciales) + Cuestionario en Classroom.
 
 ---
 
@@ -33,35 +32,13 @@
 * **Tu rol:** Ayudas a quienes tenían el error de que los LEDs no se apagaban al bajar el potenciómetro (faltaba el `else { digitalWrite(..., LOW); }`).
 
 ### 4. Cuestionario y Cierre (35 – 45 min)
-* **35 – 42 min:** Responden el cuestionario corto de 4 preguntas en Classroom.
+* **35 – 42 min:** Responden el cuestionario corto de 4 preguntas.
 * **42 – 45 min (Preguntas orales de cierre):**
   1. *"¿Cuál es el valor mínimo y máximo de `analogRead()` en Arduino UNO?"*
   2. *"¿Por qué usamos `>` o `<` en lugar de `==` con un potenciómetro?"*
 
 ---
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM (INFORME + CUESTIONARIO)
-```text
-TÍTULO: Actividad Individual 1: Informe Potenciómetro 4 LEDs + Cuestionario
-
-PROPÓSITO: Explicar cómo la perilla del potenciómetro enciende 4 LEDs por turnos, igual que un medidor de batería.
-
-PARTE 1 — INFORME CORTO (En Google Docs):
-1. Captura de pantalla de tu circuito en Tinkercad (o foto en físico) con una Nota Virtual / papel con tu NOMBRE y al menos 2 LEDs encendidos.
-2. Pega tu código C++ completo e indica los 4 umbrales exactos que usaste (ej. >200, >450...).
-3. Responde en máximo 3 líneas cada pregunta (cero definiciones de internet):
-   a) ¿Qué pasaba cuando dejabas los 4 LEDs con ">" sin poner el "else { digitalWrite(..., LOW); }" al regresar la perilla?
-   b) ¿En qué posición aproximada del potenciómetro se encendía tu tercer LED?
-   c) ¿Qué ocurrió si probaste cambiar uno de los valores de comparación a "<"?
-
-PARTE 2 — CUESTIONARIO (4 preguntas):
-1. ¿Qué rango numérico entrega analogRead() en Arduino UNO?
-2. ¿Qué pines se conectan en los extremos del potenciómetro y cuál en el centro?
-3. ¿Por qué usamos ">" o "<" en lugar de "==" con un potenciómetro?
-4. Menciona 1 aparato real que funcione por rangos analógicos como esta práctica.
-
-Calificación: 10 puntos (Informe 6 pts + Cuestionario 4 pts).
-```
 
 
 ---
@@ -69,7 +46,6 @@ Calificación: 10 puntos (Informe 6 pts + Cuestionario 4 pts).
 # CAPÍTULO #2
 **Tema:** Atenuador de Brillo LED (`map()` + PWM `analogWrite`) *(Individual 2)*  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
-**Entregable:** Captura en Tinkercad / visto bueno en kit físico + reto de velocidad en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Modificar** el brillo de un LED suavemente con el potenciómetro, como el brillo de un celular.
@@ -94,31 +70,8 @@ Calificación: 10 puntos (Informe 6 pts + Cuestionario 4 pts).
 * **2 preguntas rápidas:**
   1. *"¿Qué símbolo tienen en la placa los pines que soportan `analogWrite()`?"*
   2. *"¿Por qué usamos `map(valor, 0, 1023, 0, 255)`?"*
-* **Cierre:** Subir captura con nota de nombre o recibir visto bueno en kit físico.
+* **Cierre:** Comprobar el funcionamiento en vivo y responder las preguntas de verificación.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Actividad Individual 2: Atenuador de Brillo LED (map y PWM)
-
-PROPÓSITO: Modificar el brillo de un LED suavemente con el potenciómetro, como el brillo de un celular.
-
-CÓDIGO BASE:
-void setup() {
-  pinMode(9, OUTPUT);
-}
-void loop() {
-  int valor = analogRead(A0);
-  int brillo = map(valor, 0, 1023, 0, 255);
-  analogWrite(9, brillo);
-}
-
-RETO INDIVIDUAL:
-1. Agrega un segundo LED en el pin PWM ~10.
-2. Haz que funcione invertido (cuando el pin 9 brilla al máximo, el pin 10 se apaga: analogWrite(10, 255 - brillo);).
-3. Sube 1 captura con tu nombre en una Nota Virtual o comentario del código.
-
-Calificación: 10 puntos (Actividad Individual 2).
-```
 
 
 ---
@@ -126,7 +79,6 @@ Calificación: 10 puntos (Actividad Individual 2).
 # CAPÍTULO #3
 **Tema:** Poste de Alumbrado Público Automático (Sensor LDR)  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
-**Entregable:** Captura en Tinkercad / visto bueno en kit físico + lectura serial en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Construir** un circuito con sensor de luz (LDR) que prenda un LED solo cuando oscurece, como un poste de calle.
@@ -150,36 +102,8 @@ Calificación: 10 puntos (Actividad Individual 2).
 * **2 preguntas rápidas:**
   1. *"¿Por qué la LDR necesita una resistencia de 10 kΩ hacia `GND` para poder leerse en `A0`?"*
   2. *"¿Qué número marcó tu Monitor Serial con luz vs. tapado con el dedo?"*
-* **Cierre:** Visto bueno en kit / subida de captura con valores reales en Classroom.
+* **Cierre:** Visto bueno en kit / subida de captura con valores reales.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Práctica Arduino: Poste de Alumbrado Público Automático (LDR)
-
-PROPÓSITO: Construir un circuito con sensor de luz (LDR) que prenda un LED solo cuando oscurece, como un poste de calle.
-
-CÓDIGO BASE:
-void setup() {
-  Serial.begin(9600);
-  pinMode(9, OUTPUT);
-}
-void loop() {
-  int luz = analogRead(A0);
-  Serial.println(luz);
-  if (luz < 400) { // Ajusta este umbral según tu lectura
-    digitalWrite(9, HIGH);
-  } else {
-    digitalWrite(9, LOW);
-  }
-  delay(100);
-}
-
-ENTREGA:
-1. Arma el circuito (LDR a 5V y A0 + resistencia 10k a GND + LED en Pin 9).
-2. Sube 1 captura/foto funcionando y escribe en el comentario el valor exacto que marcó tu Monitor Serial con luz y en oscuridad.
-
-Calificación: 10 puntos (Práctica de clase).
-```
 
 
 ---
@@ -187,7 +111,6 @@ Calificación: 10 puntos (Práctica de clase).
 # CAPÍTULO #4
 **Tema:** Theremin Musical Controlado por Luz (LDR + Buzzer `tone()`) *(Grupal Físico)*  
 **Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Montaje Grupal Físico (30 min) + Cierre (5 min)  
-**Entregable:** Visto bueno en vivo + Informe corto anti-IA grupal (con foto y parámetros) en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Construir** un instrumento musical (Theremin) que cambia de sonido al tapar la luz con la mano.
@@ -213,34 +136,8 @@ Calificación: 10 puntos (Práctica de clase).
 * **2 preguntas rápidas:**
   1. *"¿Qué hace la función `tone(8, nota)`?"*
   2. *"¿Por qué tuvimos que cambiar los números de entrada en `map()` según la luz del aula?"*
-* **Cierre:** Demostración en vivo en mesa + entrega de foto grupal y parámetros en Classroom.
+* **Cierre:** Demostración en vivo en mesa + entrega de foto grupal y parámetros.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Actividad Grupal Física: Theremin Musical con Luz (LDR + Buzzer)
-
-PROPÓSITO: Construir un instrumento musical (Theremin) que cambia de sonido al tapar la luz con la mano.
-
-CÓDIGO BASE:
-void setup() {
-  Serial.begin(9600);
-}
-void loop() {
-  int luz = analogRead(A0);
-  int nota = map(luz, 100, 900, 200, 2000); // Ajustar según tu lectura real
-  tone(8, nota);
-  delay(20);
-}
-
-INSTRUCCIONES (En grupos):
-1. Armen el circuito físico (LDR en A0 con 10k a GND + Buzzer en Pin 8 y GND).
-2. Calibren el map() según la luz real del laboratorio.
-3. Suban 1 foto del circuito con un papel con sus nombres e indiquen en el comentario:
-   - ¿Qué valores mínimo y máximo marcó su LDR?
-   - ¿Qué pasaba con el sonido al acercar y alejar la mano?
-
-Calificación: 10 puntos (Actividad Grupal Física).
-```
 
 
 ---
@@ -248,7 +145,6 @@ Calificación: 10 puntos (Actividad Grupal Física).
 # CAPÍTULO #5
 **Tema:** Refuerzo: Calibración con Monitor Serial y Nivelación *(Refuerzo)*  
 **Modo de Clase:** Modo B — Refuerzo Práctico (45 min)  
-**Entregable:** Revisión en vivo / nivelación de prácticas atrasadas del Parcial 2.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Verificar** los valores reales de luz en el Monitor Serial para ajustar bien nuestros sensores.
@@ -271,16 +167,6 @@ Calificación: 10 puntos (Actividad Grupal Física).
   1. *"¿Cómo encuentras el umbral ideal para un sensor LDR en cualquier habitación?"*
   2. *"¿Qué comando inicia la comunicación entre Arduino y la pantalla de la PC?"*
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Refuerzo Práctico: Calibración de Sensores con Monitor Serial
-
-PROPÓSITO: Verificar los valores reales de luz en el Monitor Serial para ajustar bien nuestros sensores.
-
-ACTIVIDAD:
-- Práctica de diagnóstico en clase calculando el punto medio real de un sensor analógico (LDR / Potenciómetro).
-- Nivelación de entregas pendientes antes de vacaciones.
-```
 
 
 ---
@@ -288,7 +174,6 @@ ACTIVIDAD:
 # CAPÍTULO #6
 **Tema:** Repaso General de Sensores Analógicos y Cierre de Parcial 2 *(Colchón)*  
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
-**Entregable:** Revisión de notas y prácticas pendientes del kit / Tinkercad.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Integrar** lo visto de potenciómetro, brillo PWM y sensor de luz antes de pasar a nuevos sensores.
@@ -312,13 +197,3 @@ ACTIVIDAD:
   3. Armar y calibrar una fotoresistencia (LDR) con el Monitor Serial.
   4. Convertir lecturas de luz en sonido usando `tone()` en el Buzzer.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Cierre del Parcial 2: Repaso de Entradas Analógicas y PWM
-
-PROPÓSITO: Integrar lo visto de potenciómetro, brillo PWM y sensor de luz antes de pasar a nuevos sensores.
-
-ACTIVIDAD:
-- Repaso general de analogRead(), map(), analogWrite() y tone().
-- Revisión final de entregas antes de Evaluaciones de Áreas Especiales (11 de enero).
-```

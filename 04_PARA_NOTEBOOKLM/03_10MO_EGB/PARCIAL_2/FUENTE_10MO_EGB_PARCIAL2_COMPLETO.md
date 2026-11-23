@@ -9,7 +9,6 @@
 # CAPÍTULO #1
 **Tema:** Conectores y Aislantes Eléctricos *(Individual 1 — Infografía / Consulta)*  
 **Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Consulta e Infografía Autónoma (30 min) + Cierre (5 min)  
-**Entregable:** Infografía en Canva / Documento de consulta en Classroom.
 
 ---
 
@@ -37,25 +36,9 @@
 * **Preguntas orales antes de salir:**
   1. *"¿Qué conector usarías en un protoboard con Arduino y cuál en una lámpara de 110V?"*
   2. *"¿Qué ventaja tiene el tubo termocontraíble frente a la cinta aislante común?"*
-* **Entrega:** Subir la infografía en PDF/PNG a Google Classroom.
 
 ---
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Actividad Individual 1: Infografía de Conectores y Aislantes
-
-PROPÓSITO: Clasificar qué conectores y aislantes usar para unir cables sin que se suelten ni hagan corto.
-
-INSTRUCCIONES:
-1. En Canva (1 sola página), diseña una infografía clara con:
-   - 4 tipos de Conectores Eléctricos/Electrónicos (debe incluir Jumper Dupont y Regleta/Bornera).
-   - 4 tipos de Aislantes Eléctricos (debe incluir Cinta PVC y Tubo Termocontraíble).
-2. Cada ítem debe tener: Nombre, imagen y 1 línea explicando para qué sirve.
-3. Incluye tu nombre y curso en el pie de la infografía y súbela en PDF o PNG.
-
-Calificación: 10 puntos (Trabajo individual de clase).
-```
 
 
 ---
@@ -63,7 +46,6 @@ Calificación: 10 puntos (Trabajo individual de clase).
 # CAPÍTULO #2
 **Tema:** Primer Programa en Arduino (*Blink*) en Tinkercad *(Individual 2)*  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
-**Entregable:** Captura exprés en Classroom del circuito Blink funcionando con código propio.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Simular** un LED que parpadea solo con código Arduino (`Blink`) para dar vida a un circuito.
@@ -88,32 +70,8 @@ Calificación: 10 puntos (Trabajo individual de clase).
 * **2 preguntas rápidas:**
   1. *"¿Qué diferencia hay entre `void setup()` y `void loop()`?"*
   2. *"Si pongo `delay(500);`, ¿cuántos segundos espera el Arduino?"*
-* **Cierre:** Subir captura en Tinkercad con el LED encendido y el código visible a Classroom.
+* **Cierre:** Subir captura en Tinkercad con el LED encendido y el código visible.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Actividad Individual 2: Mi Primer Programa en Arduino (Blink Alternado)
-
-PROPÓSITO: Simular un LED que parpadea solo con código Arduino (`Blink`) para dar vida a un circuito.
-
-CÓDIGO BASE DE REFERENCIA:
-void setup() {
-  pinMode(13, OUTPUT);
-}
-void loop() {
-  digitalWrite(13, HIGH);
-  delay(1000);
-  digitalWrite(13, LOW);
-  delay(1000);
-}
-
-RETO INDIVIDUAL:
-1. Agrega un segundo LED en el Pin 12 (con resistencia de 220 ohmios a GND).
-2. Haz que ambos LEDs parpadeen alternados cada 500 ms.
-3. Escribe // Tu Nombre Apellido en la línea 1 del código y sube 1 captura de la simulación corriendo.
-
-Calificación: 10 puntos (Actividad Individual 2).
-```
 
 
 ---
@@ -121,7 +79,6 @@ Calificación: 10 puntos (Actividad Individual 2).
 # CAPÍTULO #3
 **Tema:** Múltiples Salidas Digitales: Semáforo en Tinkercad  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
-**Entregable:** Captura exprés en Classroom del semáforo funcionando con variables `int`.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Simular** un semáforo de 3 luces en Tinkercad usando nombres (`int`) para ordenar los pines.
@@ -144,22 +101,8 @@ Calificación: 10 puntos (Actividad Individual 2).
 * **2 preguntas rápidas:**
   1. *"¿Para qué sirve declarar `int rojo = 13;` al inicio del código?"*
   2. *"¿Qué pasa si olvidas apagar el LED anterior con `LOW` antes de encender el siguiente?"*
-* **Cierre:** Subir captura de Tinkercad con el código y el semáforo encendido a Classroom.
+* **Cierre:** Comprobar el funcionamiento en vivo y responder las preguntas de verificación.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Práctica Arduino: Semáforo Inteligente en Tinkercad
-
-PROPÓSITO: Simular un semáforo de 3 luces en Tinkercad usando nombres (`int`) para ordenar los pines.
-
-INSTRUCCIONES:
-1. Conecta 3 LEDs (Rojo en Pin 13, Amarillo en Pin 12, Verde en Pin 11) con sus resistencias de 220 ohmios a GND.
-2. Declara variables int para cada color al inicio del código.
-3. Programa el ciclo completo haciendo que el Verde parpadee 3 veces antes de cambiar a Amarillo.
-4. Escribe // Tu Nombre Apellido en la línea 1 y sube 1 captura de la simulación corriendo.
-
-Calificación: 10 puntos (Práctica de clase).
-```
 
 
 ---
@@ -167,7 +110,6 @@ Calificación: 10 puntos (Práctica de clase).
 # CAPÍTULO #4
 **Tema:** Semáforo Físico en Protoboard con Arduino UNO *(Grupal Físico)*  
 **Modo de Clase:** Modo B — Trabajo Grupal Físico (45 min)  
-**Entregable:** Visto bueno en vivo + foto grupal del semáforo físico encendido en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Construir** nuestro semáforo en protoboard real con Arduino UNO para verlo funcionar fuera de la pantalla.
@@ -189,21 +131,8 @@ Calificación: 10 puntos (Práctica de clase).
 * **2 preguntas rápidas:**
   1. *"¿Cómo identificas físicamente cuál es el ánodo (+) y el cátodo (-) de un LED real?"*
   2. *"¿Qué pasó al subir el código si el cable USB o el puerto COM no estaban seleccionados?"*
-* **Cierre:** Visto bueno en mesa + subir foto con papelito de nombres en Classroom.
+* **Cierre:** Visto bueno en mesa + subir foto con papelito de nombres.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Actividad Grupal Física: Semáforo Real con Arduino UNO
-
-PROPÓSITO: Construir nuestro semáforo en protoboard real con Arduino UNO para verlo funcionar fuera de la pantalla.
-
-INSTRUCCIONES (En grupos):
-1. Armen en protoboard física los 3 LEDs (Rojo, Amarillo, Verde) con resistencias de 220 ohmios hacia GND y conectados a los pines 13, 12 y 11.
-2. Carguen su código al Arduino UNO desde el IDE.
-3. Coloquen un papelito con los nombres del grupo al lado del circuito encendido, tomen 1 foto y súbanla aquí.
-
-Calificación: 10 puntos (Actividad Grupal Física).
-```
 
 
 ---
@@ -211,7 +140,6 @@ Calificación: 10 puntos (Actividad Grupal Física).
 # CAPÍTULO #5
 **Tema:** Reto de Secuencias e Intro a Bucles `for` *(Refuerzo)*  
 **Modo de Clase:** Modo A — Tema Nuevo / Refuerzo (45 min)  
-**Entregable:** Captura en Tinkercad del barrido de LEDs usando `for` en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Optimizar** el encendido de 6 LEDs en fila usando un bucle `for` en lugar de repetir tantas líneas.
@@ -241,21 +169,8 @@ Calificación: 10 puntos (Actividad Grupal Física).
 * **2 preguntas rápidas:**
   1. *"¿Qué significa `pin++` y qué significa `pin--`?"*
   2. *"¿Qué pasa si conectas los LEDs en pines saltados (ej. 2, 5, 9) cuando usas un `for` consecutivo?"*
-* **Cierre:** Subir captura de Tinkercad corriendo a Classroom.
+* **Cierre:** Comprobar el funcionamiento en vivo y responder las preguntas de verificación.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Refuerzo Arduino: Secuencia de Luces con Bucle for
-
-PROPÓSITO: Optimizar el encendido de 6 LEDs en fila usando un bucle `for` en lugar de repetir tantas líneas.
-
-INSTRUCCIONES:
-1. En Tinkercad, conecta 6 LEDs desde el Pin 2 hasta el Pin 7 (con resistencias de 220 ohmios a GND).
-2. Usa un bucle for para encenderlos en orden de ida (2 -> 7) y otro bucle for para regresarlos (7 -> 2).
-3. Pon // Tu Nombre en la línea 1 y sube 1 captura de la simulación corriendo.
-
-Calificación: Refuerzo formativo (10 puntos).
-```
 
 
 ---
@@ -263,7 +178,6 @@ Calificación: Refuerzo formativo (10 puntos).
 # CAPÍTULO #6
 **Tema:** Repaso de Sintaxis C++ y Cierre del Parcial 2 *(Colchón)*  
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
-**Entregable:** Revisión en vivo y nivelación previa a evaluación quimestral.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Corregir** errores clásicos de código Arduino (`;`, llaves y pines) antes de la evaluación.
@@ -287,13 +201,3 @@ Calificación: Refuerzo formativo (10 puntos).
   3. Usar variables `int` para programar un semáforo en Tinkercad y protoboard real.
   4. Simplificar secuencias de varios LEDs usando bucles `for`.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Cierre del Parcial 2: Depuración de Código Arduino y Repaso
-
-PROPÓSITO: Corregir errores clásicos de código Arduino (`;`, llaves y pines) antes de la evaluación.
-
-ACTIVIDAD:
-- Práctica de depuración en Tinkercad (encontrar errores de llaves, punto y coma y pines).
-- Cierre y nivelación de entregas previas a Evaluaciones de Áreas Especiales (11 de enero).
-```

@@ -9,7 +9,6 @@
 # CAPÍTULO #1
 **Tema:** Formulario de Mejora de Calificaciones + Repaso Base ESP32 en Wokwi  
 **Modo de Clase:** Modo B — Recuperación y Nivelación Autónoma (45 min)  
-**Entregable:** Formulario de recuperación enviado + verificación en Wokwi (para quienes debían práctica).
 
 ---
 
@@ -27,7 +26,7 @@
 
 ### 2. Repaso Express + Formulario Individual (05 – 25 min)
 * **05 – 08 min (Repaso rápido con Página 3):** Recordar: ESP32 trabaja a **3.3V** (no 5V), tiene WiFi/Bluetooth integrado y usa `115200` baudios.
-* **08 – 25 min (Formulario):** Trabajo estrictamente individual en el formulario de Classroom.
+* **08 – 25 min (Formulario):** Trabajo estrictamente individual en el cuestionario de repaso y nivelación.
 
 ### 3. Nivelación Práctica en Wokwi (25 – 40 min)
 * **Instrucción:**
@@ -42,18 +41,6 @@
 
 ---
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Nivelación y Mejora de Calificaciones — Fundamentos ESP32 (Wokwi)
-
-PROPÓSITO: Revisar cómo funciona el ESP32 y recuperar notas con el formulario antes de pasar a sensores.
-
-INSTRUCCIONES:
-1. Completa el Formulario de Nivelación adjunto (20 minutos, individual).
-2. Si tenías pendiente la práctica de Sirena de Policía en Wokwi, corrígela/termínala y adjunta tu captura con tu nombre en la línea 1 del código (// Nombre Apellido).
-
-Calificación: Nota de recuperación / mejora registrada en el parcial.
-```
 
 
 ---
@@ -61,7 +48,6 @@ Calificación: Nota de recuperación / mejora registrada en el parcial.
 # CAPÍTULO #2
 **Tema:** Semáforo Inteligente con ESP32 en Wokwi *(Individual 1)*  
 **Modo de Clase:** Modo A — Tema Nuevo / Ambientación (45 min)  
-**Entregable:** Captura o enlace de Wokwi con el semáforo funcionando en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Construir** un semáforo de 3 luces en el ESP32 usando Wokwi para controlar varios pines a tiempo.
@@ -84,22 +70,8 @@ Calificación: Nota de recuperación / mejora registrada en el parcial.
 * **2 preguntas rápidas:**
   1. *"¿Por qué declaramos los pines como `const int` en lugar de escribir el número directo en cada `digitalWrite`?"*
   2. *"¿Qué velocidad de baudios usamos en `Serial.begin()` con el ESP32?"*
-* **Cierre:** Subir captura de Wokwi (LED encendido + código con `// Nombre` + Monitor Serial) a Classroom.
+* **Cierre:** Comprobar el funcionamiento en vivo y responder las preguntas de verificación.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Actividad Individual 1: Semáforo en ESP32 (Wokwi)
-
-PROPÓSITO: Construir un semáforo de 3 luces en el ESP32 usando Wokwi para controlar varios pines a tiempo.
-
-INSTRUCCIONES:
-1. En wokwi.com (ESP32), conecta 3 LEDs (Rojo, Amarillo, Verde) con resistencias de 220 ohmios a GND.
-2. Programa el ciclo del semáforo e incluye un parpadeo de 3 veces en el Verde antes de cambiar a Amarillo.
-3. Imprime el estado ("VERDE", "AMARILLO", "ROJO") en el Monitor Serial a 115200 baudios.
-4. Pon // Tu Nombre Apellido en la línea 1 del código y sube 1 captura de la simulación funcionando.
-
-Calificación: 10 puntos (Actividad Individual 1).
-```
 
 
 ---
@@ -107,7 +79,6 @@ Calificación: 10 puntos (Actividad Individual 1).
 # CAPÍTULO #3
 **Tema:** ESP32 PWM y Buzzer (Zumbador) en Wokwi *(Individual 2)*  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
-**Entregable:** Captura en Wokwi con brillo PWM + sonido/melodía en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Modificar** el brillo de un LED y hacer sonar notas en un buzzer con el ESP32 para crear alertas.
@@ -130,22 +101,8 @@ Calificación: 10 puntos (Actividad Individual 1).
 * **2 preguntas rápidas:**
   1. *"¿Qué cambia en el buzzer cuando aumentas el número de frecuencia en `tone(pin, freq)`?"*
   2. *"¿Qué rango de valores acepta `analogWrite()` para variar el brillo del LED?"*
-* **Cierre:** Subir captura de Wokwi (circuito + código con `// Nombre`) a Classroom.
+* **Cierre:** Comprobar el funcionamiento en vivo y responder las preguntas de verificación.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Actividad Individual 2: ESP32 PWM y Buzzer en Wokwi
-
-PROPÓSITO: Modificar el brillo de un LED y hacer sonar notas en un buzzer con el ESP32 para crear alertas.
-
-INSTRUCCIONES:
-1. En wokwi.com (ESP32), conecta 1 LED (con resistencia 220 ohmios) en GPIO 13 y 1 Buzzer en GPIO 14.
-2. Usa un bucle for con analogWrite() para hacer efecto Fade en el LED.
-3. Usa tone() para reproducir al menos 4 notas o una alarma sincronizada con el LED.
-4. Pon // Tu Nombre Apellido en la línea 1 y sube 1 captura de la simulación corriendo.
-
-Calificación: 10 puntos (Actividad Individual 2).
-```
 
 
 ---
@@ -153,7 +110,6 @@ Calificación: 10 puntos (Actividad Individual 2).
 # CAPÍTULO #4
 **Tema:** Sensor Ultrasonido HC-SR04 con ESP32 en Wokwi  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
-**Entregable:** Captura en Wokwi con distancia en Monitor Serial y alerta LED/Buzzer en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Medir** distancias en centímetros con el sensor ultrasonido y el ESP32 para activar una alarma de choque.
@@ -177,22 +133,8 @@ Calificación: 10 puntos (Actividad Individual 2).
 * **2 preguntas rápidas:**
   1. *"¿Para qué sirve el pin `TRIG` y para qué el pin `ECHO`?"*
   2. *"¿Por qué dividimos entre 2 en la fórmula de distancia?"*
-* **Cierre:** Subir captura de Wokwi mostrando la distancia `< 30 cm` y el LED encendido.
+* **Cierre:** Comprobar el funcionamiento en vivo y responder las preguntas de verificación.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Práctica ESP32 (Wokwi): Sensor Ultrasonido HC-SR04
-
-PROPÓSITO: Medir distancias en centímetros con el sensor ultrasonido y el ESP32 para activar una alarma de choque.
-
-INSTRUCCIONES:
-1. En wokwi.com (ESP32), conecta el sensor HC-SR04 (TRIG a GPIO 5, ECHO a GPIO 18), 1 LED en GPIO 13 y 1 Buzzer en GPIO 14.
-2. Calcula la distancia en centímetros e imprímela en el Monitor Serial (115200 baudios).
-3. Programa la alerta: si distancia < 30 cm, enciende el LED y suena el buzzer.
-4. Pon // Tu Nombre Apellido en la línea 1 y sube 1 captura probando una distancia menor a 30 cm.
-
-Calificación: 10 puntos (Práctica de clase).
-```
 
 
 ---
@@ -200,7 +142,6 @@ Calificación: 10 puntos (Práctica de clase).
 # CAPÍTULO #5
 **Tema:** Proyecto Grupal: Teclado Matricial 4x4 (Piano / Clave de Seguridad) en Wokwi *(Grupal)*  
 **Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Proyecto Grupal Wokwi (30 min) + Cierre (5 min)  
-**Entregable:** Captura grupal en Wokwi mostrando el Teclado 4x4 funcionando en Monitor Serial + LED/Buzzer.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Integrar** un teclado 4x4 al ESP32 en Wokwi para leer claves o tocar notas, como una cerradura digital.
@@ -226,23 +167,8 @@ Calificación: 10 puntos (Práctica de clase).
 * **2 preguntas rápidas:**
   1. *"¿Cuántos pines GPIO necesita un teclado de 16 botones gracias a la matriz 4x4?"*
   2. *"¿Para qué sirve la librería `Keypad.h`?"*
-* **Cierre:** Subir captura grupal de Wokwi corriendo a Classroom.
+* **Cierre:** Subir captura grupal de Wokwi corriendo.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Actividad Grupal ESP32 (Wokwi): Teclado Matricial 4x4
-
-PROPÓSITO: Integrar un teclado 4x4 al ESP32 en Wokwi para leer claves o tocar notas, como una cerradura digital.
-
-INSTRUCCIONES (En grupos de 2):
-1. En wokwi.com (ESP32), agreguen el componente "Membrane Keypad 4x4" y la librería "Keypad" en Library Manager.
-2. Elijan una opción:
-   - Opción A: Al presionar una tecla o clave secreta, enciende LED Verde (acceso) o Rojo (error).
-   - Opción B: Las teclas 1, 2, 3 y 4 reproducen 4 notas distintas en un Buzzer.
-3. Pongan los nombres del grupo en la línea 1 (// Nombre1 - Nombre2) y suban 1 captura funcionando con el Monitor Serial visible.
-
-Calificación: 10 puntos (Actividad Grupal).
-```
 
 
 ---
@@ -250,7 +176,6 @@ Calificación: 10 puntos (Actividad Grupal).
 # CAPÍTULO #6
 **Tema:** Refuerzo ESP32 en Wokwi y Cierre de Parcial 2 *(Colchón)*  
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
-**Entregable:** Verificación de entregas en Wokwi previas a evaluación quimestral.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Revisar** nuestras simulaciones del ESP32 en Wokwi y nivelar entregas antes de la evaluación.
@@ -262,7 +187,7 @@ Calificación: 10 puntos (Actividad Grupal).
 * **Propósito en pantalla:** *"Revisar nuestras simulaciones del ESP32 en Wokwi y nivelar entregas antes de la evaluación."*
 
 ### 2. Nivelación y Repaso en Wokwi (05 – 35 min)
-* Estudiantes con prácticas pendientes (Semáforo, PWM/Buzzer, HC-SR04 o Teclado 4x4) completan y suben sus capturas en Classroom.
+* Estudiantes con prácticas pendientes (Semáforo, PWM/Buzzer, HC-SR04 o Teclado 4x4) completan y suben sus capturas.
 * Quienes están al día prueban combinar **HC-SR04 + LED + Buzzer** con mensajes en Monitor Serial.
 
 ### 4. Cierre y Autoevaluación Likert (1 al 5) (35 – 45 min)
@@ -272,13 +197,3 @@ Calificación: 10 puntos (Actividad Grupal).
   3. Medir distancias en cm con el sensor ultrasonido HC-SR04 y activar alertas.
   4. Integrar un teclado matricial 4x4 con `Keypad.h` para leer claves o notas.
 
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Cierre del Parcial 2: Repaso General ESP32 en Wokwi
-
-PROPÓSITO: Revisar nuestras simulaciones del ESP32 en Wokwi y nivelar entregas antes de la evaluación.
-
-ACTIVIDAD:
-- Revisión y entrega final de simulaciones pendientes en Wokwi.
-- Repaso previo a la semana de Evaluaciones de Áreas Especiales (11 de enero).
-```
