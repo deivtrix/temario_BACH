@@ -1,0 +1,108 @@
+{
+  "parcial_actual": "Parcial 2",
+  "semana_actual": 4,
+  "horario": [
+    {"id": "2do_proactivos", "nivel": "2DO BGU", "paralelo": "Proactivos", "dia": 0, "hora": "07:45 - 08:45", "progresivo": false},
+    {"id": "10mo_persistentes", "nivel": "10MO EGB", "paralelo": "Persistentes", "dia": 0, "hora": "08:45 - 09:45", "progresivo": false},
+    {"id": "1ro_leales", "nivel": "1RO BGU", "paralelo": "Leales", "dia": 0, "hora": "09:45 - 10:45", "progresivo": false},
+    {"id": "3ro_vanguardistas", "nivel": "3RO BGU", "paralelo": "Vanguardistas", "dia": 0, "hora": "11:15 - 12:15", "progresivo": true},
+    {"id": "1ro_integros", "nivel": "1RO BGU", "paralelo": "Íntegros", "dia": 0, "hora": "14:45 - 15:45", "progresivo": false},
+
+    {"id": "8vo_decididos", "nivel": "8VO EGB", "paralelo": "Decididos", "dia": 1, "hora": "07:45 - 08:45", "progresivo": false},
+    {"id": "10mo_perspicaces", "nivel": "10MO EGB", "paralelo": "Perspicaces", "dia": 1, "hora": "12:15 - 13:15", "progresivo": false},
+    {"id": "2do_justos", "nivel": "2DO BGU", "paralelo": "Justos", "dia": 1, "hora": "14:45 - 15:45", "progresivo": false},
+
+    {"id": "8vo_diligentes", "nivel": "8VO EGB", "paralelo": "Diligentes", "dia": 2, "hora": "08:45 - 09:45", "progresivo": false},
+    {"id": "8vo_dinamicos", "nivel": "8VO EGB", "paralelo": "Dinámicos", "dia": 2, "hora": "10:45 - 11:45", "progresivo": false},
+    {"id": "10mo_pacifistas", "nivel": "10MO EGB", "paralelo": "Pacifistas", "dia": 2, "hora": "12:15 - 13:15", "progresivo": false},
+
+    {"id": "9no_altruistas", "nivel": "9NO EGB", "paralelo": "Altruistas", "dia": 3, "hora": "07:45 - 08:45", "progresivo": false},
+    {"id": "10mo_positivos", "nivel": "10MO EGB", "paralelo": "Positivos", "dia": 3, "hora": "09:15 - 10:15", "progresivo": false},
+    {"id": "8vo_disciplinados", "nivel": "8VO EGB", "paralelo": "Disciplinados", "dia": 3, "hora": "10:45 - 11:45", "progresivo": false},
+    {"id": "9no_autenticos", "nivel": "9NO EGB", "paralelo": "Auténticos", "dia": 3, "hora": "11:45 - 12:45", "progresivo": false},
+    {"id": "9no_asertivos", "nivel": "9NO EGB", "paralelo": "Asertivos", "dia": 3, "hora": "12:45 - 13:45", "progresivo": false},
+    {"id": "2do_honestos", "nivel": "2DO BGU", "paralelo": "Honestos", "dia": 3, "hora": "14:45 - 15:45", "progresivo": false},
+
+    {"id": "1ro_confiables", "nivel": "1RO BGU", "paralelo": "Confiables", "dia": 4, "hora": "08:15 - 09:15", "progresivo": false},
+    {"id": "3ro_solidarios", "nivel": "3RO BGU", "paralelo": "Solidarios", "dia": 4, "hora": "09:15 - 10:15", "progresivo": true},
+    {"id": "9no_audaces", "nivel": "9NO EGB", "paralelo": "Audaces", "dia": 4, "hora": "10:45 - 11:45", "progresivo": false},
+    {"id": "3ro_empaticos", "nivel": "3RO BGU", "paralelo": "Empáticos", "dia": 4, "hora": "12:45 - 13:45", "progresivo": true}
+  ],
+  "semanas": {
+    "3": {
+      "nombre": "Semana 3 (16 - 20 nov)",
+      "temas": {
+        "8VO EGB": "Corriente Directa (DC) y Polaridad en PhET",
+        "9NO EGB": "Case de iPhone Parte 2 + Formulario",
+        "10MO EGB": "Conectores y Aislantes",
+        "1RO BGU": "Informe Potenciómetro 4 LEDs + Cuestionario",
+        "2DO BGU": "Motor deslizante en Sim Lab",
+        "3RO BGU": "Formulario de mejora + repaso ESP32"
+      },
+      "registros": {
+        "2do_proactivos": {"estado": "dada", "motivo": "", "nota": ""},
+        "10mo_persistentes": {"estado": "dada", "motivo": "", "nota": ""},
+        "1ro_leales": {"estado": "dada", "motivo": "", "nota": ""},
+        "3ro_vanguardistas": {"estado": "dada", "motivo": "", "nota": ""},
+        "1ro_integros": {"estado": "dada", "motivo": "", "nota": ""},
+        "8vo_decididos": {"estado": "dada", "motivo": "", "nota": ""},
+        "10mo_perspicaces": {"estado": "dada", "motivo": "", "nota": ""},
+        "2do_justos": {"estado": "dada", "motivo": "", "nota": ""},
+        "8vo_diligentes": {"estado": "dada", "motivo": "", "nota": ""},
+        "8vo_dinamicos": {"estado": "dada", "motivo": "", "nota": ""},
+        "10mo_pacifistas": {"estado": "dada", "motivo": "", "nota": ""},
+        "9no_altruistas": {"estado": "dada", "motivo": "", "nota": ""},
+        "10mo_positivos": {"estado": "dada", "motivo": "", "nota": ""},
+        "8vo_disciplinados": {"estado": "dada", "motivo": "", "nota": ""},
+        "9no_autenticos": {"estado": "dada", "motivo": "", "nota": ""},
+        "9no_asertivos": {"estado": "dada", "motivo": "", "nota": ""},
+        "2do_honestos": {"estado": "dada", "motivo": "", "nota": ""},
+        "1ro_confiables": {"estado": "perdida", "motivo": "Feriado", "nota": "Feriado viernes 20 nov"},
+        "3ro_solidarios": {"estado": "perdida", "motivo": "Feriado", "nota": "Feriado viernes 20 nov"},
+        "9no_audaces": {"estado": "perdida", "motivo": "Feriado", "nota": "Feriado viernes 20 nov"},
+        "3ro_empaticos": {"estado": "perdida", "motivo": "Feriado", "nota": "Feriado viernes 20 nov"}
+      }
+    },
+    "4": {
+      "nombre": "Semana 4 (23 - 27 nov)",
+      "temas": {
+        "8VO EGB": "Corriente Alterna (AC) y Transformación a DC (PhET)",
+        "9NO EGB": "Inkscape .PNG -> .SVG + Tinkercad 3D",
+        "10MO EGB": "Primer programa Arduino (Blink) en Tinkercad",
+        "1RO BGU": "Atenuador de brillo LED (map() + PWM)",
+        "2DO BGU": "Intro Tinkercad Codeblocks: Silla 3D",
+        "3RO BGU": "Semáforo en Wokwi (Individual 1)"
+      },
+      "registros": {
+        "2do_proactivos": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
+        "10mo_persistentes": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
+        "1ro_leales": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
+        "3ro_vanguardistas": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"}
+      }
+    },
+    "5": {
+      "nombre": "Semana 5 (30 nov - 4 dic)",
+      "temas": {
+        "8VO EGB": "Mapa de Artefactos DC y AC del Colegio (Canva)",
+        "9NO EGB": "Proyecto Grupal 3D: Vehículo / Carro - Parte 1",
+        "10MO EGB": "Múltiples Salidas: Semáforo en Tinkercad",
+        "1RO BGU": "Poste de Alumbrado Público Automático (LDR)",
+        "2DO BGU": "Bucles y Rotación en Codeblocks (Escalera/Torre)",
+        "3RO BGU": "ESP32 PWM y Buzzer en Wokwi"
+      },
+      "registros": {}
+    },
+    "6": {
+      "nombre": "Semana 6 (7 - 11 dic)",
+      "temas": {
+        "8VO EGB": "Seguridad Eléctrica: Falsos Contactos y Breakers",
+        "9NO EGB": "Proyecto Grupal 3D: Vehículo / Carro - Parte 2",
+        "10MO EGB": "Por definir / Continuación Arduino",
+        "1RO BGU": "Por definir / Sensores",
+        "2DO BGU": "Por definir / Codeblocks",
+        "3RO BGU": "Por definir / ESP32"
+      },
+      "registros": {}
+    }
+  }
+}

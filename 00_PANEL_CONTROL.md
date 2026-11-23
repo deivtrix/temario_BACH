@@ -13,6 +13,7 @@
 * 🟠 [[01_TEMARIOS_POR_CURSO/3RO_BGU|3ro BGU]] — ESP32 en Wokwi + WiFi/MQTT + Visión IA
 
 ### 🛠️ Clases Actuales, Plantillas y Reglas
+* 📔 [[DIARIO_CLASES|Diario de Clases y Toma de Decisiones (Bitácora Semanal)]]
 * 📅 [[02_CLASES_SEMANALES/PARCIAL_2/SEMANA_03_16_19_NOV/8VO_EGB_SEMANA03|Clases Semana 3 (16–19 nov) — Carpeta Parcial 2]]
 * 🧠 [[03_SISTEMA_Y_PLANTILLAS/REGLAS_Y_MEMORIA_DOCENTE|Reglas, Taxonomía LEV y Estándar de 45 min]]
 * 📘 [[03_SISTEMA_Y_PLANTILLAS/GUIA_GENERACION_CLASES|Guía Maestra de Generación de Clases]]
