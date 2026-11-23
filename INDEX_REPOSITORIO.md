@@ -33,19 +33,17 @@ temario_BACH/
 ---
 
 ### 2. `03_SISTEMA_Y_PLANTILLAS/` *(Memoria y Reglas)*
-* [REGLAS_Y_MEMORIA_DOCENTE.md](03_SISTEMA_Y_PLANTILLAS/REGLAS_Y_MEMORIA_DOCENTE.md) — Reglas oficiales para la IA, Taxonomía LEV, modos de clase 45 min, NotebookLM (cuaderno de estudio en Classroom, prompts libres, cero LaTeX) y progresión técnica por nivel.
+* [REGLAS_Y_MEMORIA_DOCENTE.md](03_SISTEMA_Y_PLANTILLAS/REGLAS_Y_MEMORIA_DOCENTE.md) — Reglas oficiales para la IA, Taxonomía LEV, modos de clase 45 min, NotebookLM (1 cuaderno por parcial, formato híbrido cómic + lámina de estudio, Video de Repaso sin personajes, cero LaTeX) y progresión técnica por nivel.
 
 ---
 
-### 3. `04_PARA_NOTEBOOKLM/` *(Material para Diapositivas / Cuadernos)*
-* **8vo EGB (100% Listo en 1 solo cuaderno):**
-  * [FUENTE_8VO_EGB_ANUAL_COMPLETO.md](04_PARA_NOTEBOOKLM/01_8VO_EGB/FUENTE_8VO_EGB_ANUAL_COMPLETO.md) *(subir 1 vez a NotebookLM; secciones `P1.1`..`P4.7`)*
-  * [PROMPTS_8VO_EGB_ANUAL.md](04_PARA_NOTEBOOKLM/01_8VO_EGB/PROMPTS_8VO_EGB_ANUAL.md) *(26 prompts validados 26/26)*
-  * [fuentes.md](04_PARA_NOTEBOOKLM/01_8VO_EGB/fuentes.md) *(consultas para "Descubrir fuentes")*
-* **9no EGB a 3ro BGU:** En pausa de actualización hasta confirmar el **inventario físico real** del laboratorio para 1ro y 2do BGU.
+### 3. `04_PARA_NOTEBOOKLM/` *(1 Cuaderno por Parcial — Formato Híbrido Ganador)*
+* **8vo EGB (`PARCIAL_1` a `PARCIAL_4`):** 100% listo por parcial (Pokémon, Tortugas Ninja, Dragon Ball Z, Sonic) + [fuentes.md](04_PARA_NOTEBOOKLM/01_8VO_EGB/fuentes.md).
+* **9no EGB (`PARCIAL_2` a `PARCIAL_4`):** 100% listo por parcial (Tortugas Ninja, Mario Bros, Bob Esponja).
+* **10mo EGB a 3ro BGU (`PARCIAL_2`):** 100% listo y limpio (Tortugas Ninja, sin menciones a Classroom/Entregables); `PARCIAL_3` y `PARCIAL_4` listos para generarse bajo el mismo molde cuando se indique.
 
 ---
 
 ### 4. `02_CLASES_SEMANALES/` *(Guiones de 45 min)*
-* **Parcial 2 (`SEMANA_03` a `SEMANA_08`):** Semanas 3, 4 y 5 cuadradas con los temarios maestros (incluyendo actualización de 8vo EGB y 9no S4).
-* **Parcial 3 y Parcial 4 de 8vo EGB:** 7 clases exactas (`CLASE01..CLASE07`) alineadas 100% con `FUENTE_8VO_EGB_ANUAL_COMPLETO.md`.
+* **Parcial 2 (`SEMANA_03` a `SEMANA_08`):** Sincronizado con los temarios maestros (incluyendo **2do BGU S4: Codeblocks Silla 3D**).
+* **Parcial 3 y Parcial 4 de 8vo EGB:** 7 clases exactas (`CLASE01..CLASE07`) alineadas con `FUENTE_8VO_EGB_PARCIAL3_COMPLETO.md` y `FUENTE_8VO_EGB_PARCIAL4_COMPLETO.md`.
