@@ -2,7 +2,7 @@
 
 **Materia:** Robótica y Tecnología  
 **Título General del Año:** Principios de Electricidad y Control  
-**Propósito General del Año:** **Aplicar** principios fundamentales de electricidad, seguridad eléctrica, circuitos serie/paralelo y mecanismos iniciales para controlar la energía de forma segura.  
+**Propósito General del Año:** **Comprobar** principios fundamentales de electricidad, seguridad eléctrica, circuitos serie/paralelo y mecanismos iniciales para controlar la energía de forma segura.  
 **Cargo:** Mediador  
 **Regla de Clase (45 min):** 10 min de teoría + 35 min de práctica (simulador, Canva, Tinkercad o taller físico).  
 **Estructura por Parcial:** 4 Parciales (1 Tema por Parcial × 7 clases), garantizando mínimo **2 actividades individuales + 1 grupal + 1 refuerzo**.
@@ -37,7 +37,7 @@
 
 ## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Ley de Ohm y Circuitos Serie/Paralelo
 *(Estado: Pendiente — 7 clases)*
-**Propósito del Parcial:** **Aplicar** la Ley de Ohm y el análisis de circuitos en serie y paralelo para verificar magnitudes eléctricas y prevenir fallas.  
+**Propósito del Parcial:** **Comprobar** la Ley de Ohm y el análisis de circuitos en serie y paralelo para verificar magnitudes eléctricas y prevenir fallas.  
 
 1. `[ ]` **Átomos, Cargas y Electrostática** *(Tema Nuevo — clase normal)* — 10 min teoría + simulador PhET (*Globos / John Travoltage*).
 2. `[ ]` **Taller Físico Electrostático y Toma a Tierra** *(Individual 1 — Taller Práctico calificado)* — Experimentos paso a paso con globos, latas de aluminio y papel picado + rayos y cable a tierra.

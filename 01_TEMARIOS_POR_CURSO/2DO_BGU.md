@@ -51,7 +51,7 @@
 
 ## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Interfaces Visuales y Sistemas Integrados
 *(Estado: Pendiente — 7 clases | Proyecto 11 del libro)*
-**Propósito del Parcial:** **Integrar** interfaces visuales (LCD) y sistemas mecatrónicos completos verificando su funcionamiento en simulación.  
+**Propósito del Parcial:** **Diseñar** interfaces visuales (LCD) y sistemas mecatrónicos completos verificando su funcionamiento en simulación.  
 
 1. `[ ]` **Pantalla LCD 16x2 (`<LiquidCrystal.h>`) en Tinkercad — Texto Básico** *(Individual 1 — calificada)* — Conexión virtual sin atascos de cableado y mensajes en 2 filas.
 2. `[ ]` **LCD 16x2 + Sensor (Temperatura o Ultrasonido)** *(Individual 2 — calificada)* — Mostrar lecturas reales en vivo en pantalla.

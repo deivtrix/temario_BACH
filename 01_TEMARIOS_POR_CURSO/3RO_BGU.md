@@ -12,7 +12,7 @@
 
 ## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Conmutación y Control de Potencia
 *(Estado: Cerrado / Ejecutado según `03_PLANIFICACION_SEMANAL` | Nota: Nivelación de transición 2026–2027; para próximas cohortes se omite al cubrirse en 2do BGU)*
-**Propósito del Parcial:** **Analizar** principios de conmutación y control de potencia aplicados a cargas y actuadores electrónicos.  
+**Propósito del Parcial:** **Interpretar** principios de conmutación y control de potencia aplicados a cargas y actuadores electrónicos.  
 
 1. `[x]` **Transistor BJT NPN (2N2222) como Interruptor** — Operación en Corte y Saturación (Base, Colector, Emisor).
 2. `[x]` **Control de Motor DC + Diodo Flyback 1N4007 (Cinta Transportadora)** — Protección de potencia y manejo de cargas.

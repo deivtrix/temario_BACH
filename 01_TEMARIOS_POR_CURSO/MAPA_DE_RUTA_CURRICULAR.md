@@ -10,7 +10,7 @@
 
 | Curso | Título General del Año | Propósito General del Año |
 | :--- | :--- | :--- |
-| **8vo EGB** | Principios de Electricidad y Control | **Aplicar** principios fundamentales de electricidad, seguridad eléctrica, circuitos serie/paralelo y mecanismos iniciales para controlar la energía de forma segura. |
+| **8vo EGB** | Principios de Electricidad y Control | **Comprobar** principios fundamentales de electricidad, seguridad eléctrica, circuitos serie/paralelo y mecanismos iniciales para controlar la energía de forma segura. |
 | **9no EGB** | Diseño Digital y Robótica Móvil | **Diseñar** modelos digitales 3D, rutinas de navegación móvil y circuitos lógicos analógicos para desarrollar prototipos funcionales seguros. |
 | **10mo EGB** | Sistemas Programables Iniciales | **Implementar** circuitos en protoboard, programación inicial en Arduino C++ y mecanismos articulados para automatizar respuestas digitales. |
 | **1ro BGU** | Sensores y Control Automático | **Construir** sistemas de control automático integrando entradas digitales, señales analógicas (PWM), sensores ambientales y servomotores para responder a estímulos del entorno. |
