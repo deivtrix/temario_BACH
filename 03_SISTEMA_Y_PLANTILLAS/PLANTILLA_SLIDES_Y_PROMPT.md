@@ -19,9 +19,9 @@ La **Diapositiva 1** de cada sección debe incluir obligatoriamente estos 4 elem
 ```text
 Crea una presentación estilo cómic educativo de MÁXIMO 10 a 12 diapositivas en español para estudiantes de [CURSO] ([EDAD] años) basada únicamente en las CLASES [X a Y] de FUENTE_[CURSO]_PARCIAL[N]_COMPLETO.md.
 
-ESTILO VISUAL (CÓMIC + AGENTE PEDAGÓGICO 80/20):
+ESTILO VISUAL (CÓMIC + AGENTE PEDAGÓGICO):
 - Diapositiva 1 (Portada/Gancho) y última diapositiva (Cierre): escena completa de cómic del universo de [UNIVERSO_DEL_CURSO].
-- En todas las láminas de teoría técnica: estilo página de cómic limpia donde el 80% es el diagrama/tabla/código grande sobre fondo claro y el 20% es un personaje guía de [UNIVERSO_DEL_CURSO] pequeño en una esquina señalando el punto clave o dando 1 consejo corto (PROHIBIDO globos gigantes o tramas tapando diagramas).
+- En todas las láminas de teoría técnica: estilo página de cómic limpia donde el diagrama/tabla/código ocupa casi toda la lámina sobre fondo claro y un personaje guía de [UNIVERSO_DEL_CURSO] va pequeño en una esquina señalando el punto clave o dando 1 consejo corto (PROHIBIDO dibujar porcentajes en la imagen, globos gigantes o tramas tapando diagramas).
 
 PORTADA (DIAPOSITIVA 1 — TODO JUNTO):
 - Título exacto: "TOMO [N]: [NOMBRE_OFICIAL_PARCIAL] — SECCIÓN [1/2]" (PROHIBIDO escribir "Tema:", fechas, nombre de profesor o el nombre del curso).
