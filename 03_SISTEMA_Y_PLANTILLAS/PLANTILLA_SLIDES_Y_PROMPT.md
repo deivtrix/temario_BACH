@@ -4,30 +4,34 @@ Usa esta plantilla alineada con [REGLAS_Y_MEMORIA_DOCENTE.md](REGLAS_Y_MEMORIA_D
 
 ---
 
-## 1. ESTRUCTURA SEGÚN EL MODO DE CLASE (SIN NÚMERO FIJO DE SLIDES)
+## 1. PORTADA ESTRICTA (DIAPOSITIVA 1 — TODO JUNTO, NUNCA EN SLIDES SEPARADAS)
 
-* **Modo A — Tema Nuevo (sin etiqueta):**
-  * Portada (título + curso, sin nombre del mediador ni fechas) $\rightarrow$ Propósito LEV + *¿Para qué sirve en la vida real?* $\rightarrow$ Láminas explicativas con diagramas/esquemas claros $\rightarrow$ Preguntas de verificación y cierre.
-* **Modo B — Actividad Evaluada (`👤 ACTIVIDAD INDIVIDUAL` o `👥 ACTIVIDAD GRUPAL`):**
-  * Portada con etiqueta grande $\rightarrow$ Propósito LEV $\rightarrow$ Recordatorio técnico visual breve *(sin regalar código ni solución)* $\rightarrow$ Enunciado claro del reto + requisitos + 1 consejo $\rightarrow$ Verificación y cierre *(máx. 4–5 slides)*.
-* **Refuerzo / Cierre (`🛠️ REFUERZO`):**
-  * Portada con etiqueta $\rightarrow$ Propósito LEV $\rightarrow$ Mapa visual resumen / errores comunes $\rightarrow$ Trivia o casos de diagnóstico *(sin respuestas visibles)* $\rightarrow$ Autoevaluación Likert (1–5) en cierres de parcial.
+La **Diapositiva 1** debe incluir obligatoriamente estos 4 elementos juntos (prohibido poner la palabra `"TEMA:"` o mandar el Propósito a la diapositiva 2):
+1. **Etiqueta** *(solo si es evaluada/refuerzo)*: `👤 ACTIVIDAD INDIVIDUAL`, `👥 ACTIVIDAD GRUPAL` o `🛠️ REFUERZO`.
+2. **Tomo y Título exacto:** `TOMO [X]: [NOMBRE_OFICIAL_PARCIAL] — [TÍTULO_DEL_EPISODIO]` (sin nombre del mediador ni fechas).
+3. **Propósito LEV:** `[Verbo infinitivo LEV]` + qué haremos hoy.
+4. **¿Para qué me sirve en la vida real?:** 1 frase directa conectada con la vida cotidiana o industria.
 
 ---
 
-## 2. PROMPT BASE PARA NOTEBOOKLM
+## 2. PROMPT BASE PARA NOTEBOOKLM (9NO EGB A 3RO BGU)
 
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de [CURSO] ([EDAD] años) del Tomo [X]: "[NOMBRE_OFICIAL_PARCIAL]", como un episodio autoconclusivo independiente ("[TÍTULO_EPISODIO]", [ETIQUETA_SI_APLICA: 👤 ACTIVIDAD INDIVIDUAL | 👥 ACTIVIDAD GRUPAL | 🛠️ REFUERZO | o ninguna]) basado en el EPISODIO #[N] de FUENTE_[CURSO]_PARCIAL[X]_COMPLETO.md.
+Crea una presentación estilo cómic educativo de [UNIVERSO_DEL_CURSO] en español para estudiantes de [CURSO] ([EDAD] años) basada en el EPISODIO #[N] de FUENTE_[CURSO]_PARCIAL[X]_COMPLETO.md.
 
-Reglas obligatorias:
-1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + qué haremos hoy + "¿Para qué me sirve en la vida real?".
-2. Formato híbrido: combina narrativa visual (cómic/versus) con láminas explicativas limpias cubriendo estos **3–4 subtemas puntuales** en orden:
-   - Paso 1: [SUBTEMA 1]
-   - Paso 2: [SUBTEMA 2]
-   - Paso 3: [SUBTEMA 3]
-   - Paso 4 (si aplica): [SUBTEMA 4]
-3. Candado de alcance: usa ÚNICAMENTE los bloques, instrucciones y componentes de este episodio; PROHIBIDO introducir temas avanzados no vistos aún o inventar código.
-4. Si es actividad evaluativa (👤 Individual / 👥 Grupal): ve directo al reto con un recordatorio técnico breve y PROHIBIDO regalar el código completo o la solución resuelta.
-5. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados ("sube a Classroom"), "Continuará..." o adelantos del próximo episodio.
+REGLA ESTRICTA DE PORTADA (DIAPOSITIVA 1):
+- En la PRIMERA diapositiva pon TODO junto: [ETIQUETA_SI_APLICA], el título exacto "TOMO [X]: [TÍTULO_DEL_EPISODIO]" (PROHIBIDO escribir la palabra "Tema:"), el Propósito (con verbo en infinitivo LEV) y "¿Para qué me sirve en la vida real?" en 1 frase. PROHIBIDO mandar el Propósito a una diapositiva aparte.
+
+PROFUNDIDAD Y CONTENIDO (4 SUBTEMAS EN ORDEN):
+- Desarrolla estos 4 subtemas con PROFUNDIDAD TÉCNICA REAL (prohibido definiciones superficiales de 1 línea):
+  - Paso 1: [SUBTEMA 1 — explicar mecanismo interno / cómo funciona por dentro]
+  - Paso 2: [SUBTEMA 2 — explicar mecanismo interno / parámetros reales]
+  - Paso 3: [SUBTEMA 3 — comparación visual X vs. Y o qué pasa si se hace mal]
+  - Paso 4: [SUBTEMA 4 — aplicación o regla clave de verificación]
+- Incluye siempre comparaciones visuales (tablas comparativas, "antes vs. después" o "correcto vs. error") y explica el PORQUÉ interno de cada concepto.
+
+CANDADOS OBLIGATORIOS:
+1. Usa ÚNICAMENTE los bloques, instrucciones y componentes de este episodio; PROHIBIDO introducir temas avanzados no vistos aún o inventar código.
+2. Si es actividad evaluativa (👤 Individual / 👥 Grupal): ve directo al reto tras el recordatorio técnico y PROHIBIDO regalar el código completo o la solución resuelta.
+3. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados ("sube a Classroom"), "Continuará..." o adelantos del próximo episodio.
 ```
