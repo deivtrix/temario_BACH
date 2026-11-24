@@ -19,8 +19,9 @@ Cuando el usuario reporte novedades de clases, pida un reporte o diga **"actuali
 
 3. **Si cambian temas, fechas o evaluaciones ("actualiza todo"):**
    - Actualizar `00_PANEL_CONTROL.md`.
-   - Actualizar el temario maestro correspondiente en `01_TEMARIOS_POR_CURSO/`.
+   - Actualizar el temario maestro correspondiente en `01_TEMARIOS_POR_CURSO/` (y si cambia una herramienta clave o parcial, revisar `MAPA_DE_RUTA_CURRICULAR.md` y `malla_curricular_robotica.html`).
    - Actualizar los guiones afectados en `02_CLASES_SEMANALES/`.
+   - Actualizar `04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/FUENTE_<CURSO>_PARCIALX_COMPLETO.md` (y `fuentes.md` si aplica) para que NotebookLM no quede desfasado.
    - Actualizar `03_SISTEMA_Y_PLANTILLAS/REGLAS_Y_MEMORIA_DOCENTE.md` y `INDEX_REPOSITORIO.md` si cambió la estructura o una regla.
 
 4. **Respaldo en GitHub:**
