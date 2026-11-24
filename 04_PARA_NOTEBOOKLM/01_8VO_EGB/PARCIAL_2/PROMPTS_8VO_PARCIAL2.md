@@ -4,7 +4,43 @@
 
 ---
 
-## 1. CAPÍTULO #4 — De la Calle al Cargador (AC vs. DC y Transformadores)
+## 1. CAPÍTULO #1 — Conductores y Aislantes (`👤 ACTIVIDAD INDIVIDUAL`)
+```text
+Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Conductores y Aislantes", etiqueta 👤 ACTIVIDAD INDIVIDUAL) basado en el CAPÍTULO #1 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+
+Reglas obligatorias:
+1. Portada con etiqueta 👤 ACTIVIDAD INDIVIDUAL + Propósito LEV + "¿Para qué me sirve en la vida real?".
+2. Formato híbrido: láminas visuales claras sobre electrones libres (conductores) vs. fuertemente unidos (aislantes) + ejemplos cotidianos + enunciado breve del reto individual.
+3. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados ("sube a Classroom"), "Continuará..." o adelantos del próximo capítulo.
+```
+
+---
+
+## 2. CAPÍTULO #2 — Taller de Empalmes Seguros (`👤 ACTIVIDAD INDIVIDUAL`)
+```text
+Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Taller de Empalmes Seguros", etiqueta 👤 ACTIVIDAD INDIVIDUAL) basado en el CAPÍTULO #2 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+
+Reglas obligatorias:
+1. Portada con etiqueta 👤 ACTIVIDAD INDIVIDUAL + Propósito LEV + "¿Para qué me sirve en la vida real?".
+2. Formato híbrido: diagrama visual paso a paso de los 3 empalmes (Cola de Rata, Western Union y Derivación en T) + materiales, seguridad con cinta aislante y verificación con pila 9V.
+3. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo.
+```
+
+---
+
+## 3. CAPÍTULO #3 — Corriente Directa (DC) y Polaridad
+```text
+Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Corriente Directa (DC) y Polaridad") basado en el CAPÍTULO #3 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+
+Reglas obligatorias:
+1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + qué haremos hoy + "¿Para qué me sirve en la vida real?".
+2. Formato híbrido: flujo unidireccional de electrones, polaridad (+ y -), pilas/USB y qué pasa al invertir polaridad en componentes.
+3. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo.
+```
+
+---
+
+## 4. CAPÍTULO #4 — De la Calle al Cargador (AC vs. DC y Transformadores)
 ```text
 Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("De la Calle al Cargador: AC, Transformadores y DC") basado en el CAPÍTULO #4 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
 

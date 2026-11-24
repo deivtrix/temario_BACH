@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_PARA_NOTEBOOKLM/01_8VO_EGB/PARCIAL_2/fuentes.md",
+                "file": "04_PARA_NOTEBOOKLM/01_8VO_EGB/PARCIAL_2/PROMPTS_8VO_PARCIAL2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fuentes"
+              "title": "PROMPTS_8VO_PARCIAL2"
             }
           }
         ]
@@ -190,6 +190,8 @@
   },
   "active": "2f65cd68b6b14ffb",
   "lastOpenFiles": [
+    "04_PARA_NOTEBOOKLM/01_8VO_EGB/PARCIAL_2/fuentes.md",
+    "04_PARA_NOTEBOOKLM/01_8VO_EGB/PARCIAL_2/PROMPTS_8VO_PARCIAL2.md",
     "04_PARA_NOTEBOOKLM/01_8VO_EGB/PARCIAL_2/FUENTE_8VO_PARCIAL2_COMPLETO.md",
     "04_PARA_NOTEBOOKLM/01_8VO_EGB/fuentes.md",
     "04_PARA_NOTEBOOKLM/02_9NO_EGB/PARCIAL_2/FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md",
@@ -217,12 +219,10 @@
     "04_PARA_NOTEBOOKLM/02_9NO_EGB/PARCIAL_3/fuentes.md",
     "04_PARA_NOTEBOOKLM/01_8VO_EGB/PARCIAL_4/fuentes.md",
     "04_PARA_NOTEBOOKLM/01_8VO_EGB/PARCIAL_3/fuentes.md",
-    "04_PARA_NOTEBOOKLM/01_8VO_EGB/PARCIAL_2/fuentes.md",
     "02_CLASES_SEMANALES/PARCIAL_2/SEMANA_04_23_27_NOV/3RO_BGU_SEMANA04.md",
     "02_CLASES_SEMANALES/PARCIAL_2/SEMANA_04_23_27_NOV/1RO_BGU_SEMANA04.md",
     "02_CLASES_SEMANALES/PARCIAL_2/SEMANA_04_23_27_NOV/10MO_EGB_SEMANA04.md",
     "02_CLASES_SEMANALES/PARCIAL_2/SEMANA_03_16_19_NOV/2DO_BGU_SEMANA03.md",
-    "02_CLASES_SEMANALES/PARCIAL_2/SEMANA_03_16_19_NOV/10MO_EGB_SEMANA03.md",
     "04_PARA_NOTEBOOKLM/02_9NO_EGB/PARCIAL_4",
     "04_PARA_NOTEBOOKLM/02_9NO_EGB/PARCIAL_3",
     "02_CLASES_SEMANALES/PARCIAL_4/9NO_EGB",
