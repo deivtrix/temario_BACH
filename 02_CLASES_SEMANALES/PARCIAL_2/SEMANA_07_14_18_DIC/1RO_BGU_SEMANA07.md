@@ -3,16 +3,19 @@
 > [!IMPORTANT]
 > # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Theremin Musical Controlado por Luz (LDR + Buzzer `tone()`) *(Grupal Físico — Kits Arduino)*  
-**Mediador:** David Castro  
+**Mediador:** David Castro    
+**📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Montaje Grupal Físico en Kit Arduino (45 min) *(usando código validado en S6)*  
 **Entregable:** Visto bueno en vivo del kit físico sonando + Informe corto grupal anti-IA en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Verificar** los valores reales de luz en el Monitor Serial para ajustar bien nuestros sensores.
+* **¿Cómo sé que lo logré?** Tu Theremin físico en kit Arduino suena limpio al mover la mano sobre la LDR y calibras su rango.
 * **¿Para qué me sirve en la vida?** Todo sensor físico cambia según el lugar (más o menos luz); saber leer el Monitor Serial permite ajustar cualquier proyecto en segundos.
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
+* **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"Muchos copiaron un número como `400` para su LDR sin mirar qué número marcaba su propio sensor en esta aula. Hoy aprendemos a diagnosticar y calibrar como ingenieros."*
 * **Propósito en pantalla:** *"Verificar los valores reales de luz en el Monitor Serial para ajustar bien nuestros sensores."*
 
@@ -20,6 +23,8 @@
 * Proyectar cómo imprimir `Serial.print("Valor: "); Serial.println(analogRead(A0));` y calcular el **punto medio** `(min + max) / 2` como umbral perfecto.
 
 ### 3. Nivelación y Reto de Calibración (12 – 40 min)
+* **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Energía/GND -> 2. Pines/Polaridad -> 3. Monitor Serial/Multímetro.
+* **Roles rotativos (3 por equipo):** 1. Armado/Diseño -> 2. Código/Parámetros -> 3. Verificador/Evidencia.
 * Quienes deban alguna práctica del Parcial 2 (Potenciómetro, Atenuador PWM, LDR o Theremin) la completan hoy.
 * Quienes estén al día calibran un circuito en Tinkercad/kit usando la fórmula de punto medio e imprimen en Serial `"DIA"` o `"NOCHE"`.
 
@@ -37,26 +42,4 @@ PROPÓSITO: Verificar los valores reales de luz en el Monitor Serial para ajusta
 ACTIVIDAD:
 - Práctica de diagnóstico en clase calculando el punto medio real de un sensor analógico (LDR / Potenciómetro).
 - Nivelación de entregas pendientes antes de vacaciones.
-```
-
----
-
-## 🎨 PROMPT PARA NOTEBOOKLM
-```text
-Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 1ro BGU (15-16 años) del Volumen 2: "Señales Analógicas y Regulación PWM", como un capítulo autoconclusivo independiente ("Calibración con Monitor Serial", etiqueta 🛠️ REFUERZO) basado en el CAPÍTULO #5 de FUENTE_1RO_BGU_PARCIAL2_COMPLETO.md.
-
-ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
-Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
-- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
-- En Portada, Problema de luz real y Cierre: viñetas dinámicas de cómic con diálogos resolviendo por qué un código falla cuando cambia la luz del aula.
-- En Teoría: lámina explicativa profunda paso a paso ("Medir Mínimo (oscuro) + Medir Máximo (luz) -> Calcular Punto Medio (min + max) / 2"), presentada por Donatello sin globos que tapen la fórmula.
-
-Usa las diapositivas que necesites, siguiendo exactamente este orden de bloques:
-1. Portada y gancho inicial con etiqueta 🛠️ REFUERZO.
-2. Propósito LEV y explicación cercana a su edad (15-16 años) de para qué sirve calibrar umbrales reales en vez de copiar números fijos de internet.
-3. Lámina explicativa profunda del método de calibración con Monitor Serial.
-4. Reto práctico de calibración en clase (SIN regalar los valores medidos) y cierre autoconclusivo.
-
-ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
-Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

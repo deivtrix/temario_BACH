@@ -3,21 +3,22 @@
 > [!IMPORTANT]
 > # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
 **Tema:** Rótulo 3D para Habitación (Base + Vector `.SVG` de `svgrepo.com` + Nombre 3D) *(Individual 2)*
-**Subtemas puntuales (4):**
-1. Diferencia entre imagen de píxeles (`.PNG`/`.JPG`) y vector (`.SVG`).
-2. Búsqueda y descarga de vectores `.SVG` limpios en `svgrepo.com`.
-3. Importación del `.SVG` a Tinkercad 3D y extrusión (altura Z / escala).
-4. Ajuste de escala, grosor y preparación del modelo 3D para fabricación.
-**Mediador:** David Castro  
+**Subtemas puntuales (2 nuevos):**
+1. Diferencia entre imagen de píxeles (`.PNG`/`.JPG`) y vector (`.SVG`) / Búsqueda y descarga de vectores `.SVG` limpios en `svgrepo.com`.
+2. Importación del `.SVG` a Tinkercad 3D y extrusión (altura Z / escala) / Ajuste de escala, grosor y preparación del modelo 3D para fabricación.
+**Mediador:** David Castro    
+**📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A/B — Tema Nuevo + Evaluación Rápida (45 min)  
 **Entregable:** Captura exprés en Classroom del **rótulo 3D terminado** (base + `.SVG` + nombre abajo) o Formulario corto.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Convertir** un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad.
+* **¿Cómo sé que lo logré?** Tu rótulo 3D combina una base limpia, un ícono .SVG importado sin bordes rotos y tu nombre extruido.
 * **¿Para qué me sirve en la vida?** Para fabricar llaveros, sellos, placas personalizadas y conocer cómo una foto común se transforma en relieve 3D (litofanías).
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
+* **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"Chicos, en Tinkercad solo tenemos cubos y cilindros, pero ¿cómo hacen las empresas para imprimir en 3D el escudo de un equipo o el logo de Nike? Hoy vamos a pasar una imagen de Google directo a 3D."*
 * **Propósito en pantalla:** *"Convertir un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad."*
 
@@ -30,6 +31,7 @@
 * **Demo relámpago (1 min):** Mostrar `3dwork.io/litofania/` como anuncio de que las fotos con grises también se vuelven placas 3D traslúcidas.
 
 ### 3. Práctica Guiada y Reto Individual (15 – 40 min)
+* **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Energía/GND -> 2. Pines/Polaridad -> 3. Monitor Serial/Multímetro.
 * **15 – 25 min (Guiada):** Todos descargan un ícono simple (alto contraste, sin fondo) y lo vectorizan juntos en Inkscape a `.SVG`.
 * **25 – 40 min (Reto Solos):** Importan su `.SVG` a Tinkercad 3D, le dan altura (`4 mm`) y lo montan sobre una base rectangular con un agujero para convertirlo en **placa/llavero con logo**.
 
@@ -63,26 +65,3 @@ Calificación: 10 puntos (Práctica de clase).
    * *Respuesta esperada:* De `svgrepo.com` (repositorio gratuito de vectores `.SVG`).
 3. **¿Qué parámetro ajustamos en Tinkercad después de importar el `.SVG` para darle volumen?**
    * *Respuesta esperada:* La altura (eje Z) y la escala/dimensiones del objeto.
-
----
-
-## 🎨 PROMPT PARA NOTEBOOKLM
-```text
-Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 9no EGB (13-14 años) del Volumen 2: "Modelado Digital 3D y Prototipado", como un capítulo autoconclusivo independiente ("Vectorización 2D .SVG a 3D") basado en el punto 4 de FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
-
-ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
-Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
-- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
-- En los bloques de HISTORIA (Portada, Misión, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos convirtiendo un emblema plano en un sello/placa 3D real.
-- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Imagen .PNG con píxeles borrosos vs. Vector .SVG con curvas matemáticas nítidas" y "Paso 1-2-3-4 de Inkscape a Tinkercad"), presentadas por Donatello sin globos que tapen el flujo.
-
-Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
-1. Portada y gancho inicial.
-2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué les sirve transformar logotipos o dibujos 2D en placas y piezas físicas 3D.
-3. Lámina explicativa profunda comparando mapa de bits (.PNG) vs. vector (.SVG).
-4. Lámina paso a paso del flujo Inkscape (Trayecto -> Vectorizar) -> Importar y extruir en Tinkercad 3D.
-5. Práctica guiada dentro de la historia, preguntas de verificación y cierre autoconclusivo.
-
-ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
-Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
-```

@@ -3,16 +3,19 @@
 > [!NOTE]
 > # 📘 CLASE SIN ENTREGA
 **Tema:** Proyecto Codeblocks: Engranaje o Mecanismo Paramétrico  
-**Mediador:** David Castro  
+**Mediador:** David Castro    
+**📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Práctica Autónoma Evaluada (45 min)  
 **Entregable:** Captura en Classroom del engranaje/mecanismo + variables visibles.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Crear** un engranaje en Codeblocks que cambie su número de dientes modificando una sola variable.
+* **¿Cómo sé que lo logré?** Al cambiar una sola variable (ej. número de dientes), tu engranaje en Codeblocks se recalcula automáticamente.
 * **¿Para qué me sirve en la vida?** Así se diseñan piezas mecánicas profesionales (engranajes, poleas, hélices) que luego se imprimen en 3D o cortan en láser.
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
+* **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"Hoy vamos a usar lo aprendido con bucles y variables para hacer una pieza mecánica real: un engranaje (o hélice) que si cambias una variable pase de 8 a 16 dientes automáticamente."*
 * **Propósito en pantalla:** *"Crear un engranaje en Codeblocks que cambie su número de dientes modificando una sola variable."*
 
@@ -23,6 +26,7 @@
   * Bucle `Repetir dientes veces`: colocar diente en el borde y rotar `360 / dientes` grados alrededor de `[0,0,0]`, luego unir con cilindro central y perforar eje hueco.
 
 ### 3. Trabajo Autónomo con Intervención del Mediador (12 – 40 min)
+* **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Energía/GND -> 2. Pines/Polaridad -> 3. Monitor Serial/Multímetro.
 * **Instrucción:** Cada estudiante programa su engranaje (o hélice/rueda dentada) parametrizado con `dientes`, agrega el hueco central del eje y prueba cambiar el número de `dientes` para verificar que funciona.
 * **Tu rol:** Ayudas a quienes olvidan dividir `360 / dientes` o dejan el centro del diente desfasado.
 
@@ -31,24 +35,3 @@
   1. *"¿Qué fórmula matemática usamos para saber cuántos grados rotar cada diente?"*
   2. *"¿Por qué decimos que este diseño es 'paramétrico'?"*
 * **Cierre:** Subir captura con bloques y engranaje 3D a Classroom.
----
-
-## 🎨 PROMPT PARA NOTEBOOKLM
-```text
-Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 2do BGU (16-17 años) del Volumen 2: "Diseño Paramétrico por Bloques", como un capítulo autoconclusivo independiente ("Engranaje Paramétrico con Variables") basado en el CAPÍTULO #4 de FUENTE_2DO_BGU_PARCIAL2_COMPLETO.md.
-
-ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
-Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
-- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
-- En los bloques de HISTORIA (Portada, Conflicto, Práctica y Cierre): usa viñetas dinámicas de cómic con diálogos necesitando fabricar engranajes de distintos tamaños al instante cambiando un solo parámetro.
-- En los bloques de TEORÍA: usa láminas explicativas profundas estilo ingeniería ("Diseño fijo vs. Diseño Paramétrico con Variables: ángulo = 360 / num_dientes"), presentadas por Donatello sin globos que tapen las fórmulas.
-
-Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
-1. Portada y gancho de ingeniería.
-2. Propósito LEV y explicación cercana a su edad (16-17 años) de para qué sirve parametrizar piezas mecánicas con variables en manufactura digital.
-3. Lámina explicativa profunda de variables paramétricas y cálculo automático de ángulo (360 / número de dientes).
-4. Guía de proyecto en Codeblocks dentro de la historia y cierre autoconclusivo.
-
-ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
-Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
-```

@@ -3,16 +3,19 @@
 > [!IMPORTANT]
 > # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Theremin Musical Controlado por Luz (LDR + Buzzer `tone()`) *(Simulación Virtual en Tinkercad)*  
-**Mediador:** David Castro  
+**Mediador:** David Castro    
+**📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Mini-teoría (10 min) + Simulación Virtual en Tinkercad (30 min) + Cierre (5 min)  
 **Entregable:** Circuito y código probados en Tinkercad *(base para armar el Grupal Físico en Semana 7 — sin chocar kits con 10mo EGB)*.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Construir** un instrumento musical (Theremin) que cambia de sonido al tapar la luz con la mano.
+* **¿Cómo sé que lo logré?** Tu Theremin virtual en Tinkercad cambia el tono del buzzer al variar la luz sobre la LDR.
 * **¿Para qué me sirve en la vida?** Muestra cómo un sensor analógico puede controlar actuadores distintos a las luces, como alarmas sonoras, sintetizadores o sensores de proximidad.
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
+* **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"Hoy vamos a construir un instrumento musical que se toca sin tocarlo: solo moviendo la mano encima de un sensor de luz. Se llama Theremin."*
 * **Propósito en pantalla:** *"Construir un instrumento musical (Theremin) que cambia de sonido al tapar la luz con la mano."*
 
@@ -24,6 +27,8 @@
 * Proyectar la simulación funcionando en Tinkercad para que vean cómo suena al mover la luz.
 
 ### 3. Trabajo Grupal Físico con Intervención del Mediador (15 – 40 min)
+* **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Energía/GND -> 2. Pines/Polaridad -> 3. Monitor Serial/Multímetro.
+* **Roles rotativos (3 por equipo):** 1. Armado/Diseño -> 2. Código/Parámetros -> 3. Verificador/Evidencia.
 * **Instrucción:** En grupos con su kit físico Arduino, arman la LDR + Buzzer, calibran los valores reales de luz del aula en el Monitor Serial y ajustan `map()` para que suene grave al tapar y agudo con luz.
 * **Tu rol:** Ayudas a diferenciar si el buzzer es activo o pasivo y a calibrar el rango de `map()` según la luz del laboratorio.
 
@@ -58,27 +63,4 @@ INSTRUCCIONES (En grupos):
    - ¿Qué pasaba con el sonido al acercar y alejar la mano?
 
 Calificación: 10 puntos (Actividad Grupal Física).
-```
-
----
-
-## 🎨 PROMPT PARA NOTEBOOKLM
-```text
-Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 1ro BGU (15-16 años) del Volumen 2: "Señales Analógicas y Regulación PWM", como un capítulo autoconclusivo independiente ("Theremin Musical con Luz", etiqueta 👥 ACTIVIDAD GRUPAL) basado en el CAPÍTULO #4 de FUENTE_1RO_BGU_PARCIAL2_COMPLETO.md.
-
-ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
-Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
-- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
-- En los bloques de HISTORIA (Portada, Desafío sonoro, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos creando un instrumento musical sin contacto controlado por sombra y luz.
-- En los bloques de TEORÍA: usa láminas explicativas profundas ("Función tone(pin, frecuencia) y mapeo de luz 0-1023 a rango audible en Hz"), con diagramas claros presentados por Donatello sin globos que tapen la sintaxis.
-
-Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
-1. Portada y gancho inicial con etiqueta 👥 ACTIVIDAD GRUPAL.
-2. Propósito LEV y explicación cercana a su edad (15-16 años) de para qué sirve convertir la lectura de un sensor en frecuencias sonoras o alarmas variables.
-3. Lámina explicativa profunda de tone() y mapeo de frecuencias.
-4. Enunciado claro de la actividad grupal física + 1 consejo de montaje (PROHIBIDO dar el código resuelto del reto).
-5. Verificación y cierre autoconclusivo.
-
-ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
-Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

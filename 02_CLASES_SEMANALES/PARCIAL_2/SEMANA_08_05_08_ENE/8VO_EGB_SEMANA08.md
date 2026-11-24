@@ -3,16 +3,19 @@
 > [!TIP]
 > # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Cierre de Parcial 2, Autoevaluación y Preparación Quimestral (`🛠️ REFUERZO`)  
-**Mediador:** David Castro  
+**Mediador:** David Castro    
+**📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Cierre y Autoevaluación (45 min)  
 **Entregable:** Autoevaluación Likert (1–5) + verificación final de notas.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Comprobar** lo que aprendimos sobre seguridad eléctrica, empalmes y AC/DC antes de la evaluación.
+* **¿Cómo sé que lo logré?** Superas la nivelación del parcial y completas tu ficha de repaso lista para el examen.
 * **¿Para qué me sirve en la vida?** Para tener claras las reglas de seguridad eléctrica antes de pasar a circuitos en Serie y Paralelo en el Segundo Quimestre.
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
+* **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"¡Bienvenidos de regreso! La próxima semana son las evaluaciones de Áreas Especiales. Hoy repasamos, revisamos notas y hacen su autoevaluación del parcial."*
 * **Propósito en pantalla:** *"Comprobar lo que aprendimos sobre seguridad eléctrica, empalmes y AC/DC antes de la evaluación."*
 
@@ -21,6 +24,7 @@
 * Revisión final de entregas pendientes en Classroom.
 
 ### 3. Autoevaluación Final del Parcial (Escala de Likert 1 al 5) (35 – 45 min)
+* **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Energía/GND -> 2. Pines/Polaridad -> 3. Monitor Serial/Multímetro.
 Cada estudiante valora del **1 al 5** (*1 = Todavía me cuesta | 3 = Lo entiendo con ayuda | 5 = Lo domino y lo puedo explicar*):
 1. Diferenciar materiales conductores y aislantes en un circuito.
 2. Realizar empalmes seguros (Cola de Rata / Western Union) y aislarlos bien.

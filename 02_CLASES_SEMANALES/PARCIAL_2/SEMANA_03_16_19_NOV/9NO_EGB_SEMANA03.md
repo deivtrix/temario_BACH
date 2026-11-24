@@ -1,6 +1,7 @@
 # 📗 9NO EGB — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
 **Tema:** Case de iPhone en Tinkercad 3D — Parte 2 + Formulario *(Individual 2)*  
-**Mediador:** David Castro  
+**Mediador:** David Castro    
+**📊 Slides:** Sección 1 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Actividad Autónoma Evaluada (45 min)  
 **Entregable:** Captura del Case 3D terminado + Formulario corto en Classroom.
 
@@ -49,27 +50,4 @@ INSTRUCCIONES:
    - P4: ¿Cuál fue el corte más difícil de alinear y cómo lo resolviste?
 
 Calificación: 10 puntos (Diseño 3D + Formulario).
-```
-
----
-
-## 🎨 PROMPT PARA NOTEBOOKLM
-```text
-Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 9no EGB (13-14 años) del Volumen 2: "Modelado Digital 3D y Prototipado", como un capítulo autoconclusivo independiente ("Case de iPhone — Parte 2", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el punto 3 de FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.
-
-ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
-Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael y Miguel Ángel (prohibido dibujar niños genéricos, profesores o personajes externos).
-- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
-- En los bloques de HISTORIA (Portada, Problema, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos al probar su carcasa y notar qué pasa si no dejan holgura o cortes de botones.
-- En los bloques de TEORÍA: usa láminas explicativas profundas estilo cuadrícula comparativa ("Sin holgura = No entra vs. Con 0.3-0.5 mm de holgura = Encaje perfecto"), con diagramas claros presentados por Donatello sin globos que tapen las cotas.
-
-Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
-1. Portada y gancho inicial con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
-2. Propósito LEV y explicación cercana a su edad (13-14 años) de para qué sirven las tolerancias/holguras en cualquier pieza fabricada o impresa en 3D.
-3. Lámina explicativa profunda de tolerancia (0.3-0.5 mm) y cortes funcionales (cámara, botones, carga).
-4. Enunciado claro de la actividad individual + 1 consejo sobre el plano de trabajo auxiliar W (PROHIBIDO dar el diseño terminado).
-5. Verificación y cierre autoconclusivo.
-
-ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
-Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

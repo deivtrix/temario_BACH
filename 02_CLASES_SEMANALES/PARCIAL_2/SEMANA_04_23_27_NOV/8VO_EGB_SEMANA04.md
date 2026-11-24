@@ -4,12 +4,11 @@
 > # 📘 CLASE SIN ENTREGA
 
 **Tema:** De la Calle al Cargador: Electricidad en Casa, Transformadores (AC $\rightarrow$ DC) e Infografía (10+10)  
-**Subtemas puntuales (4):**
-1. Qué es Corriente Directa (DC) y movimiento de sus electrones (un solo sentido).
-2. Qué es Corriente Alterna (AC) y movimiento de sus electrones (van y vienen).
-3. Cómo llega la electricidad a casa y función del transformador de la calle (poste).
-4. Cómo funciona por dentro el cargador / "chanchito" (reductor + rectificador AC $\rightarrow$ DC).
-**Mediador:** David Castro  
+**Subtemas puntuales (2 nuevos):**
+1. Qué es Corriente Directa (DC) y movimiento de sus electrones (un solo sentido) / Qué es Corriente Alterna (AC) y movimiento de sus electrones (van y vienen).
+2. Cómo llega la electricidad a casa y función del transformador de la calle (poste) / Cómo funciona por dentro el cargador / "chanchito" (reductor + rectificador AC $\rightarrow$ DC).
+**Mediador:** David Castro    
+**📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema Nuevo + Práctica Visual (45 min)  
 **Entregable:** Infografía en aula (10 artefactos DC + 10 artefactos AC). *(Ind. 1 y 2 ya completas en Classroom).*
 
@@ -17,11 +16,14 @@
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Comprender** cómo llega la electricidad a casa y cómo el transformador ("chanchito") reduce y convierte AC en DC segura, diferenciando artefactos reales.
+* **¿Cómo sé que lo logré?** Tu infografía clasifica 10 artefactos DC y 10 AC sin confundirlos y explicas qué hace el cargador por dentro.
 * **¿Para qué me sirve en la vida?** Para entender por qué existen los transformadores de los postes y los cargadores, y no quemar aparatos conectando voltaje equivocado.
 
 ---
 
 ## ⏱️ GUION DE 45 MINUTOS
+* **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Energía/GND -> 2. Pines/Polaridad -> 3. Monitor Serial/Multímetro.
+* **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 
 1. **Nivel Micro — Cómo se Mueven los Electrones (5 min):**
    * **DC:** Los electrones viajan en un solo sentido (`+` a `-`), como una fila ordenada (pilas, USB).
@@ -40,25 +42,3 @@
      * *Respuesta esperada:* Primero reduce el voltaje (110V a 5V) y luego convierte la Corriente Alterna (AC) en Corriente Directa (DC).
    * **Pregunta 3:** ¿Por qué un televisor o refrigeradora va directo al tomacorriente (AC) y un control remoto usa pilas (DC)?
      * *Respuesta esperada:* Porque los electrodomésticos grandes requieren mayor potencia en AC, mientras los portátiles/electrónicos pequeños funcionan con bajo voltaje en DC.
-
----
-
-## 🎨 PROMPT PARA NOTEBOOKLM
-
-```text
-Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Tomo 2: "Conductores, Empalmes y Seguridad Eléctrica", como un episodio autoconclusivo independiente ("De la Calle al Cargador: AC, Transformadores y DC") basado en el EPISODIO #4 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
-
-ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
-- Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
-- TRAMA EN 3 ACTOS: Inicio (problema concreto que solo se resuelve con este tema) -> Meollo (teoría esencial con diagramas y consejos preventivos) -> Final (resuelven el problema inicial).
-
-Reglas obligatorias:
-1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + qué haremos hoy + "¿Para qué me sirve en la vida real?".
-2. Formato híbrido: combina narrativa visual (cómic/versus) con láminas explicativas limpias cubriendo estos 4 subtemas puntuales en orden:
-   - Paso 1: Qué es DC y cómo se mueven sus electrones (un solo sentido).
-   - Paso 2: Qué es AC y cómo se mueven sus electrones (yendo y viniendo).
-   - Paso 3: Cómo llega la luz a casa (Central -> transformador del poste -> tomacorriente 110V AC).
-   - Paso 4: Por dentro del cargador/"chanchito" (reductor de voltaje 110V a 5V + rectificador AC a DC).
-3. Candado de alcance: usa ÚNICAMENTE los conceptos de esta clase; PROHIBIDO introducir fórmulas complejas de inductancia, ondas senoidales avanzadas o Arduino.
-4. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados ("sube a Classroom"), "Continuará..." o adelantos del próximo episodio.
-```

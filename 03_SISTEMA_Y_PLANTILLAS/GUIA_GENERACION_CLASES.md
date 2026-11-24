@@ -15,7 +15,7 @@
 ## 2. ESTRUCTURA EXACTA DE CADA ARCHIVO DE CLASE
 *(NO mezclar diapositivas ni prompts de Canva aquí; las diapositivas se generan aparte con `PLANTILLA_SLIDES_Y_PROMPT.md`).*
 
-Cada archivo (`<CURSO>_SEMANA<NN>.md`) dentro de `02_CLASES_SEMANALES/PARCIAL_<N>/SEMANA_<NN>_<FECHAS>/` debe tener exactamente estas 4 secciones:
+Cada archivo (`<CURSO>_SEMANA<NN>.md`) dentro de `02_CLASES_SEMANALES/PARCIAL_<N>/SEMANA_<NN>_<FECHAS>/` debe tener exactamente estas secciones (sin prompts largos de NotebookLM al pie; los prompts viven en `04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_<N>/PROMPTS_BLOQUES.md`):
 
 ```markdown
 # <EMOJI> <CURSO> — PARCIAL <N> / SEMANA <NN> (<FECHAS>)
@@ -23,30 +23,33 @@ Cada archivo (`<CURSO>_SEMANA<NN>.md`) dentro de `02_CLASES_SEMANALES/PARCIAL_<N
 **Mediador:** David Castro
 **Modo de Clase:** <Modo A: Tema Nuevo (45 min) | Modo B: Actividad Autónoma (45 min)>
 **Entregable:** <Captura exprés en Classroom | Visto bueno en vivo | Informe corto anti-IA>
+**📊 Slides:** Bloque <1 o 2> (Láminas <X–Y>)
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** <1 sola frase corta con verbo LEV en infinitivo + tema + para qué sirve>
+* **¿Cómo sé que lo logré? (Criterio de éxito):** <1 frase observable y medible que el estudiante verifica en su pantalla o mesa>
 * **¿Para qué me sirve en la vida?** <1 frase directa y cotidiana>
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
+### 1. Inicio y Conexión (00 – 05 min)
+* **Pregunta relámpago (60 seg):** "<1 pregunta corta conectando con la clase anterior>"
 * **¿Qué decirles?** "<Frase natural de entrada + pregunta cotidiana>"
 * **Propósito en pantalla:** "<Propósito corto>"
 
-### 2. Teoría Corta / Encuadre (05 – 15 min | máx. 10 min)
-*(Si es Modo A: esquema visual + demostración guiada; si es Modo B: 5 min de reglas/rúbrica y arrancan).*
+### 2. Teoría Puntual / Encuadre (05 – 15 min | máx. 10 min)
+*(Modo A: 1–2 subtemas nuevos sin repetir teoría previa + ejemplo resuelto si es código BGU/10mo | Modo B: 5 min de reglas, roles rotativos si es grupal y arrancan).*
 
 ### 3. Práctica / Trabajo en Clase (15 – 40 min)
-*(Modo A: 10 min guiados contigo + 15 min reto solos | Modo B: 35 min trabajo autónomo individual/grupal con tu ayuda en puestos).*
+*(Protocolo de Autodepuración en 3 pasos antes de llamar al mediador: 1. Energía/GND, 2. Pines/Polaridad, 3. Monitor Serial/Multímetro).*
 
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-* **2 preguntas rápidas para comprobar qué aprendieron:**
-  1. <Pregunta corta 1>
-  2. <Pregunta corta 2>
+### 4. Cierre y Verificación Conceptual (40 – 45 min)
+* **2 preguntas rápidas para comprobar qué aprendieron (puente al examen):**
+  1. <Pregunta conceptual corta 1> *(Resp: ...)*
+  2. <Pregunta conceptual corta 2> *(Resp: ...)*
 * **Cierre:** <Indicación de entrega>
 
 ## 📢 TEXTO PARA GOOGLE CLASSROOM
-(Bloque listo para copiar y pegar con título, propósito, pasos claros y puntaje).
+(Solo si es evaluada: bloque listo para copiar y pegar con título, propósito, pasos claros, roles si es grupal y puntaje).
 ```
 
 ---

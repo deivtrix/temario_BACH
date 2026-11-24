@@ -36,17 +36,19 @@ temario_BACH/
 ---
 
 ### 2. `03_SISTEMA_Y_PLANTILLAS/` *(Memoria y Reglas)*
-* [REGLAS_Y_MEMORIA_DOCENTE.md](03_SISTEMA_Y_PLANTILLAS/REGLAS_Y_MEMORIA_DOCENTE.md) — Reglas oficiales para la IA, Taxonomía LEV, modos de clase 45 min, NotebookLM (1 cuaderno por parcial, formato híbrido cómic + lámina de estudio, Video de Repaso sin personajes, cero LaTeX) y progresión técnica por nivel.
+* [REGLAS_Y_MEMORIA_DOCENTE.md](03_SISTEMA_Y_PLANTILLAS/REGLAS_Y_MEMORIA_DOCENTE.md) — Reglas oficiales para la IA, Taxonomía LEV, modos de clase 45 min, NotebookLM en **2 Bloques (`20–24` slides/parcial)** + **Prompt 3 (Repaso/Examen)** + **Prompt 4 (Video)**, protocolo de depuración en 3 pasos y progresión técnica por nivel.
+* [PLANTILLA_SLIDES_Y_PROMPT.md](03_SISTEMA_Y_PLANTILLAS/PLANTILLA_SLIDES_Y_PROMPT.md) — Moldes de los 4 prompts por parcial.
+* [GUIA_GENERACION_CLASES.md](03_SISTEMA_Y_PLANTILLAS/GUIA_GENERACION_CLASES.md) — Formato de guiones de 45 min para el aula.
 
 ---
 
-### 3. `04_PARA_NOTEBOOKLM/` *(Solo Fuentes y Búsquedas para Subir a NotebookLM — 1 Cuaderno por Parcial)*
-* **8vo EGB (`PARCIAL_1` a `PARCIAL_4`):** `FUENTE_...` + `fuentes.md` listos.
-* **9no EGB (`PARCIAL_2` a `PARCIAL_4`):** `FUENTE_...` + `fuentes.md` listos.
-* **10mo EGB a 3ro BGU (`PARCIAL_2`):** `FUENTE_...` + `fuentes.md` listos (sin menciones a Classroom/Entregables); `PARCIAL_3` y `PARCIAL_4` listos para generarse cuando se indique.
+### 3. `04_PARA_NOTEBOOKLM/` *(Fuentes, Búsquedas y Prompts por Bloques)*
+* **8vo EGB a 3ro BGU (`PARCIAL_2`):** `FUENTE_..._COMPLETO.md` + `fuentes.md` + `PROMPTS_BLOQUES.md` (Prompts 1–4) listos.
+* **8vo EGB (`PARCIAL_1`):** Respaldo histórico del parcial cerrado.
+* *(Parcial 3 y Parcial 4 eliminados temporalmente; se generarán bajo el nuevo estándar cuando toque).*
 
 ---
 
-### 4. `02_CLASES_SEMANALES/` *(Guiones de 45 min + Prompt de NotebookLM al pie de cada clase)*
-* **Parcial 2 (`SEMANA_03` a `SEMANA_08`):** Sincronizado con los temarios maestros (incluyendo **2do BGU S4: Codeblocks Silla 3D**) y con su `## 🎨 PROMPT PARA NOTEBOOKLM` al final de cada clase *(y Video de Repaso en la clase de cierre)*.
-* **Parcial 3 y Parcial 4 (8vo y 9no EGB):** 7 clases exactas (`CLASE01..CLASE07`) con su `## 🎨 PROMPT PARA NOTEBOOKLM` al pie de cada archivo.
+### 4. `02_CLASES_SEMANALES/` *(Guiones de 45 min listos para el aula)*
+* **Parcial 2 (`SEMANA_03` a `SEMANA_08`):** Sincronizado con los temarios maestros, sin prompts largos al pie y con referencia rápida `📊 Slides: Bloque 1/2`.
+* **Parcial 1 (`SEMANA_01` a `SEMANA_05`):** Respaldo histórico del parcial cerrado.

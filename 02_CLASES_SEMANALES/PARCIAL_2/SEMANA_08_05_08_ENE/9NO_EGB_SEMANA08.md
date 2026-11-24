@@ -3,16 +3,19 @@
 > [!TIP]
 > # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Refuerzo 3D: Casa en Tinkercad — Parte 2 y Cierre *(Refuerzo)*  
-**Mediador:** David Castro  
+**Mediador:** David Castro    
+**📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Cierre de Proyecto y Quimestre (45 min)  
 **Entregable:** Captura final de la Casa 3D terminada + revisión previa a quimestrales.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Completar** el techo y jardín de nuestra Casa 3D en Tinkercad para cerrar el bloque de diseño.
+* **¿Cómo sé que lo logré?** Completas el techo y detalles finales de tu Casa 3D en Tinkercad sin piezas desalineadas.
 * **¿Para qué me sirve en la vida?** Para terminar proyectos 3D completos con orden, estética y limpieza antes de pasar a robótica física.
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
+* **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"¡Feliz año! Hoy terminamos su Casa 3D poniéndole techo, puerta y un toque personal (jardín, cerca o chimenea) para cerrar el quimestre."*
 * **Propósito en pantalla:** *"Completar el techo y jardín de nuestra Casa 3D en Tinkercad para cerrar el bloque de diseño."*
 
@@ -21,6 +24,7 @@
 * **Tu rol:** Revisas entregas pendientes de diciembre y das visto bueno al diseño terminado.
 
 ### 3. Cierre y Autoevaluación Likert (1 al 5) (35 – 45 min)
+* **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Energía/GND -> 2. Pines/Polaridad -> 3. Monitor Serial/Multímetro.
 * Suben captura final de la Casa 3D a Classroom + completan su autoevaluación del **1 al 5** (*1 = Todavía me cuesta | 5 = Lo domino y lo puedo explicar*):
   1. Modelar piezas 3D con medidas exactas y huecos (`Ctrl + G`, `L`).
   2. Convertir imágenes 2D (`.PNG`) a vectores `.SVG` en Inkscape.

@@ -3,16 +3,19 @@
 > [!TIP]
 > # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Refuerzo ESP32 en Wokwi y Cierre de Parcial 2 *(Colchón)*  
-**Mediador:** David Castro  
+**Mediador:** David Castro    
+**📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
 **Entregable:** Verificación de entregas en Wokwi previas a evaluación quimestral.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Revisar** nuestras simulaciones del ESP32 en Wokwi y nivelar entregas antes de la evaluación.
+* **¿Cómo sé que lo logré?** Tus 4 simulaciones ESP32 en Wokwi funcionan sin errores y completas tu Autoevaluación Likert (1–5).
 * **¿Para qué me sirve en la vida?** Para afianzar la lectura de sensores y periféricos en ESP32 antes de conectar proyectos a Internet e Inteligencia Artificial.
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
+* **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"Hoy cerramos el primer quimestre con ESP32. Revisamos quién tiene pendiente alguna simulación en Wokwi y hacemos un repaso rápido antes de las evaluaciones de la próxima semana."*
 * **Propósito en pantalla:** *"Revisar nuestras simulaciones del ESP32 en Wokwi y nivelar entregas antes de la evaluación."*
 
@@ -26,34 +29,3 @@
   2. Programar salidas digitales y PWM/tonos (`analogWrite`, `tone`) en el ESP32.
   3. Medir distancias en cm con el sensor ultrasonido HC-SR04 y activar alertas.
   4. Integrar un teclado matricial 4x4 con `Keypad.h` para leer claves o notas.
----
-
-## 🎨 PROMPT PARA NOTEBOOKLM
-```text
-Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 3ro BGU (17-18 años) del Volumen 2: "Microcontroladores y Periféricos Digitales", como un capítulo autoconclusivo independiente ("Repaso ESP32 en Wokwi y Autoevaluación", etiqueta 🛠️ REFUERZO) basado en el CAPÍTULO #6 de FUENTE_3RO_BGU_PARCIAL2_COMPLETO.md.
-
-ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
-Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y el Maestro Splinter (prohibido dibujar niños genéricos, profesores o personajes externos).
-- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
-- En Portada, Reto y Cierre: viñetas dinámicas de cómic con diálogos cerrando el módulo base de ESP32.
-- En el Resumen: lámina visual limpia integrando GPIO 3.3V, PWM/Buzzer, HC-SR04 y Teclado 4x4 sin globos largos que tapen los esquemas.
-
-Usa las diapositivas que necesites, siguiendo exactamente este orden de bloques:
-1. Portada y gancho inicial con etiqueta 🛠️ REFUERZO.
-2. Propósito LEV y explicación cercana a su edad (17-18 años) de para qué les sirve dominar periféricos digitales en ESP32 antes de pasar a IoT en red.
-3. Lámina visual resumen del Parcial 2.
-4. Preguntas de repaso (SIN respuestas visibles) y tabla de Autoevaluación Escala de Likert (1 al 5) con los 4 aspectos exactos de la fuente.
-5. Cierre autoconclusivo.
-
-ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
-Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
-```
-
-### 🎬 VIDEO DE REPASO DEL PARCIAL
-```text
-Crea un video explicativo de repaso en español para estudiantes de 3ro BGU (17-18 años) sobre todo el Volumen 2: "Microcontroladores y Periféricos Digitales" usando el archivo FUENTE_3RO_BGU_PARCIAL2_COMPLETO.md.
-
-Cubre de forma ordenada y solo teórica todos los temas y subtemas del parcial (arquitectura del ESP32, pines GPIO y lógica de 3.3V frente a 5V, salidas digitales en Wokwi, modulación PWM y control de frecuencias en buzzer, lectura del sensor ultrasonido HC-SR04 con pulseIn y escaneo por filas/columnas de un teclado matricial 4x4 con Keypad.h). Usa gráficos claros, diagramas de pines y ejemplos de ingeniería cercanos a su edad (sin personajes de cómics).
-
-Prohibido mencionar nombres de profesor/mediador, fechas, "Semana X" o entregables.
-```

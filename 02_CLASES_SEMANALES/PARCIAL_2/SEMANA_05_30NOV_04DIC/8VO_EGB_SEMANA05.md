@@ -4,12 +4,11 @@
 > # 📘 CLASE SIN ENTREGA
 
 **Tema:** Tinkercad Circuits: Medir Ondas y Voltaje AC vs. DC (Osciloscopio + Multímetro)  
-**Subtemas puntuales (4):**
-1. Diferencia visual entre onda plana (DC) y onda senoidal (AC) en el Osciloscopio.
-2. Uso de Pila 9V / Fuente DC en Tinkercad Circuits.
-3. Uso del Generador de Funciones (señal AC) en Tinkercad Circuits.
-4. Medición práctica de voltaje con Multímetro virtual.
-**Mediador:** David Castro  
+**Subtemas puntuales (2 nuevos):**
+1. Diferencia visual entre onda plana (DC) y onda senoidal (AC) en el Osciloscopio / Uso de Pila 9V / Fuente DC en Tinkercad Circuits.
+2. Uso del Generador de Funciones (señal AC) en Tinkercad Circuits / Medición práctica de voltaje con Multímetro virtual.
+**Mediador:** David Castro    
+**📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema Nuevo + Simulación Práctica (45 min)  
 **Entregable:** Visto bueno en vivo en Tinkercad Circuits *(sin entrega en Classroom)*.
 
@@ -17,11 +16,14 @@
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Observar** y **medir** la diferencia entre corriente directa (DC) y corriente alterna (AC) usando el Osciloscopio y Multímetro en Tinkercad Circuits.
+* **¿Cómo sé que lo logré?** Mides correctamente voltaje DC/AC en el multímetro y distingues la línea plana de la onda senoidal en el osciloscopio.
 * **¿Para qué me sirve en la vida?** Para comprobar con instrumentos reales qué tipo de corriente entrega una fuente o un circuito sin adivinar.
 
 ---
 
 ## ⏱️ GUION DE 45 MINUTOS
+* **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Energía/GND -> 2. Pines/Polaridad -> 3. Monitor Serial/Multímetro.
+* **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 
 1. **Inicio y Demo Rápida (10 min):**
    * Abrir Tinkercad Circuits, sacar una **Pila 9V (DC)** y conectar un **Osciloscopio** (línea recta constante) + **Multímetro** en modo Voltaje (`V`).
@@ -35,25 +37,3 @@
      * *Respuesta esperada:* Como una onda que sube y baja (senoidal), porque cambia de positivo a negativo periódicamente.
    * **Pregunta 3:** ¿Qué instrumento usamos en Tinkercad para leer el valor exacto en voltios (`V`)?
      * *Respuesta esperada:* El Multímetro configurado en modo Voltaje (`V`).
-
----
-
-## 🎨 PROMPT PARA NOTEBOOKLM
-
-```text
-Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Tomo 2: "Conductores, Empalmes y Seguridad Eléctrica", como un episodio autoconclusivo independiente ("Midiendo Ondas AC y DC en Tinkercad") basado en el EPISODIO #5 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
-
-ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
-- Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
-- TRAMA EN 3 ACTOS: Inicio (problema concreto que solo se resuelve con este tema) -> Meollo (teoría esencial con diagramas y consejos preventivos) -> Final (resuelven el problema inicial).
-
-Reglas obligatorias:
-1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + qué haremos hoy + "¿Para qué me sirve en la vida real?".
-2. Formato híbrido: combina narrativa visual (cómic/versus) con láminas explicativas limpias cubriendo estos 4 subtemas puntuales en orden:
-   - Paso 1: Onda plana (DC) vs. onda senoidal (AC) en el Osciloscopio.
-   - Paso 2: Conexión de Pila/Fuente DC en Tinkercad Circuits.
-   - Paso 3: Conexión del Generador de Funciones (AC) en Tinkercad Circuits.
-   - Paso 4: Medición de voltaje con el Multímetro virtual.
-3. Candado de alcance: usa ÚNICAMENTE Tinkercad Circuits (Pila, Generador de Funciones, Osciloscopio y Multímetro); PROHIBIDO introducir Arduino, programación o fórmulas trigonométricas de ondas.
-4. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados ("sube a Classroom"), "Continuará..." o adelantos del próximo episodio.
-```

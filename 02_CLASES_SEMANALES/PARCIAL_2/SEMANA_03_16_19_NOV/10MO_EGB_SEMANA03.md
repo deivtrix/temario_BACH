@@ -1,6 +1,7 @@
 # 📘 10MO EGB — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
 **Tema:** Conectores y Aislantes Eléctricos *(Individual 1 — Infografía / Consulta)*  
-**Mediador:** David Castro  
+**Mediador:** David Castro    
+**📊 Slides:** Sección 1 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Consulta e Infografía Autónoma (30 min) + Cierre (5 min)  
 **Entregable:** Infografía en Canva / Documento de consulta en Classroom.
 
@@ -48,27 +49,4 @@ INSTRUCCIONES:
 3. Incluye tu nombre y curso en el pie de la infografía y súbela en PDF o PNG.
 
 Calificación: 10 puntos (Trabajo individual de clase).
-```
-
----
-
-## 🎨 PROMPT PARA NOTEBOOKLM
-```text
-Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 10mo EGB (14-15 años) del Volumen 2: "Conexiones Seguras y Primer Código", como un capítulo autoconclusivo independiente ("Conectores y Aislantes Eléctricos", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el CAPÍTULO #1 de FUENTE_10MO_EGB_PARCIAL2_COMPLETO.md.
-
-ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
-Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Destructor (prohibido dibujar niños genéricos, profesores o personajes externos).
-- TRAMA EN 3 ACTOS: Inicio (el personaje tiene un problema concreto que solo se resuelve con este tema) -> Meollo (para ayudarlo, explican la teoría esencial con diagramas y consejos preventivos repetidos antes de construir/probar paso a paso) -> Final (logran resolver el problema inicial).
-- En los bloques de HISTORIA (Portada, Conflicto, Reto y Cierre): usa viñetas dinámicas de cómic con diálogos inspeccionando cables expuestos tras un ataque en la ciudad.
-- En los bloques de TEORÍA: usa láminas explicativas profundas estilo pizarra/cuadrícula comparativa ("Conexión floja con cinta mal puesta vs. Conector seguro y tubo termocontraíble"), con diagramas grandes presentados por Donatello sin globos largos que tapen el esquema.
-
-Usa las diapositivas que necesites para no comprimir conceptos, siguiendo exactamente este orden de bloques:
-1. Portada y gancho de conflicto con etiqueta 👤 ACTIVIDAD INDIVIDUAL.
-2. Propósito LEV y explicación cercana a chicos de 14-15 años de para qué les sirve elegir conectores y aislantes adecuados en proyectos reales o en casa.
-3. Lámina explicativa profunda comparando tipos de conectores (borneras, terminales, regletas) y aislantes seguros.
-4. Enunciado claro de la actividad individual (clasificación e infografía comparativa + 1 consejo, PROHIBIDO darles la infografía resuelta).
-5. Verificación y cierre autoconclusivo.
-
-ALCANCE ESTRICTO: Usa únicamente los conceptos y código verificado de la fuente (PROHIBIDO inventar código por tu cuenta o introducir bucles/librerías/temas avanzados no vistos en esta clase).
-Prohibido poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo capítulo (este capítulo cierra al terminar).
 ```

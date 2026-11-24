@@ -30,15 +30,15 @@ Todo el currículo oficial, secuenciado y actualizado por curso vive exclusivame
 
 ### Dos Modos de Clase (45 Minutos)
 1. **Modo A — Clase de Tema Nuevo (Guiada + Reto):**
-   * `00–05 min:` **Inicio** (Motivación con problema real + Propósito LEV + para qué sirve en la vida).
-   * `05–15 min:` **Teoría Corta (máx. 10 min)** (Enunciación visual + Modelación paso a paso por el mediador).
-   * `15–40 min:` **Práctica Conjunta + Reto** (10 min guiados todos juntos + 15 min reto corto autónomo).
-   * `40–45 min:` **Cierre** (2–3 preguntas rápidas de verificación de comprensión + entrega/visto bueno).
+   * `00–05 min:` **Inicio** (Pregunta relámpago de 60 seg conectando con clase previa + Propósito LEV + para qué sirve en la vida).
+   * `05–15 min:` **Teoría Puntual (máx. 10 min)** (Máx. **2 subtemas nuevos** en Lámina Ancla limpia + **Ejemplo Resuelto anotado** si es código/lógica nueva en `10mo–3ro BGU`).
+   * `15–40 min:` **Práctica Conjunta + Reto** (10 min guiados + 15 min reto autónomo usando el **Protocolo de Autodepuración en 3 pasos** antes de llamar al mediador: `1. Energía/GND`, `2. Pines/Polaridad`, `3. Monitor Serial/Multímetro`).
+   * `40–45 min:` **Cierre** (2 preguntas rápidas de verificación conceptual para el examen + entrega/visto bueno).
 
 2. **Modo B — Clase de Actividad Evaluada (Individual / Grupal / Refuerzo):**
-   * `00–05 min:` **Encuadre** (Propósito LEV + qué deben entregar y criterios).
-   * `05–40 min:` **Trabajo Autónomo** (trabajan solos o en grupo; el mediador interviene para ayudar y destrabar dudas).
-   * `40–45 min:` **Cierre** (Entrega en Classroom o visto bueno en vivo + 2 preguntas rápidas de verificación).
+   * `00–05 min:` **Encuadre** (Propósito LEV + criterios + asignación de **3 roles rotativos** si es `👥 Grupal`: *1. Cableado/Diseño, 2. Código/Parámetros, 3. Verificador/Evidencia*).
+   * `05–40 min:` **Trabajo Autónomo** (trabajan solos o en grupo con el reto fijo en pantalla y protocolo de 3 pasos; en `2do–3ro BGU` se permite usar IA como **tutor de errores** para explicar fallos de compilación, prohibido pedir el código resuelto).
+   * `40–45 min:` **Cierre** (Entrega en Classroom o visto bueno en vivo + 1–2 preguntas conceptuales de transferencia).
 
 *(En proyectos de 2–3 clases se mantiene la lógica macro Día 1 Comprensión/Simulación $\rightarrow$ Día 2 Desarrollo $\rightarrow$ Día 3 Demostración/Transferencia, pero cada día cierra con verificación).*
 
@@ -64,30 +64,25 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 
 ---
 
-## 🎨 5. REGLAS PARA NOTEBOOKLM, CÓMICS Y VIDEO RESUMEN
-* **Idioma y Limpieza:** Todo en **ESPAÑOL** (permitiendo solo nombres técnicos o propios como `PhET`, `Western Union`, `Breaker`, `AC/DC`, `LED`, evitando anglicismos innecesarios como `Tip` — usar `consejo`). **NO** incluir el nombre del mediador en las diapositivas/videos, **NO** incluir fechas ni "Semana X", y **NO** amarrar entregables ni número de preguntas en las slides.
-* **Lógica Editorial (Parcial = Universo/Tomo | Tema = Capítulo Independiente):** Cada parcial tiene un **nombre oficial estilo UK sin marcas ni aparatos** (`01_TEMARIOS_POR_CURSO/MAPA_DE_RUTA_CURRICULAR.md`) y un **único universo/protagonista**. Cada tema se genera como un **episodio tipo cómic independiente y autoconclusivo** dentro de ese universo (sin numeración rígida de orden dentro de la historia ni *"Continuará..."* o adelantos del próximo tema), de modo que si se reorganizan temas o se cambia un componente, nada se rompe.
-* **Cero encasillamiento de trama y elenco fijo sin bloqueo de copyright:** NO pre-escribir diálogos ni número fijo de diapositivas, pero **SÍ fijar el elenco exclusivo del universo** en TODAS las diapositivas (prohibiendo niños genéricos o personajes externos) y exigir que **la historia avance en todas las láminas** usando un **mapa ordenado de bloques** (quitando `"TEMA NUEVO"` redundante). Verificar siempre que el universo no tenga bloqueo estricto de copyright en Gemini/NotebookLM: **EVITAR** Marvel/Disney (*Spider-Man, Big Hero 6*, etc.); **USAR** universos probados o viables como **Tortugas Ninja**, **Pokémon**, **Minecraft**, **Dragon Ball Z**, **Bob Esponja**, **Mario Bros**, **Sonic**, **Naruto**, **Avatar** o **One Piece**. Indicar siempre la **edad exacta del curso** para que NotebookLM piense **para qué les sirve ese tema en su entorno y dispositivos cotidianos**.
-* **Trama de Cómic en 3 Actos (Inicio, Nudo/Meollo y Final):** Todo episodio debe plantear un **problema concreto que el personaje necesita resolver construyendo/programando el proyecto de la clase** (ej. *necesita un banco/silla*, *se apagaron las luces*, *hay que medir distancia*):
-  1. **Inicio:** El personaje tiene ese problema real dentro de su universo.
-  2. **Meollo (Nudo):** Para resolverlo, el guía científico explica la teoría en láminas claras + consejos preventivos y prueban/construyen paso a paso.
-  3. **Final:** Logran construirlo/programarlo, resuelven el problema inicial y cierran el episodio.
-* **Cuaderno de estudio en Classroom (Formato Híbrido Ganador: Cómic + Lámina de Estudio Profunda):** La presentación de cada episodio alterna dos formatos visuales dentro del mismo universo (sin niños genéricos ni globos tapando diagramas):
-  * **Bloques de Historia (Portada, Conflicto/Versus, Práctica/Reto y Cierre):** viñetas dinámicas de cómic con diálogos, acción y conflicto visual contra el villano del episodio.
-  * **Bloques de Teoría (Conceptos):** láminas explicativas profundas estilo pizarra/cuadrícula comparativa (*"Lo que ves vs. Lo que ocurre por dentro / Paso 1-2-3"*), con diagramas grandes, signos/flechas y explicación clara debajo, presentados por el personaje científico/guía del universo sin globos largos que tapen el diagrama (nunca comprimir en una lámina rápida).
-* **Portada estricta en Diapositiva 1:** Toda presentación desde 9no EGB en adelante debe llevar en la **Diapositiva 1** (todo junto, nunca separado): Etiqueta (si aplica) + `TOMO [X]: [Título]` (sin la palabra `"Tema:"` y **sin nombrar el curso** en las slides) + **Propósito:** (sin escribir `"LEV"`) + **¿Dónde lo usas?**.
-* **Profundidad técnica real (cero definiciones flojas):** Exigir en cada prompt explicar el **cómo funciona por dentro** (nivel micro/interno), incluir **comparaciones visuales** (`X vs. Y`, `correcto vs. error`) y el **porqué** de cada paso.
-* **Etiquetas visibles obligatorias:** Mostrar únicamente `👤 ACTIVIDAD INDIVIDUAL`, `👥 ACTIVIDAD GRUPAL` o `🛠️ REFUERZO` (en clases normales de tema nuevo no se pone etiqueta).
-* **3 Moldes Distintos de Prompt según el Tipo de Sesión:**
-  1. **Clase Normal (Tema Nuevo — sin etiqueta):** Portada/Gancho $\rightarrow$ Propósito LEV y utilidad por edad $\rightarrow$ Láminas explicativas profundas (Conceptos con diagramas grandes) $\rightarrow$ **Planificación / Plano previo** (medidas, pines o diagrama de flujo antes de programar/construir) $\rightarrow$ **Práctica guiada paso a paso** con parámetros reales $\rightarrow$ Verificación (pista breve) y cierre autoconclusivo.
-  2. **Actividad Individual / Grupal (`👤` / `👥`):** Portada con etiqueta $\rightarrow$ Propósito LEV $\rightarrow$ Recordatorio técnico visual breve *(en Talleres Físicos sí van materiales exactos + pasos de seguridad)* $\rightarrow$ Enunciado claro del reto + requisitos + 1 consejo (**PROHIBIDO** regalar código, tabla llena o diseño resuelto) $\rightarrow$ Verificación y cierre.
-  3. **Refuerzo / Cierre (`🛠️ REFUERZO`):** Portada con etiqueta $\rightarrow$ Propósito LEV $\rightarrow$ Mapa visual resumen o errores comunes $\rightarrow$ Trivia / casos de diagnóstico (**SIN respuestas visibles**) + reto integrador $\rightarrow$ **Autoevaluación Likert (1–5)** en 4 aspectos (en cierres de parcial) y cierre.
-* **Cierre de Parcial:** Toda presentación de cierre de parcial lleva al final una diapositiva exclusiva de **Autoevaluación con Escala de Likert (1 al 5)** evaluando 4 aspectos concretos aprendidos.
-* **Video de Repaso del Parcial:** Cada archivo `PROMPTS_...` incluye al inicio un **prompt de Video de Repaso (Studio $\rightarrow$ Video)** **sin personajes de cómics** (para que NotebookLM lo genere sin bloqueos), enfocado 100% en repaso teórico ordenado cubriendo todos los temas y subtemas con gráficos, diagramas y ejemplos cercanos a la edad.
-* **Empaquetado y Ubicación (Sin saltar entre carpetas):**
-  * **`04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/`:** Contiene **únicamente** `FUENTE_<CURSO>_PARCIALX_COMPLETO.md` (el archivo único que se sube 1 vez por parcial a NotebookLM) y `fuentes.md` (consultas cortas para *"Descubrir fuentes"*).
-  * **`02_CLASES_SEMANALES/`:** Cada archivo de clase semanal incluye al pie su propia sección **`## 🎨 PROMPT PARA NOTEBOOKLM`** lista para copiar y pegar *(y en la última clase del parcial, también el **`🎬 VIDEO DE REPASO DEL PARCIAL`**)* — así no hay archivos `PROMPTS_...` separados.
-* **Consultas en `fuentes.md` ("Descubrir fuentes"):** Usar siempre **1 solo tema concreto por línea (5–7 palabras)** sin mezclar subtemas para obtener resultados precisos.
+## 🎨 5. REGLAS PARA NOTEBOOKLM, SLIDES POR BLOQUES Y REPASO DE EXAMEN
+* **Idioma y Limpieza:** Todo en **ESPAÑOL** (permitiendo solo nombres técnicos o propios como `PhET`, `Western Union`, `Breaker`, `AC/DC`, `LED`, evitando anglicismos innecesarios como `Tip` — usar `consejo`). **NO** incluir el nombre del mediador en las diapositivas/videos, **NO** incluir fechas ni "Semana X", **NO** amarrar entregables en las slides y **NO** usar sintaxis LaTeX.
+* **Arquitectura de Cómic por Tomos y Secciones (20–24 slides/parcial, cero repetición):**
+  * Cada parcial es un **Tomo de Cómic** dividido en **2 Secciones** de **10–12 slides cada una** (`SECCIÓN 1`: Clases 1–3; `SECCIÓN 2`: Clases 4–7), en lugar de generar 1 deck por clase (~60–70 slides).
+  * **Cero repetición entre clases:** Cada clase aporta únicamente **1–2 subtemas nuevos y servibles** (máx. 2–4 slides por clase). Nunca se vuelve a explicar un concepto ya cubierto en una clase anterior de la sección.
+  * **Propósito y Cierre diarios en vivo (NO en slides):** El Propósito del día se dice en voz alta (`00–05 min`) y las 2 preguntas de cierre se hacen en vivo (`40–45 min`) desde el guion semanal. No se gastan diapositivas diarias en portadas de propósito ni en preguntas de cierre.
+  * **En clases evaluadas (`👤`/`👥`/`🛠️`):** Máximo **2–3 slides** (Recordatorio visual de 1 lámina + Enunciado/Requisitos/Roles que queda fijo en pantalla mientras trabajan).
+* **Estética de Cómic + Agente Pedagógico (80% Diagrama / 20% Personaje):**
+  * Usar el universo/personaje sin bloqueo de copyright (**Tortugas Ninja**, **Pokémon**, **Minecraft**, **Dragon Ball Z**, **Bob Esponja**, **Mario Bros**, **Sonic**, **Naruto**, **Avatar**, **One Piece**; **EVITAR** Marvel/Disney) indicando la **edad exacta del curso**.
+  * **Slide 1 (Portada/Gancho) y última slide (Cierre):** Escena completa de cómic con el conflicto y resolución del universo.
+  * **Láminas Ancla de Teoría (80/20):** El **80%** de la lámina es el diagrama, tabla o código limpio sobre fondo claro (1. Cómo funciona por dentro con flechas, 2. Regla práctica, 3. Correcto vs. Error); el **20%** es el personaje científico/guía **pequeño en una esquina** señalando el punto clave o con un consejo de 1 línea (**PROHIBIDO** globos gigantes o tramas tapando esquemas).
+  * En **10mo a 3ro BGU** (código/lógica nueva), incluir un **Ejemplo Resuelto Anotado** (4–8 líneas de código o circuito verificado con flechas explicativas) antes del reto.
+* **Portada estricta en Slide 1 de cada Sección:** `TOMO [X]: [NOMBRE_OFICIAL_PARCIAL] — SECCIÓN [1/2]` (sin `"Tema:"` ni nombre del curso) + **Propósito de la Sección** (sin decir `"LEV"`) + **¿Dónde lo usas?**.
+* **Cierre de Parcial y Estudio para Examen (2 Parciales):**
+  * El **Bloque 2** termina con una diapositiva exclusiva de **Autoevaluación con Escala de Likert (1 al 5)** en 4 aspectos concretos.
+  * Adicionalmente, cada parcial incluye **2 prompts separados de cierre**: **Prompt 3 (Repaso y Examen: Ficha Resumen de 1 página + 10 preguntas tipo examen sin respuestas)** y **Prompt 4 (Video de Repaso en Studio $\rightarrow$ Video, sin personajes de cómics)**.
+* **Separación Clara de Carpetas (Preparación vs. Aula):**
+  * **`04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/`:** Contiene **3 archivos**: `FUENTE_<CURSO>_PARCIALX_COMPLETO.md` (fuente única sin repeticiones), `fuentes.md` (consultas de 5–7 palabras para *"Descubrir fuentes"*) y `PROMPTS_BLOQUES.md` (Prompt 1 Bloque 1, Prompt 2 Bloque 2, Prompt 3 Repaso/Examen y Prompt 4 Video).
+  * **`02_CLASES_SEMANALES/PARCIAL_X/SEMANA_XX/`:** Siempre organizado por **Semana** (para abrir directo en el aula). Contiene únicamente el guion de 45 min + **`📊 Slides: Bloque X (Láminas Y–Z)`** + Texto de Classroom (si es evaluada) + Preguntas de cierre con respuesta esperada *(sin prompts largos de NotebookLM al pie)*.
 
 ---
 
@@ -98,7 +93,7 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
   * **Malla Curricular conectada:** `01_TEMARIOS_POR_CURSO/MAPA_DE_RUTA_CURRICULAR.md` y `malla_curricular_robotica.html` (escalera completa `8vo -> 3ro BGU`).
   * **Panel de control y Diario:** `00_PANEL_CONTROL.md`, `CONTROL_CALENDARIO_PARALELOS.md`, `DIARIO_CLASES.md` y `03_SISTEMA_Y_PLANTILLAS/diario_data.json` alineados en P2 (21 paralelos, control de notas `2 Ind + 1 Grupal + 1 Refuerzo`).
   * **Regla de Kits Físicos Arduino (10mo vs. 1ro BGU):** Primero se prueba en virtual (Tinkercad) y a la semana siguiente en físico. **Nunca** cruzar taller grupal físico de 10mo y 1ro en la misma semana (`10mo` en S6, `1ro BGU` en S7).
-  * **NotebookLM por parcial (Formato Híbrido Ganador):** **8vo EGB (`P1–P4`)**, **9no EGB (`P2–P4`)** y **10mo EGB a 3ro BGU (`P2`)** ya están 100% homologados con Video de Repaso (sin personajes) + episodios autoconclusivos híbridos (*Cómic de Historia/Versus + Láminas Explicativas Profundas*); **10mo–3ro BGU (`P3–P4`)** listos para generarse bajo este mismo molde cuando se indique.
+  * **NotebookLM por parcial (2 Bloques de 10–12 slides + Repaso y Video):** Cada parcial se genera en **2 bloques temáticos** (`20–24` slides totales por parcial, sin repetición entre clases) + **Prompt 3 (Repaso/Examen: Ficha de 1 página + 10 preguntas)** + **Prompt 4 (Video de Repaso sin personajes)**, centralizado en `04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/PROMPTS_BLOQUES.md`.
 * **Enseñar materiales + paso a paso + verificación de calidad** en todo **Taller Físico**, incluyendo pruebas concretas de éxito.
 * **Enfoque en Proyecto/Artefacto Real (Cero temas abstractos sueltos):** Cada clase debe girar en torno a un producto reconocible (*Semáforo, Luces de Patrulla, Luz Nocturna Automática, Interruptor con 1 Clic, Sensor de Retro*, etc.).
 * **Seguridad eléctrica real:** Nunca indicar un **LED suelto directo a pila de 9V** sin resistencia y **cero soldadura con cautín** en EGB.
@@ -106,9 +101,10 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 
 ### ❌ QUÉ NO HACER JAMÁS
 * **NUNCA** poner el nombre del mediador (`David Castro`, `Ing.`, `Docente`, `Profesor`) en diapositivas, videos ni prompts de NotebookLM.
-* **NUNCA** poner fechas ni `"Semana X"` en diapositivas o videos (usar `EPISODIO #1`, `#2`, etc.).
+* **NUNCA** poner fechas ni `"Semana X"` en diapositivas o videos (usar `BLOQUE 1` / `BLOQUE 2`).
 * **NUNCA** amarrar entregables (`"sube captura"`, `"en Classroom"`) ni cantidad fija de preguntas (`"5 preguntas"`, `"4 casos"`).
-* **NUNCA** encasillar a NotebookLM pre-escribiendo tramas, diálogos, personaje fijo por slide o límite de diapositivas.
+* **NUNCA** generar 1 presentación de 10–12 slides por cada clase suelta (~60/parcial); usar siempre el estándar de **2 Bloques por parcial** (`10–12` slides por bloque) y **máx. 2 subtemas nuevos por clase** sin repetir lo ya visto.
+* **NUNCA** pre-escribir diálogos largos de cómic ni tapar diagramas técnicos con globos de texto; el cómic va solo en el **Gancho (Slide 1)** y el **Cierre**, dejando las **Láminas Ancla técnicas limpias**.
 * **NUNCA** permitir que NotebookLM se desvíe a temas gigantes o futuros: todo prompt debe llevar un **candado explícito de alcance** (*"Usa ÚNICAMENTE los bloques/instrucciones de esta clase; PROHIBIDO introducir bucles `for`, motores o conceptos avanzados no vistos aún"*), enseñando primero el control básico poquito a poco.
 * **NUNCA** permitir que NotebookLM invente o alucine código por su cuenta: en las láminas previas a construir, priorizar la **teoría esencial y consejos preventivos repetidos** (*resistencia protectora, polaridad, pines `~`, `GND` común*), usando únicamente código verificado de la `FUENTE_...` (cuando corresponda) y **cero código inventado**.
 * **NUNCA** regalar el código/solución/paso a paso resuelto ni las respuestas de tablas/experimentos antes de actividades evaluativas (`👤 Individual` / `👥 Grupal`).
