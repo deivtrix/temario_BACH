@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
-**Tema:** Búsqueda e Importación de Vectores `.SVG` (`svgrepo.com`) a Tinkercad 3D *(Individual 2)*
+**Tema:** Rótulo 3D para Habitación (Base + Vector `.SVG` de `svgrepo.com` + Nombre 3D) *(Individual 2)*
 **Subtemas puntuales (4):**
 1. Diferencia entre imagen de píxeles (`.PNG`/`.JPG`) y vector (`.SVG`).
 2. Búsqueda y descarga de vectores `.SVG` limpios en `svgrepo.com`.
@@ -10,7 +10,7 @@
 4. Ajuste de escala, grosor y preparación del modelo 3D para fabricación.
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A/B — Tema Nuevo + Evaluación Rápida (45 min)  
-**Entregable:** Formulario corto en Classroom (o captura exprés del logo convertido a 3D en Tinkercad).
+**Entregable:** Captura exprés en Classroom del **rótulo 3D terminado** (base + `.SVG` + nombre abajo) o Formulario corto.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Convertir** un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad.
