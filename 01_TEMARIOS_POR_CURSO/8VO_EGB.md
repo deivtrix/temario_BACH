@@ -25,9 +25,9 @@
 
 1. `[x]` **Conductores y Aislantes** *(Individual 1)* — Clasificación de materiales conductores vs. aislantes (electrones libres vs. fuertemente unidos) e infografía.
 2. `[x]` **Taller de Empalmes Seguros** *(Individual 2 — Práctica Física)* — Empalmes *Cola de Rata*, *Western Union* y *Derivación Simple (en T)* probados con pila 9V, bombilla/módulo protegido y cinta aislante.
-3. `[→]` **Corriente Directa / Continua (DC) y Polaridad** *(Práctica en PhET DC)* — 10 min teoría (flujo unidireccional, `+` y `-`, pilas/USB) y simulación de polaridad en PhET.
-4. `[ ]` **Corriente Alterna (AC) y Transformación a DC** *(Práctica en PhET CA)* — 10 min teoría (electrones oscilando, 110V / 60 Hz, función del cargador) y comparación en PhET CA.
-5. `[ ]` **Mapa de Artefactos DC y AC del Colegio** *(Grupal en parejas — Canva)* — Identificar y clasificar **10 artefactos DC y 10 artefactos AC** del colegio en un mapa visual por parejas.
+3. `[x]` **Corriente Directa / Continua (DC) y Polaridad** *(Práctica en PhET DC)* — 10 min teoría (flujo unidireccional, `+` y `-`, pilas/USB) y simulación de polaridad en PhET.
+4. `[→]` **Corriente Alterna (AC) vs. DC + Infografía (10+10)** *(S4: 23–27 nov)* — Comparación AC vs. DC e infografía con 10 artefactos DC y 10 artefactos AC.
+5. `[ ]` **Tinkercad Circuits: Medir Ondas y Voltaje AC vs. DC** *(S5: 30 nov – 4 dic)* — Uso de Osciloscopio, Generador de Funciones y Multímetro en Tinkercad para observar onda plana DC vs. senoidal AC.
 6. `[ ]` **Seguridad Eléctrica: Falsos Contactos, Cortocircuitos y Breakers** *(Refuerzo)* — Prueba de fusible en PhET y desafío *"Inspector de Seguridad"* (análisis de casos de riesgo eléctrico).
 7. `[ ]` **Repaso, Cierre de Parcial 2 y Autoevaluación** *(Refuerzo)* — Trivia relámpago de repaso (Conductores/Aislantes, Empalmes, DC vs. AC, Breakers), nivelación y **Autoevaluación Likert (1–5) en 4 aspectos** previa a Evaluaciones de Áreas Especiales.
 

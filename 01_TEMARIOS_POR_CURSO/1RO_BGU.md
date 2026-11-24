@@ -22,12 +22,12 @@
 *(Estado: En curso — Hoy: Semana 3, 16–19 nov | Cierre Áreas Especiales: semana del 11 ene)*
 
 1. `[x]` **S1–S2 (4–13 nov) — Potenciómetro (`analogRead`) + 4 LEDs con `>` y `<`** *(ejecutado)* — Lectura analógica en Arduino y Tinkercad encendiendo LEDs por rangos.
-2. `[→]` **S3 (16–19 nov — Esta semana) — Informe de Potenciómetro con 4 LEDs + Cuestionario** *(Individual 1)* — Entrega de informe y cuestionario de comprobación.
-3. `[ ]` **S4 (23–27 nov) — Proyecto: Atenuador de Brillo LED (`map()` + PWM `analogWrite`)** *(Individual 2)* — Regulación suave de 1 LED con potenciómetro en Tinkercad y kit.
-4. `[ ]` **S5 (30 nov – 4 dic) — Proyecto: Poste de Alumbrado Automático (LDR)** *(Práctica Tinkercad + Kit)* — Encendido automático de 1 LED al oscurecer con umbral `>` / `<`.
-5. `[ ]` **S6 (7–11 dic) — Proyecto: Theremin Musical con Luz (LDR + Buzzer `tone()`)** *(Grupal Físico)* — Montaje simple de 2 componentes cambiando el tono según la luz.
-6. `[ ]` **S7 (14–18 dic) — Refuerzo: Calibración con Monitor Serial** *(Refuerzo)* — Lectura de valores mínimo/máximo de LDR y cálculo del punto medio `(min+max)/2` para ajustar umbrales reales.
-7. `[ ]` **S8 (5–8 ene) — Cierre Parcial 2: Repaso y Autoevaluación** *(Refuerzo y Cierre)* — Combinación rápida de Potenciómetro/LDR con PWM, nivelación y **Autoevaluación Likert (1–5)** en 4 aspectos previa a Evaluaciones de Áreas Especiales (semana del 11 de enero).
+2. `[x]` **S3 (16–19 nov) — Informe de Potenciómetro con 4 LEDs + Cuestionario** *(Individual 1 y 2 completas)* — Entrega de informe (`AI5`) y cuestionario (`AI6`).
+3. `[→]` **S4 (23–27 nov) — Proyecto: Atenuador de Brillo LED (`map()` + PWM `analogWrite`)** *(Práctica sin entrega)* — Regulación suave de 1 LED con potenciómetro en Tinkercad y kit.
+4. `[ ]` **S5 (30 nov – 4 dic) — Proyecto: Poste de Alumbrado Automático (LDR)** *(Simulación Virtual en Tinkercad)* — Encendido automático de 1 LED al oscurecer con umbral `>` / `<`.
+5. `[ ]` **S6 (7–11 dic) — Theremin Musical con Luz (LDR + Buzzer `tone()`)** *(Simulación Virtual en Tinkercad)* — Diseño y prueba del circuito en virtual *(sin chocar kits con 10mo EGB)*.
+6. `[ ]` **S7 (14–18 dic) — Theremin Musical con Luz (LDR + Buzzer `tone()`)** *(Grupal Físico — Kits Arduino)* — Montaje físico grupal usando el código validado en S6.
+7. `[ ]` **S8 (5–8 ene) — Refuerzo: Calibración con Monitor Serial y Cierre** *(Refuerzo y Cierre)* — Lectura min/máx de LDR, nivelación y **Autoevaluación Likert (1–5)** previa a Evaluaciones de Áreas Especiales.
 
 ---
 
