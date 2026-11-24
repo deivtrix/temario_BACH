@@ -10,7 +10,7 @@ La **Diapositiva 1** debe incluir obligatoriamente estos 4 elementos juntos (pro
 1. **Etiqueta** *(solo si es evaluada/refuerzo)*: `👤 ACTIVIDAD INDIVIDUAL`, `👥 ACTIVIDAD GRUPAL` o `🛠️ REFUERZO`.
 2. **Tomo y Título exacto:** `TOMO [X]: [NOMBRE_OFICIAL_PARCIAL] — [TÍTULO_DEL_EPISODIO]` (sin nombre del mediador, sin fechas y **sin nombrar el curso** como `"9no EGB"` en la portada).
 3. **Propósito:** `[Verbo infinitivo]` + qué haremos hoy *(sin escribir "LEV")*.
-4. **Conexión real (título amigable):** `¿Dónde lo usas?` o `En tu vida real:` + 1 frase directa.
+4. **Conexión real:** `¿Dónde lo usas?` + 1 frase directa.
 
 ---
 
