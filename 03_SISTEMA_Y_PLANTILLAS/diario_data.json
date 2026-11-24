@@ -79,13 +79,14 @@
         "1ro_leales": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
         "3ro_vanguardistas": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
         "1ro_integros": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
+        "8vo_decididos": {"estado": "dada", "motivo": "", "nota": "Ejecutado mar 24 nov (AC vs DC + Infografía 10+10)"},
         "10mo_perspicaces": {"estado": "perdida", "motivo": "Sin clase mar 24 nov", "nota": "Requiere Plan de Alcance"}
       }
     },
     "5": {
       "nombre": "Semana 5 (30 nov - 4 dic)",
       "temas": {
-        "8VO EGB": "Mapa de Artefactos DC y AC del Colegio (Canva)",
+        "8VO EGB": "Tinkercad Circuits: Medir ondas AC vs DC (Osciloscopio)",
         "9NO EGB": "Proyecto Grupal 3D: Vehículo / Carro - Parte 1",
         "10MO EGB": "Múltiples Salidas: Semáforo en Tinkercad",
         "1RO BGU": "Poste de Alumbrado Público Automático (LDR)",

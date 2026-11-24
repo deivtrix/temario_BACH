@@ -41,7 +41,7 @@
 * **3ro BGU:** Formulario de mejora de calificaciones + repaso ESP32
 
 ### 🚀 Semana 4 (23 – 27 nov) — *EN CURSO*
-* **8vo:** Corriente Alterna (AC) y Transformación a DC en PhET CA *(Práctica sin entrega — Ind. 1 y 2 ya completas)*.
+* **8vo:** AC vs. DC + Infografía 10 imágenes DC / 10 AC *(Decididos ✅ Mar 24)*.
 * **9no:** Inkscape `.PNG` $\rightarrow$ `.SVG` + Tinkercad 3D *(**Individual 2:** Formulario corto / captura 3D)*.
 * **10mo:** Primer programa Arduino (*Blink*) en Tinkercad *(Práctica sin entrega — Ind. 1 y 2 ya completas)*.
 * **1ro BGU:** Atenuador de brillo LED (`map()` + PWM `analogWrite`) *(Práctica sin entrega — Ind. 1 y 2 ya completas)*.
@@ -49,7 +49,7 @@
 * **3ro BGU:** Semáforo en Wokwi *(Práctica — Ind. 1 y 2 ya completas en Classroom)*.
 
 ### 📅 Semana 5 (30 nov – 4 dic)
-* **8vo:** Mapa de Artefactos DC y AC del Colegio *(**Grupal** en parejas — Canva: 10 DC + 10 AC)*
+* **8vo:** Tinkercad Circuits: Medir ondas y voltaje AC vs. DC (Osciloscopio + Multímetro)
 * **9no:** Proyecto Grupal 3D: Vehículo / Carro — Parte 1 *(**Grupal**)*
 * **10mo:** Múltiples Salidas: Semáforo en Tinkercad *(Virtual — base para Grupal Físico S6)*
 * **1ro BGU:** Poste de Alumbrado Público Automático (LDR) en Tinkercad *(Virtual)*

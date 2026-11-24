@@ -26,7 +26,7 @@
 * `14:45 – 15:45` | **1RO BGU — Íntegros:** ✅ **Dada** — Atenuador de brillo LED (`map()` + PWM `analogWrite`).
 
 ### 🟨 Martes 24 de noviembre
-* `07:45 – 08:45` | **8VO EGB — Decididos:** ⬜ Por dictar — Corriente AC y Transformación a DC (PhET).
+* `07:45 – 08:45` | **8VO EGB — Decididos:** ✅ **Dada** — AC vs DC + Infografía (10 imágenes DC + 10 AC).
 * `12:15 – 13:15` | **10MO EGB — Perspicaces:** ❌ **Perdida** — Primer programa Arduino (*Blink*) en Tinkercad *(Plan de Alcance pendiente)*.
 * `14:45 – 15:45` | **2DO BGU — Justos:** ⬜ Por dictar — Intro a Tinkercad Codeblocks: Silla 3D.
 
