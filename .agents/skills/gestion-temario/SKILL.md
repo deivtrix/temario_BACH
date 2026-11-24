@@ -16,6 +16,7 @@ Cuando el usuario reporte novedades de clases, pida un reporte o diga **"actuali
    - **Cero choque de kits físicos Arduino:** `10MO EGB` y `1RO BGU` nunca hacen taller grupal físico en la misma semana (`10mo` en S6, `1ro BGU` en S7). Primero es simulación virtual, luego montaje físico.
    - **3ro BGU:** Avance progresivo independiente (6 clases/parcial).
    - **Banners en `02_CLASES_SEMANALES/`:** Todo archivo semanal debe llevar arriba su banner (`👤 ACTIVIDAD INDIVIDUAL EVALUADA`, `👥 ACTIVIDAD GRUPAL EVALUADA`, `🛠️ REFUERZO Y NIVELACIÓN` o `📘 CLASE SIN ENTREGA`).
+   - **Classroom y Preguntas de Cierre:** Solo las clases evaluadas (`Individual` / `Grupal`) llevan `## 📢 TEXTO PARA GOOGLE CLASSROOM`. Las preguntas de cierre en el guion del mediador deben incluir siempre su **respuesta esperada** *(sin mostrar respuestas en los prompts/slides de NotebookLM)*.
 
 3. **Si cambian temas, fechas o evaluaciones ("actualiza todo"):**
    - Actualizar `00_PANEL_CONTROL.md`.
