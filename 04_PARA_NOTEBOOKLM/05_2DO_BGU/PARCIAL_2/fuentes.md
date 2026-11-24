@@ -1,9 +1,13 @@
-# 🔍 Búsquedas para "Descubrir fuentes" en NotebookLM — 2DO BGU (Parcial 2)
+# 🔍 Búsquedas para "Descubrir fuentes" — 2DO BGU (Parcial 2)
 
-* **Tinkercad Sim Lab y Codeblocks:**
-  * `Simulación física de motores y gravedad en Tinkercad Sim Lab`
-  * `Introducción a Tinkercad Codeblocks coordenadas X Y Z y bloque Mover`
-* **Bucles y Diseño Paramétrico:**
-  * `Cómo usar bucles repetir y rotación en Tinkercad Codeblocks`
-  * `Diseño de escaleras torres y engranajes paramétricos con bloques`
-  * `Uso de Crear grupo en Codeblocks para exportar sólidos 3D`
+> Consultas cortas (5–7 palabras, 1 solo tema por línea) alineadas a `SECCIÓN 1` y `SECCIÓN 2` de `PROMPTS_BLOQUES.md`.
+
+## 📦 SECCIÓN 1 (Sim Lab y Codeblocks Inicial)
+* `Simulación física motores en Tinkercad Sim Lab`
+* `Mecanismo motor deslizante lineal en física`
+* `Introducción Tinkercad Codeblocks coordenadas X Y Z`
+
+## 📦 SECCIÓN 2 (Bucles y Diseño Paramétrico)
+* `Bucles repetir y rotación Tinkercad Codeblocks`
+* `Qué es diseño paramétrico con variables`
+* `Cálculo ángulo engranaje 360 entre dientes`

@@ -27,7 +27,7 @@ Cuando el usuario reporte novedades de clases, pida un reporte o diga **"actuali
    - Actualizar `03_SISTEMA_Y_PLANTILLAS/REGLAS_Y_MEMORIA_DOCENTE.md` y `INDEX_REPOSITORIO.md` si cambió la estructura o una regla.
 
 4. **Auditoría de Documentación y Limpieza (Cero archivos muertos):**
-   - Cada carpeta `04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/` debe tener **exactamente 3 archivos**: `FUENTE_<CURSO>_PARCIALX_COMPLETO.md` (solo teoría puntual y retos, cero guion docente), `fuentes.md` y `PROMPTS_BLOQUES.md` (Prompts 1–4).
+   - Cada carpeta `04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/` debe tener **exactamente 3 archivos**: `FUENTE_<CURSO>_PARCIALX_COMPLETO.md` (solo teoría puntual y retos, cero guion docente), `fuentes.md` (agrupado por `SECCIÓN 1` y `SECCIÓN 2`, 1 tema concreto de 5–7 palabras por línea) y `PROMPTS_BLOQUES.md` (Prompts 1–4).
    - Cada guion en `02_CLASES_SEMANALES/PARCIAL_X/SEMANA_XX/` debe tener su **banner superior**, **`📊 Slides: Sección X`**, **`Propósito` + `¿Cómo sé que lo logré?`** y cero prompts largos al pie.
    - Eliminar archivos sueltos duplicados, `__pycache__` o parciales obsoletos/inactivos según indicación del mediador.
 

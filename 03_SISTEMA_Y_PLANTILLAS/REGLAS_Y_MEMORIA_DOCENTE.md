@@ -81,7 +81,7 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
   * El **Bloque 2** termina con una diapositiva exclusiva de **Autoevaluación con Escala de Likert (1 al 5)** en 4 aspectos concretos.
   * Adicionalmente, cada parcial incluye **2 prompts separados de cierre**: **Prompt 3 (Repaso y Examen: Ficha Resumen de 1 página + 10 preguntas tipo examen sin respuestas)** y **Prompt 4 (Video de Repaso en Studio $\rightarrow$ Video, sin personajes de cómics)**.
 * **Separación Clara de Carpetas (Preparación vs. Aula):**
-  * **`04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/`:** Contiene **3 archivos**: `FUENTE_<CURSO>_PARCIALX_COMPLETO.md` (fuente única sin repeticiones), `fuentes.md` (consultas de 5–7 palabras para *"Descubrir fuentes"*) y `PROMPTS_BLOQUES.md` (Prompt 1 Bloque 1, Prompt 2 Bloque 2, Prompt 3 Repaso/Examen y Prompt 4 Video).
+  * **`04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/`:** Contiene **3 archivos**: `FUENTE_<CURSO>_PARCIALX_COMPLETO.md` (fuente única sin repeticiones ni guiones docentes), `fuentes.md` (agrupado por `SECCIÓN 1` y `SECCIÓN 2`, 1 tema concreto de 5–7 palabras por línea) y `PROMPTS_BLOQUES.md` (Prompt 1 Sección 1, Prompt 2 Sección 2, Prompt 3 Repaso/Examen y Prompt 4 Video).
   * **`02_CLASES_SEMANALES/PARCIAL_X/SEMANA_XX/`:** Siempre organizado por **Semana** (para abrir directo en el aula). Contiene únicamente el guion de 45 min + **`📊 Slides: Bloque X (Láminas Y–Z)`** + Texto de Classroom (si es evaluada) + Preguntas de cierre con respuesta esperada *(sin prompts largos de NotebookLM al pie)*.
 
 ---

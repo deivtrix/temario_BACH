@@ -1,11 +1,15 @@
-# 🔍 Búsquedas para "Descubrir fuentes" en NotebookLM — 10MO EGB (Parcial 2)
+# 🔍 Búsquedas para "Descubrir fuentes" — 10MO EGB (Parcial 2)
 
-* **Arduino UNO y Protoboard:**
-  * `Partes de Arduino UNO pines digitales GND 5V y uso de protoboard`
-  * `Cómo conectar un LED con resistencia protectora en protoboard`
-* **Programación Inicial (Blink y Semáforo):**
-  * `Estructura básica de código Arduino void setup void loop pinMode digitalWrite delay`
-  * `Cómo programar un semáforo de 3 LEDs en Arduino Tinkercad`
-* **Montaje Físico y Depuración:**
-  * `Errores comunes al armar circuitos Arduino en protoboard físico`
-  * `Cómo depurar errores de sintaxis y lógica en Arduino IDE`
+> Consultas cortas (5–7 palabras, 1 solo tema por línea) alineadas a `SECCIÓN 1` y `SECCIÓN 2` de `PROMPTS_BLOQUES.md`.
+
+## 📦 SECCIÓN 1 (Arduino, Empalmes y Conectores)
+* `Arquitectura Arduino UNO y modelo IPO`
+* `Empalmes eléctricos seguros y prueba continuidad`
+* `Conectores eléctricos Dupont borneras y aislantes`
+
+## 📦 SECCIÓN 2 (Blink, Semáforo, Protoboard y Depuración)
+* `Funciones setup y loop en Arduino`
+* `Programar Blink digitalWrite y delay Arduino`
+* `Variables int y semáforo en Arduino`
+* `Cómo funciona una protoboard por dentro`
+* `Errores comunes sintaxis código Arduino IDE`

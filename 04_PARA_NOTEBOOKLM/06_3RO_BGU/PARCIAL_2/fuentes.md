@@ -1,10 +1,13 @@
-# 🔍 Búsquedas para "Descubrir fuentes" en NotebookLM — 3RO BGU (Parcial 2)
+# 🔍 Búsquedas para "Descubrir fuentes" — 3RO BGU (Parcial 2)
 
-* **ESP32 en Wokwi:**
-  * `Simulación de ESP32 en Wokwi pines GPIO 3.3V y Monitor Serial`
-  * `Semáforo con ESP32 y estados en Serial.println en Wokwi`
-* **PWM, Buzzer y Sensores:**
-  * `Control de buzzer pasivo con tone() y PWM en ESP32`
-  * `Cómo conectar y programar sensor ultrasónico HC-SR04 con ESP32`
-* **Teclado Matricial 4x4:**
-  * `Cómo funciona un teclado matricial 4x4 filas y columnas con ESP32 librería Keypad`
+> Consultas cortas (5–7 palabras, 1 solo tema por línea) alineadas a `SECCIÓN 1` y `SECCIÓN 2` de `PROMPTS_BLOQUES.md`.
+
+## 📦 SECCIÓN 1 (ESP32 y Wokwi)
+* `Arquitectura ESP32 pines GPIO seguros 3.3V`
+* `Simulación ESP32 y semáforo en Wokwi`
+
+## 📦 SECCIÓN 2 (PWM, Ultrasonido y Teclado 4x4)
+* `Señal PWM y buzzer en ESP32`
+* `Sensor ultrasonido HC-SR04 Trig Echo distancia`
+* `Cómo funciona matriz teclado 4x4 filas columnas`
+* `Librería Keypad en ESP32 con Wokwi`
