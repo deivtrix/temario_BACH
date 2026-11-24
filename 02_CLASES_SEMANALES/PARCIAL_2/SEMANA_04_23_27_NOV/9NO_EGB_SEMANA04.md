@@ -1,8 +1,8 @@
 # 📗 9NO EGB — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
-**Tema:** Vectorización 2D (Inkscape `.PNG` $\rightarrow$ `.SVG`) a Tinkercad 3D (`📘 TEMA NUEVO`)
+**Tema:** Vectorización 2D (Inkscape `.PNG` $\rightarrow$ `.SVG`) a Tinkercad 3D *(Individual 2)*
 **Mediador:** David Castro  
-**Modo de Clase:** Modo A — Tema Nuevo (45 min)  
-**Entregable:** Captura exprés en Classroom del logo convertido a 3D en Tinkercad.
+**Modo de Clase:** Modo A/B — Tema Nuevo + Evaluación Rápida (45 min)  
+**Entregable:** Formulario corto en Classroom (o captura exprés del logo convertido a 3D en Tinkercad).
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Convertir** un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad.

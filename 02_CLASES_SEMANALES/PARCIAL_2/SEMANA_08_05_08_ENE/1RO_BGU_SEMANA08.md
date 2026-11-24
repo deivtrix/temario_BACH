@@ -1,8 +1,8 @@
 # 🔴 1RO BGU — PARCIAL 2 / SEMANA 8 (5 – 8 ene)
-**Tema:** Repaso General de Sensores Analógicos y Cierre de Parcial 2 *(Colchón)*  
+**Tema:** Refuerzo: Calibración con Monitor Serial, Cierre de Parcial 2 y Autoevaluación *(Refuerzo)*  
 **Mediador:** David Castro  
-**Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
-**Entregable:** Revisión de notas y prácticas pendientes del kit / Tinkercad.
+**Modo de Clase:** Modo B — Refuerzo Práctico, Nivelación y Autoevaluación Likert 1–5 (45 min)  
+**Entregable:** Revisión de notas, calibración final y Autoevaluación Likert (1–5).
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Integrar** lo visto de potenciómetro, brillo PWM y sensor de luz antes de pasar a nuevos sensores.

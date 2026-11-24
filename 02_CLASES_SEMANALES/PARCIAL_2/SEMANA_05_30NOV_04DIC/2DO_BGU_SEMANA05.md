@@ -1,8 +1,8 @@
 # 🟣 2DO BGU — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
-**Tema:** Bucles y Rotación en Tinkercad Codeblocks (Escalera / Torre Paramétrica)  
+**Tema:** Bucles y Rotación en Tinkercad Codeblocks (Escalera / Torre Paramétrica) *(Individual 2)*  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
-**Entregable:** Captura exprés en Classroom de la estructura generada con bucles `repetir`.
+**Entregable:** Formulario corto auto-calificable en Classroom (5 preguntas sobre bucles/rotación) o captura exprés.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Construir** una escalera en espiral en Codeblocks usando bucles `repetir` para no dibujar pieza por pieza.

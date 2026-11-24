@@ -1,8 +1,8 @@
 # 📘 10MO EGB — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
-**Tema:** Primer Programa en Arduino (*Blink*) en Tinkercad *(Individual 2)*  
+**Tema:** Primer Programa en Arduino (*Blink*) en Tinkercad  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
-**Entregable:** Captura exprés en Classroom del circuito Blink funcionando con código propio.
+**Entregable:** Práctica guiada en aula sin entrega obligatoria *(Ind. 1 y 2 ya completas en Classroom)*.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Simular** un LED que parpadea solo con código Arduino (`Blink`) para dar vida a un circuito.

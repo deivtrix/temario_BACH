@@ -1,8 +1,8 @@
 # 🟠 3RO BGU — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
-**Tema:** Semáforo Inteligente con ESP32 en Wokwi *(Individual 1)*  
+**Tema:** Semáforo Inteligente con ESP32 en Wokwi  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo / Ambientación (45 min)  
-**Entregable:** Captura o enlace de Wokwi con el semáforo funcionando en Classroom.
+**Entregable:** Práctica en vivo en Wokwi sin entrega obligatoria *(Ind. 1 y 2 ya completas en Classroom)*.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Construir** un semáforo de 3 luces en el ESP32 usando Wokwi para controlar varios pines a tiempo.

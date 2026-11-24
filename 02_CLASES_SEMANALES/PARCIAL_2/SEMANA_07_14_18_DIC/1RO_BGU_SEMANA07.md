@@ -1,8 +1,8 @@
 # 🔴 1RO BGU — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
-**Tema:** Refuerzo: Calibración con Monitor Serial y Nivelación *(Refuerzo)*  
+**Tema:** Theremin Musical Controlado por Luz (LDR + Buzzer `tone()`) *(Grupal Físico — Kits Arduino)*  
 **Mediador:** David Castro  
-**Modo de Clase:** Modo B — Refuerzo Práctico (45 min)  
-**Entregable:** Revisión en vivo / nivelación de prácticas atrasadas del Parcial 2.
+**Modo de Clase:** Modo B — Montaje Grupal Físico en Kit Arduino (45 min) *(usando código validado en S6)*  
+**Entregable:** Visto bueno en vivo del kit físico sonando + Informe corto grupal anti-IA en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Verificar** los valores reales de luz en el Monitor Serial para ajustar bien nuestros sensores.

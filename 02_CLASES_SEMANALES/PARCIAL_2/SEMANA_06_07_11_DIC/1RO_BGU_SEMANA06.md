@@ -1,8 +1,8 @@
 # 🔴 1RO BGU — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
-**Tema:** Theremin Musical Controlado por Luz (LDR + Buzzer `tone()`) *(Grupal Físico)*  
+**Tema:** Theremin Musical Controlado por Luz (LDR + Buzzer `tone()`) *(Simulación Virtual en Tinkercad)*  
 **Mediador:** David Castro  
-**Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Montaje Grupal Físico (30 min) + Cierre (5 min)  
-**Entregable:** Visto bueno en vivo + Informe corto anti-IA grupal (con foto y parámetros) en Classroom.
+**Modo de Clase:** Modo A — Mini-teoría (10 min) + Simulación Virtual en Tinkercad (30 min) + Cierre (5 min)  
+**Entregable:** Circuito y código probados en Tinkercad *(base para armar el Grupal Físico en Semana 7 — sin chocar kits con 10mo EGB)*.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Construir** un instrumento musical (Theremin) que cambia de sonido al tapar la luz con la mano.
