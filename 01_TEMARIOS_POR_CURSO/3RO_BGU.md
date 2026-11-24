@@ -38,7 +38,7 @@
 2. `[ ]` **Pantalla LCD 16x2 con ESP32 (Textos y *Scroll*)** *(Individual 2 — calificada)* — Despliegue de mensajes dinámicos en pantalla.
 3. `[ ]` **Proyecto: Barrera de Peaje / Parqueo (HC-SR04 + Servo + LCD 16x2)** *(Grupal en Wokwi — calificada)* — Abre al detectar distancia y muestra estado en la LCD.
 4. `[ ]` **WiFi en Wokwi (`Wokwi-GUEST`) y Protocolo IoT MQTT (`PubSubClient`)** *(Tema Nuevo — clase normal)* — Conectar el ESP32 a un broker público (`broker.hivemq.com`) enviando lecturas (texto/JSON) y recibiendo comandos.
-5. `[ ]` **Panel Web IoT con Gemini (HTML + `mqtt.js`) para Controlar Wokwi en Vivo** *(Práctica PC — sin nota extra / o evaluable)* — Crear en Gemini una página `.html` externa que muestre la distancia del HC-SR04 en vivo y mueva el servo de la puerta en Wokwi.
+5. `[ ]` **Panel Web IoT con Gemini (HTML + `mqtt.js`) para Controlar Wokwi en Vivo** *(Práctica PC — sin nota extra / o evaluable)* — Crear en Gemini una página `.html` externa (`wss://broker.hivemq.com:8884/mqtt` y tópico único por grupo) que muestre la distancia del HC-SR04 en vivo y mueva el servo de la puerta en Wokwi.
 6. `[ ]` **Refuerzo, Seguridad IoT (Credenciales/Tópicos) y Autoevaluación** *(Refuerzo y Cierre)* — Buenas prácticas de seguridad IoT, depuración con IA y **Autoevaluación Likert (1–5)** en 4 aspectos.
 
 ---
@@ -47,7 +47,7 @@
 *(Estado: Pendiente — 6 clases | Cierre anticipado por graduación de 3ro BGU)*
 
 1. `[ ]` **Entrenamiento de IA Visual con *Google Teachable Machine*** *(Individual 1 — calificada)* — Entrenar modelo de cámara en el navegador (gestos/objetos) y analizar **sesgo de datos** (luz, ángulos y fondos).
-2. `[ ]` **Puente IA -> ESP32 en Vivo vía MQTT (`Teachable Machine` + `mqtt.js` + Wokwi)** *(Individual 2 — calificada)* — Integrar la detección de cámara en una web con `mqtt.js` que publique el comando (`'A'` / `'C'`) a `broker.hivemq.com` para accionar el ESP32 en Wokwi automáticamente.
+2. `[ ]` **Puente IA -> ESP32 en Vivo vía MQTT (`Teachable Machine` + `mqtt.js` + Wokwi)** *(Individual 2 — calificada)* — Integrar la detección de cámara en una web con `mqtt.js` (`wss://broker.hivemq.com:8884/mqtt`) que publique el comando (`'A'` / `'C'`) a un tópico único por estudiante/grupo para accionar el ESP32 en Wokwi automáticamente.
 3. `[ ]` **Proyecto Final: Acceso Inteligente con Visión IA — Parte 1** *(Grupal — avance)* — Montaje en Wokwi con **LCD 16x2 + Servomotor + LEDs + Buzzer**.
 4. `[ ]` **Proyecto Final: Acceso Inteligente con Visión IA — Parte 2** *(Grupal — calificada)* — Pruebas en vivo (la IA reconoce gesto/objeto -> abre puerta en Wokwi y saluda en la LCD).
 5. `[ ]` **Mini-Sustentación estilo Universitario** *(Refuerzo)* — Defensa técnica de arquitectura (IA -> ESP32 -> Actuador), límites y ética/sesgo del modelo.

@@ -115,7 +115,7 @@ Esta tabla resume los puentes directos entre cursos para compartirlos al inicio 
 | Lo que aprendes en 1ro BGU | En qué te ayuda después |
 | :--- | :--- |
 | **`analogRead`, `map()`, PWM (`analogWrite`) y sensores (P2–P3)** | En **2do BGU (P3–P4)** regularás la velocidad de motores DC con PWM y mostrarás lecturas de sensores en pantalla LCD. |
-| **Servomotor SG90, `Serial.read()` y funciones `void` (P4)** | En **3ro BGU (P2–P4)** controlarás servomotores en ESP32 mediante comandos por Internet (MQTT) y comandos enviados desde una IA por Serial. |
+| **Servomotor SG90, `Serial.read()` y funciones `void` (P4)** | En **3ro BGU (P2–P4)** controlarás servomotores en ESP32 mediante comandos por Internet (MQTT) y comandos enviados desde una IA vía MQTT. |
 
 ### 5. De **2do BGU** $\rightarrow$ hacia **3ro BGU**
 | Lo que aprendes en 2do BGU | En qué te ayuda después |

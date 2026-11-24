@@ -46,7 +46,7 @@
 ---
 
 ## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Mecanismos Articulados y Automatización
-*(Estado: Pendiente — 7 clases)*
+*(Estado: Pendiente — 7 clases | Enfoque: Laboratorio de Física y Mecánica Aplicada con WeDo 2.0)*
 
 1. `[ ]` **Róver Explorador: Kit WeDo 2.0 y Smart Hub** *(Tema Nuevo — clase normal)* — Inventario, conexión Bluetooth y programación base de motor/luces.
 2. `[ ]` **Auto Veloz vs. Grúa de Carga (Poleas y Engranajes)** *(Individual / Parejas 1 — calificada)* — Relación velocidad vs. torque en mecanismos reales.

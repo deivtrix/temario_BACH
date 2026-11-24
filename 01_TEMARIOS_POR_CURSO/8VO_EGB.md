@@ -27,7 +27,7 @@
 2. `[x]` **Taller de Empalmes Seguros** *(Individual 2 — Práctica Física)* — Empalmes *Cola de Rata*, *Western Union* y *Derivación Simple (en T)* probados con pila 9V, bombilla/módulo protegido y cinta aislante.
 3. `[x]` **Corriente Directa / Continua (DC) y Polaridad** *(Práctica en PhET DC)* — 10 min teoría (flujo unidireccional, `+` y `-`, pilas/USB) y simulación de polaridad en PhET.
 4. `[→]` **Corriente Alterna (AC) vs. DC + Infografía (10+10)** *(S4: 23–27 nov)* — Comparación AC vs. DC e infografía con 10 artefactos DC y 10 artefactos AC.
-5. `[ ]` **Tinkercad Circuits: Medir Ondas y Voltaje AC vs. DC** *(S5: 30 nov – 4 dic)* — Uso de Osciloscopio, Generador de Funciones y Multímetro en Tinkercad para observar onda plana DC vs. senoidal AC.
+5. `[ ]` **Tinkercad Circuits: Medir Ondas y Voltaje AC vs. DC** *(S5: 30 nov – 4 dic)* — Uso de Osciloscopio, Generador de Funciones y Multímetro en Tinkercad para observación visual de onda plana DC vs. senoidal AC (sin cálculos de Hz).
 6. `[ ]` **Seguridad Eléctrica: Falsos Contactos, Cortocircuitos y Breakers** *(Refuerzo)* — Prueba de fusible en PhET y desafío *"Inspector de Seguridad"* (análisis de casos de riesgo eléctrico).
 7. `[ ]` **Repaso, Cierre de Parcial 2 y Autoevaluación** *(Refuerzo)* — Trivia relámpago de repaso (Conductores/Aislantes, Empalmes, DC vs. AC, Breakers), nivelación y **Autoevaluación Likert (1–5) en 4 aspectos** previa a Evaluaciones de Áreas Especiales.
 
@@ -41,7 +41,7 @@
 3. `[ ]` **Ley de Ohm (`V = I × R`) y Tinkercad Circuits** *(Tema Nuevo — clase normal)* — 10 min teoría + protoboard virtual, fuente, multímetro, **símbolos eléctricos (Vista Esquemática)** y cálculo básico de resistencia para proteger un LED.
 4. `[ ]` **Circuito en Serie (Tinkercad Circuits)** *(Tema Nuevo — clase normal)* — 10 min teoría + armado, esquema y medición de voltaje/corriente/brillo en **Serie** (con 1 diagnóstico rápido de falla).
 5. `[ ]` **Circuito en Paralelo y Comparativa Serie vs. Paralelo (Tinkercad)** *(Individual 2 — calificada)* — Armado en **Paralelo**, lectura esquemática y comparación directa Serie vs. Paralelo en Tinkercad.
-6. `[ ]` **Taller Físico: Masa Conductora (Harina + Sal + LEDs)** *(Grupal — Taller Práctico calificado en 1 sola clase)* — Receta exacta, amasado y construcción en equipos de circuitos en serie y paralelo usando masa conductora casera.
+6. `[ ]` **Taller Físico: Masa Conductora (Harina + Sal + LEDs)** *(Grupal — Taller Práctico calificado en 1 sola clase)* — Receta exacta, amasado y construcción/prueba visual en equipos de circuitos en serie y paralelo con LEDs (sin mediciones).
 7. `[ ]` **Refuerzo, Repaso y Autoevaluación del Parcial 3** *(Refuerzo y Cierre)* — Reto integrador de Ley de Ohm y Serie/Paralelo, nivelación de pendientes y **Autoevaluación Likert (1–5)** en 4 aspectos.
 
 ---

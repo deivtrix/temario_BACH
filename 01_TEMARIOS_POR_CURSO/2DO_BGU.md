@@ -52,7 +52,7 @@
 1. `[ ]` **Pantalla LCD 16x2 (`<LiquidCrystal.h>`) en Tinkercad — Texto Básico** *(Individual 1 — calificada)* — Conexión virtual sin atascos de cableado y mensajes en 2 filas.
 2. `[ ]` **LCD 16x2 + Sensor (Temperatura o Ultrasonido)** *(Individual 2 — calificada)* — Mostrar lecturas reales en vivo en pantalla.
 3. `[ ]` **Proyecto: La Bola de Cristal (LCD + Botón/Inclinación)** *(Tema Nuevo — clase normal)* — Mensajes aleatorios en pantalla al agitar o presionar.
-4. `[ ]` **Proyecto Final: Estación Automatizada con LCD — Parte 1 (Simulación)** *(Práctica en Equipos — avance)* — Diseño en Tinkercad (LCD + Sensor + Actuador/LEDs).
+4. `[ ]` **Proyecto Final: Estación Automatizada con LCD — Parte 1 (Simulación)** *(Práctica en Equipos — avance)* — Diseño en Tinkercad (LCD + Sensor + Actuador/LEDs) aplicando lectura no bloqueante con `millis()`.
 5. `[ ]` **Proyecto Final: Estación Automatizada con LCD — Parte 2 (Montaje Físico)** *(Práctica en Equipos — avance)* — Armado en protoboard con el kit Arduino.
 6. `[ ]` **Proyecto Final: Estación Automatizada con LCD — Parte 3 (Programación y Entrega)** *(Grupal — calificada)* — Calibración y demostración en vivo.
 7. `[ ]` **Refuerzo, Inventario y Autoevaluación** *(Refuerzo y Cierre)* — Ajustes finales, orden del kit y **Autoevaluación Likert (1–5)** en 4 aspectos.
