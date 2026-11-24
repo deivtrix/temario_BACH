@@ -2,7 +2,7 @@
 
 **Materia:** Robótica y Tecnología  
 **Título General del Año:** Sistemas Programables Iniciales  
-**Propósito General del Año:** **Implementar** circuitos programables mediante código para automatizar mecanismos y respuestas digitales.  
+**Propósito General del Año:** **Implementar** circuitos en protoboard, programación inicial en Arduino C++ y mecanismos articulados para automatizar respuestas digitales.  
 **Cargo:** Mediador  
 **Regla de Clase (45 min):** 10 min de teoría + 35 min de práctica (Tinkercad Circuits / Arduino UNO físico / Canva).  
 **Estructura por Parcial:** 4 Parciales (1 Tema por Parcial × 7 clases), garantizando mínimo **2 actividades individuales + 1 grupal + 1 refuerzo**.

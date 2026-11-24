@@ -2,7 +2,7 @@
 
 **Materia:** Robótica y Tecnología  
 **Título General del Año:** Sistemas Inteligentes Conectados  
-**Propósito General del Año:** **Desarrollar** sistemas conectados a internet con Inteligencia Artificial para monitorear y controlar proyectos a distancia.  
+**Propósito General del Año:** **Diseñar** sistemas inteligentes conectados basados en ESP32, telemetría IoT (MQTT) y visión artificial para monitorear y controlar soluciones tecnológicas con criterio ético.  
 **Cargo:** Mediador  
 **Regla de Clase (45 min):** 10 min de teoría + 35 min de práctica conjunta (**100% Simulador Wokwi + Herramientas Web de IA** — sin ESP32 físico).  
 **Referencia Base ESP32:** Curso de ESP32 de *Programador Novato* (`programadornovato.com/category/curso-de-esp32/`).  

@@ -2,7 +2,7 @@
 
 **Materia:** Robótica y Tecnología  
 **Título General del Año:** Mecatrónica Aplicada  
-**Propósito General del Año:** **Modelar** sistemas electromecánicos con potencia e interfaces LCD para construir prototipos autónomos interactivos.  
+**Propósito General del Año:** **Modelar** sistemas electromecánicos y paramétricos mediante simulación física, programación por bloques, control de potencia e interfaces LCD para validar prototipos interactivos.  
 **Cargo:** Mediador  
 **Regla de Clase (45 min):** 10 min de teoría + 35 min de práctica conjunta (Tinkercad 3D/Codeblocks + Tinkercad Circuits / Kit Arduino).  
 **Estructura por Parcial:** 4 Parciales (1 Tema por Parcial × 7 clases), medido para sesiones de 35 min reales, garantizando mínimo **2 actividades individuales + 1 grupal + 1 refuerzo**.

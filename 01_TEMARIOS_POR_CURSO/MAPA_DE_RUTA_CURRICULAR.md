@@ -10,12 +10,12 @@
 
 | Curso | Título General del Año | Propósito General del Año |
 | :--- | :--- | :--- |
-| **8vo EGB** | Principios de Electricidad y Control | **Construir** circuitos eléctricos y mecanismos iniciales para controlar la energía de forma segura. |
-| **9no EGB** | Diseño Digital y Robótica Móvil | **Diseñar** piezas 3D, robots móviles y circuitos lógicos para crear prototipos funcionales desde cero. |
-| **10mo EGB** | Sistemas Programables Iniciales | **Implementar** circuitos programables mediante código para automatizar mecanismos y respuestas digitales. |
-| **1ro BGU** | Sensores y Control Automático | **Integrar** sensores y actuadores con código modular para crear sistemas que reaccionen solos a su entorno. |
-| **2do BGU** | Mecatrónica Aplicada | **Modelar** sistemas electromecánicos con potencia e interfaces LCD para construir prototipos autónomos interactivos. |
-| **3ro BGU** | Sistemas Inteligentes Conectados | **Desarrollar** sistemas conectados a internet con Inteligencia Artificial para monitorear y controlar proyectos a distancia. |
+| **8vo EGB** | Principios de Electricidad y Control | **Aplicar** principios fundamentales de electricidad, seguridad eléctrica, circuitos serie/paralelo y mecanismos iniciales para controlar la energía de forma segura. |
+| **9no EGB** | Diseño Digital y Robótica Móvil | **Diseñar** modelos digitales 3D, rutinas de navegación móvil y circuitos lógicos analógicos para desarrollar prototipos funcionales seguros. |
+| **10mo EGB** | Sistemas Programables Iniciales | **Implementar** circuitos en protoboard, programación inicial en Arduino C++ y mecanismos articulados para automatizar respuestas digitales. |
+| **1ro BGU** | Sensores y Control Automático | **Construir** sistemas de control automático integrando entradas digitales, señales analógicas (PWM), sensores ambientales y servomotores para responder a estímulos del entorno. |
+| **2do BGU** | Mecatrónica Aplicada | **Modelar** sistemas electromecánicos y paramétricos mediante simulación física, programación por bloques, control de potencia e interfaces LCD para validar prototipos interactivos. |
+| **3ro BGU** | Sistemas Inteligentes Conectados | **Diseñar** sistemas inteligentes conectados basados en ESP32, telemetría IoT (MQTT) y visión artificial para monitorear y controlar soluciones tecnológicas con criterio ético. |
 
 ---
 
