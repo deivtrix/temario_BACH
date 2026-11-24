@@ -22,7 +22,11 @@ Crea una presentación estilo cómic educativo en español para estudiantes de [
 
 Reglas obligatorias:
 1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + qué haremos hoy + "¿Para qué me sirve en la vida real?".
-2. Formato híbrido: combina narrativa visual (cómic/versus) con láminas explicativas limpias (diagramas, flechas, tablas visuales, cero muros de texto).
+2. Formato híbrido: combina narrativa visual (cómic/versus) con láminas explicativas limpias cubriendo estos **3–4 subtemas puntuales** en orden:
+   - Paso 1: [SUBTEMA 1]
+   - Paso 2: [SUBTEMA 2]
+   - Paso 3: [SUBTEMA 3]
+   - Paso 4 (si aplica): [SUBTEMA 4]
 3. Candado de alcance: usa ÚNICAMENTE los bloques, instrucciones y componentes de este capítulo; PROHIBIDO introducir temas avanzados no vistos aún o inventar código.
 4. Si es actividad evaluativa (👤 Individual / 👥 Grupal): ve directo al reto con un recordatorio técnico breve y PROHIBIDO regalar el código completo o la solución resuelta.
 5. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados ("sube a Classroom"), "Continuará..." o adelantos del próximo capítulo.
