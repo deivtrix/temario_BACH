@@ -1,4 +1,7 @@
 # 🔴 1RO BGU — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
+
+> [!TIP]
+> # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
 **Tema:** Informe de Potenciómetro con 4 LEDs (`analogRead`, `>`, `<`) + Cuestionario *(Individual 1)*  
 **Mediador:** David Castro    
 **📊 Slides:** Sección 1 (ver PROMPTS_BLOQUES.md)

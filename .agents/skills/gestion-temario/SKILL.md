@@ -26,5 +26,10 @@ Cuando el usuario reporte novedades de clases, pida un reporte o diga **"actuali
    - Actualizar las fuentes correspondientes en `04_PARA_NOTEBOOKLM/` (`FUENTE_<CURSO>_PARCIALX_COMPLETO.md` y `fuentes.md`).
    - Actualizar `03_SISTEMA_Y_PLANTILLAS/REGLAS_Y_MEMORIA_DOCENTE.md` y `INDEX_REPOSITORIO.md` si cambió la estructura o una regla.
 
-4. **Respaldo en GitHub:**
+4. **Auditoría de Documentación y Limpieza (Cero archivos muertos):**
+   - Cada carpeta `04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/` debe tener **exactamente 3 archivos**: `FUENTE_<CURSO>_PARCIALX_COMPLETO.md` (solo teoría puntual y retos, cero guion docente), `fuentes.md` y `PROMPTS_BLOQUES.md` (Prompts 1–4).
+   - Cada guion en `02_CLASES_SEMANALES/PARCIAL_X/SEMANA_XX/` debe tener su **banner superior**, **`📊 Slides: Sección X`**, **`Propósito` + `¿Cómo sé que lo logré?`** y cero prompts largos al pie.
+   - Eliminar archivos sueltos duplicados, `__pycache__` o parciales obsoletos/inactivos según indicación del mediador.
+
+5. **Respaldo en GitHub:**
    - Hacer `git add -A`, `git commit -m "..."` y `git push origin main`.

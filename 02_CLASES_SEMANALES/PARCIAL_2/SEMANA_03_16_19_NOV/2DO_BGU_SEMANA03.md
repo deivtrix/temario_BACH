@@ -1,4 +1,7 @@
 # 🟣 2DO BGU — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
+
+> [!IMPORTANT]
+> # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Mecanismo de Motor Deslizante en Tinkercad Sim Lab *(Grupal)*  
 **Mediador:** David Castro    
 **📊 Slides:** Sección 1 (ver PROMPTS_BLOQUES.md)

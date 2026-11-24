@@ -1,4 +1,7 @@
 # 📘 8VO EGB — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
+
+> [!NOTE]
+> # 📘 CLASE SIN ENTREGA
 **Tema:** Corriente Directa / Continua (DC) y Polaridad (`📘 TEMA NUEVO`)  
 **Mediador:** David Castro    
 **📊 Slides:** Sección 1 (ver PROMPTS_BLOQUES.md)

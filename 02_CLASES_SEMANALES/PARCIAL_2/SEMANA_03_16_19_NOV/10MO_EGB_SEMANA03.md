@@ -1,4 +1,7 @@
 # 📘 10MO EGB — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
+
+> [!TIP]
+> # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
 **Tema:** Conectores y Aislantes Eléctricos *(Individual 1 — Infografía / Consulta)*  
 **Mediador:** David Castro    
 **📊 Slides:** Sección 1 (ver PROMPTS_BLOQUES.md)

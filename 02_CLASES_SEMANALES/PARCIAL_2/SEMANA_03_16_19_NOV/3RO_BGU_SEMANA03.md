@@ -1,4 +1,7 @@
 # 🟠 3RO BGU — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
+
+> [!WARNING]
+> # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Formulario de Mejora de Calificaciones + Repaso Base ESP32 en Wokwi  
 **Mediador:** David Castro    
 **📊 Slides:** Sección 1 (ver PROMPTS_BLOQUES.md)

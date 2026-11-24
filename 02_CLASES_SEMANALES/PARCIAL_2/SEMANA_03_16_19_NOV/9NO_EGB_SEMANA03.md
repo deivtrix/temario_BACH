@@ -1,4 +1,7 @@
 # 📗 9NO EGB — PARCIAL 2 / SEMANA 3 (16 – 19 nov)
+
+> [!TIP]
+> # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
 **Tema:** Case de iPhone en Tinkercad 3D — Parte 2 + Formulario *(Individual 2)*  
 **Mediador:** David Castro    
 **📊 Slides:** Sección 1 (ver PROMPTS_BLOQUES.md)
