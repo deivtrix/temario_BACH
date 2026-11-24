@@ -23,14 +23,17 @@
 
 ## ⏱️ GUION DE 45 MINUTOS
 
-1. **Del Poste a la Casa (8 min):**
+1. **Nivel Micro — Cómo se Mueven los Electrones (5 min):**
+   * **DC:** Los electrones viajan en un solo sentido (`+` a `-`), como una fila ordenada (pilas, USB).
+   * **AC:** Los electrones van y vienen vibrando en el cable (60 veces por segundo), como un vaivén.
+2. **Del Poste a la Casa (7 min):**
    * Recorrido: Central eléctrica $\rightarrow$ líneas de alta tensión $\rightarrow$ **transformador de la calle (poste)** que baja el voltaje $\rightarrow$ medidor y tomacorriente de casa (**110V AC** en Ecuador).
-2. **Por Dentro del Cargador / "Chanchito" (7 min):**
+3. **Por Dentro del Cargador / "Chanchito" (6 min):**
    * **Paso 1 (Reductor / Transformador):** Baja el voltaje alto (110V AC) a un voltaje seguro (5V o 12V).
    * **Paso 2 (Rectificador):** Convierte la Corriente Alterna (AC, que va y viene) en Corriente Directa (DC, un solo sentido) para cargar celulares o alimentar circuitos.
-3. **Práctica en Aula — Infografía 10 + 10 (22 min):**
+4. **Práctica en Aula — Infografía 10 + 10 (19 min):**
    * En parejas o individual, crean una infografía visual con **10 artefactos DC** (pilas/USB/cargador) y **10 artefactos AC** (directo a la pared).
-4. **Cierre y Preguntas de Verificación (8 min):**
+5. **Cierre y Preguntas de Verificación (8 min):**
    * **Pregunta 1:** ¿Qué función cumple el transformador del poste de la calle antes de que la luz entre a tu casa?
      * *Respuesta esperada:* Baja el voltaje alto de las líneas de la calle a 110V AC utilizables en el hogar.
    * **Pregunta 2:** ¿Qué dos cosas hace por dentro el "chanchito" o cargador de tu celular?
