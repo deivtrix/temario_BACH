@@ -7,7 +7,7 @@
 1. Diseño paramétrico por bloques vs. diseño 3D manual.
 2. Creación de primitivas (cubos/cilindros) con dimensiones exactas.
 3. Posicionamiento en ejes `X, Y, Z` con el bloque `Mover`.
-4. Unión final con `Crear grupo` (Silla 3D — Individual).
+4. Unión de sólidos con `Crear grupo` para generar una sola pieza 3D.
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura exprés del modelo 3D generado por código + bloques visibles en Classroom.

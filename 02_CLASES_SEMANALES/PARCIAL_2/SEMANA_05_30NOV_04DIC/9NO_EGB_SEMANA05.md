@@ -7,7 +7,7 @@
 1. Descomposición de un vehículo 3D en partes (chasis, cabina, ruedas, ejes).
 2. Alineación y simetría de ruedas en Tinkercad 3D.
 3. Uso de piezas sólidas y huecas (`Agrupar`) para detalles del chasis.
-4. Trabajo colaborativo en equipo (Parte 1 — Grupal).
+4. Proporción y unión de componentes del vehículo en un solo sólido.
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A/B — Modelación (10 min) + Trabajo Grupal (30 min) + Cierre (5 min)  
 **Entregable:** Avance en vivo (chasis y carrocería listos; entrega final en Semana 6).

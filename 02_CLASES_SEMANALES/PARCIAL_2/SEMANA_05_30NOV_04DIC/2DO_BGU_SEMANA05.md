@@ -7,7 +7,7 @@
 1. Concepto de bucle `repetir` en Codeblocks para evitar bloques duplicados.
 2. Uso de variables o incrementos en `Z` para subir cada escalón.
 3. Rotación incremental alrededor del eje `Z` (escalera en espiral / torre).
-4. Evaluación rápida (Formulario corto — Individual 2).
+4. Aplicación de bucles en estructuras repetitivas (escalera o torre).
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Formulario corto auto-calificable en Classroom (5 preguntas sobre bucles/rotación) o captura exprés.
