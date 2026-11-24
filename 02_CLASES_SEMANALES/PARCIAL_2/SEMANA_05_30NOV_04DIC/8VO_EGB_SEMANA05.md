@@ -41,7 +41,11 @@
 ## 🎨 PROMPT PARA NOTEBOOKLM
 
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Midiendo Ondas AC y DC en Tinkercad") basado en el CAPÍTULO #5 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Tomo 2: "Conductores, Empalmes y Seguridad Eléctrica", como un episodio autoconclusivo independiente ("Midiendo Ondas AC y DC en Tinkercad") basado en el EPISODIO #5 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+- Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (problema concreto que solo se resuelve con este tema) -> Meollo (teoría esencial con diagramas y consejos preventivos) -> Final (resuelven el problema inicial).
 
 Reglas obligatorias:
 1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + qué haremos hoy + "¿Para qué me sirve en la vida real?".
@@ -51,5 +55,5 @@ Reglas obligatorias:
    - Paso 3: Conexión del Generador de Funciones (AC) en Tinkercad Circuits.
    - Paso 4: Medición de voltaje con el Multímetro virtual.
 3. Candado de alcance: usa ÚNICAMENTE Tinkercad Circuits (Pila, Generador de Funciones, Osciloscopio y Multímetro); PROHIBIDO introducir Arduino, programación o fórmulas trigonométricas de ondas.
-4. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados ("sube a Classroom"), "Continuará..." o adelantos del próximo capítulo.
+4. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados ("sube a Classroom"), "Continuará..." o adelantos del próximo episodio.
 ```

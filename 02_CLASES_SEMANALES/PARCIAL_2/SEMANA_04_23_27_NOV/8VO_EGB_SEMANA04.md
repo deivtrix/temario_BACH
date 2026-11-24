@@ -46,15 +46,19 @@
 ## 🎨 PROMPT PARA NOTEBOOKLM
 
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("De la Calle al Cargador: AC, Transformadores y DC") basado en el CAPÍTULO #4 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Tomo 2: "Conductores, Empalmes y Seguridad Eléctrica", como un episodio autoconclusivo independiente ("De la Calle al Cargador: AC, Transformadores y DC") basado en el EPISODIO #4 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+- Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (problema concreto que solo se resuelve con este tema) -> Meollo (teoría esencial con diagramas y consejos preventivos) -> Final (resuelven el problema inicial).
 
 Reglas obligatorias:
 1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + qué haremos hoy + "¿Para qué me sirve en la vida real?".
-2. Formato híbrido: combina narrativa visual (cómic/versus) con láminas explicativas limpias en estos **4 pasos exactos**:
-   - Paso 1 (Micro): Cómo se mueven los electrones en DC (un solo sentido) vs. AC (yendo y viniendo).
-   - Paso 2 (Calle a Casa): Central -> transformador del poste de la calle -> tomacorriente de casa (110V AC).
-   - Paso 3 (Por dentro del cargador/"chanchito"): Reductor de voltaje (110V a 5V) + rectificador (AC a DC).
-   - Paso 4 (Aplicación): Ejemplos cotidianos de artefactos DC vs. AC.
-3. Candado de alcance: usa ÚNICAMENTE los conceptos de esta clase (AC vs DC, transformador de la calle, reductor/cargador por dentro y artefactos cotidianos); PROHIBIDO introducir fórmulas complejas de inductancia, ondas senoidales avanzadas o electrónica de Arduino.
-4. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados ("sube a Classroom"), "Continuará..." o adelantos del próximo capítulo.
+2. Formato híbrido: combina narrativa visual (cómic/versus) con láminas explicativas limpias cubriendo estos 4 subtemas puntuales en orden:
+   - Paso 1: Qué es DC y cómo se mueven sus electrones (un solo sentido).
+   - Paso 2: Qué es AC y cómo se mueven sus electrones (yendo y viniendo).
+   - Paso 3: Cómo llega la luz a casa (Central -> transformador del poste -> tomacorriente 110V AC).
+   - Paso 4: Por dentro del cargador/"chanchito" (reductor de voltaje 110V a 5V + rectificador AC a DC).
+3. Candado de alcance: usa ÚNICAMENTE los conceptos de esta clase; PROHIBIDO introducir fórmulas complejas de inductancia, ondas senoidales avanzadas o Arduino.
+4. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados ("sube a Classroom"), "Continuará..." o adelantos del próximo episodio.
 ```
