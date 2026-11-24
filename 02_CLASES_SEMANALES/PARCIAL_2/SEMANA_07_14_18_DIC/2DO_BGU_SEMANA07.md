@@ -26,18 +26,6 @@
 * **2 preguntas rápidas:**
   1. *"¿Qué fue lo más útil que aprendiste de Codeblocks frente al Tinkercad normal?"*
   2. *"¿Cuántos grados rotaste cada brazo de tu figura simétrica?"*
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Refuerzo Creativo Codeblocks: Figura Simétrica Libre
-
-PROPÓSITO: Diseñar una figura simétrica propia (estrella o adorno) en Codeblocks usando bucles `repetir`.
-
-ACTIVIDAD:
-- Diseña una figura simétrica (estrella, adorno o estructura) usando mínimo 1 bucle Repetir.
-- Nivelación de entregas pendientes del Parcial 2.
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

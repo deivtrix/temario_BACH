@@ -28,18 +28,6 @@
   2. Transformar rangos con `map()` y controlar brillo con PWM (`analogWrite()`).
   3. Armar y calibrar una fotoresistencia (LDR) con el Monitor Serial.
   4. Convertir lecturas de luz en sonido usando `tone()` en el Buzzer.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Cierre del Parcial 2: Repaso de Entradas Analógicas y PWM
-
-PROPÓSITO: Integrar lo visto de potenciómetro, brillo PWM y sensor de luz antes de pasar a nuevos sensores.
-
-ACTIVIDAD:
-- Repaso general de analogRead(), map(), analogWrite() y tone().
-- Revisión final de entregas antes de Evaluaciones de Áreas Especiales (11 de enero).
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

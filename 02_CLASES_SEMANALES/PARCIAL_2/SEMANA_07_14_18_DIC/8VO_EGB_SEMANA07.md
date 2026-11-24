@@ -28,18 +28,6 @@
 
 ### 4. Cierre (40 – 45 min)
 * Indicaciones finales para la Evaluación de Áreas Especiales y confirmación de entregas al día.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: 🛠️ Repaso, Nivelación y Cierre (Parcial 2)
-
-PROPÓSITO: Repasar conductores/aislantes, empalmes seguros, corriente DC/AC y protección contra cortocircuitos antes de la evaluación.
-
-ACTIVIDAD:
-- Trivia relámpago de repaso en vivo y nivelación de actividades pendientes.
-- Autoevaluación Escala de Likert (1 al 5) sobre los temas del Parcial 2.
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

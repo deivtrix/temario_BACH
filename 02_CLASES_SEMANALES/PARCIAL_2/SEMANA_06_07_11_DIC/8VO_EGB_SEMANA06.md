@@ -30,18 +30,6 @@
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
 1. *"¿Qué diferencia hay entre un falso contacto y un cortocircuito?"*
 2. *"¿Por qué jamás se debe trabar o puentear un breaker que salta?"*
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: 🛠️ Seguridad Eléctrica: Falsos Contactos, Cortocircuitos y Breakers
-
-PROPÓSITO: Identificar falsos contactos, cortocircuitos y cómo nos protegen los breakers o fusibles para evitar incendios.
-
-ACTIVIDAD:
-- Desafío "Inspector de Seguridad" en clase (clasificar Falso Contacto, Cortocircuito o Circuito Seguro).
-- Práctica en PhET DC probando protección con fusible en serie.
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

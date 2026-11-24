@@ -36,21 +36,6 @@
   1. *"¿Qué significa `pin++` y qué significa `pin--`?"*
   2. *"¿Qué pasa si conectas los LEDs en pines saltados (ej. 2, 5, 9) cuando usas un `for` consecutivo?"*
 * **Cierre:** Subir captura de Tinkercad corriendo a Classroom.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Refuerzo Arduino: Secuencia de Luces con Bucle for
-
-PROPÓSITO: Optimizar el encendido de 6 LEDs en fila usando un bucle `for` en lugar de repetir tantas líneas.
-
-INSTRUCCIONES:
-1. En Tinkercad, conecta 6 LEDs desde el Pin 2 hasta el Pin 7 (con resistencias de 220 ohmios a GND).
-2. Usa un bucle for para encenderlos en orden de ida (2 -> 7) y otro bucle for para regresarlos (7 -> 2).
-3. Pon // Tu Nombre en la línea 1 y sube 1 captura de la simulación corriendo.
-
-Calificación: Refuerzo formativo (10 puntos).
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

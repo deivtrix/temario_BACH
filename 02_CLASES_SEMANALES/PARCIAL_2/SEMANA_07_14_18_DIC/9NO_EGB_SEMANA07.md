@@ -28,18 +28,6 @@
   1. *"¿Cómo logras que las paredes de la casa tengan el mismo grosor en los 4 lados?"*
   2. *"¿Qué herramienta usaste para levantar las ventanas del suelo?"*
 * **Cierre:** Guardar el proyecto (`Casa_Nombre`) para terminar techo y jardín en enero.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Refuerzo 3D: Casa en Tinkercad (Parte 1 — Muros y Ventanas)
-
-PROPÓSITO: Construir las paredes, puerta y ventanas de una casa 3D en Tinkercad usando cubos huecos.
-
-AVANCE DE HOY:
-1. Modela la base de tu casa con interior hueco, 1 puerta y al menos 2 ventanas.
-2. Guarda tu diseño en Tinkercad; en enero agregamos el techo y detalles para la entrega final.
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

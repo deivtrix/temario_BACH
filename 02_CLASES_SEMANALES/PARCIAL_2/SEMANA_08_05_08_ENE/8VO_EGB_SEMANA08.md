@@ -26,14 +26,3 @@ Cada estudiante valora del **1 al 5** (*1 = Todavía me cuesta | 3 = Lo entiendo
 2. Realizar empalmes seguros (Cola de Rata / Western Union) y aislarlos bien.
 3. Distinguir entre Corriente Directa (DC) y Corriente Alterna (AC).
 4. Identificar falsos contactos, cortocircuitos y cómo protege un breaker.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: 🛠️ Cierre del Parcial 2: Repaso y Autoevaluación
-
-PROPÓSITO: Comprobar lo que aprendimos sobre seguridad eléctrica, empalmes y AC/DC antes de la evaluación.
-
-INDICACIONES:
-- Repaso general y revisión final de entregas antes de Evaluaciones de Áreas Especiales (semana del 11 de enero).
-- Completa tu autoevaluación del 1 al 5 en los 4 aspectos vistos en el Parcial 2.
-```

@@ -26,16 +26,3 @@
   2. Convertir imágenes 2D (`.PNG`) a vectores `.SVG` en Inkscape.
   3. Diseñar un vehículo o estructura 3D completa en equipo.
   4. Organizar y terminar una Casa 3D limpia en Tinkercad.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Refuerzo 3D: Casa en Tinkercad (Parte 2 — Entrega Final)
-
-PROPÓSITO: Completar el techo y jardín de nuestra Casa 3D en Tinkercad para cerrar el bloque de diseño.
-
-INSTRUCCIONES:
-1. Abre tu casa de la clase anterior y agrega el techo, puerta y detalles exteriores (cerca, chimenea o jardín).
-2. Coloca tu nombre en 3D y sube 1 captura clara en perspectiva.
-
-Calificación: Refuerzo / Cierre de Parcial 2 (10 puntos).
-```

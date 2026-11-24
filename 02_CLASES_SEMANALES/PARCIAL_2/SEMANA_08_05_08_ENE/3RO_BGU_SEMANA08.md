@@ -26,18 +26,6 @@
   2. Programar salidas digitales y PWM/tonos (`analogWrite`, `tone`) en el ESP32.
   3. Medir distancias en cm con el sensor ultrasonido HC-SR04 y activar alertas.
   4. Integrar un teclado matricial 4x4 con `Keypad.h` para leer claves o notas.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Cierre del Parcial 2: Repaso General ESP32 en Wokwi
-
-PROPÓSITO: Revisar nuestras simulaciones del ESP32 en Wokwi y nivelar entregas antes de la evaluación.
-
-ACTIVIDAD:
-- Revisión y entrega final de simulaciones pendientes en Wokwi.
-- Repaso previo a la semana de Evaluaciones de Áreas Especiales (11 de enero).
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

@@ -32,22 +32,6 @@
 * **Retroalimentación rápida del formulario:**
   1. *"¿Por qué un sensor o alimentación de $5\text{V}$ directo al pin GPIO puede dañar el ESP32?"*
   2. *"¿A cuántos baudios configuramos el Monitor Serial del ESP32?"*
-
----
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Nivelación y Mejora de Calificaciones — Fundamentos ESP32 (Wokwi)
-
-PROPÓSITO: Revisar cómo funciona el ESP32 y recuperar notas con el formulario antes de pasar a sensores.
-
-INSTRUCCIONES:
-1. Completa el Formulario de Nivelación adjunto (20 minutos, individual).
-2. Si tenías pendiente la práctica de Sirena de Policía en Wokwi, corrígela/termínala y adjunta tu captura con tu nombre en la línea 1 del código (// Nombre Apellido).
-
-Calificación: Nota de recuperación / mejora registrada en el parcial.
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

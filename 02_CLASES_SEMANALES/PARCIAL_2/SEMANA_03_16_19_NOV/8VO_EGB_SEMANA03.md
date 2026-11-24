@@ -25,18 +25,6 @@
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
 1. *"¿En cuántas direcciones viajan los electrones en la Corriente Directa (DC)?"*
 2. *"¿De qué color suele ser el cable positivo y el negativo?"*
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: 📘 Corriente Directa (DC) y Polaridad
-
-PROPÓSITO: Comprender cómo fluye la Corriente Directa o Continua (DC) y la importancia de respetar su polaridad (+ y -) en baterías y circuitos.
-
-ACTIVIDAD:
-- Teoría puntual (10 min) y práctica guiada en PhET Kit de Construcción de Circuitos (CD).
-- Revisión en vivo del flujo de electrones y polaridad de baterías (sin entrega obligatoria).
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM
