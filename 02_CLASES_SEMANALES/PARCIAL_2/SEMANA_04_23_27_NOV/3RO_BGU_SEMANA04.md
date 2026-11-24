@@ -29,22 +29,6 @@
   1. *"¿Por qué declaramos los pines como `const int` en lugar de escribir el número directo en cada `digitalWrite`?"*
   2. *"¿Qué velocidad de baudios usamos en `Serial.begin()` con el ESP32?"*
 * **Cierre:** Subir captura de Wokwi (LED encendido + código con `// Nombre` + Monitor Serial) a Classroom.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Actividad Individual 1: Semáforo en ESP32 (Wokwi)
-
-PROPÓSITO: Construir un semáforo de 3 luces en el ESP32 usando Wokwi para controlar varios pines a tiempo.
-
-INSTRUCCIONES:
-1. En wokwi.com (ESP32), conecta 3 LEDs (Rojo, Amarillo, Verde) con resistencias de 220 ohmios a GND.
-2. Programa el ciclo del semáforo e incluye un parpadeo de 3 veces en el Verde antes de cambiar a Amarillo.
-3. Imprime el estado ("VERDE", "AMARILLO", "ROJO") en el Monitor Serial a 115200 baudios.
-4. Pon // Tu Nombre Apellido en la línea 1 del código y sube 1 captura de la simulación funcionando.
-
-Calificación: 10 puntos (Actividad Individual 1).
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

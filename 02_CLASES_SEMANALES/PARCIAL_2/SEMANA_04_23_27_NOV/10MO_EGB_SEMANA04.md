@@ -31,32 +31,6 @@
   1. *"¿Qué diferencia hay entre `void setup()` y `void loop()`?"*
   2. *"Si pongo `delay(500);`, ¿cuántos segundos espera el Arduino?"*
 * **Cierre:** Subir captura en Tinkercad con el LED encendido y el código visible a Classroom.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Actividad Individual 2: Mi Primer Programa en Arduino (Blink Alternado)
-
-PROPÓSITO: Simular un LED que parpadea solo con código Arduino (`Blink`) para dar vida a un circuito.
-
-CÓDIGO BASE DE REFERENCIA:
-void setup() {
-  pinMode(13, OUTPUT);
-}
-void loop() {
-  digitalWrite(13, HIGH);
-  delay(1000);
-  digitalWrite(13, LOW);
-  delay(1000);
-}
-
-RETO INDIVIDUAL:
-1. Agrega un segundo LED en el Pin 12 (con resistencia de 220 ohmios a GND).
-2. Haz que ambos LEDs parpadeen alternados cada 500 ms.
-3. Escribe // Tu Nombre Apellido en la línea 1 del código y sube 1 captura de la simulación corriendo.
-
-Calificación: 10 puntos (Actividad Individual 2).
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

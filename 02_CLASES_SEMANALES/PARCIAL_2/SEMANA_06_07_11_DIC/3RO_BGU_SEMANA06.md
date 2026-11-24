@@ -30,22 +30,6 @@
   1. *"¿Para qué sirve el pin `TRIG` y para qué el pin `ECHO`?"*
   2. *"¿Por qué dividimos entre 2 en la fórmula de distancia?"*
 * **Cierre:** Subir captura de Wokwi mostrando la distancia `< 30 cm` y el LED encendido.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Práctica ESP32 (Wokwi): Sensor Ultrasonido HC-SR04
-
-PROPÓSITO: Medir distancias en centímetros con el sensor ultrasonido y el ESP32 para activar una alarma de choque.
-
-INSTRUCCIONES:
-1. En wokwi.com (ESP32), conecta el sensor HC-SR04 (TRIG a GPIO 5, ECHO a GPIO 18), 1 LED en GPIO 13 y 1 Buzzer en GPIO 14.
-2. Calcula la distancia en centímetros e imprímela en el Monitor Serial (115200 baudios).
-3. Programa la alerta: si distancia < 30 cm, enciende el LED y suena el buzzer.
-4. Pon // Tu Nombre Apellido en la línea 1 y sube 1 captura probando una distancia menor a 30 cm.
-
-Calificación: 10 puntos (Práctica de clase).
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

@@ -29,22 +29,6 @@
   1. *"¿Para qué sirve declarar `int rojo = 13;` al inicio del código?"*
   2. *"¿Qué pasa si olvidas apagar el LED anterior con `LOW` antes de encender el siguiente?"*
 * **Cierre:** Subir captura de Tinkercad con el código y el semáforo encendido a Classroom.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Práctica Arduino: Semáforo Inteligente en Tinkercad
-
-PROPÓSITO: Simular un semáforo de 3 luces en Tinkercad usando nombres (`int`) para ordenar los pines.
-
-INSTRUCCIONES:
-1. Conecta 3 LEDs (Rojo en Pin 13, Amarillo en Pin 12, Verde en Pin 11) con sus resistencias de 220 ohmios a GND.
-2. Declara variables int para cada color al inicio del código.
-3. Programa el ciclo completo haciendo que el Verde parpadee 3 veces antes de cambiar a Amarillo.
-4. Escribe // Tu Nombre Apellido en la línea 1 y sube 1 captura de la simulación corriendo.
-
-Calificación: 10 puntos (Práctica de clase).
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

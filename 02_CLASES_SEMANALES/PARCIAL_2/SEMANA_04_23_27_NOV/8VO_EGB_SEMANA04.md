@@ -28,18 +28,6 @@
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
 1. *"¿Qué significa 60 Hz en la corriente de nuestra casa?"*
 2. *"¿Qué pasaría si conectamos el celular directo a 110V AC sin el cargador?"*
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: 📘 Corriente Alterna (AC) y Transformación a DC
-
-PROPÓSITO: Comprender cómo funciona la Corriente Alterna (AC) que llega a los tomacorrientes y por qué los cargadores la transforman en DC.
-
-ACTIVIDAD:
-- Teoría puntual (10 min) y comparación en PhET (Kit de Construcción de Circuitos CA) entre batería DC y fuente AC.
-- Revisión en vivo en pantalla (sin entrega obligatoria).
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

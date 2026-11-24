@@ -28,18 +28,6 @@
   2. Escribir la estructura base de Arduino (`setup()`, `loop()`, `pinMode()`, `digitalWrite()`).
   3. Usar variables `int` para programar un semáforo en Tinkercad y protoboard real.
   4. Simplificar secuencias de varios LEDs usando bucles `for`.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Cierre del Parcial 2: Depuración de Código Arduino y Repaso
-
-PROPÓSITO: Corregir errores clásicos de código Arduino (`;`, llaves y pines) antes de la evaluación.
-
-ACTIVIDAD:
-- Práctica de depuración en Tinkercad (encontrar errores de llaves, punto y coma y pines).
-- Cierre y nivelación de entregas previas a Evaluaciones de Áreas Especiales (11 de enero).
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

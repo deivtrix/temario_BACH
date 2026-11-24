@@ -30,36 +30,6 @@
   1. *"¿Por qué la LDR necesita una resistencia de $10\text{k}\Omega$ hacia `GND` para poder leerse en `A0`?"*
   2. *"¿Qué número marcó tu Monitor Serial con luz vs. tapado con el dedo?"*
 * **Cierre:** Visto bueno en kit / subida de captura con valores reales en Classroom.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Práctica Arduino: Poste de Alumbrado Público Automático (LDR)
-
-PROPÓSITO: Construir un circuito con sensor de luz (LDR) que prenda un LED solo cuando oscurece, como un poste de calle.
-
-CÓDIGO BASE:
-void setup() {
-  Serial.begin(9600);
-  pinMode(9, OUTPUT);
-}
-void loop() {
-  int luz = analogRead(A0);
-  Serial.println(luz);
-  if (luz < 400) { // Ajusta este umbral según tu lectura
-    digitalWrite(9, HIGH);
-  } else {
-    digitalWrite(9, LOW);
-  }
-  delay(100);
-}
-
-ENTREGA:
-1. Arma el circuito (LDR a 5V y A0 + resistencia 10k a GND + LED en Pin 9).
-2. Sube 1 captura/foto funcionando y escribe en el comentario el valor exacto que marcó tu Monitor Serial con luz y en oscuridad.
-
-Calificación: 10 puntos (Práctica de clase).
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

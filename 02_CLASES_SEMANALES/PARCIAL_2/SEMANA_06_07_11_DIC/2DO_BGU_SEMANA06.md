@@ -31,22 +31,6 @@
   1. *"¿Qué fórmula matemática usamos para saber cuántos grados rotar cada diente?"*
   2. *"¿Por qué decimos que este diseño es 'paramétrico'?"*
 * **Cierre:** Subir captura con bloques y engranaje 3D a Classroom.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Práctica Evaluada Codeblocks: Engranaje / Hélice Paramétrica
-
-PROPÓSITO: Crear un engranaje en Codeblocks que cambie su número de dientes modificando una sola variable.
-
-INSTRUCCIONES:
-1. En Tinkercad Codeblocks, crea una variable llamada "dientes" (ej. 12 o 16).
-2. Usa un bucle "Repetir (dientes) veces" rotando cada diente (360 / dientes) grados alrededor del origen.
-3. Agrega el disco base, un hueco central para el eje y agrupa todo (Crear grupo).
-4. Sube 1 captura donde se vean tus bloques y el engranaje terminado.
-
-Calificación: 10 puntos (Práctica de clase).
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

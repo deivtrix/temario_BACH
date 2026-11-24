@@ -25,18 +25,6 @@
   2. Crear figuras 3D usando coordenadas y bloques de código en Codeblocks.
   3. Usar variables y bucles `Repetir` para diseñar estructuras en espiral o simétricas.
   4. Programar piezas paramétricas (engranajes) cambiando el número de dientes con una variable.
-
-## 📢 TEXTO PARA GOOGLE CLASSROOM
-```text
-TÍTULO: Cierre del Parcial 2: Revisión Final Sim Lab y Codeblocks
-
-PROPÓSITO: Evaluar nuestros diseños finales de Sim Lab y Codeblocks para cerrar el módulo 3D antes de Arduino.
-
-ACTIVIDAD:
-- Revisión de entregas pendientes de Sim Lab y Tinkercad Codeblocks.
-- Indicaciones para la semana de Evaluaciones de Áreas Especiales (11 de enero).
-```
-
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM
