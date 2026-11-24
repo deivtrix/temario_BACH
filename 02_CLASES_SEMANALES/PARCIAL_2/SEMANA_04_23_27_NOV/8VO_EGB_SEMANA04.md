@@ -4,6 +4,11 @@
 > # 📘 CLASE SIN ENTREGA
 
 **Tema:** De la Calle al Cargador: Electricidad en Casa, Transformadores (AC $\rightarrow$ DC) e Infografía (10+10)  
+**Subtemas puntuales (4):**
+1. Movimiento de electrones a nivel micro (DC un sentido vs. AC van y vienen).
+2. Cómo llega la electricidad a casa y función del transformador de la calle (poste).
+3. Cómo funciona por dentro el cargador / "chanchito" (reductor + rectificador AC $\rightarrow$ DC).
+4. Clasificación real de artefactos DC y AC (10+10).
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo + Práctica Visual (45 min)  
 **Entregable:** Infografía en aula (10 artefactos DC + 10 artefactos AC). *(Ind. 1 y 2 ya completas en Classroom).*
@@ -42,7 +47,11 @@ Crea una presentación estilo cómic educativo en español para estudiantes de 8
 
 Reglas obligatorias:
 1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + qué haremos hoy + "¿Para qué me sirve en la vida real?".
-2. Formato híbrido: combina narrativa visual (cómic/versus) con láminas explicativas limpias (diagramas con flechas del recorrido: Central -> Transformador de poste -> Casa 110V AC -> Cargador/Reductor por dentro -> 5V DC; cero muros de texto).
+2. Formato híbrido: combina narrativa visual (cómic/versus) con láminas explicativas limpias en estos **4 pasos exactos**:
+   - Paso 1 (Micro): Cómo se mueven los electrones en DC (un solo sentido) vs. AC (yendo y viniendo).
+   - Paso 2 (Calle a Casa): Central -> transformador del poste de la calle -> tomacorriente de casa (110V AC).
+   - Paso 3 (Por dentro del cargador/"chanchito"): Reductor de voltaje (110V a 5V) + rectificador (AC a DC).
+   - Paso 4 (Aplicación): Ejemplos cotidianos de artefactos DC vs. AC.
 3. Candado de alcance: usa ÚNICAMENTE los conceptos de esta clase (AC vs DC, transformador de la calle, reductor/cargador por dentro y artefactos cotidianos); PROHIBIDO introducir fórmulas complejas de inductancia, ondas senoidales avanzadas o electrónica de Arduino.
 4. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados ("sube a Classroom"), "Continuará..." o adelantos del próximo capítulo.
 ```
