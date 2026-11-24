@@ -94,7 +94,8 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 * **Estado actual del proyecto:**
   * **6 temarios maestros (`8vo EGB` a `3ro BGU`)** cerrados con Títulos Generales, Propósitos Generales y nombres de parciales estilo UK sin marcas.
   * **Malla Curricular conectada:** `01_TEMARIOS_POR_CURSO/MAPA_DE_RUTA_CURRICULAR.md` y `malla_curricular_robotica.html` (escalera completa `8vo -> 3ro BGU`).
-  * **Panel de control:** `00_PANEL_CONTROL.md` alineado en agenda P2.
+  * **Panel de control y Diario:** `00_PANEL_CONTROL.md`, `CONTROL_CALENDARIO_PARALELOS.md`, `DIARIO_CLASES.md` y `03_SISTEMA_Y_PLANTILLAS/diario_data.json` alineados en P2 (21 paralelos, control de notas `2 Ind + 1 Grupal + 1 Refuerzo`).
+  * **Regla de Kits Físicos Arduino (10mo vs. 1ro BGU):** Primero se prueba en virtual (Tinkercad) y a la semana siguiente en físico. **Nunca** cruzar taller grupal físico de 10mo y 1ro en la misma semana (`10mo` en S6, `1ro BGU` en S7).
   * **NotebookLM por parcial (Formato Híbrido Ganador):** **8vo EGB (`P1–P4`)**, **9no EGB (`P2–P4`)** y **10mo EGB a 3ro BGU (`P2`)** ya están 100% homologados con Video de Repaso (sin personajes) + capítulos autoconclusivos híbridos (*Cómic de Historia/Versus + Láminas Explicativas Profundas*); **10mo–3ro BGU (`P3–P4`)** listos para generarse bajo este mismo molde cuando se indique.
 * **Enseñar materiales + paso a paso + verificación de calidad** en todo **Taller Físico**, incluyendo pruebas concretas de éxito.
 * **Enfoque en Proyecto/Artefacto Real (Cero temas abstractos sueltos):** Cada clase debe girar en torno a un producto reconocible (*Semáforo, Luces de Patrulla, Luz Nocturna Automática, Interruptor con 1 Clic, Sensor de Retro*, etc.).
