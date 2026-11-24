@@ -5,10 +5,10 @@
 
 **Tema:** De la Calle al Cargador: Electricidad en Casa, Transformadores (AC $\rightarrow$ DC) e Infografía (10+10)  
 **Subtemas puntuales (4):**
-1. Movimiento de electrones a nivel micro (DC un sentido vs. AC van y vienen).
-2. Cómo llega la electricidad a casa y función del transformador de la calle (poste).
-3. Cómo funciona por dentro el cargador / "chanchito" (reductor + rectificador AC $\rightarrow$ DC).
-4. Clasificación real de artefactos DC y AC (10+10).
+1. Qué es Corriente Directa (DC) y movimiento de sus electrones (un solo sentido).
+2. Qué es Corriente Alterna (AC) y movimiento de sus electrones (van y vienen).
+3. Cómo llega la electricidad a casa y función del transformador de la calle (poste).
+4. Cómo funciona por dentro el cargador / "chanchito" (reductor + rectificador AC $\rightarrow$ DC).
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo + Práctica Visual (45 min)  
 **Entregable:** Infografía en aula (10 artefactos DC + 10 artefactos AC). *(Ind. 1 y 2 ya completas en Classroom).*
