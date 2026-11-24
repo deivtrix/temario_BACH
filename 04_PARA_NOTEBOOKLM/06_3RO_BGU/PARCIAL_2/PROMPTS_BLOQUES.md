@@ -9,9 +9,9 @@
 ```text
 Crea una presentación educativa de MÁXIMO 10 a 12 diapositivas en español para estudiantes de 17-18 años basada únicamente en los CAPÍTULOS 1, 2 y 3 de FUENTE_3RO_BGU_PARCIAL2_COMPLETO.md.
 
-ESTILO VISUAL (CÓMIC + AGENTE PEDAGÓGICO 80/20):
+ESTILO VISUAL (CÓMIC + AGENTE PEDAGÓGICO):
 - Diapositiva 1 (Portada/Gancho) y última diapositiva (Cierre): escena completa de cómic de las Tortugas Ninja.
-- En todas las láminas de teoría técnica: página de cómic limpia donde el 80% es el diagrama/tabla/código grande sobre fondo claro y el 20% es un personaje guía de las Tortugas Ninja pequeño en una esquina señalando el punto clave o dando 1 consejo corto (PROHIBIDO globos gigantes o tramas tapando diagramas).
+- En todas las láminas de teoría técnica: página de cómic limpia donde el diagrama/tabla/código ocupa casi toda la lámina sobre fondo claro y un personaje guía de las Tortugas Ninja va pequeño en una esquina señalando el punto clave o dando 1 consejo corto (PROHIBIDO dibujar porcentajes en la imagen, globos gigantes o tramas tapando diagramas).
 
 PORTADA (DIAPOSITIVA 1 — TODO JUNTO):
 - Título exacto: "TOMO 2: Microcontroladores y Periféricos Digitales — SECCIÓN 1" (PROHIBIDO escribir "Tema:", fechas, nombre de profesor o el nombre del curso).
@@ -37,9 +37,9 @@ CANDADOS OBLIGATORIOS:
 ```text
 Crea una presentación educativa de MÁXIMO 10 a 12 diapositivas en español para estudiantes de 17-18 años basada únicamente en los CAPÍTULOS 4, 5 y 6 de FUENTE_3RO_BGU_PARCIAL2_COMPLETO.md.
 
-ESTILO VISUAL (CÓMIC + AGENTE PEDAGÓGICO 80/20):
+ESTILO VISUAL (CÓMIC + AGENTE PEDAGÓGICO):
 - Diapositiva 1 (Portada/Gancho) y última diapositiva (Cierre): escena completa de cómic de las Tortugas Ninja.
-- En todas las láminas de teoría técnica: página de cómic limpia donde el 80% es el diagrama/tabla/código grande sobre fondo claro y el 20% es un personaje guía de las Tortugas Ninja pequeño en una esquina señalando el punto clave o dando 1 consejo corto (PROHIBIDO globos gigantes o tramas tapando diagramas).
+- En todas las láminas de teoría técnica: página de cómic limpia donde el diagrama/tabla/código ocupa casi toda la lámina sobre fondo claro y un personaje guía de las Tortugas Ninja va pequeño en una esquina señalando el punto clave o dando 1 consejo corto (PROHIBIDO dibujar porcentajes en la imagen, globos gigantes o tramas tapando diagramas).
 
 PORTADA (DIAPOSITIVA 1 — TODO JUNTO):
 - Título exacto: "TOMO 2: Microcontroladores y Periféricos Digitales — SECCIÓN 2" (PROHIBIDO escribir "Tema:", fechas, nombre de profesor o el nombre del curso).
