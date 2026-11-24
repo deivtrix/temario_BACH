@@ -42,7 +42,7 @@
 
 ### 🚀 Semana 4 (23 – 27 nov) — *EN CURSO*
 * **8vo:** AC vs. DC + Infografía 10 imágenes DC / 10 AC *(Decididos ✅ Mar 24)*.
-* **9no:** Inkscape `.PNG` $\rightarrow$ `.SVG` + Tinkercad 3D *(**Individual 2:** Formulario corto / captura 3D)*.
+* **9no:** Vectores `.SVG` (`svgrepo.com`) $\rightarrow$ Tinkercad 3D *(**Individual 2:** Formulario corto / captura 3D)*.
 * **10mo:** Primer programa Arduino (*Blink*) en Tinkercad *(Práctica sin entrega — Ind. 1 y 2 ya completas)*.
 * **1ro BGU:** Atenuador de brillo LED (`map()` + PWM `analogWrite`) *(Práctica sin entrega — Ind. 1 y 2 ya completas)*.
 * **2do BGU:** Intro a Tinkercad Codeblocks: **Silla 3D (`AI4` en Classroom — Lun 23 ✅)** *(Ind. 1 lista; `AG2` Grupal ya completo)*.

@@ -2,10 +2,10 @@
 
 > [!IMPORTANT]
 > # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
-**Tema:** Vectorización 2D (Inkscape `.PNG` $\rightarrow$ `.SVG`) a Tinkercad 3D *(Individual 2)*
+**Tema:** Búsqueda e Importación de Vectores `.SVG` (`svgrepo.com`) a Tinkercad 3D *(Individual 2)*
 **Subtemas puntuales (4):**
 1. Diferencia entre imagen de píxeles (`.PNG`/`.JPG`) y vector (`.SVG`).
-2. Vectorización rápida en Inkscape (`Trazo -> Vectorizar mapa de bits`).
+2. Búsqueda y descarga de vectores `.SVG` limpios en `svgrepo.com`.
 3. Importación del `.SVG` a Tinkercad 3D y extrusión (altura Z / escala).
 4. Ajuste de escala, grosor y preparación del modelo 3D para fabricación.
 **Mediador:** David Castro  
@@ -59,8 +59,8 @@ Calificación: 10 puntos (Práctica de clase).
 ## ❓ PREGUNTAS DE CIERRE (CON RESPUESTA ESPERADA)
 1. **¿Por qué Tinkercad 3D no acepta directamente una imagen `.PNG` o `.JPG`?**
    * *Respuesta esperada:* Porque `.PNG`/`.JPG` son mapas de bits (píxeles) y Tinkercad necesita trazos vectoriales (`.SVG`) para poder extruirlos en 3D.
-2. **¿Qué herramienta usamos en Inkscape para convertir una imagen `.PNG` a vector `.SVG`?**
-   * *Respuesta esperada:* *Vectorizar mapa de bits* (`Trazo -> Vectorizar mapa de bits`).
+2. **¿De qué plataforma descargamos archivos `.SVG` listos para importar a Tinkercad?**
+   * *Respuesta esperada:* De `svgrepo.com` (repositorio gratuito de vectores `.SVG`).
 3. **¿Qué parámetro ajustamos en Tinkercad después de importar el `.SVG` para darle volumen?**
    * *Respuesta esperada:* La altura (eje Z) y la escala/dimensiones del objeto.
 
