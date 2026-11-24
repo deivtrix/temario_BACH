@@ -8,9 +8,9 @@ Usa esta plantilla alineada con [REGLAS_Y_MEMORIA_DOCENTE.md](REGLAS_Y_MEMORIA_D
 
 La **Diapositiva 1** debe incluir obligatoriamente estos 4 elementos juntos (prohibido poner la palabra `"TEMA:"` o mandar el Propósito a la diapositiva 2):
 1. **Etiqueta** *(solo si es evaluada/refuerzo)*: `👤 ACTIVIDAD INDIVIDUAL`, `👥 ACTIVIDAD GRUPAL` o `🛠️ REFUERZO`.
-2. **Tomo y Título exacto:** `TOMO [X]: [NOMBRE_OFICIAL_PARCIAL] — [TÍTULO_DEL_EPISODIO]` (sin nombre del mediador ni fechas).
-3. **Propósito LEV:** `[Verbo infinitivo LEV]` + qué haremos hoy.
-4. **¿Para qué me sirve en la vida real?:** 1 frase directa conectada con la vida cotidiana o industria.
+2. **Tomo y Título exacto:** `TOMO [X]: [NOMBRE_OFICIAL_PARCIAL] — [TÍTULO_DEL_EPISODIO]` (sin nombre del mediador, sin fechas y **sin nombrar el curso** como `"9no EGB"` en la portada).
+3. **Propósito:** `[Verbo infinitivo]` + qué haremos hoy *(sin escribir "LEV")*.
+4. **Conexión real (título amigable):** `¿Dónde lo usas?` o `En tu vida real:` + 1 frase directa.
 
 ---
 
@@ -20,7 +20,7 @@ La **Diapositiva 1** debe incluir obligatoriamente estos 4 elementos juntos (pro
 Crea una presentación estilo cómic educativo de [UNIVERSO_DEL_CURSO] en español para estudiantes de [CURSO] ([EDAD] años) basada en el EPISODIO #[N] de FUENTE_[CURSO]_PARCIAL[X]_COMPLETO.md.
 
 REGLA ESTRICTA DE PORTADA (DIAPOSITIVA 1):
-- En la PRIMERA diapositiva pon TODO junto: [ETIQUETA_SI_APLICA], el título exacto "TOMO [X]: [TÍTULO_DEL_EPISODIO]" (PROHIBIDO escribir la palabra "Tema:"), el Propósito (con verbo en infinitivo LEV) y "¿Para qué me sirve en la vida real?" en 1 frase. PROHIBIDO mandar el Propósito a una diapositiva aparte.
+- En la PRIMERA diapositiva pon TODO junto: [ETIQUETA_SI_APLICA], el título exacto "TOMO [X]: [TÍTULO_DEL_EPISODIO]" (PROHIBIDO escribir la palabra "Tema:" y PROHIBIDO nombrar el curso), "Propósito:" (con verbo en infinitivo, sin decir "LEV") y "En tu vida real:" (o "¿Dónde lo usas?") en 1 frase bonita y directa. PROHIBIDO mandar el Propósito a una diapositiva aparte.
 
 PROFUNDIDAD Y CONTENIDO (4 SUBTEMAS EN ORDEN):
 - Desarrolla estos 4 subtemas con PROFUNDIDAD TÉCNICA REAL (prohibido definiciones superficiales de 1 línea):
