@@ -8,10 +8,13 @@
 
 ```text
 temario_BACH/
-├── 01_TEMARIOS_POR_CURSO/       -> Única fuente de verdad anual (8vo a 3ro BGU) [CERRADO]
-├── 02_CLASES_SEMANALES/         -> Guiones de 45 min por parcial y semana
-├── 03_SISTEMA_Y_PLANTILLAS/     -> Memoria docente, taxonomía LEV y plantillas
-└── 04_PARA_NOTEBOOKLM/          -> Fuentes únicas, prompts y búsquedas para NotebookLM
+├── 00_PANEL_CONTROL.md            -> Panel maestro y agenda semanal
+├── DIARIO_CLASES.md               -> Bitácora diaria, decisiones y control de notas
+├── CONTROL_CALENDARIO_PARALELOS.md-> Horario fijo (21 paralelos) y avance por paralelo
+├── 01_TEMARIOS_POR_CURSO/         -> Única fuente de verdad anual (8vo a 3ro BGU) [CERRADO]
+├── 02_CLASES_SEMANALES/           -> Guiones de 45 min por parcial y semana
+├── 03_SISTEMA_Y_PLANTILLAS/       -> Memoria docente, plantillas y diario_data.json
+└── 04_PARA_NOTEBOOKLM/            -> Fuentes únicas, prompts y búsquedas para NotebookLM
 ```
 
 ---
