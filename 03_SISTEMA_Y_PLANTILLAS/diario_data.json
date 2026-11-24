@@ -78,7 +78,8 @@
         "10mo_persistentes": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
         "1ro_leales": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
         "3ro_vanguardistas": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
-        "1ro_integros": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"}
+        "1ro_integros": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
+        "10mo_perspicaces": {"estado": "perdida", "motivo": "Sin clase mar 24 nov", "nota": "Requiere Plan de Alcance"}
       }
     },
     "5": {

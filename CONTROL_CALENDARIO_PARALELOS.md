@@ -39,56 +39,57 @@
 
 ---
 
-## 📊 2. ESTADO DE AVANCE — PARCIAL 2 (Corte: 18 de noviembre de 2026)
+## 📊 2. ESTADO DE AVANCE — PARCIAL 2 (Corte: Martes 24 de noviembre de 2026)
 
-> **Nota de la semana actual (16–20 nov):** El **viernes 20 es feriado**, por lo que los 4 paralelos del viernes pierden su sesión de Semana 3 y activan **Plan de Alcance** en la semana del 23–27 nov.
+> **Estado general:** Todos los grados nivelados en Semana 3. Novedades activas: **10MO Perspicaces** pierde clase hoy martes 24 nov (`🟡 -1 clase`), y **9NO Auténticos** debe 1 Formulario de S3 (`🟡 Pendiente`). Para el detalle diario y control de notas ver [[DIARIO_CLASES|📔 Diario de Clases]].
 
 ### 📘 8VO EGB (4 paralelos)
-| Paralelo | Día | Clase Actual (S3) | Próxima Clase (S4: 23–27 nov) | Estado |
+| Paralelo | Día | S3 | S4 (23–27 nov) | Estado |
 | :--- | :--- | :--- | :--- | :---: |
-| **Decididos** | Mar | S3 ejecutada | S4: Corriente DC vs. AC y Polaridad (PhET) | 🟢 Al día |
-| **Diligentes** | Mié | S3 ejecutada | S4: Corriente DC vs. AC y Polaridad (PhET) | 🟢 Al día |
-| **Dinámicos** | Mié | S3 ejecutada | S4: Corriente DC vs. AC y Polaridad (PhET) | 🟢 Al día |
-| **Disciplinados** | Jue | S3 *(jueves 19)* | S4: Corriente DC vs. AC y Polaridad (PhET) | 🟢 Al día |
+| **Decididos** | Mar | ✅ | En curso hoy: Corriente AC vs. DC (PhET) | 🟢 Al día |
+| **Diligentes** | Mié | ✅ | Corriente AC vs. DC (PhET) | 🟢 Al día |
+| **Dinámicos** | Mié | ✅ | Corriente AC vs. DC (PhET) | 🟢 Al día |
+| **Disciplinados** | Jue | ✅ | Corriente AC vs. DC (PhET) | 🟢 Al día |
 
 ### 📗 9NO EGB (4 paralelos)
-| Paralelo | Día | Clase Actual (S3) | Próxima Clase (S4: 23–27 nov) | Estado |
+| Paralelo | Día | S3 | S4 (23–27 nov) | Estado |
 | :--- | :--- | :--- | :--- | :---: |
-| **Altruistas** | Jue | S3 *(jueves 19)* | S4: Vectorización Inkscape `.PNG -> .SVG` + Tinkercad 3D | 🟢 Al día |
-| **Auténticos** | Jue | S3 *(jueves 19)* | S4: Vectorización Inkscape `.PNG -> .SVG` + Tinkercad 3D | 🟢 Al día |
-| **Asertivos** | Jue | S3 *(jueves 19)* | S4: Vectorización Inkscape `.PNG -> .SVG` + Tinkercad 3D | 🟢 Al día |
-| **Audaces** | Vie | ❌ *Feriado Vie 20* | **ALCANCE:** Case Parte 2 rápido + Formulario en Classroom (y demo `.SVG` o fusión en S5) | 🟡 -1 clase |
+| **Altruistas** | Jue | ✅ | Inkscape `.PNG -> .SVG` + Tinkercad 3D *(Ind. 2)* | 🟢 Al día |
+| **Auténticos** | Jue | ✅ *(⚠️ Debe Form)* | Inkscape `.PNG -> .SVG` + Tinkercad 3D *(+ recoger Form S3)* | 🟡 Debe Form |
+| **Asertivos** | Jue | ✅ | Inkscape `.PNG -> .SVG` + Tinkercad 3D *(Ind. 2)* | 🟢 Al día |
+| **Audaces** | Vie | ✅ *(Nivelado)* | Inkscape `.PNG -> .SVG` + Tinkercad 3D *(Ind. 2)* | 🟢 Al día |
 
 ### 📘 10MO EGB (4 paralelos)
-| Paralelo | Día | Clase Actual (S3) | Próxima Clase (S4: 23–27 nov) | Estado |
+| Paralelo | Día | S3 | S4 (23–27 nov) | Estado |
 | :--- | :--- | :--- | :--- | :---: |
-| **Persistentes** | Lun | S3 ejecutada | S4: Primer Programa en Arduino (*Blink*) en Tinkercad | 🟢 Al día |
-| **Perspicaces** | Mar | S3 ejecutada | S4: Primer Programa en Arduino (*Blink*) en Tinkercad | 🟢 Al día |
-| **Pacifistas** | Mié | S3 ejecutada | S4: Primer Programa en Arduino (*Blink*) en Tinkercad | 🟢 Al día |
-| **Positivos** | Jue | S3 *(jueves 19)* | S4: Primer Programa en Arduino (*Blink*) en Tinkercad | 🟢 Al día |
+| **Persistentes** | Lun | ✅ | ✅ Ejecutado lun 23: Primer Programa Arduino (*Blink*) | 🟢 Al día |
+| **Perspicaces** | Mar | ✅ | ❌ Sin clase hoy mar 24 *(Nivelar Blink en S5 antes de Semáforo)* | 🟡 -1 clase |
+| **Pacifistas** | Mié | ✅ | Primer Programa Arduino (*Blink*) en Tinkercad | 🟢 Al día |
+| **Positivos** | Jue | ✅ | Primer Programa Arduino (*Blink*) en Tinkercad | 🟢 Al día |
 
 ### 🔴 1RO BGU (3 paralelos)
-| Paralelo | Día | Clase Actual (S3) | Próxima Clase (S4: 23–27 nov) | Estado |
+| Paralelo | Día | S3 | S4 (23–27 nov) | Estado |
 | :--- | :--- | :--- | :--- | :---: |
-| **Leales** | Lun | S3 ejecutada | S4: Atenuador de Brillo LED (`map()` + PWM) | 🟢 Al día |
-| **Íntegros** | Lun | S3 ejecutada | S4: Atenuador de Brillo LED (`map()` + PWM) | 🟢 Al día |
-| **Confiables** | Vie | ❌ *Feriado Vie 20* | **ALCANCE:** Informe/Cuestionario a Classroom $\rightarrow$ en aula directo Atenuador PWM | 🟡 -1 clase |
+| **Leales** | Lun | ✅ | ✅ Ejecutado lun 23: Atenuador de Brillo LED (`map()` + PWM) | 🟢 Al día |
+| **Íntegros** | Lun | ✅ | ✅ Ejecutado lun 23: Atenuador de Brillo LED (`map()` + PWM) | 🟢 Al día |
+| **Confiables** | Vie | ✅ *(Nivelado)* | Atenuador de Brillo LED (`map()` + PWM) | 🟢 Al día |
 
 ### 🟣 2DO BGU (3 paralelos)
-| Paralelo | Día | Clase Actual (S3) | Próxima Clase (S4: 23–27 nov) | Estado |
+| Paralelo | Día | S3 | S4 (23–27 nov) | Estado |
 | :--- | :--- | :--- | :--- | :---: |
-| **Proactivos** | Lun | S3 ejecutada | S4: Introducción a Tinkercad Codeblocks | 🟢 Al día |
-| **Justos** | Mar | S3 ejecutada | S4: Introducción a Tinkercad Codeblocks | 🟢 Al día |
-| **Honestos** | Jue | S3 *(jueves 19)* | S4: Introducción a Tinkercad Codeblocks | 🟢 Al día |
+| **Proactivos** | Lun | ✅ | ✅ Ejecutado lun 23: Silla 3D en Codeblocks (`AI4`) | 🟢 Al día |
+| **Justos** | Mar | ✅ | Hoy mar 24: Silla 3D en Codeblocks (`AI4`) | 🟢 Al día |
+| **Honestos** | Jue | ✅ | Silla 3D en Codeblocks (`AI4`) | 🟢 Al día |
 
 ### 🟠 3RO BGU (3 paralelos — *Avance progresivo independiente*)
-| Paralelo | Día | Clase Actual (S3) | Próxima Clase (S4: 23–27 nov) | Estado |
+| Paralelo | Día | S3 | S4 (23–27 nov) | Estado |
 | :--- | :--- | :--- | :--- | :---: |
-| **Vanguardistas** | Lun | S3 ejecutada | S4: Semáforo en Wokwi *(Individual 1)* | 🟢 Al día |
-| **Solidarios** | Vie | ❌ *Feriado Vie 20* | S3 (Formulario mejora + Repaso ESP32) o directo S4 si se manda formulario a casa | 🔵 Progresivo |
-| **Empáticos** | Vie | ❌ *Feriado Vie 20* | S3 (Formulario mejora + Repaso ESP32) o directo S4 si se manda formulario a casa | 🔵 Progresivo |
+| **Vanguardistas** | Lun | ✅ | ✅ Ejecutado lun 23: Semáforo en Wokwi | 🟢 Al día |
+| **Solidarios** | Vie | ✅ *(Nivelado)* | Semáforo en Wokwi | 🟢 Al día |
+| **Empáticos** | Vie | ✅ *(Nivelado)* | Semáforo en Wokwi | 🟢 Al día |
 
 ---
 
 ## 📝 3. BITÁCORA DE INCIDENCIAS Y ALCANCES
-* **20 nov 2026 (Viernes):** Feriado. Sin clase: `1RO Confiables`, `3RO Solidarios`, `9NO Audaces`, `3RO Empáticos`. Activado plan de alcance para la semana del 23–27 nov.
+* **20 nov 2026 (Viernes):** Feriado. Paralelos del viernes nivelados al corte del 23 nov.
+* **24 nov 2026 (Martes):** Sin clase con `10MO Perspicaces` (nivelar *Blink* al inicio de Semana 5). `9NO Auténticos` debe Formulario de S3.
