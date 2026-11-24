@@ -12,7 +12,7 @@
 **Entregable:** Captura exprés en Classroom del **rótulo 3D terminado** (base + `.SVG` + nombre abajo) o Formulario corto.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Convertir** un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad.
+* **Propósito:** **Modelar** un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad.
 * **¿Cómo sé que lo logré?** Tu rótulo 3D combina una base limpia, un ícono .SVG importado sin bordes rotos y tu nombre extruido.
 * **¿Para qué me sirve en la vida?** Para fabricar llaveros, sellos, placas personalizadas y conocer cómo una foto común se transforma en relieve 3D (litofanías).
 
@@ -20,7 +20,7 @@
 ### 1. Inicio y Propósito (00 – 05 min)
 * **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"Chicos, en Tinkercad solo tenemos cubos y cilindros, pero ¿cómo hacen las empresas para imprimir en 3D el escudo de un equipo o el logo de Nike? Hoy vamos a pasar una imagen de Google directo a 3D."*
-* **Propósito en pantalla:** *"Convertir un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad."*
+* **Propósito en pantalla:** *"Modelar un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **Concepto (3 min):** Diferencia entre **Imagen Pixelada (`.PNG`/`.JPG`)** y **Vector (`.SVG`)** (el `.SVG` guarda líneas matemáticas que Tinkercad sí puede extruir).
@@ -46,7 +46,7 @@
 ```text
 TÍTULO: Práctica 3D: De Imagen 2D a Vector .SVG en Tinkercad
 
-PROPÓSITO: Convertir un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad.
+PROPÓSITO: Modelar un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad.
 
 INSTRUCCIONES:
 1. Elige un logo o ícono simple en blanco y negro.

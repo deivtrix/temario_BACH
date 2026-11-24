@@ -9,7 +9,7 @@
 **Entregable:** Captura en Wokwi con distancia en Monitor Serial y alerta LED/Buzzer en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Medir** distancias en centímetros con el sensor ultrasonido y el ESP32 para activar una alarma de choque.
+* **Propósito:** **Comprobar** distancias en centímetros con el sensor ultrasonido y el ESP32 para activar una alarma de choque.
 * **¿Cómo sé que lo logré?** El Monitor Serial muestra la distancia real en cm y activa el LED/buzzer cuando un objeto se acerca al umbral.
 * **¿Para qué me sirve en la vida?** Es el principio de los sensores de parqueo de autos, robots que esquivan obstáculos y medidores de nivel en tanques.
 
@@ -17,7 +17,7 @@
 ### 1. Inicio y Propósito (00 – 05 min)
 * **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"¿Cómo sabe un carro moderno o un robot que está a 20 cm de chocar sin tocar la pared? Usa ondas de sonido que rebotan, igual que los murciélagos."*
-* **Propósito en pantalla:** *"Medir distancias en centímetros con el sensor ultrasonido y el ESP32 para activar una alarma de choque."*
+* **Propósito en pantalla:** *"Comprobar distancias en centímetros con el sensor ultrasonido y el ESP32 para activar una alarma de choque."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **Predicción PRIMM (30 seg antes de simular):** Preguntar qué hará el ejemplo o qué cambia si modifican un parámetro antes de correrlo.

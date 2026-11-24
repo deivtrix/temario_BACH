@@ -9,7 +9,7 @@
 **Entregable:** Verificación de entregas en Wokwi previas a evaluación quimestral.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Revisar** nuestras simulaciones del ESP32 en Wokwi y nivelar entregas antes de la evaluación.
+* **Propósito:** **Verificar** nuestras simulaciones del ESP32 en Wokwi y nivelar entregas antes de la evaluación.
 * **¿Cómo sé que lo logré?** Tus 4 simulaciones ESP32 en Wokwi funcionan sin errores y completas tu Autoevaluación Likert (1–5).
 * **¿Para qué me sirve en la vida?** Para afianzar la lectura de sensores y periféricos en ESP32 antes de conectar proyectos a Internet e Inteligencia Artificial.
 
@@ -17,7 +17,7 @@
 ### 1. Inicio y Propósito (00 – 05 min)
 * **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"Hoy cerramos el primer quimestre con ESP32. Revisamos quién tiene pendiente alguna simulación en Wokwi y hacemos un repaso rápido antes de las evaluaciones de la próxima semana."*
-* **Propósito en pantalla:** *"Revisar nuestras simulaciones del ESP32 en Wokwi y nivelar entregas antes de la evaluación."*
+* **Propósito en pantalla:** *"Verificar nuestras simulaciones del ESP32 en Wokwi y nivelar entregas antes de la evaluación."*
 
 ### 2. Nivelación y Repaso en Wokwi (05 – 35 min)
 * Estudiantes con prácticas pendientes (Semáforo, PWM/Buzzer, HC-SR04 o Teclado 4x4) completan y suben sus capturas en Classroom.

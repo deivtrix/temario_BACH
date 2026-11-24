@@ -12,7 +12,7 @@
 **Entregable:** Captura exprés del modelo 3D generado por código + bloques visibles en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Crear** figuras 3D en Tinkercad usando bloques de código en lugar de moverlas con el mouse.
+* **Propósito:** **Diseñar** figuras 3D en Tinkercad usando bloques de código en lugar de moverlas con el mouse.
 * **¿Cómo sé que lo logré?** Tu script en Codeblocks genera una silla 3D completa con patas, asiento y respaldo bien alineados.
 * **¿Para qué me sirve en la vida?** Así funciona el diseño paramétrico en ingeniería y arquitectura: cambias un número y toda la pieza se ajusta automáticamente.
 
@@ -20,7 +20,7 @@
 ### 1. Inicio y Propósito (00 – 05 min)
 * **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"Ya dominaron Tinkercad moviendo piezas con el mouse. Pero, ¿qué pasa si tienen que hacer 50 columnas a la misma distancia exacta? Hoy vamos a programar el 3D con código por bloques."*
-* **Propósito en pantalla:** *"Crear figuras 3D en Tinkercad usando bloques de código en lugar de moverlas con el mouse."*
+* **Propósito en pantalla:** *"Diseñar figuras 3D en Tinkercad usando bloques de código en lugar de moverlas con el mouse."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **Predicción PRIMM (30 seg antes de simular):** Preguntar qué hará el ejemplo o qué cambia si modifican un parámetro antes de correrlo.

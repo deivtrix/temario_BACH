@@ -11,7 +11,7 @@
 ---
 
 ## 🎯 PROPÓSITO LEV Y SENTIDO PRÁCTICO
-* **Propósito:** **Explicar** cómo la perilla del potenciómetro enciende 4 LEDs por turnos, igual que un medidor de batería.
+* **Propósito:** **Describir** cómo la perilla del potenciómetro enciende 4 LEDs por turnos, igual que un medidor de batería.
 * **¿Para qué me sirve en la vida?** Es la misma idea que usan los indicadores de batería, gasolina o volumen por luces.
 
 ---
@@ -41,7 +41,7 @@
 ```text
 TÍTULO: Actividad Individual 1: Informe Potenciómetro 4 LEDs + Cuestionario
 
-PROPÓSITO: Explicar cómo la perilla del potenciómetro enciende 4 LEDs por turnos, igual que un medidor de batería.
+PROPÓSITO: Describir cómo la perilla del potenciómetro enciende 4 LEDs por turnos, igual que un medidor de batería.
 
 PARTE 1 — INFORME CORTO (En Google Docs):
 1. Captura de pantalla de tu circuito en Tinkercad (o foto en físico) con una Nota Virtual / papel con tu NOMBRE y al menos 2 LEDs encendidos.

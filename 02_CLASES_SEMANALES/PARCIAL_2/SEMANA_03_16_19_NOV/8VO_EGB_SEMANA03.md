@@ -9,13 +9,13 @@
 **Entregable:** Visto bueno en vivo en PhET DC (sin nota adicional).
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Comprender** cómo fluye la Corriente Directa o Continua (DC) y la importancia de respetar su polaridad (`+` y `-`) en baterías y circuitos.
+* **Propósito:** **Interpretar** cómo fluye la Corriente Directa o Continua (DC) y la importancia de respetar su polaridad (`+` y `-`) en baterías y circuitos.
 * **¿Para qué me sirve en la vida?** Para colocar correctamente las pilas en controles o juguetes, entender cómo cargan los puertos USB y no quemar componentes electrónicos al conectarlos al revés.
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **¿Qué decirles?** *"¿Por qué las pilas traen un signo `+` y un `-` dibujados? ¿Qué pasa si pones una pila al revés en un control o en un carrito? Hoy lo vamos a ver en vivo en PhET."*
-* **Propósito en pantalla:** *"Comprender cómo fluye la Corriente Directa (DC) y la importancia de respetar su polaridad (`+` y `-`) en baterías y circuitos."*
+* **Propósito en pantalla:** *"Interpretar cómo fluye la Corriente Directa (DC) y la importancia de respetar su polaridad (`+` y `-`) en baterías y circuitos."*
 
 ### 2. Teoría Puntual (05 – 15 min)
 * **¿Qué es DC?** Los electrones viajan siempre en **una sola dirección** (del polo `-` al `+`), manteniendo un voltaje constante.

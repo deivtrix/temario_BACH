@@ -11,7 +11,7 @@
 ---
 
 ## 🎯 PROPÓSITO LEV Y SENTIDO PRÁCTICO
-* **Propósito:** **Revisar** cómo funciona el ESP32 y recuperar notas con el formulario antes de pasar a sensores.
+* **Propósito:** **Verificar** cómo funciona el ESP32 y recuperar notas con el formulario antes de pasar a sensores.
 * **¿Para qué me sirve en la vida?** Para no quemar placas de $3.3\text{V}$ y tener claras las bases antes de programar proyectos IoT.
 
 ---

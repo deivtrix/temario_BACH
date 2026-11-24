@@ -9,7 +9,7 @@
 **Entregable:** Captura final del Carro 3D terminado con nombres del grupo en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Completar** nuestro carro 3D poniéndole ejes, 4 llantas alineadas y detalles finales en equipo.
+* **Propósito:** **Construir** nuestro carro 3D poniéndole ejes, 4 llantas alineadas y detalles finales en equipo.
 * **¿Cómo sé que lo logré?** Tu carro 3D tiene 4 llantas y ejes alineados con holgura real (0.3–0.5 mm) y está exportado en .STL.
 * **¿Para qué me sirve en la vida?** Para verificar que todas las piezas móviles (ruedas, ejes) encajen sin chocar con la carrocería antes de fabricar un modelo.
 
@@ -17,7 +17,7 @@
 ### 1. Inicio y Propósito (00 – 05 min)
 * **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"Hoy terminamos su carro 3D. Un carro sin ruedas alineadas no rueda: vamos a centrar ejes, colocar las 4 llantas y darle el toque final."*
-* **Propósito en pantalla:** *"Completar nuestro carro 3D poniéndole ejes, 4 llantas alineadas y detalles finales en equipo."*
+* **Propósito en pantalla:** *"Construir nuestro carro 3D poniéndole ejes, 4 llantas alineadas y detalles finales en equipo."*
 
 ### 2. Encuadre Técnico (05 – 10 min)
 * Recordar usar `L` (Alinear) para que las 4 ruedas queden a la misma altura (`Z = 0` tocando el plano de trabajo) y `Ctrl + D` para duplicar llantas idénticas.
@@ -39,7 +39,7 @@
 ```text
 TÍTULO: Proyecto Grupal 3D: Vehículo / Carro (Parte 2 — Entrega Final)
 
-PROPÓSITO: Completar nuestro carro 3D poniéndole ejes, 4 llantas alineadas y detalles finales en equipo.
+PROPÓSITO: Construir nuestro carro 3D poniéndole ejes, 4 llantas alineadas y detalles finales en equipo.
 
 INSTRUCCIONES (En grupos):
 1. Agreguen ejes, 4 ruedas alineadas al plano de trabajo, faros y detalles finales a su carro de la semana pasada.

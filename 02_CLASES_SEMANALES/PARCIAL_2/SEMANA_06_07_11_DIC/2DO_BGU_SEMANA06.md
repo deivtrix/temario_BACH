@@ -9,7 +9,7 @@
 **Entregable:** Captura en Classroom del engranaje/mecanismo + variables visibles.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Crear** un engranaje en Codeblocks que cambie su número de dientes modificando una sola variable.
+* **Propósito:** **Diseñar** un engranaje en Codeblocks que cambie su número de dientes modificando una sola variable.
 * **¿Cómo sé que lo logré?** Al cambiar una sola variable (ej. número de dientes), tu engranaje en Codeblocks se recalcula automáticamente.
 * **¿Para qué me sirve en la vida?** Así se diseñan piezas mecánicas profesionales (engranajes, poleas, hélices) que luego se imprimen en 3D o cortan en láser.
 
@@ -17,7 +17,7 @@
 ### 1. Inicio y Propósito (00 – 05 min)
 * **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"Hoy vamos a usar lo aprendido con bucles y variables para hacer una pieza mecánica real: un engranaje (o hélice) que si cambias una variable pase de 8 a 16 dientes automáticamente."*
-* **Propósito en pantalla:** *"Crear un engranaje en Codeblocks que cambie su número de dientes modificando una sola variable."*
+* **Propósito en pantalla:** *"Diseñar un engranaje en Codeblocks que cambie su número de dientes modificando una sola variable."*
 
 ### 2. Encuadre Técnico (05 – 12 min)
 * Mostrar la lógica matemática simple:

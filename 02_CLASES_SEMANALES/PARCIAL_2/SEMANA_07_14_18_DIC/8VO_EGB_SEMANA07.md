@@ -9,7 +9,7 @@
 **Entregable:** Nivelación de pendientes + Autoevaluación Likert (sin nota adicional).
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Repasar** conductores/aislantes, empalmes seguros, corriente DC/AC y protección contra cortocircuitos antes de la evaluación.
+* **Propósito:** **Resumir** conductores/aislantes, empalmes seguros, corriente DC/AC y protección contra cortocircuitos antes de la evaluación.
 * **¿Cómo sé que lo logré?** Respondes sin ayuda la trivia de repaso del parcial y completas tu Autoevaluación Likert (1–5).
 * **¿Para qué me sirve en la vida?** Para consolidar las reglas básicas de seguridad eléctrica y el uso seguro de dispositivos en casa y en el colegio.
 
@@ -17,7 +17,7 @@
 ### 1. Inicio y Propósito (00 – 05 min)
 * **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"Hoy cerramos el repaso de todo el Parcial 2, nivelamos cualquier actividad pendiente y hacemos nuestra autoevaluación."*
-* **Propósito en pantalla:** *"Repasar conductores/aislantes, empalmes seguros, corriente DC/AC y protección contra cortocircuitos antes de la evaluación."*
+* **Propósito en pantalla:** *"Resumir conductores/aislantes, empalmes seguros, corriente DC/AC y protección contra cortocircuitos antes de la evaluación."*
 
 ### 2. Trivia Relámpago de Repaso (05 – 15 min)
 1. Nombra 2 conductores y 2 aislantes de la vida real y explica por qué se comportan así.

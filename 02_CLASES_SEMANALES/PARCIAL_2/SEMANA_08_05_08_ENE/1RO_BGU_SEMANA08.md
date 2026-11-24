@@ -9,7 +9,7 @@
 **Entregable:** Revisión de notas, calibración final y Autoevaluación Likert (1–5).
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Integrar** lo visto de potenciómetro, brillo PWM y sensor de luz antes de pasar a nuevos sensores.
+* **Propósito:** **Implementar** lo visto de potenciómetro, brillo PWM y sensor de luz antes de pasar a nuevos sensores.
 * **¿Cómo sé que lo logré?** Mides el valor mínimo y máximo de luz en el Monitor Serial para fijar el umbral exacto y completas tu Likert.
 * **¿Para qué me sirve en la vida?** Para consolidar cómo leer cualquier sensor analógico del mundo real antes de trabajar con sensores más complejos.
 
@@ -17,7 +17,7 @@
 ### 1. Inicio y Propósito (00 – 05 min)
 * **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"Última clase antes de evaluaciones de Áreas Especiales. Hoy repasamos `analogRead`, `map` y PWM, y revisamos que nadie quede debiendo notas."*
-* **Propósito en pantalla:** *"Integrar lo visto de potenciómetro, brillo PWM y sensor de luz antes de pasar a nuevos sensores."*
+* **Propósito en pantalla:** *"Implementar lo visto de potenciómetro, brillo PWM y sensor de luz antes de pasar a nuevos sensores."*
 
 ### 2. Repaso / Mini-Reto en Tinkercad (05 – 25 min)
 * Quienes están al día combinan en Tinkercad **Potenciómetro + LED PWM** o **LDR + Buzzer** en un solo repaso guiado.

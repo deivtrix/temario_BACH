@@ -9,7 +9,7 @@
 **Entregable:** Captura grupal en Wokwi mostrando el Teclado 4x4 funcionando en Monitor Serial + LED/Buzzer.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Integrar** un teclado 4x4 al ESP32 en Wokwi para leer claves o tocar notas, como una cerradura digital.
+* **Propósito:** **Implementar** un teclado 4x4 al ESP32 en Wokwi para leer claves o tocar notas, como una cerradura digital.
 * **¿Cómo sé que lo logré?** Al presionar teclas en la matriz 4x4 en Wokwi, el ESP32 lee la tecla exacta y activa la nota o clave.
 * **¿Para qué me sirve en la vida?** Así funcionan los cajeros automáticos, cerraduras digitales de puertas, cajas fuertes y paneles de alarmas.
 
@@ -17,7 +17,7 @@
 ### 1. Inicio y Propósito (00 – 05 min)
 * **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"Si quisiéramos conectar 16 botones sueltos al ESP32, nos quedaríamos sin pines. Un teclado 4x4 usa solo 8 pines (4 filas y 4 columnas) para leer 16 teclas."*
-* **Propósito en pantalla:** *"Integrar un teclado 4x4 al ESP32 en Wokwi para leer claves o tocar notas, como una cerradura digital."*
+* **Propósito en pantalla:** *"Implementar un teclado 4x4 al ESP32 en Wokwi para leer claves o tocar notas, como una cerradura digital."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
 * **Predicción PRIMM (30 seg antes de simular):** Preguntar qué hará el ejemplo o qué cambia si modifican un parámetro antes de correrlo.
@@ -44,7 +44,7 @@
 ```text
 TÍTULO: Actividad Grupal ESP32 (Wokwi): Teclado Matricial 4x4
 
-PROPÓSITO: Integrar un teclado 4x4 al ESP32 en Wokwi para leer claves o tocar notas, como una cerradura digital.
+PROPÓSITO: Implementar un teclado 4x4 al ESP32 en Wokwi para leer claves o tocar notas, como una cerradura digital.
 
 INSTRUCCIONES (En grupos de 2):
 1. En wokwi.com (ESP32), agreguen el componente "Membrane Keypad 4x4" y la librería "Keypad" en Library Manager.

@@ -9,7 +9,7 @@
 **Entregable:** Revisión final de diseños Sim Lab / Codeblocks.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Evaluar** nuestros diseños finales de Sim Lab y Codeblocks para cerrar el módulo 3D antes de Arduino.
+* **Propósito:** **Verificar** nuestros diseños finales de Sim Lab y Codeblocks para cerrar el módulo 3D antes de Arduino.
 * **¿Cómo sé que lo logré?** Tienes todas tus piezas de Sim Lab y Codeblocks al día y completas tu Autoevaluación Likert (1–5).
 * **¿Para qué me sirve en la vida?** Para cerrar ordenadamente un proyecto de diseño antes de pasar a la etapa de electrónica y programación en C++.
 
@@ -17,7 +17,7 @@
 ### 1. Inicio y Propósito (00 – 05 min)
 * **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
 * **¿Qué decirles?** *"Hoy cerramos oficialmente el módulo 3D (Sim Lab y Codeblocks). Revisamos sus últimos trabajos y les muestro qué haremos desde febrero con Arduino y motores reales."*
-* **Propósito en pantalla:** *"Evaluar nuestros diseños finales de Sim Lab y Codeblocks para cerrar el módulo 3D antes de Arduino."*
+* **Propósito en pantalla:** *"Verificar nuestros diseños finales de Sim Lab y Codeblocks para cerrar el módulo 3D antes de Arduino."*
 
 ### 2. Nivelación y Muestra de Proyectos (05 – 35 min)
 * Quienes deban entregas de Sim Lab o Codeblocks las completan hoy; el resto mejora su engranaje/diseño y revisa su promedio.

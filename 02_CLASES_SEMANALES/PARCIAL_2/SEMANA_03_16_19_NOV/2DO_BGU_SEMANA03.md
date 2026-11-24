@@ -11,7 +11,7 @@
 ---
 
 ## 🎯 PROPÓSITO LEV Y SENTIDO PRÁCTICO
-* **Propósito:** **Crear** un mecanismo que se mueva en línea recta en Sim Lab, como una puerta automática.
+* **Propósito:** **Diseñar** un mecanismo que se mueva en línea recta en Sim Lab, como una puerta automática.
 * **¿Para qué me sirve en la vida?** Así funcionan las puertas corredizas de centros comerciales, impresoras 3D y elevadores.
 
 ---
@@ -44,7 +44,7 @@
 ```text
 TÍTULO: Actividad Grupal: Mecanismo con Motor Deslizante en Tinkercad Sim Lab
 
-PROPÓSITO: Crear un mecanismo que se mueva en línea recta en Sim Lab, como una puerta automática.
+PROPÓSITO: Diseñar un mecanismo que se mueva en línea recta en Sim Lab, como una puerta automática.
 
 INSTRUCCIONES (En grupos):
 1. Diseñen en Tinkercad Sim Lab un mecanismo funcional con motor deslizante (puerta corrediza, prensa o lanzador).

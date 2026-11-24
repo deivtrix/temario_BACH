@@ -15,7 +15,7 @@
 ---
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Observar** y **medir** la diferencia entre corriente directa (DC) y corriente alterna (AC) usando el Osciloscopio y Multímetro en Tinkercad Circuits.
+* **Propósito:** **Identificar** y **medir** la diferencia entre corriente directa (DC) y corriente alterna (AC) usando el Osciloscopio y Multímetro en Tinkercad Circuits.
 * **¿Cómo sé que lo logré?** Mides correctamente voltaje DC/AC en el multímetro y distingues la línea plana de la onda senoidal en el osciloscopio.
 * **¿Para qué me sirve en la vida?** Para comprobar con instrumentos reales qué tipo de corriente entrega una fuente o un circuito sin adivinar.
 

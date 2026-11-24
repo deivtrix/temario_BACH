@@ -15,7 +15,7 @@
 ---
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Comprender** cómo llega la electricidad a casa y cómo el transformador ("chanchito") reduce y convierte AC en DC segura, diferenciando artefactos reales.
+* **Propósito:** **Interpretar** cómo llega la electricidad a casa y cómo el transformador ("chanchito") reduce y convierte AC en DC segura, diferenciando artefactos reales.
 * **¿Cómo sé que lo logré?** Tu infografía clasifica 10 artefactos DC y 10 AC sin confundirlos y explicas qué hace el cargador por dentro.
 * **¿Para qué me sirve en la vida?** Para entender por qué existen los transformadores de los postes y los cargadores, y no quemar aparatos conectando voltaje equivocado.
 
