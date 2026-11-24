@@ -34,10 +34,10 @@ CANDADOS OBLIGATORIOS:
 
 ---
 
-## 📦 PROMPT 2 — SECCIÓN 2 (Capítulos 4 a 7 | 10–12 slides)
+## 📦 PROMPT 2 — SECCIÓN 2 (Capítulos 4 a 6 | 10–12 slides)
 
 ```text
-Crea una presentación educativa de MÁXIMO 10 a 12 diapositivas en español para estudiantes de 15-16 años basada únicamente en los CAPÍTULOS 4, 5, 6 y 7 de FUENTE_1RO_BGU_PARCIAL2_COMPLETO.md.
+Crea una presentación educativa de MÁXIMO 10 a 12 diapositivas en español para estudiantes de 15-16 años basada únicamente en los CAPÍTULOS 4, 5 y 6 de FUENTE_1RO_BGU_PARCIAL2_COMPLETO.md.
 
 ESTILO VISUAL (CÓMIC + AGENTE PEDAGÓGICO 80/20):
 - Diapositiva 1 (Portada/Gancho) y última diapositiva (Cierre): escena completa de cómic de las Tortugas Ninja.
