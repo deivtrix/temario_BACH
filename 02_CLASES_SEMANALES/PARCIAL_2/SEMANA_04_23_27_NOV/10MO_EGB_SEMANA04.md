@@ -33,6 +33,16 @@
 * **Cierre:** Subir captura en Tinkercad con el LED encendido y el código visible a Classroom.
 ---
 
+## ❓ PREGUNTAS DE CIERRE (CON RESPUESTA ESPERADA)
+1. **¿Qué diferencia hay entre `void setup()` y `void loop()` en Arduino?**
+   * *Respuesta esperada:* `setup()` se ejecuta una sola vez al encender (para configurar pines), mientras `loop()` se repite infinitamente.
+2. **¿Para qué sirve `pinMode(13, OUTPUT);`?**
+   * *Respuesta esperada:* Le indica al Arduino que el pin 13 enviará corriente/señal hacia afuera (por ejemplo, para encender un LED).
+3. **¿Qué pasa si olvidamos poner `delay(1000);` entre `HIGH` y `LOW`?**
+   * *Respuesta esperada:* El LED parpadea tan rápido (millones de veces por segundo) que el ojo humano lo ve encendido fijo o muy tenue.
+
+---
+
 ## 🎨 PROMPT PARA NOTEBOOKLM
 ```text
 Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 10mo EGB (14-15 años) del Volumen 2: "Conexiones Seguras y Primer Código", como un capítulo autoconclusivo independiente ("Primer Código: Blink en Tinkercad", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el CAPÍTULO #2 de FUENTE_10MO_EGB_PARCIAL2_COMPLETO.md.

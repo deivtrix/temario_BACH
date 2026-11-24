@@ -51,6 +51,16 @@ Calificación: 10 puntos (Práctica de clase).
 
 ---
 
+## ❓ PREGUNTAS DE CIERRE (CON RESPUESTA ESPERADA)
+1. **¿Por qué Tinkercad 3D no acepta directamente una imagen `.PNG` o `.JPG`?**
+   * *Respuesta esperada:* Porque `.PNG`/`.JPG` son mapas de bits (píxeles) y Tinkercad necesita trazos vectoriales (`.SVG`) para poder extruirlos en 3D.
+2. **¿Qué herramienta usamos en Inkscape para convertir una imagen `.PNG` a vector `.SVG`?**
+   * *Respuesta esperada:* *Vectorizar mapa de bits* (`Trazo -> Vectorizar mapa de bits`).
+3. **¿Qué parámetro ajustamos en Tinkercad después de importar el `.SVG` para darle volumen?**
+   * *Respuesta esperada:* La altura (eje Z) y la escala/dimensiones del objeto.
+
+---
+
 ## 🎨 PROMPT PARA NOTEBOOKLM
 ```text
 Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 9no EGB (13-14 años) del Volumen 2: "Modelado Digital 3D y Prototipado", como un capítulo autoconclusivo independiente ("Vectorización 2D .SVG a 3D") basado en el punto 4 de FUENTE_9NO_EGB_PARCIAL2_COMPLETO.md.

@@ -33,6 +33,16 @@
 
 ---
 
+## ❓ PREGUNTAS DE CIERRE (CON RESPUESTA ESPERADA)
+1. **¿Qué ventaja tiene diseñar en Tinkercad Codeblocks frente al diseño 3D tradicional?**
+   * *Respuesta esperada:* Permite crear piezas exactas mediante coordenadas (`X, Y, Z`) y bloques programables, facilitando ajustes rápidos sin mover todo a mano.
+2. **¿Para qué sirve el bloque `Mover (X, Y, Z)` después de crear una figura?**
+   * *Respuesta esperada:* Para posicionar cada parte (por ejemplo, las 4 patas de la silla) en su coordenada exacta antes de unirlas.
+3. **¿Por qué es importante usar `Crear grupo` al final en Codeblocks?**
+   * *Respuesta esperada:* Para fusionar todas las piezas en un solo sólido 3D listo para exportar o imprimir sin partes sueltas.
+
+---
+
 ## 🎨 PROMPT PARA NOTEBOOKLM
 ```text
 Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 2do BGU (16-17 años) del Volumen 2: "Diseño Paramétrico por Bloques", como un capítulo autoconclusivo independiente ("Diseño 3D Programado en Codeblocks", etiqueta 👤 ACTIVIDAD INDIVIDUAL 2) basado en el CAPÍTULO #2 de FUENTE_2DO_BGU_PARCIAL2_COMPLETO.md.

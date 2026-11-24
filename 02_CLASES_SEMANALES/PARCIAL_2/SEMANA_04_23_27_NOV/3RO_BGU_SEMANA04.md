@@ -31,6 +31,16 @@
 * **Cierre:** Subir captura de Wokwi (LED encendido + código con `// Nombre` + Monitor Serial) a Classroom.
 ---
 
+## ❓ PREGUNTAS DE CIERRE (CON RESPUESTA ESPERADA)
+1. **¿Qué ventaja tiene simular el ESP32 en Wokwi antes de armar en físico?**
+   * *Respuesta esperada:* Permite probar el código, las conexiones y el Monitor Serial sin riesgo de quemar pines ni depender de cables físicos.
+2. **¿Por qué cada LED en el semáforo necesita su propia resistencia en serie?**
+   * *Respuesta esperada:* Para limitar la corriente que entrega el pin del ESP32 (3.3V) y evitar que el LED o el pin se dañen.
+3. **¿Cómo podemos verificar en tiempo real en qué estado está el semáforo sin mirar solo los LEDs?**
+   * *Respuesta esperada:* Imprimiendo mensajes de estado en el Monitor Serial con `Serial.println()`.
+
+---
+
 ## 🎨 PROMPT PARA NOTEBOOKLM
 ```text
 Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 3ro BGU (17-18 años) del Volumen 2: "Microcontroladores y Periféricos Digitales", como un capítulo autoconclusivo independiente ("Semáforo ESP32 en Wokwi", etiqueta 👤 ACTIVIDAD INDIVIDUAL 1) basado en el CAPÍTULO #2 de FUENTE_3RO_BGU_PARCIAL2_COMPLETO.md.
