@@ -18,7 +18,7 @@ Usa esta plantilla alineada con [REGLAS_Y_MEMORIA_DOCENTE.md](REGLAS_Y_MEMORIA_D
 ## 2. PROMPT BASE PARA NOTEBOOKLM
 
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de [CURSO] ([EDAD] años) del Volumen [X]: "[NOMBRE_OFICIAL_PARCIAL]", como un capítulo autoconclusivo independiente ("[TÍTULO_CAPÍTULO]", [ETIQUETA_SI_APLICA: 👤 ACTIVIDAD INDIVIDUAL | 👥 ACTIVIDAD GRUPAL | 🛠️ REFUERZO | o ninguna]) basado en el CAPÍTULO #[N] de FUENTE_[CURSO]_PARCIAL[X]_COMPLETO.md.
+Crea una presentación estilo cómic educativo en español para estudiantes de [CURSO] ([EDAD] años) del Tomo [X]: "[NOMBRE_OFICIAL_PARCIAL]", como un episodio autoconclusivo independiente ("[TÍTULO_EPISODIO]", [ETIQUETA_SI_APLICA: 👤 ACTIVIDAD INDIVIDUAL | 👥 ACTIVIDAD GRUPAL | 🛠️ REFUERZO | o ninguna]) basado en el EPISODIO #[N] de FUENTE_[CURSO]_PARCIAL[X]_COMPLETO.md.
 
 Reglas obligatorias:
 1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + qué haremos hoy + "¿Para qué me sirve en la vida real?".
@@ -27,7 +27,7 @@ Reglas obligatorias:
    - Paso 2: [SUBTEMA 2]
    - Paso 3: [SUBTEMA 3]
    - Paso 4 (si aplica): [SUBTEMA 4]
-3. Candado de alcance: usa ÚNICAMENTE los bloques, instrucciones y componentes de este capítulo; PROHIBIDO introducir temas avanzados no vistos aún o inventar código.
+3. Candado de alcance: usa ÚNICAMENTE los bloques, instrucciones y componentes de este episodio; PROHIBIDO introducir temas avanzados no vistos aún o inventar código.
 4. Si es actividad evaluativa (👤 Individual / 👥 Grupal): ve directo al reto con un recordatorio técnico breve y PROHIBIDO regalar el código completo o la solución resuelta.
-5. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados ("sube a Classroom"), "Continuará..." o adelantos del próximo capítulo.
+5. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados ("sube a Classroom"), "Continuará..." o adelantos del próximo episodio.
 ```
