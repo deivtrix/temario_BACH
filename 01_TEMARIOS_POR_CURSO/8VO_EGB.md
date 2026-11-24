@@ -11,6 +11,7 @@
 
 ## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Fundamentos de Energía y Circuitos
 *(Estado: Cerrado / Ejecutado)*
+**Propósito del Parcial:** **Identificar** las fuentes de energía y los componentes de un circuito eléctrico cerrado mediante simulaciones básicas y prácticas seguras.  
 
 1. `[x]` **Introducción a la Energía y Cargas Eléctricas** — Definición de energía, protones/electrones y fuentes renovables vs. no renovables en PhET DC.
 2. `[x]` **Circuito Cerrado, Voltaje y Pilas en Serie** — Medición con voltímetro virtual y suma de voltajes en PhET Kit de Construcción CD.
@@ -22,6 +23,7 @@
 
 ## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Conductores, Empalmes y Seguridad Eléctrica
 *(Estado: En curso — Hoy: Semana 3, 16–19 nov | Cierre Áreas Especiales: semana del 11 ene)*
+**Propósito del Parcial:** **Diferenciar** materiales conductores y aislantes, tipos de corriente (DC/AC) y normas de seguridad eléctrica mediante empalmes y mediciones virtuales.  
 
 1. `[x]` **Conductores y Aislantes** *(Individual 1)* — Clasificación de materiales conductores vs. aislantes (electrones libres vs. fuertemente unidos) e infografía.
 2. `[x]` **Taller de Empalmes Seguros** *(Individual 2 — Práctica Física)* — Empalmes *Cola de Rata*, *Western Union* y *Derivación Simple (en T)* probados con pila 9V, bombilla/módulo protegido y cinta aislante.
@@ -35,6 +37,7 @@
 
 ## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Ley de Ohm y Circuitos Serie/Paralelo
 *(Estado: Pendiente — 7 clases)*
+**Propósito del Parcial:** **Aplicar** la Ley de Ohm y el análisis de circuitos en serie y paralelo para verificar magnitudes eléctricas y prevenir fallas.  
 
 1. `[ ]` **Átomos, Cargas y Electrostática** *(Tema Nuevo — clase normal)* — 10 min teoría + simulador PhET (*Globos / John Travoltage*).
 2. `[ ]` **Taller Físico Electrostático y Toma a Tierra** *(Individual 1 — Taller Práctico calificado)* — Experimentos paso a paso con globos, latas de aluminio y papel picado + rayos y cable a tierra.
@@ -48,6 +51,7 @@
 
 ## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Mecanismos y Control Inicial
 *(Estado: Pendiente — 7 clases con modelos oficiales LEGO Education WeDo 2.0 / 45300)*
+**Propósito del Parcial:** **Construir** y programar mecanismos iniciales con poleas, engranajes y sensores aplicando el modelo Entrada-Proceso-Salida (IPO).  
 
 1. `[ ]` **Introducción a LEGO WeDo 2.0: Milo (Parte A)** *(Tema Nuevo — clase normal)* — Reconocimiento del Smart Hub, motor, piezas básicas y bloques de inicio/movimiento.
 2. `[ ]` **Poleas, Correas y Velocidad (*Auto de Carreras*)** *(Individual / Parejas 1 — Taller Práctico calificado)* — Construcción de transmisión mecánica y pruebas de velocidad.

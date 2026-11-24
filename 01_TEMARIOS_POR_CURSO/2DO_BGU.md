@@ -11,6 +11,7 @@
 
 ## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Simulación Física y Dinámica 3D
 *(Estado: Cerrado / Ejecutado según `03_PLANIFICACION_SEMANAL`)*
+**Propósito del Parcial:** **Simular** mecanismos físicos y dinámicas tridimensionales evaluando gravedad, colisiones y movimiento en entornos virtuales.  
 
 1. `[x]` **Mueble de Cocina Modular en Tinkercad 3D** — Geometría, espesores y vaciado.
 2. `[x]` **Tinkercad Sim Lab: Plano Inclinado y Dominó** — Propiedades estáticas vs. dinámicas.
@@ -22,6 +23,7 @@
 
 ## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Diseño Paramétrico por Bloques
 *(Estado: En curso — Hoy: Semana 4, 23–27 nov | Cierre Áreas Especiales: semana del 11 ene)*
+**Propósito del Parcial:** **Modelar** piezas y mecanismos paramétricos mediante programación por bloques, bucles y variables geométricas.  
 
 1. `[x]` **S1–S2 (4–13 nov) — Mini Golf con Motores en Sim Lab** *(Individual 1 — ejecutado)* — Obstáculos móviles y simulación física.
 2. `[x]` **S3 (16–19 nov) — Motor Deslizante en Sim Lab** *(Grupal — ejecutado)* — Mecanismo de desplazamiento lineal en grupo.
@@ -35,6 +37,7 @@
 
 ## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Electrónica de Potencia y Motores
 *(Estado: Pendiente — 7 clases | Base: Proyectos 08–10)*
+**Propósito del Parcial:** **Implementar** el control de potencia, temporización no bloqueante (`millis()`) e inversión de giro en motores virtuales.  
 
 1. `[ ]` **Juego de Reflejos / Reacción en ms (`millis()` sin `delay()` + Récord Serial)** *(Individual 1 — calificada)* — Medición de tiempo de reacción con LEDs, pulsador y tabla en Monitor Serial.
 2. `[ ]` **Transistor BJT/MOSFET + Motor DC (Rueda / Ventilador)** *(Tema Nuevo — clase normal)* — Encendido seguro de motor con Diodo Flyback 1N4007.
@@ -48,6 +51,7 @@
 
 ## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Interfaces Visuales y Sistemas Integrados
 *(Estado: Pendiente — 7 clases | Proyecto 11 del libro)*
+**Propósito del Parcial:** **Integrar** interfaces visuales (LCD) y sistemas mecatrónicos completos verificando su funcionamiento en simulación.  
 
 1. `[ ]` **Pantalla LCD 16x2 (`<LiquidCrystal.h>`) en Tinkercad — Texto Básico** *(Individual 1 — calificada)* — Conexión virtual sin atascos de cableado y mensajes en 2 filas.
 2. `[ ]` **LCD 16x2 + Sensor (Temperatura o Ultrasonido)** *(Individual 2 — calificada)* — Mostrar lecturas reales en vivo en pantalla.

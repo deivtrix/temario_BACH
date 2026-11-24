@@ -11,6 +11,7 @@
 
 ## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Circuitos Base y Montaje en Protoboard
 *(Estado: Cerrado / Ejecutado)*
+**Propósito del Parcial:** **Construir** circuitos base en protoboard identificando magnitudes eléctricas, líneas comunes y conexiones en serie y paralelo.  
 
 1. `[x]` **Magnitudes Eléctricas ($V, I, R$) y Corriente AC vs. DC** — Conceptos base y clasificación de dispositivos AC/DC en Classroom.
 2. `[x]` **Protoboard: Líneas Comunes y Energización** — Estructura interna, buses horizontales y conexiones sin cortocircuitos.
@@ -20,6 +21,7 @@
 
 ## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Conexiones Seguras y Primer Código
 *(Estado: En curso — Hoy: Semana 3, 16–19 nov | Cierre Áreas Especiales: semana del 11 ene)*
+**Propósito del Parcial:** **Implementar** uniones eléctricas seguras y los primeros programas en Arduino C++ para controlar salidas digitales en simulación y montaje físico.  
 
 1. `[x]` **S1 (4–6 nov) — ¿Qué es Arduino?** *(ejecutado)* — Introducción conceptual al microcontrolador, hardware/software y modelo IPO.
 2. `[x]` **S2 (9–13 nov) — Práctica de Empalmes (Taller Calificado)** *(Grupal / Físico — ejecutado)* — Uniones eléctricas seguras y prueba de continuidad.
@@ -34,6 +36,7 @@
 
 ## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Control Digital, Bucles y Decisiones
 *(Estado: Pendiente — 7 clases)*
+**Propósito del Parcial:** **Optimizar** sistemas de control digital mediante bucles, condicionales y entradas con pulsadores en Arduino.  
 
 1. `[ ]` **Luces de Patrulla / Auto Fantástico (6 LEDs con `for`)** *(Individual 1 — calificada)* — Secuencia de barrido ida y vuelta en Tinkercad y físico.
 2. `[ ]` **Contador / Dado Binario Digital (4 LEDs, `0–15`)** *(Tema Nuevo — clase normal)* — Conversión Decimal $\leftrightarrow$ Binario representada con 4 LEDs reales.
@@ -47,6 +50,7 @@
 
 ## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Mecanismos Articulados y Automatización
 *(Estado: Pendiente — 7 clases | Enfoque: Laboratorio de Física y Mecánica Aplicada con WeDo 2.0)*
+**Propósito del Parcial:** **Diseñar** mecanismos articulados automatizados integrando lógica de control y pruebas funcionales en equipo.  
 
 1. `[ ]` **Róver Explorador: Kit WeDo 2.0 y Smart Hub** *(Tema Nuevo — clase normal)* — Inventario, conexión Bluetooth y programación base de motor/luces.
 2. `[ ]` **Auto Veloz vs. Grúa de Carga (Poleas y Engranajes)** *(Individual / Parejas 1 — calificada)* — Relación velocidad vs. torque en mecanismos reales.

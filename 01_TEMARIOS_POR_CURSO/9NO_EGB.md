@@ -11,6 +11,7 @@
 
 ## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Procesos de Fabricación
 *(Estado: Cerrado / Ejecutado)*
+**Propósito del Parcial:** **Reconocer** las técnicas fundamentales de fabricación digital y manufactura segura para planificar prototipos funcionales.  
 
 1. `[x]` **Fundamentos de Fabricación** — Materia prima $\rightarrow$ producto final, elaboración artesanal vs. producción industrial, transformación de materiales y actividades en patio/Canva *(ejecutado)*.
 
@@ -18,6 +19,7 @@
 
 ## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Modelado Digital 3D y Prototipado
 *(Estado: En curso — 7 clases)*
+**Propósito del Parcial:** **Diseñar** prototipos tridimensionales con medidas reales, tolerancias mecánicas y vectorización 2D para su exportación digital.  
 
 1. `[x]` **Introducción a Tinkercad 3D y Llavero** *(Individual 1 — ejecutado)* — Ejes X, Y, Z, formas básicas, huecos y agrupación (`Ctrl + G`).
 2. `[x]` **Case de iPhone en Tinkercad 3D — Parte 1** *(Práctica Guiada — ejecutado)* — Medidas reales en mm, vaciado interno y cortes de cámara/botones.
@@ -31,6 +33,7 @@
 
 ## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Navegación y Robótica Móvil
 *(Estado: Pendiente — 7 clases)*
+**Propósito del Parcial:** **Implementar** rutinas de navegación autónoma en robots móviles integrando actuadores y sensores de distancia e infrarrojos.  
 
 1. `[ ]` **Kit mBot, Placa mCore y Entorno mBlock 5** *(Tema Nuevo — clase normal)* — Con los mBot ya armados: reconocimiento de componentes, puertos RJ25, conexión y modo *Live* vs. *Subir código*.
 2. `[ ]` **Luces RGB y Buzzer (Salidas Integradas)** *(Individual / Parejas 1 — calificada)* — Control de LEDs RGB integrados y secuencias de tonos de alerta.
@@ -44,6 +47,7 @@
 
 ## 🟣 PARCIAL 4 (13 abr – 1 jul) — TEMA 4: Electrónica Analógica y Lógica Digital
 *(Estado: Pendiente — 7 clases | Sin protoboard física ni soldadura; puente directo a Arduino en 10mo EGB)*
+**Propósito del Parcial:** **Simular** y construir circuitos de electrónica analógica y lógica digital (AND/OR, LDR y transistores) sin soldadura.  
 
 1. `[ ]` **Código de Colores (4 bandas) y Polaridad del LED** *(Tema Nuevo — clase normal)* — Lectura de resistencias por colores, Ánodo/Cátodo del LED y conexión directa en Tinkercad.
 2. `[ ]` **Lógica Digital (`AND` / `OR`) con Interruptores y Tablas de Verdad** *(Individual 1 — calificada)* — Simulación en Tinkercad de sistema de seguridad/alarma con 2 interruptores y tabla de verdad (`0/1`).

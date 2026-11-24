@@ -12,6 +12,7 @@
 
 ## 🟢 PARCIAL 1 (27 ago – 30 oct) — TEMA 1: Conmutación y Control de Potencia
 *(Estado: Cerrado / Ejecutado según `03_PLANIFICACION_SEMANAL` | Nota: Nivelación de transición 2026–2027; para próximas cohortes se omite al cubrirse en 2do BGU)*
+**Propósito del Parcial:** **Analizar** principios de conmutación y control de potencia aplicados a cargas y actuadores electrónicos.  
 
 1. `[x]` **Transistor BJT NPN (2N2222) como Interruptor** — Operación en Corte y Saturación (Base, Colector, Emisor).
 2. `[x]` **Control de Motor DC + Diodo Flyback 1N4007 (Cinta Transportadora)** — Protección de potencia y manejo de cargas.
@@ -20,6 +21,7 @@
 
 ## 🟡 PARCIAL 2 (4 nov – 30 ene) — TEMA 2: Microcontroladores y Periféricos Digitales
 *(Estado: En curso — Hoy: Semana 3, 16–19 nov | Cierre Áreas Especiales: semana del 11 ene)*
+**Propósito del Parcial:** **Implementar** periféricos digitales, señales PWM, sensores ultrasónicos y teclados matriciales en ESP32 mediante simulación en Wokwi.  
 
 1. `[x]` **S2 (9–13 nov) — ¿Qué es el ESP32? + Sirena de Policía en Wokwi** *(ejecutado)* — Pines GPIO, lógica de $3.3\text{V}$ y primer código en Wokwi.
 2. `[→]` **S3 (16–19 nov — Esta semana) — Formulario de Mejora de Calificaciones + Repaso ESP32** *(ejecutado/en curso)* — Recuperación y nivelación de conceptos base.
@@ -33,6 +35,7 @@
 
 ## 🔵 PARCIAL 3 (2 feb – 10 abr) — TEMA 3: Telemetría e Internet de las Cosas (IoT)
 *(Estado: Pendiente — 6 clases | 100% nativo en `wokwi.com` gratis)*
+**Propósito del Parcial:** **Diseñar** sistemas de telemetría e Internet de las Cosas (IoT) conectando el ESP32 a redes WiFi y paneles web mediante protocolo MQTT.  
 
 1. `[ ]` **Control de Servomotor (180°) con ESP32** *(Individual 1 — calificada)* — Posicionamiento angular y barrido en Wokwi.
 2. `[ ]` **Pantalla LCD 16x2 con ESP32 (Textos y *Scroll*)** *(Individual 2 — calificada)* — Despliegue de mensajes dinámicos en pantalla.
@@ -45,6 +48,7 @@
 
 ## 🟣 PARCIAL 4 (13 abr – 19 jun) — TEMA 4: Visión Artificial y Sistemas Autónomos
 *(Estado: Pendiente — 6 clases | Cierre anticipado por graduación de 3ro BGU)*
+**Propósito del Parcial:** **Construir** sistemas autónomos integrando visión artificial y análisis crítico de sesgos en modelos de inteligencia artificial.  
 
 1. `[ ]` **Entrenamiento de IA Visual con *Google Teachable Machine*** *(Individual 1 — calificada)* — Entrenar modelo de cámara en el navegador (gestos/objetos) y analizar **sesgo de datos** (luz, ángulos y fondos).
 2. `[ ]` **Puente IA -> ESP32 en Vivo vía MQTT (`Teachable Machine` + `mqtt.js` + Wokwi)** *(Individual 2 — calificada)* — Integrar la detección de cámara en una web con `mqtt.js` (`wss://broker.hivemq.com:8884/mqtt`) que publique el comando (`'A'` / `'C'`) a un tópico único por estudiante/grupo para accionar el ESP32 en Wokwi automáticamente.
