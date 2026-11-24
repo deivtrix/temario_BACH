@@ -74,7 +74,8 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
   * Usar el universo/personaje sin bloqueo de copyright (**Tortugas Ninja**, **Pokémon**, **Minecraft**, **Dragon Ball Z**, **Bob Esponja**, **Mario Bros**, **Sonic**, **Naruto**, **Avatar**, **One Piece**; **EVITAR** Marvel/Disney) indicando la **edad exacta del curso**.
   * **Slide 1 (Portada/Gancho) y última slide (Cierre):** Escena completa de cómic con el conflicto y resolución del universo.
   * **Láminas Ancla de Teoría (80/20):** El **80%** de la lámina es el diagrama, tabla o código limpio sobre fondo claro (1. Cómo funciona por dentro con flechas, 2. Regla práctica, 3. Correcto vs. Error); el **20%** es el personaje científico/guía **pequeño en una esquina** señalando el punto clave o con un consejo de 1 línea (**PROHIBIDO** globos gigantes o tramas tapando esquemas).
-  * En **10mo a 3ro BGU** (código/lógica nueva), incluir un **Ejemplo Resuelto Anotado** (4–8 líneas de código o circuito verificado con flechas explicativas) antes del reto.
+  * En **10mo a 3ro BGU** (código/lógica nueva), incluir un **Ejemplo Resuelto Anotado** (4–8 líneas de **otro** circuito distinto al reto, nunca el código del reto resuelto) o **Código con huecos (*Completion Problem*)** antes del reto.
+  * **Andamiaje Progresivo (*Scaffolding*):** Máximo **+1 nivel de dificultad** entre Ejemplo Resuelto $\rightarrow$ Práctica Guiada $\rightarrow$ Reto Autónomo. Al combinar componentes nuevos, probar primero la pieza aislada en 3 min (ej. `tone()` fijo antes de LDR+`tone()`; `Serial.println(tecla)` antes de Keypad+Buzzer).
 * **Portada estricta en Slide 1 de cada Sección:** `TOMO [X]: [NOMBRE_OFICIAL_PARCIAL] — SECCIÓN [1/2]` (sin `"Tema:"` ni nombre del curso) + **Propósito de la Sección** (sin decir `"LEV"`) + **¿Dónde lo usas?**.
 * **Cierre de Parcial y Estudio para Examen (2 Parciales):**
   * El **Bloque 2** termina con una diapositiva exclusiva de **Autoevaluación con Escala de Likert (1 al 5)** en 4 aspectos concretos.
@@ -116,7 +117,8 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 
 | Autor / Referente | Principio aplicado | Cómo se implementa en este sistema |
 | :--- | :--- | :--- |
-| **John Sweller** | Teoría de la Carga Cognitiva & *Worked Examples* | Máx. **2 subtemas nuevos/clase**, **0 repetición**, protocolo de **3 pasos** y **Ejemplo Resuelto anotado** en `10mo–3ro BGU`. |
+| **John Sweller** | Carga Cognitiva, *Worked Examples* & *Completion Problems* | Máx. **2 subtemas nuevos/clase**, **0 repetición**, protocolo de **3 pasos**, **Ejemplo Resuelto** de otro circuito y **código con huecos**. |
+| **Vygotsky & J. Bruner** | Andamiaje (*Scaffolding*) & Currículo en Espiral | Máximo **+1 nivel de dificultad** por escalón (probar pieza aislada antes de combinar) y progresión acumulativa sin repetir slides. |
 | **Richard Mayer** | Aprendizaje Multimedia (Coherencia y Señalización) | **20–24 slides/parcial** (`Sección 1` y `2`) + **Agente Pedagógico 80/20** (80% diagrama limpio + 20% personaje guía en esquina). |
 | **Allan Paivio** | Teoría de la Codificación Dual | **Láminas Ancla** visuales (cómo funciona por dentro con flechas + regla práctica + correcto vs. error). |
 | **John Hattie & Dylan Wiliam** | *Visible Learning* & Evaluación Formativa | **Propósito** + **Criterio observable** (`¿Cómo sé que lo logré?`) al inicio y **2 preguntas sorpresa** al cierre con respuesta simultánea. |
