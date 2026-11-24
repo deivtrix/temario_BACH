@@ -3,6 +3,11 @@
 > [!NOTE]
 > # 📘 CLASE SIN ENTREGA
 **Tema:** Primer Programa en Arduino (*Blink*) en Tinkercad  
+**Subtemas puntuales (4):**
+1. Estructura base de Arduino: `void setup()` vs. `void loop()`.
+2. Configuración de salida digital con `pinMode(pin, OUTPUT)`.
+3. Encendido, apagado y pausas (`digitalWrite` + `delay`).
+4. Simulación segura de LED con resistencia en Tinkercad.
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Práctica guiada en aula sin entrega obligatoria *(Ind. 1 y 2 ya completas en Classroom)*.

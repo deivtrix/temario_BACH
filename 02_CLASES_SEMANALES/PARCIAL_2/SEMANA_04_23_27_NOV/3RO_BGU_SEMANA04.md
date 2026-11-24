@@ -3,6 +3,11 @@
 > [!NOTE]
 > # 📘 CLASE SIN ENTREGA
 **Tema:** Semáforo Inteligente con ESP32 en Wokwi  
+**Subtemas puntuales (4):**
+1. Pines digitales del ESP32 (3.3V) y resistencia protectora por LED.
+2. Secuencia temporizada de 3 estados (Verde $\rightarrow$ Amarillo $\rightarrow$ Rojo).
+3. Monitoreo de estado en tiempo real con `Serial.println()`.
+4. Simulación y prueba de circuito en Wokwi.
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo / Ambientación (45 min)  
 **Entregable:** Práctica en vivo en Wokwi sin entrega obligatoria *(Ind. 1 y 2 ya completas en Classroom)*.

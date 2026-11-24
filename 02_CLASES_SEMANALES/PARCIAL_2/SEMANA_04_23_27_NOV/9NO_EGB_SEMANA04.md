@@ -3,6 +3,11 @@
 > [!IMPORTANT]
 > # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
 **Tema:** Vectorización 2D (Inkscape `.PNG` $\rightarrow$ `.SVG`) a Tinkercad 3D *(Individual 2)*
+**Subtemas puntuales (4):**
+1. Diferencia entre imagen de píxeles (`.PNG`/`.JPG`) y vector (`.SVG`).
+2. Vectorización rápida en Inkscape (`Trazo -> Vectorizar mapa de bits`).
+3. Importación del `.SVG` a Tinkercad 3D y extrusión (altura Z / escala).
+4. Verificación en vivo o Formulario corto (Individual 2).
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A/B — Tema Nuevo + Evaluación Rápida (45 min)  
 **Entregable:** Formulario corto en Classroom (o captura exprés del logo convertido a 3D en Tinkercad).
