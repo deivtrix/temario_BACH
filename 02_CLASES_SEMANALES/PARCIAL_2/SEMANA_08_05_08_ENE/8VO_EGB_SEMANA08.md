@@ -3,7 +3,7 @@
 > [!TIP]
 > # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Cierre de Parcial 2, Autoevaluación y Preparación Quimestral (`🛠️ REFUERZO`)  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Cierre y Autoevaluación (45 min)  
 **Entregable:** Autoevaluación Likert (1–5) + verificación final de notas.

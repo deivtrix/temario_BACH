@@ -7,7 +7,7 @@
 * **Curso:** 8vo EGB  
 * **Duración:** 45 Minutos  
 * **Modalidad de Trabajo:** 🛠️ **100% PRÁCTICA ACTIVA (Simulador Interactivo PhET en PC o Circuito Probador en Mesa)**.  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Plataforma / Herramienta:** [PhET Circuit Construction Kit DC - Virtual Lab](https://phet.colorado.edu/es/simulations/circuit-construction-kit-dc-virtual-lab) / Mesa de taller.  
 * **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Solo se entrega **1 sola captura de pantalla** o foto del circuito probador testeando un material conductor (foco encendido) y un material aislante (foco apagado) en Google Classroom.
 

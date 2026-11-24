@@ -3,7 +3,7 @@
 > [!TIP]
 > # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
 **Tema:** Conectores y Aislantes Eléctricos *(Individual 1 — Infografía / Consulta)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 1 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Consulta e Infografía Autónoma (30 min) + Cierre (5 min)  
 **Entregable:** Infografía en Canva / Documento de consulta en Classroom.

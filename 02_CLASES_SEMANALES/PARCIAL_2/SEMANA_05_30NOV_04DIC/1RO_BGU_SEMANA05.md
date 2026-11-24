@@ -6,7 +6,7 @@
 **Subtemas puntuales (2 nuevos):**
 1. Cómo funciona una fotorresistencia (LDR): cambia su resistencia según la luz / Armado del divisor de voltaje (LDR + resistencia fija) en pin analógico `A0`.
 2. Lectura de valores de luz con `analogRead(A0)` y umbral `>` / `<` / Encendido automático de LED al oscurecer (Poste de Alumbrado en Tinkercad).
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura en Tinkercad / visto bueno en kit físico + lectura serial en Classroom.

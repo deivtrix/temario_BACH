@@ -6,7 +6,7 @@
 **Subtemas puntuales (2 nuevos):**
 1. Concepto de bucle `repetir` en Codeblocks para evitar bloques duplicados / Uso de variables o incrementos en `Z` para subir cada escalón.
 2. Rotación incremental alrededor del eje `Z` (escalera en espiral / torre) / Aplicación de bucles en estructuras repetitivas (escalera o torre).
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Formulario corto auto-calificable en Classroom (5 preguntas sobre bucles/rotación) o captura exprés.

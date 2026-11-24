@@ -3,7 +3,7 @@
 > [!NOTE]
 > # 📘 CLASE SIN ENTREGA
 **Tema:** Proyecto Codeblocks: Engranaje o Mecanismo Paramétrico  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Práctica Autónoma Evaluada (45 min)  
 **Entregable:** Captura en Classroom del engranaje/mecanismo + variables visibles.

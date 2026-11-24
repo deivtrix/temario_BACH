@@ -7,7 +7,7 @@
 * **Estudiante:** ___________________________________________________________
 * **Curso y Paralelo:** 8vo EGB "____"
 * **Fecha:** ____ / ____ / 2026
-* **Docente:** Ing. David Castro T.
+* **Docente:** Ing. T.
 * **Tema:** Conexión de Polos en Serie, Componentes y Polaridad del Diodo LED
 
 ---

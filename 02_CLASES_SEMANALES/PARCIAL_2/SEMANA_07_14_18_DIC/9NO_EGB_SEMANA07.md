@@ -3,7 +3,7 @@
 > [!TIP]
 > # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Refuerzo 3D: Casa en Tinkercad — Parte 1 *(Refuerzo)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema de Refuerzo (45 min)  
 **Entregable:** Avance en Tinkercad (muros, puerta y ventanas listos; entrega final en Semana 8).

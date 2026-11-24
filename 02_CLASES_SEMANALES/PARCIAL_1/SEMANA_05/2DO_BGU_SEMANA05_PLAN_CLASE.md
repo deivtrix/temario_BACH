@@ -7,7 +7,7 @@
 * **Curso:** 2do BGU  
 * **Duración:** 45 Minutos  
 * **Modalidad de Trabajo:** 💻 **100% PRÁCTICA EN COMPUTADORA (Autodesk Tinkercad 3D + Entorno Sim Lab)**.  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Solo se entrega **1 sola captura de pantalla** (o enlace público del diseño) en Google Classroom mostrando la atracción del parque en pleno movimiento dinámico dentro de Sim Lab.
 
 ---

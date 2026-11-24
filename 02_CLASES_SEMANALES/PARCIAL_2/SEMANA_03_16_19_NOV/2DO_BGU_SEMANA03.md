@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Mecanismo de Motor Deslizante en Tinkercad Sim Lab *(Grupal)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 1 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A/B — Encuadre + Modelación rápida (10 min) + Reto Grupal (30 min) + Cierre (5 min)  
 **Entregable:** Captura / video corto del mecanismo funcionando en Sim Lab + 2 preguntas en Classroom.

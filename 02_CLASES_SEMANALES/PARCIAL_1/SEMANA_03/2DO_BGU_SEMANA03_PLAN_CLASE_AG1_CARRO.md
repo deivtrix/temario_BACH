@@ -7,7 +7,7 @@
 * **Curso:** 2do BGU (Segundo de Bachillerato)  
 * **Duración:** 45 Minutos  
 * **Modalidad:** 👥 Trabajo colaborativo en parejas (1 PC por pareja en Laboratorio de Computación).  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Entorno de Trabajo:** [Autodesk Tinkercad 3D + Módulo Sim Lab](https://www.tinkercad.com/).  
 * **Video Tutorial Oficial:** [Control Motors & More BIND KEYS in Tinkercad Sim Lab! (HLModTech)](https://www.youtube.com/watch?v=GgFagHHbJ4s)  
 * **Entregable:** Informe técnico grupal de la actividad **AG1** con datos de la pareja, captura de pantalla completa y 2 preguntas reflexivas anti-IA basadas en el video.

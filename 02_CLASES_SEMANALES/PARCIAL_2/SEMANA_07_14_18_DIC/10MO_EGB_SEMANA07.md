@@ -3,7 +3,7 @@
 > [!TIP]
 > # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Reto de Secuencias e Intro a Bucles `for` *(Refuerzo)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema Nuevo / Refuerzo (45 min)  
 **Entregable:** Captura en Tinkercad del barrido de LEDs usando `for` en Classroom.

@@ -7,7 +7,7 @@
 * **Curso:** 2do BGU  
 * **Duración:** 45 Minutos  
 * **Modalidad de Trabajo:** 💻 **100% PRÁCTICA EN COMPUTADORA (Autodesk Tinkercad 3D + Sim Lab)**.  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Evaluación formativa viendo la rotación del carrusel en pantalla con el motor en marcha.  
 * **Estado de Ejecución:** ✅ **CLASE EJECUTADA (Demostración y réplica del Carrusel)**.
 

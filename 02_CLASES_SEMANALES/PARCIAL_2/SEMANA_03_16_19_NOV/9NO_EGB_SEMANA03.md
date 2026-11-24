@@ -3,7 +3,7 @@
 > [!TIP]
 > # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
 **Tema:** Case de iPhone en Tinkercad 3D — Parte 2 + Formulario *(Individual 2)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 1 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Actividad Autónoma Evaluada (45 min)  
 **Entregable:** Captura del Case 3D terminado + Formulario corto en Classroom.

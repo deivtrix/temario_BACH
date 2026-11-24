@@ -7,7 +7,7 @@
 * **Curso:** 8vo EGB  
 * **Duración:** 45 Minutos  
 * **Modalidad:** 💻 100% Computadoras del Laboratorio (Sistematización, Investigación e Ilustración Digital).  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Herramientas:** Canva / Gemini / ChatGPT / Navegador Web.  
 
 ---

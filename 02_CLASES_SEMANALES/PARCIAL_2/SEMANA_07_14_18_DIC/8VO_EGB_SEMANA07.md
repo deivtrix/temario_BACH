@@ -3,7 +3,7 @@
 > [!TIP]
 > # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Repaso, Consolidación y Autoevaluación del Parcial 2 (`🛠️ REFUERZO` sin calificación)  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
 **Entregable:** Nivelación de pendientes + Autoevaluación Likert (sin nota adicional).

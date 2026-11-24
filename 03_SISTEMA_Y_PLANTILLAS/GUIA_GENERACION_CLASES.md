@@ -20,7 +20,7 @@ Cada archivo (`<CURSO>_SEMANA<NN>.md`) dentro de `02_CLASES_SEMANALES/PARCIAL_<N
 ```markdown
 # <EMOJI> <CURSO> — PARCIAL <N> / SEMANA <NN> (<FECHAS>)
 **Tema:** <Nombre exacto del tema en 01_TEMARIOS_POR_CURSO>
-**Mediador:** David Castro
+**Cargo:** Mediador
 **Modo de Clase:** <Modo A: Tema Nuevo (45 min) | Modo B: Actividad Autónoma (45 min)>
 **Entregable:** <Captura exprés en Classroom | Visto bueno en vivo | Informe corto anti-IA>
 **📊 Slides:** Bloque <1 o 2> (Láminas <X–Y>)
@@ -55,7 +55,7 @@ Cada archivo (`<CURSO>_SEMANA<NN>.md`) dentro de `02_CLASES_SEMANALES/PARCIAL_<N
 ---
 
 ## 3. REGLAS INNEGOCIABLES AL GENERAR
-1. **Mediador:** Siempre y exclusivamente **Mediador: David Castro** (nunca `Ing.`, `Docente` ni `Profesor`).
+1. **Mediador:** Usar siempre y exclusivamente **Mediador** (sin nombre propio; nunca `Ing.`, `Docente` ni `Profesor`).
 2. **Herramientas reales por curso:**
    * **8vo:** PhET, Canva, Tinkercad Circuits, prácticas físicas, LEGO WeDo 2.0.
    * **9no:** Tinkercad 3D, Inkscape `.SVG`, mBot/mBlock, Tinkercad Circuits (Protoboard).

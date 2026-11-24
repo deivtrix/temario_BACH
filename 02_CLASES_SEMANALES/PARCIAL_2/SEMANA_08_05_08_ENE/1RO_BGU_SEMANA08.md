@@ -3,7 +3,7 @@
 > [!TIP]
 > # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Refuerzo: Calibración con Monitor Serial, Cierre de Parcial 2 y Autoevaluación *(Refuerzo)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Refuerzo Práctico, Nivelación y Autoevaluación Likert 1–5 (45 min)  
 **Entregable:** Revisión de notas, calibración final y Autoevaluación Likert (1–5).

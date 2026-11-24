@@ -7,7 +7,7 @@
 * **Curso:** 9no EGB  
 * **Duración:** 45 Minutos  
 * **Modalidad de Trabajo:** 💻 **Consulta e Investigación Digital en PC (Navegador Web / Cuaderno Canva)**.  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Diapositivas Oficiales Base:** `CA.1.RB.4.NV.26-27` — Diapositivas 8 a 18 (Evolución de la Impresión 3D y Fabricación Aditiva).  
 * **Estado de Ejecución:** ✅ **SESIÓN DE CONSULTA EJECUTADA (Fase de nivelación/igualación entre paralelos)**.
 

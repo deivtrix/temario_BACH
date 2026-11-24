@@ -1,7 +1,7 @@
 # 🗺️ MAPA DE RUTA CURRICULAR (8VO EGB $\rightarrow$ 3RO BGU)
 
 **Materia:** Robótica y Tecnología  
-**Mediador:** David Castro  
+**Cargo:** Mediador  
 **Propósito:** Visualizar cómo cada bloque de aprendizaje se conecta de forma continua desde **8vo EGB** hasta **3ro BGU**, evitando vacíos técnicos y mostrando a los estudiantes **qué aprenden hoy y en qué lo aplicarán el próximo año**.
 
 ---

@@ -7,7 +7,7 @@
 * **Curso:** 3ro BGU  
 * **Duración:** 45 Minutos  
 * **Modalidad de Trabajo:** 👥 **ACTIVIDAD GRUPAL (Parejas de 2 Estudiantes / Tinkercad Circuits o Mesa Física)**.  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Diapositivas Oficiales Base:** `CA.2.RB.5.SG.26-27 (Ard mod4)` — Módulo 4: Etapas de Potencia y Motores DC.  
 * **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Solo se entrega **1 sola captura de pantalla** por equipo. Cada uno de los dos integrantes sube **la misma captura** a su propio Classroom. La captura debe mostrar obligatoriamente los nombres de los dos integrantes en **dos líneas de comentario** dentro del código.
 

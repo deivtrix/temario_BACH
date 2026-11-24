@@ -7,7 +7,7 @@
 * **Curso:** 1ro BGU  
 * **Duración:** 45 Minutos  
 * **Modalidad de Trabajo:** 👥 **ACTIVIDAD GRUPAL (Equipos en Laboratorio / PC en Tinkercad Circuits o Mesa Física)**.  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Diapositivas Oficiales Base:** `CA.2.RB.5.PR.26-27 (Ard mod2)` — Toma de Decisiones y Salidas Digitales.  
 * **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Solo se entrega **1 sola fotografía / captura de pantalla** por grupo. Todos los integrantes suben la **misma captura** a Classroom, la cual debe tener obligatoriamente los nombres de los integrantes anotados como comentario en las primeras líneas del código C++.
 

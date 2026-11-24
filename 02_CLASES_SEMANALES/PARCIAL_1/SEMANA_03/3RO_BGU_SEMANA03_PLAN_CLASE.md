@@ -7,7 +7,7 @@
 * **Curso:** 3ro BGU  
 * **Duración:** 45 Minutos  
 * **Modalidad:** 💻 100% Virtual en Computadoras.  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Plataforma:** [Autodesk Tinkercad Circuits](https://www.tinkercad.com/).  
 * **Componentes:** Transistor NPN (2N2222), pulsador, resistencia de base ($1\ \text{k}\Omega$), resistencia de colector ($330\ \Omega$), diodo LED, fuente de $5\text{V}$ / GND y protoboard.  
 * **Entregable:** Informe individual de práctica en Google Classroom.

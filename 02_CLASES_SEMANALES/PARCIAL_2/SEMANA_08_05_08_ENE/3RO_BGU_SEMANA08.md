@@ -3,7 +3,7 @@
 > [!TIP]
 > # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Refuerzo ESP32 en Wokwi y Cierre de Parcial 2 *(Colchón)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
 **Entregable:** Verificación de entregas en Wokwi previas a evaluación quimestral.

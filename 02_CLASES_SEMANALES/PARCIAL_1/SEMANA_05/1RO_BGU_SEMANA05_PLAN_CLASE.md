@@ -7,7 +7,7 @@
 * **Curso:** 1ro BGU  
 * **Duración:** 45 Minutos  
 * **Modalidad de Trabajo:** 💻 **100% PRÁCTICA ACTIVA (Tinkercad Circuits en PC o Arduino UNO Físico en Mesa)**.  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Diapositivas Oficiales Base:** `CA.2.RB.5.PR.26-27 (Ard mod2)` — Diapositivas 21 a 28 (Entradas Digitales, ¿Cómo se conecta un pulsador? y `INPUT_PULLUP`).  
 * **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Solo se entrega **1 sola captura de pantalla** o fotografía del circuito simulando con el botón presionado y el código C++ visible en Google Classroom.
 

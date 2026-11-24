@@ -7,7 +7,7 @@
 * **Estudiante:** ___________________________________________________________
 * **Curso y Paralelo:** 3ro BGU "____"
 * **Fecha:** ____ / ____ / 2026
-* **Docente:** Ing. David Castro T.
+* **Docente:** Ing. T.
 * **Tema:** El Transistor BJT NPN como Interruptor Electrónico
 
 ---

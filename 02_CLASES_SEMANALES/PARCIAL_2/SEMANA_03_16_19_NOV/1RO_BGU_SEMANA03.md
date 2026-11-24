@@ -3,7 +3,7 @@
 > [!TIP]
 > # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
 **Tema:** Informe de Potenciómetro con 4 LEDs (`analogRead`, `>`, `<`) + Cuestionario *(Individual 1)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 1 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Actividad Autónoma Evaluada (45 min)  
 **Entregable:** Informe corto anti-IA (con código, parámetros y 3 preguntas vivenciales) + Cuestionario en Classroom.

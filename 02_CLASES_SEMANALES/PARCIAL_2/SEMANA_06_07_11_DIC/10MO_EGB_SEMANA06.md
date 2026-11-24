@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Semáforo Físico en Protoboard con Arduino UNO *(Grupal Físico)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Trabajo Grupal Físico (45 min)  
 **Entregable:** Visto bueno en vivo + foto grupal del semáforo físico encendido en Classroom.

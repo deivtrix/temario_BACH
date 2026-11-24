@@ -3,7 +3,7 @@
 > [!NOTE]
 > # 📘 CLASE SIN ENTREGA
 **Tema:** Corriente Directa / Continua (DC) y Polaridad (`📘 TEMA NUEVO`)  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 1 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Visto bueno en vivo en PhET DC (sin nota adicional).

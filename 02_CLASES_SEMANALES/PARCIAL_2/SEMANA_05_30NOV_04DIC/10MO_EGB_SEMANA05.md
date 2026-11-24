@@ -6,7 +6,7 @@
 **Subtemas puntuales (2 nuevos):**
 1. Control de 3 pines digitales independientes (Rojo, Amarillo, Verde) / Secuencia lógica de un semáforo real con `digitalWrite()` y `delay()`.
 2. Conexión ordenada de 3 LEDs + 3 resistencias en protoboard virtual / Validación del código en Tinkercad (base para el Grupal Físico de Semana 6).
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura exprés en Classroom del semáforo funcionando con variables `int`.

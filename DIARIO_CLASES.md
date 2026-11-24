@@ -1,6 +1,6 @@
 # 📔 DIARIO DE CLASES Y TOMA DE DECISIONES (PARCIAL 2)
 
-**Mediador:** David Castro | **Materia:** Robótica y Tecnología  
+**Cargo:** Mediador | **Materia:** Robótica y Tecnología  
 **Última actualización:** Martes 24 de noviembre de 2026 (07:51)  
 **Modo de uso:** *Tú solo me cuentas qué pasó en el chat y yo actualizo este diario + [diario_data.json](03_SISTEMA_Y_PLANTILLAS/diario_data.json) y te entrego el reporte en tabla cuando lo pidas.*
 

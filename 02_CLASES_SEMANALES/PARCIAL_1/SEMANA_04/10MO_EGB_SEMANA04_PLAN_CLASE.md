@@ -7,7 +7,7 @@
 * **Curso:** 10mo EGB  
 * **Duración:** 45 Minutos  
 * **Modalidad de Trabajo:** 🛠️ **Montaje Práctico en Mesa de Taller / Simulación en Tinkercad Circuits**.  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Diapositivas Oficiales Base:** `CA.1.RB.5.PR.26-27 (Ard mod1)` — Diapositivas 38 a 45 (Líneas comunes, energización y Actividad N°3: Serie y Paralelo).  
 * **Estado de Ejecución:** ✅ **ACTIVIDAD PRÁCTICA FORMATIVA EJECUTADA (No calificada, sin informe escrito)**.
 

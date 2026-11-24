@@ -1,6 +1,6 @@
 # 🗓️ CONTROL DE CALENDARIO Y ALCANCE POR PARALELO (2026 - 2027)
 
-**Mediador:** David Castro | **Materia:** Robótica y Tecnología  
+**Cargo:** Mediador | **Materia:** Robótica y Tecnología  
 **Propósito:** Llevar el avance real de los **21 paralelos** de lunes a viernes y activar **planes de alcance** automáticos cuando un paralelo pierde clase.
 
 > **Regla Operativa por Nivel:**

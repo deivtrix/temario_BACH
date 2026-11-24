@@ -3,7 +3,7 @@
 > [!TIP]
 > # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Seguridad Eléctrica: Falsos Contactos, Cortocircuitos y Breakers (`🛠️ REFUERZO`)  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Refuerzo Práctico (45 min)  
 **Entregable:** Visto bueno en vivo (sin nota adicional).

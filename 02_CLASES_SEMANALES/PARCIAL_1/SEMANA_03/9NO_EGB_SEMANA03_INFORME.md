@@ -7,7 +7,7 @@
 * **Estudiante:** ___________________________________________________________
 * **Curso y Paralelo:** 9no EGB "____"
 * **Fecha:** ____ / ____ / 2026
-* **Docente:** Ing. David Castro T.
+* **Docente:** Ing. T.
 * **Tema según Diapositivas:** Modelado CAD en Tinkercad (Conceptos de Diseño y Formas)
 
 ---

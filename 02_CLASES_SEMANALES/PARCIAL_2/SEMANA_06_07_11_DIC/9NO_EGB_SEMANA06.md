@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Proyecto Grupal 3D: Vehículo / Carro — Parte 2 *(Grupal)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Trabajo Autónomo Grupal (45 min)  
 **Entregable:** Captura final del Carro 3D terminado con nombres del grupo en Classroom.

@@ -1,8 +1,7 @@
 # 🧠 ARCHIVO DE MEMORIA Y CONTEXTO DEL CURSO (2026 - 2027)
-**Mediador:** David Castro  
-**Materia:** Robótica y Tecnología  
+**Cargo:** Mediador | **Materia:** Robótica y Tecnología  
 
-> ⚠️ **REGLA DE ORO PERMANENTE:** El único nombre y cargo oficial es **Mediador: David Castro**. NUNCA usar `Ing.`, `Docente` ni `Profesor`, ni asumir autores de archivos heredados.
+> ⚠️ **REGLA DE ORO PERMANENTE:** El único cargo oficial es **Mediador** (sin nombre propio). **NUNCA** escribir el nombre propio del mediador ni usar `Ing.`, `Docente` ni `Profesor` en ningún archivo, guion, diapositiva, video o prompt.
 
 ---
 
@@ -100,7 +99,7 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 * **Respetar la progresión eléctrica:** PhET básico + Limones (8vo P1) $\rightarrow$ Conductores, Empalmes, DC, AC y Breakers (8vo P2) $\rightarrow$ Electrostática, Ley de Ohm + Vista Esquemática, Serie/Paralelo y Masa Conductora (8vo P3) $\rightarrow$ Código de colores, Lógica `AND/OR`, LDR/Potenciómetro y Luz Nocturna con Transistor sin protoboard (9no P4) $\rightarrow$ Protoboard física + Arduino C++ (10mo).
 
 ### ❌ QUÉ NO HACER JAMÁS
-* **NUNCA** poner el nombre del mediador (`David Castro`, `Ing.`, `Docente`, `Profesor`) en diapositivas, videos ni prompts de NotebookLM.
+* **NUNCA** poner el nombre propio del mediador (ni `Ing.`, `Docente`, `Profesor`) en ningún archivo, guion, diapositiva, video ni prompt de NotebookLM.
 * **NUNCA** poner fechas ni `"Semana X"` en diapositivas o videos (usar `BLOQUE 1` / `BLOQUE 2`).
 * **NUNCA** amarrar entregables (`"sube captura"`, `"en Classroom"`) ni cantidad fija de preguntas (`"5 preguntas"`, `"4 casos"`).
 * **NUNCA** generar 1 presentación de 10–12 slides por cada clase suelta (~60/parcial); usar siempre el estándar de **2 Bloques por parcial** (`10–12` slides por bloque) y **máx. 2 subtemas nuevos por clase** sin repetir lo ya visto.

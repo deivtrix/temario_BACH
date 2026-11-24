@@ -3,7 +3,7 @@
 > [!TIP]
 > # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Refuerzo 3D: Casa en Tinkercad — Parte 2 y Cierre *(Refuerzo)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Cierre de Proyecto y Quimestre (45 min)  
 **Entregable:** Captura final de la Casa 3D terminada + revisión previa a quimestrales.

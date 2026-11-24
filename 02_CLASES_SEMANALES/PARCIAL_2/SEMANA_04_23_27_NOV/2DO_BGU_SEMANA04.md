@@ -6,7 +6,7 @@
 **Subtemas puntuales (2 nuevos):**
 1. Diseño paramétrico por bloques vs. diseño 3D manual / Creación de primitivas (cubos/cilindros) con dimensiones exactas.
 2. Posicionamiento en ejes `X, Y, Z` con el bloque `Mover` / Unión de sólidos con `Crear grupo` para generar una sola pieza 3D.
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura exprés del modelo 3D generado por código + bloques visibles en Classroom.

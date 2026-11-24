@@ -3,7 +3,7 @@
 > [!TIP]
 > # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Refuerzo: Diseño Libre Programado en Codeblocks *(Refuerzo)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Refuerzo Creativo (45 min)  
 **Entregable:** Visto bueno en vivo / captura opcional de nivelación en Classroom.

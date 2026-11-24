@@ -1,6 +1,6 @@
 # 🗺️ ÍNDICE MAESTRO DEL REPOSITORIO — `temario_BACH`
 
-**Materia:** Robótica y Tecnología (8vo EGB a 3ro BGU) | **Mediador:** David Castro
+**Materia:** Robótica y Tecnología (8vo EGB a 3ro BGU) | **Cargo:** Mediador
 
 ---
 

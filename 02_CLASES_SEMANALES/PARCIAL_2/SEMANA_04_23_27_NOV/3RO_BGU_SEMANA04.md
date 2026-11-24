@@ -6,7 +6,7 @@
 **Subtemas puntuales (2 nuevos):**
 1. Pines digitales del ESP32 (3.3V) y resistencia protectora por LED / Secuencia temporizada de 3 estados (Verde $\rightarrow$ Amarillo $\rightarrow$ Rojo).
 2. Monitoreo de estado en tiempo real con `Serial.println()` / Simulación y prueba de circuito en Wokwi.
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema Nuevo / Ambientación (45 min)  
 **Entregable:** Práctica en vivo en Wokwi sin entrega obligatoria *(Ind. 1 y 2 ya completas en Classroom)*.

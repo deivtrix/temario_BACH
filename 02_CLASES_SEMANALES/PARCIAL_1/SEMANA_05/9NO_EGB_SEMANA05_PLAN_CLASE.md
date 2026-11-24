@@ -7,7 +7,7 @@
 * **Curso:** 9no EGB  
 * **Duración:** 45 Minutos  
 * **Modalidad de Trabajo:** 💻 **100% PRÁCTICA EN COMPUTADORA (Autodesk Tinkercad 3D)**.  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Diapositivas Oficiales Base:** `CA.1.RB.4.NV.26-27` — Diapositivas 21 a 25 (CAD vs CAM, Espacio 3D y Operaciones Sólido/Hueco).  
 * **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Solo se sube **1 sola captura de pantalla** del modelo 3D terminado a Google Classroom durante los últimos 5 minutos de clase.
 

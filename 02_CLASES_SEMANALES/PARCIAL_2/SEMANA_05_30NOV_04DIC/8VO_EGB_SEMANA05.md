@@ -7,7 +7,7 @@
 **Subtemas puntuales (2 nuevos):**
 1. Diferencia visual entre onda plana (DC) y onda senoidal (AC) en el Osciloscopio / Uso de Pila 9V / Fuente DC en Tinkercad Circuits.
 2. Uso del Generador de Funciones (señal AC) en Tinkercad Circuits / Medición práctica de voltaje con Multímetro virtual.
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema Nuevo + Simulación Práctica (45 min)  
 **Entregable:** Visto bueno en vivo en Tinkercad Circuits *(sin entrega en Classroom)*.

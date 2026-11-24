@@ -7,7 +7,7 @@
 * **Estudiante:** ___________________________________________________________
 * **Curso y Paralelo:** 1ro BGU "____"
 * **Fecha:** ____ / ____ / 2026
-* **Docente:** Ing. David Castro T.
+* **Docente:** Ing. T.
 * **Tema:** Toma de Decisiones en Arduino C++ con `if - else` (Mayor de 2 valores y Promedio de 3 Notas)
 
 ---

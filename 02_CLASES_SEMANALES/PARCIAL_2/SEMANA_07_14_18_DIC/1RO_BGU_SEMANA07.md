@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Theremin Musical Controlado por Luz (LDR + Buzzer `tone()`) *(Grupal Físico — Kits Arduino)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Montaje Grupal Físico en Kit Arduino (45 min) *(usando código validado en S6)*  
 **Entregable:** Visto bueno en vivo del kit físico sonando + Informe corto grupal anti-IA en Classroom.

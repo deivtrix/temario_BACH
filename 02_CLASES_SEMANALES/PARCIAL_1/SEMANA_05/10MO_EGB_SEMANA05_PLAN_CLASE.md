@@ -7,7 +7,7 @@
 * **Curso:** 10mo EGB  
 * **Duración:** 45 Minutos  
 * **Modalidad de Trabajo:** 🛠️ **100% PRÁCTICA ACTIVA (Armado Físico con Arduino UNO en Mesa o Tinkercad Circuits en PC)**.  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Diapositivas Oficiales Base:** `CA.1.RB.5.PR.26-27 (Ard mod1)` — Diapositivas 55 a 63 (Clase 4: Arduino Módulo 1, Salidas Digitales).  
 * **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Evaluación 100% formativa en vivo: el docente revisa en pantalla o mesa el foco titilando con el código personalizado del alumno.
 

@@ -3,7 +3,7 @@
 > [!WARNING]
 > # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Formulario de Mejora de Calificaciones + Repaso Base ESP32 en Wokwi  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 1 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Recuperación y Nivelación Autónoma (45 min)  
 **Entregable:** Formulario de recuperación enviado + verificación en Wokwi (para quienes debían práctica).

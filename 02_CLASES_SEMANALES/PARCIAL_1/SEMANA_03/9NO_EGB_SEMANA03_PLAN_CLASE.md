@@ -7,7 +7,7 @@
 * **Curso:** 9no EGB  
 * **Duración:** 45 Minutos  
 * **Modalidad:** 💻 100% Computadoras (Navegador Web).  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Diapositivas de Referencia:** `CA.1.RB.4.NV.26-27` (Páginas 21 a 25: Conceptos de Diseño CAD en Tinkercad).  
 * **Herramienta:** [Autodesk Tinkercad 3D](https://www.tinkercad.com/).  
 * **Entregable:** Informe de práctica con captura de pantalla y preguntas cortas en Google Classroom.

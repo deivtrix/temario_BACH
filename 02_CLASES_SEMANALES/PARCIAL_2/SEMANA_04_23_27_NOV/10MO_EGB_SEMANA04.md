@@ -6,7 +6,7 @@
 **Subtemas puntuales (2 nuevos):**
 1. Estructura base de Arduino: `void setup()` vs. `void loop()` / Configuración de salida digital con `pinMode(pin, OUTPUT)`.
 2. Encendido, apagado y pausas (`digitalWrite` + `delay`) / Simulación segura de LED con resistencia en Tinkercad.
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Práctica guiada en aula sin entrega obligatoria *(Ind. 1 y 2 ya completas en Classroom)*.

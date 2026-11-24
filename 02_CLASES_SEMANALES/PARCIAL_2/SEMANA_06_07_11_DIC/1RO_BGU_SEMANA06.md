@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Theremin Musical Controlado por Luz (LDR + Buzzer `tone()`) *(Simulación Virtual en Tinkercad)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Mini-teoría (10 min) + Simulación Virtual en Tinkercad (30 min) + Cierre (5 min)  
 **Entregable:** Circuito y código probados en Tinkercad *(base para armar el Grupal Físico en Semana 7 — sin chocar kits con 10mo EGB)*.

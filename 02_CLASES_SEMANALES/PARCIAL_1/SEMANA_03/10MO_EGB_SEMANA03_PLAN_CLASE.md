@@ -7,7 +7,7 @@
 * **Curso:** 10mo EGB  
 * **Duración:** 45 Minutos  
 * **Modalidad:** 💻 100% Virtual en Computadoras (Tinkercad Circuits + Cuaderno de apuntes).  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Diapositivas Oficiales:** `CA.1.RB.5.PR.26-27 (Ard mod1)` — Diapositivas 38 a 44.  
 * **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Evaluación 100% formativa en pantalla y verificación directa del docente en el laboratorio. Cero tareas pesadas para la casa.
 

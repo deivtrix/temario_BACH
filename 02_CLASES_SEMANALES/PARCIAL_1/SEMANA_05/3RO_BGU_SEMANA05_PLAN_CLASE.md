@@ -7,7 +7,7 @@
 * **Curso:** 3ro BGU  
 * **Duración:** 45 Minutos  
 * **Modalidad de Trabajo:** 💻 **100% PRÁCTICA EN COMPUTADORA (Simulador Wokwi ESP32 / Arduino IDE)**.  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Software / Plataforma:** [Wokwi ESP32 Simulator](https://wokwi.com/projects/new/esp32) (Simulador Web interactivo de ESP32 sin instalación).  
 * **Política de Entrega:** 🟢 **SIN INFORME ESCRITO.** Solo se entrega **1 sola captura de pantalla** de la simulación activa en Wokwi mostrando el parpadeo del LED y los mensajes en el monitor serial a 115200 baudios.
 

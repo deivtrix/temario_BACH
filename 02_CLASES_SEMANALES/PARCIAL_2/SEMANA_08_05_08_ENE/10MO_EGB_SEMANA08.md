@@ -3,7 +3,7 @@
 > [!NOTE]
 > # 📘 CLASE SIN ENTREGA
 **Tema:** Repaso de Sintaxis C++ y Cierre del Parcial 2 *(Colchón)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
 **Entregable:** Revisión en vivo y nivelación previa a evaluación quimestral.

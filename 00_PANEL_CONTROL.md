@@ -1,5 +1,5 @@
 # 🎛️ PANEL DE CONTROL DEL MEDIADOR (OBSIDIAN 2026 - 2027)
-**Mediador:** David Castro | **Materia:** Robótica y Tecnología  
+**Cargo:** Mediador | **Materia:** Robótica y Tecnología  
 **Última actualización:** 23 de noviembre de 2026 (Parcial 2 — Semana 4)
 
 ---

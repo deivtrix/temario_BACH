@@ -7,7 +7,7 @@
 * **Curso:** 1ro BGU  
 * **Duración:** 45 Minutos  
 * **Modalidad:** 💻 100% Virtual en Computadoras.  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Plataforma:** [Autodesk Tinkercad Circuits](https://www.tinkercad.com/).  
 * **Circuito:** Placa Arduino UNO, protoboard, 1 Foco LED Azul (Pin 8), 1 Foco LED Rojo (Pin 9), 2 resistencias de $220\ \Omega$ a GND.  
 * **Entregable:** Informe individual de práctica en Google Classroom.

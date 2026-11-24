@@ -6,7 +6,7 @@
 **Subtemas puntuales (2 nuevos):**
 1. Generación de tonos en ESP32 con `tone(pin, frecuencia, duracion)` / Control de brillo/intensidad mediante PWM en ESP32.
 2. Conexión segura de Buzzer pasivo en Wokwi / Creación de una alerta sonora + visual sincronizada.
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura en Wokwi con brillo PWM + sonido/melodía en Classroom.

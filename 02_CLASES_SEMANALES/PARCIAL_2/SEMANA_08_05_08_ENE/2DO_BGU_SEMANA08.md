@@ -3,7 +3,7 @@
 > [!NOTE]
 > # 📘 CLASE SIN ENTREGA
 **Tema:** Cierre del Bloque 3D / Codeblocks y Puente a Arduino *(Colchón)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo B — Cierre y Nivelación (45 min)  
 **Entregable:** Revisión final de diseños Sim Lab / Codeblocks.

@@ -7,7 +7,7 @@
 ### 📋 DATOS INFORMATIVOS (LLENAR EN PAREJA)
 * **Curso y Paralelo:** 2do BGU "____"
 * **Código de Actividad:** **AG1 (Actividad Grupal 1)**
-* **Docente / Mediador:** Ing. David Castro T.
+* **Docente / Mediador:** Ing. T.
 * **Fecha de Realización:** ____ / ____ / 2026
 * **Nombres de los Integrantes:**
   * **Estudiante 1:** ___________________________________________________________

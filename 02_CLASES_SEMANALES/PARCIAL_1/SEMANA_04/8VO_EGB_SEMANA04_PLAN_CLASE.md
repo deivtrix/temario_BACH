@@ -7,7 +7,7 @@
 * **Curso:** 8vo EGB  
 * **Duración:** 45 Minutos  
 * **Modalidad de Trabajo:** 💻 **Taller Conceptual y Cuaderno Digital en PC (Canva / Apuntes)**.  
-* **Docente:** Ing. David Castro T.  
+* **Docente:** Ing. T.  
 * **Diapositivas Oficiales Base:** `CA.1.RB.4.OC.26-27 (energía)` — Diapositivas 16 y 17 (Objetivo 3 y Definición de Energía Mecánica).  
 * **Estado de Ejecución:** ✅ **CLASE EJECUTADA EN EL AULA.**
 

@@ -6,7 +6,7 @@
 **Subtemas puntuales (2 nuevos):**
 1. Descomposición de un vehículo 3D en partes (chasis, cabina, ruedas, ejes) / Alineación y simetría de ruedas en Tinkercad 3D.
 2. Uso de piezas sólidas y huecas (`Agrupar`) para detalles del chasis / Proporción y unión de componentes del vehículo en un solo sólido.
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A/B — Modelación (10 min) + Trabajo Grupal (30 min) + Cierre (5 min)  
 **Entregable:** Avance en vivo (chasis y carrocería listos; entrega final en Semana 6).

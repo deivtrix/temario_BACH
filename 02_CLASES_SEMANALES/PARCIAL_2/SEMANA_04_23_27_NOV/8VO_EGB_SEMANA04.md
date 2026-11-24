@@ -7,7 +7,7 @@
 **Subtemas puntuales (2 nuevos):**
 1. Qué es Corriente Directa (DC) y movimiento de sus electrones (un solo sentido) / Qué es Corriente Alterna (AC) y movimiento de sus electrones (van y vienen).
 2. Cómo llega la electricidad a casa y función del transformador de la calle (poste) / Cómo funciona por dentro el cargador / "chanchito" (reductor + rectificador AC $\rightarrow$ DC).
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema Nuevo + Práctica Visual (45 min)  
 **Entregable:** Infografía en aula (10 artefactos DC + 10 artefactos AC). *(Ind. 1 y 2 ya completas en Classroom).*

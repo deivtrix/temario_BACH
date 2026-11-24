@@ -6,7 +6,7 @@
 **Subtemas puntuales (2 nuevos):**
 1. Diferencia entre imagen de píxeles (`.PNG`/`.JPG`) y vector (`.SVG`) / Búsqueda y descarga de vectores `.SVG` limpios en `svgrepo.com`.
 2. Importación del `.SVG` a Tinkercad 3D y extrusión (altura Z / escala) / Ajuste de escala, grosor y preparación del modelo 3D para fabricación.
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A/B — Tema Nuevo + Evaluación Rápida (45 min)  
 **Entregable:** Captura exprés en Classroom del **rótulo 3D terminado** (base + `.SVG` + nombre abajo) o Formulario corto.

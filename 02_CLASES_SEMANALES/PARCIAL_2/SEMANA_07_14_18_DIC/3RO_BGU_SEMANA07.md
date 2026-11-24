@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Proyecto Grupal: Teclado Matricial 4x4 (Piano / Clave de Seguridad) en Wokwi *(Grupal)*  
-**Mediador:** David Castro    
+**Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Proyecto Grupal Wokwi (30 min) + Cierre (5 min)  
 **Entregable:** Captura grupal en Wokwi mostrando el Teclado 4x4 funcionando en Monitor Serial + LED/Buzzer.

@@ -1,6 +1,6 @@
 # 🧭 GUÍA DE PLANIFICACIÓN: 9NO EGB (SEMANAS 3 Y 4)
 **Curso:** 9no EGB (Básica Superior) — Fabricación Digital CAD 3D y Robótica  
-**Docente:** Ing. David Castro T.  
+**Docente:** Ing. T.  
 **Duración por sesión:** 45 Minutos  
 **Diapositivas Oficiales:** `CA.1.RB.4.NV.26-27.pdf`  
 **Filosofía de Aula:** 🟢 **100% Práctica Formativa en Laboratorio | Cero Entregables Pesados**
