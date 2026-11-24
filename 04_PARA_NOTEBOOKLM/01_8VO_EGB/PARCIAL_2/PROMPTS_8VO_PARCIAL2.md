@@ -14,7 +14,11 @@ ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 
 Reglas obligatorias:
 1. Portada con etiqueta 👤 ACTIVIDAD INDIVIDUAL + Propósito LEV + "¿Para qué me sirve en la vida real?".
-2. Formato híbrido: láminas visuales claras sobre electrones libres (conductores) vs. fuertemente unidos (aislantes) + ejemplos cotidianos + enunciado breve del reto individual.
+2. Formato híbrido cubriendo estos 4 subtemas puntuales en orden:
+   - Paso 1: Qué es un conductor y cómo se comportan sus electrones (electrones libres).
+   - Paso 2: Qué es un aislante y cómo se comportan sus electrones (fuertemente unidos).
+   - Paso 3: Ejemplos cotidianos seguros vs. riesgosos.
+   - Paso 4: Enunciado breve del reto individual (sin regalar respuestas).
 3. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados ("sube a Classroom"), "Continuará..." o adelantos del próximo episodio.
 ```
 
@@ -30,7 +34,11 @@ ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 
 Reglas obligatorias:
 1. Portada con etiqueta 👤 ACTIVIDAD INDIVIDUAL + Propósito LEV + "¿Para qué me sirve en la vida real?".
-2. Formato híbrido: diagrama visual paso a paso de los 3 empalmes (Cola de Rata, Western Union y Derivación en T) + materiales, seguridad con cinta aislante y verificación con pila 9V.
+2. Formato híbrido cubriendo estos 4 subtemas puntuales en orden:
+   - Paso 1: Materiales y regla de seguridad (pelado limpio, uso de cinta aislante).
+   - Paso 2: Empalme Cola de Rata (unión de puntas paralelas).
+   - Paso 3: Empalme Western Union (unión en línea recta resistente a tracción).
+   - Paso 4: Derivación en T y prueba segura con pila 9V.
 3. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo episodio.
 ```
 
@@ -46,7 +54,11 @@ ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 
 Reglas obligatorias:
 1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + qué haremos hoy + "¿Para qué me sirve en la vida real?".
-2. Formato híbrido: flujo unidireccional de electrones, polaridad (+ y -), pilas/USB y qué pasa al invertir polaridad en componentes.
+2. Formato híbrido cubriendo estos 4 subtemas puntuales en orden:
+   - Paso 1: Qué es la Corriente Directa (DC) y flujo unidireccional de electrones.
+   - Paso 2: Qué es la polaridad (+ positivo y - negativo).
+   - Paso 3: Fuentes DC cotidianas (pilas, baterías, puertos USB).
+   - Paso 4: Qué pasa al invertir la polaridad en un LED o motor.
 3. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo episodio.
 ```
 
@@ -104,7 +116,11 @@ ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
 
 Reglas obligatorias:
 1. Portada con etiqueta 🛠️ REFUERZO + Propósito LEV + "¿Para qué me sirve en la vida real?".
-2. Formato híbrido: mapa visual de errores comunes y casos de diagnóstico ("Inspector de Seguridad"): falso contacto, cortocircuito y función del breaker/fusible.
+2. Formato híbrido cubriendo estos 4 subtemas puntuales en orden:
+   - Paso 1: Qué es un falso contacto y por qué calienta los cables.
+   - Paso 2: Qué es un cortocircuito y por qué es peligroso.
+   - Paso 3: Cómo protegen el fusible y el breaker (interruptor termomagnético).
+   - Paso 4: Reglas prácticas de prevención en casa y laboratorio.
 3. Incluye 3 casos rápidos de diagnóstico SIN mostrar las respuestas visibles en las diapositivas.
 4. PROHIBIDO poner nombres de profesor/mediador, fechas, "Semana X", entregables amarrados, "Continuará..." o adelantos del próximo episodio.
 ```
