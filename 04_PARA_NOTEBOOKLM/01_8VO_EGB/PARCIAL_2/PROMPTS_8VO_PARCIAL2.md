@@ -6,7 +6,11 @@
 
 ## 1. CAPÍTULO #1 — Conductores y Aislantes (`👤 ACTIVIDAD INDIVIDUAL`)
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Conductores y Aislantes", etiqueta 👤 ACTIVIDAD INDIVIDUAL) basado en el CAPÍTULO #1 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Conductores y Aislantes", etiqueta 👤 ACTIVIDAD INDIVIDUAL) basado en el CAPÍTULO #1 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+- Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (problema concreto que solo se resuelve con este tema) -> Meollo (teoría esencial con diagramas y consejos preventivos) -> Final (resuelven el problema inicial).
 
 Reglas obligatorias:
 1. Portada con etiqueta 👤 ACTIVIDAD INDIVIDUAL + Propósito LEV + "¿Para qué me sirve en la vida real?".
@@ -18,7 +22,11 @@ Reglas obligatorias:
 
 ## 2. CAPÍTULO #2 — Taller de Empalmes Seguros (`👤 ACTIVIDAD INDIVIDUAL`)
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Taller de Empalmes Seguros", etiqueta 👤 ACTIVIDAD INDIVIDUAL) basado en el CAPÍTULO #2 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Taller de Empalmes Seguros", etiqueta 👤 ACTIVIDAD INDIVIDUAL) basado en el CAPÍTULO #2 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+- Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (problema concreto que solo se resuelve con este tema) -> Meollo (teoría esencial con diagramas y consejos preventivos) -> Final (resuelven el problema inicial).
 
 Reglas obligatorias:
 1. Portada con etiqueta 👤 ACTIVIDAD INDIVIDUAL + Propósito LEV + "¿Para qué me sirve en la vida real?".
@@ -30,7 +38,11 @@ Reglas obligatorias:
 
 ## 3. CAPÍTULO #3 — Corriente Directa (DC) y Polaridad
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Corriente Directa (DC) y Polaridad") basado en el CAPÍTULO #3 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Corriente Directa (DC) y Polaridad") basado en el CAPÍTULO #3 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+- Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (problema concreto que solo se resuelve con este tema) -> Meollo (teoría esencial con diagramas y consejos preventivos) -> Final (resuelven el problema inicial).
 
 Reglas obligatorias:
 1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + qué haremos hoy + "¿Para qué me sirve en la vida real?".
@@ -42,7 +54,11 @@ Reglas obligatorias:
 
 ## 4. CAPÍTULO #4 — De la Calle al Cargador (AC vs. DC y Transformadores)
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("De la Calle al Cargador: AC, Transformadores y DC") basado en el CAPÍTULO #4 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("De la Calle al Cargador: AC, Transformadores y DC") basado en el CAPÍTULO #4 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+- Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (problema concreto que solo se resuelve con este tema) -> Meollo (teoría esencial con diagramas y consejos preventivos) -> Final (resuelven el problema inicial).
 
 Reglas obligatorias:
 1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + qué haremos hoy + "¿Para qué me sirve en la vida real?".
@@ -59,7 +75,11 @@ Reglas obligatorias:
 
 ## 2. CAPÍTULO #5 — Midiendo Ondas AC y DC en Tinkercad (Osciloscopio + Multímetro)
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Midiendo Ondas AC y DC en Tinkercad") basado en el CAPÍTULO #5 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Midiendo Ondas AC y DC en Tinkercad") basado en el CAPÍTULO #5 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+- Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (problema concreto que solo se resuelve con este tema) -> Meollo (teoría esencial con diagramas y consejos preventivos) -> Final (resuelven el problema inicial).
 
 Reglas obligatorias:
 1. Redacta el Propósito usando un verbo en infinitivo de la Taxonomía LEV + qué haremos hoy + "¿Para qué me sirve en la vida real?".
@@ -76,7 +96,11 @@ Reglas obligatorias:
 
 ## 3. CAPÍTULO #6 — Seguridad Eléctrica: Falsos Contactos, Cortocircuitos y Breakers (`🛠️ REFUERZO`)
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Inspector de Seguridad Eléctrica", etiqueta 🛠️ REFUERZO) basado en el CAPÍTULO #6 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como un capítulo autoconclusivo independiente ("Inspector de Seguridad Eléctrica", etiqueta 🛠️ REFUERZO) basado en el CAPÍTULO #6 de FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+- Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (problema concreto que solo se resuelve con este tema) -> Meollo (teoría esencial con diagramas y consejos preventivos) -> Final (resuelven el problema inicial).
 
 Reglas obligatorias:
 1. Portada con etiqueta 🛠️ REFUERZO + Propósito LEV + "¿Para qué me sirve en la vida real?".
@@ -89,7 +113,11 @@ Reglas obligatorias:
 
 ## 4. CAPÍTULO #7 — Cierre de Parcial 2 y Autoevaluación (`🛠️ REFUERZO`)
 ```text
-Crea una presentación estilo cómic educativo en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como capítulo de cierre ("Cierre y Autoevaluación", etiqueta 🛠️ REFUERZO) basado en FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+Crea una presentación estilo cómic educativo de las Tortugas Ninja en español para estudiantes de 8vo EGB (12-13 años) del Volumen 2: "Conductores, Empalmes y Seguridad Eléctrica", como capítulo de cierre ("Cierre y Autoevaluación", etiqueta 🛠️ REFUERZO) basado en FUENTE_8VO_EGB_PARCIAL2_COMPLETO.md.
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+- Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (problema concreto que solo se resuelve con este tema) -> Meollo (teoría esencial con diagramas y consejos preventivos) -> Final (resuelven el problema inicial).
 
 Reglas obligatorias:
 1. Portada con etiqueta 🛠️ REFUERZO + Propósito LEV.
@@ -104,6 +132,10 @@ Reglas obligatorias:
 ## 5. 🎬 VIDEO DE REPASO DEL PARCIAL 2 (Studio -> Video | SIN PERSONAJES)
 ```text
 Crea un video explicativo de repaso teórico ordenado para estudiantes de 8vo EGB (12-13 años) sobre "Conductores, Empalmes y Seguridad Eléctrica", cubriendo en orden: conductores vs. aislantes, empalmes seguros, corriente directa (DC) vs. corriente alterna (AC), recorrido de la electricidad a casa y cargadores, medición de ondas en osciloscopio, y seguridad eléctrica (cortocircuitos y breakers).
+
+ELENCO Y ALTERNANCIA VISUAL (CÓMIC + LÁMINA DE ESTUDIO):
+- Usa únicamente personajes de las Tortugas Ninja en TODAS las diapositivas: Leonardo, Donatello, Rafael, Miguel Ángel y Krang (prohibido dibujar niños genéricos, profesores o personajes externos).
+- TRAMA EN 3 ACTOS: Inicio (problema concreto que solo se resuelve con este tema) -> Meollo (teoría esencial con diagramas y consejos preventivos) -> Final (resuelven el problema inicial).
 
 Reglas obligatorias:
 - SIN personajes de cómics (usa diagramas limpios, animaciones de flujo de electrones, íconos y ejemplos cotidianos).
