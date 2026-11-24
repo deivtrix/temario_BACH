@@ -1,7 +1,7 @@
 # 🟣 2DO BGU — PARCIAL 2 / SEMANA 8 (5 – 8 ene)
 
 > [!NOTE]
-> # 📘 CLASE PRÁCTICA (Sin entrega obligatoria)
+> # 📘 CLASE SIN ENTREGA
 **Tema:** Cierre del Bloque 3D / Codeblocks y Puente a Arduino *(Colchón)*  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo B — Cierre y Nivelación (45 min)  

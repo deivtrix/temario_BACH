@@ -1,7 +1,7 @@
 # 📘 8VO EGB — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
 
 > [!NOTE]
-> # 📘 CLASE PRÁCTICA (Sin entrega obligatoria)
+> # 📘 CLASE SIN ENTREGA
 **Tema:** Corriente Alterna (AC) y Transformación a DC (`📘 TEMA NUEVO`)  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  

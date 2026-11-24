@@ -1,7 +1,7 @@
 # 🟣 2DO BGU — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
 
 > [!NOTE]
-> # 📘 CLASE PRÁCTICA (Sin entrega obligatoria)
+> # 📘 CLASE SIN ENTREGA
 **Tema:** Proyecto Codeblocks: Engranaje o Mecanismo Paramétrico  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo B — Práctica Autónoma Evaluada (45 min)  

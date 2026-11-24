@@ -1,7 +1,7 @@
 # 📘 10MO EGB — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
 
 > [!NOTE]
-> # 📘 CLASE PRÁCTICA (Sin entrega obligatoria)
+> # 📘 CLASE SIN ENTREGA
 **Tema:** Múltiples Salidas Digitales: Semáforo en Tinkercad  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  

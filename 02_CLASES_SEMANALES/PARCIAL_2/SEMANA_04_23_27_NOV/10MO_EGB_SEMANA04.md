@@ -1,7 +1,7 @@
 # 📘 10MO EGB — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
 
 > [!NOTE]
-> # 📘 CLASE PRÁCTICA (Sin entrega obligatoria)
+> # 📘 CLASE SIN ENTREGA
 **Tema:** Primer Programa en Arduino (*Blink*) en Tinkercad  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
