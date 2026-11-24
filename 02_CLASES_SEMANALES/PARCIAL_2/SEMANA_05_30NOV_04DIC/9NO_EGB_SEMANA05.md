@@ -3,6 +3,11 @@
 > [!IMPORTANT]
 > # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Proyecto Grupal 3D: Vehículo / Carro — Parte 1 *(Grupal)*  
+**Subtemas puntuales (4):**
+1. Descomposición de un vehículo 3D en partes (chasis, cabina, ruedas, ejes).
+2. Alineación y simetría de ruedas en Tinkercad 3D.
+3. Uso de piezas sólidas y huecas (`Agrupar`) para detalles del chasis.
+4. Trabajo colaborativo en equipo (Parte 1 — Grupal).
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A/B — Modelación (10 min) + Trabajo Grupal (30 min) + Cierre (5 min)  
 **Entregable:** Avance en vivo (chasis y carrocería listos; entrega final en Semana 6).
@@ -42,6 +47,16 @@ AVANCE DE HOY (Sin entrega final aún):
 2. Usen formas huecas para recortar ventanas/cabina y espacios para las ruedas.
 3. Guarden el proyecto con los nombres del grupo; la próxima semana agregamos ejes, ruedas y entregamos la captura final.
 ```
+
+---
+
+## ❓ PREGUNTAS DE CIERRE (CON RESPUESTA ESPERADA)
+1. **¿Por qué conviene diseñar el chasis y las ruedas por separado antes de agrupar?**
+   * *Respuesta esperada:* Para poder alinearlas con precisión y ajustar su tamaño sin deformar todo el vehículo.
+2. **¿Qué herramienta de Tinkercad usamos para centrar exactamente las ruedas respecto al chasis?**
+   * *Respuesta esperada:* La herramienta *Alinear* (`L`).
+3. **¿Para qué sirve convertir una figura en "Hueco" antes de agrupar?**
+   * *Respuesta esperada:* Para perforar o recortar espacios (como ventanas o pasos de rueda) en el sólido principal.
 
 ---
 

@@ -3,6 +3,11 @@
 > [!NOTE]
 > # 📘 CLASE SIN ENTREGA
 **Tema:** Poste de Alumbrado Público Automático (Sensor LDR)  
+**Subtemas puntuales (4):**
+1. Cómo funciona una fotorresistencia (LDR): cambia su resistencia según la luz.
+2. Armado del divisor de voltaje (LDR + resistencia fija) en pin analógico `A0`.
+3. Lectura de valores de luz con `analogRead(A0)` y umbral `>` / `<`.
+4. Encendido automático de LED al oscurecer (Poste de Alumbrado en Tinkercad).
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura en Tinkercad / visto bueno en kit físico + lectura serial en Classroom.
@@ -30,6 +35,16 @@
   1. *"¿Por qué la LDR necesita una resistencia de $10\text{k}\Omega$ hacia `GND` para poder leerse en `A0`?"*
   2. *"¿Qué número marcó tu Monitor Serial con luz vs. tapado con el dedo?"*
 * **Cierre:** Visto bueno en kit / subida de captura con valores reales en Classroom.
+---
+
+## ❓ PREGUNTAS DE CIERRE (CON RESPUESTA ESPERADA)
+1. **¿Qué ocurre con el valor de `analogRead()` cuando tapamos la LDR con la mano?**
+   * *Respuesta esperada:* El valor cambia (sube o baja según cómo esté armado el divisor de voltaje) indicando menos luz.
+2. **¿Por qué la LDR necesita una resistencia fija acompañándola en el circuito?**
+   * *Respuesta esperada:* Para formar un divisor de voltaje que permita al Arduino leer variaciones de tensión en `A0`.
+3. **¿Qué estructura de control usamos para decidir si el poste se enciende o se apaga?**
+   * *Respuesta esperada:* Una condición `if / else` comparando la lectura contra un umbral.
+
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

@@ -3,6 +3,11 @@
 > [!NOTE]
 > # 📘 CLASE SIN ENTREGA
 **Tema:** Múltiples Salidas Digitales: Semáforo en Tinkercad  
+**Subtemas puntuales (4):**
+1. Control de 3 pines digitales independientes (Rojo, Amarillo, Verde).
+2. Secuencia lógica de un semáforo real con `digitalWrite()` y `delay()`.
+3. Conexión ordenada de 3 LEDs + 3 resistencias en protoboard virtual.
+4. Validación del código en Tinkercad (base para el Grupal Físico de Semana 6).
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura exprés en Classroom del semáforo funcionando con variables `int`.
@@ -29,6 +34,16 @@
   1. *"¿Para qué sirve declarar `int rojo = 13;` al inicio del código?"*
   2. *"¿Qué pasa si olvidas apagar el LED anterior con `LOW` antes de encender el siguiente?"*
 * **Cierre:** Subir captura de Tinkercad con el código y el semáforo encendido a Classroom.
+---
+
+## ❓ PREGUNTAS DE CIERRE (CON RESPUESTA ESPERADA)
+1. **¿Cuántas resistencias necesita un semáforo de 3 LEDs y por qué?**
+   * *Respuesta esperada:* 3 resistencias (una por cada LED) para proteger cada pin y evitar que se quemen.
+2. **¿Qué pasa si olvidamos apagar el LED verde (`LOW`) cuando encendemos el amarillo (`HIGH`)?**
+   * *Respuesta esperada:* Quedan encendidos dos colores al mismo tiempo, rompiendo la lógica del semáforo.
+3. **¿Por qué probamos primero el semáforo en Tinkercad antes de armarlo en físico?**
+   * *Respuesta esperada:* Para verificar que el código y las conexiones funcionan sin riesgo de dañar componentes reales.
+
 ---
 
 ## 🎨 PROMPT PARA NOTEBOOKLM

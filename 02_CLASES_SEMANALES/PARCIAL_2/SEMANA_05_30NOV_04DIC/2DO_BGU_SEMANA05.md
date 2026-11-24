@@ -3,6 +3,11 @@
 > [!IMPORTANT]
 > # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
 **Tema:** Bucles y Rotación en Tinkercad Codeblocks (Escalera / Torre Paramétrica) *(Individual 2)*  
+**Subtemas puntuales (4):**
+1. Concepto de bucle `repetir` en Codeblocks para evitar bloques duplicados.
+2. Uso de variables o incrementos en `Z` para subir cada escalón.
+3. Rotación incremental alrededor del eje `Z` (escalera en espiral / torre).
+4. Evaluación rápida (Formulario corto — Individual 2).
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Formulario corto auto-calificable en Classroom (5 preguntas sobre bucles/rotación) o captura exprés.
@@ -45,6 +50,16 @@ INSTRUCCIONES:
 
 Calificación: 10 puntos (Práctica de clase).
 ```
+
+---
+
+## ❓ PREGUNTAS DE CIERRE (CON RESPUESTA ESPERADA)
+1. **¿Qué ventaja tiene usar un bucle `repetir` frente a copiar y pegar 10 veces los mismos bloques?**
+   * *Respuesta esperada:* Reduce el código, evita errores manuales y permite cambiar el número de escalones en un solo lugar.
+2. **¿Qué dos transformaciones combinamos dentro del bucle para lograr una escalera en espiral?**
+   * *Respuesta esperada:* `Mover` en el eje `Z` (altura) y `Rotar` alrededor del eje `Z`.
+3. **¿Dónde se coloca el bloque `Crear grupo` cuando usamos un bucle?**
+   * *Respuesta esperada:* Al final, fuera del bucle, para unir todas las piezas generadas en un solo objeto.
 
 ---
 

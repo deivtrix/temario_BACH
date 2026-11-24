@@ -1,8 +1,13 @@
 # 🟠 3RO BGU — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
 
-> [!IMPORTANT]
-> # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
-**Tema:** ESP32 PWM y Buzzer (Zumbador) en Wokwi *(Individual 2)*  
+> [!NOTE]
+> # 📘 CLASE SIN ENTREGA
+**Tema:** ESP32 PWM y Buzzer (Zumbador) en Wokwi  
+**Subtemas puntuales (4):**
+1. Generación de tonos en ESP32 con `tone(pin, frecuencia, duracion)`.
+2. Control de brillo/intensidad mediante PWM en ESP32.
+3. Conexión segura de Buzzer pasivo en Wokwi.
+4. Creación de una alerta sonora + visual sincronizada.
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 **Entregable:** Captura en Wokwi con brillo PWM + sonido/melodía en Classroom.
@@ -44,6 +49,16 @@ INSTRUCCIONES:
 
 Calificación: 10 puntos (Actividad Individual 2).
 ```
+
+---
+
+## ❓ PREGUNTAS DE CIERRE (CON RESPUESTA ESPERADA)
+1. **¿Qué parámetro de `tone(pin, frecuencia)` cambia qué tan agudo o grave suena el buzzer?**
+   * *Respuesta esperada:* La frecuencia en Hertz (Hz): a mayor frecuencia, sonido más agudo.
+2. **¿Qué diferencia práctica hay entre un buzzer activo y un buzzer pasivo?**
+   * *Respuesta esperada:* El activo suena con un solo tono al darle corriente; el pasivo permite crear distintas notas musicales con `tone()`.
+3. **¿Para qué sirve `noTone(pin)` después de reproducir una nota?**
+   * *Respuesta esperada:* Para detener el sonido y generar pausas claras entre notas.
 
 ---
 
