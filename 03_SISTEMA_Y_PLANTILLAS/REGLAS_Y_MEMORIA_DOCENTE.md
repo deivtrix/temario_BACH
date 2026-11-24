@@ -109,3 +109,22 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 * **NUNCA** permitir que NotebookLM invente o alucine código por su cuenta: en las láminas previas a construir, priorizar la **teoría esencial y consejos preventivos repetidos** (*resistencia protectora, polaridad, pines `~`, `GND` común*), usando únicamente código verificado de la `FUENTE_...` (cuando corresponda) y **cero código inventado**.
 * **NUNCA** regalar el código/solución/paso a paso resuelto ni las respuestas de tablas/experimentos antes de actividades evaluativas (`👤 Individual` / `👥 Grupal`).
 * **NUNCA** usar sintaxis LaTeX (`$\rightarrow$`, `\text{V}`, `$+$`) en archivos `FUENTE_...` para NotebookLM; usar siempre texto plano limpio (`->`, `110V`, `+`, `-`).
+
+---
+
+## 📚 7. RESPALDO PEDAGÓGICO Y PSICOLÓGICO (AUTORES)
+*(Referencia rápida para justificar el diseño del sistema ante coordinación o auditoría académica).*
+
+| Autor / Referente | Principio aplicado | Cómo se implementa en este sistema |
+| :--- | :--- | :--- |
+| **John Sweller** | Teoría de la Carga Cognitiva & *Worked Examples* | Máx. **2 subtemas nuevos/clase**, **0 repetición**, protocolo de **3 pasos** y **Ejemplo Resuelto anotado** en `10mo–3ro BGU`. |
+| **Richard Mayer** | Aprendizaje Multimedia (Coherencia y Señalización) | **20–24 slides/parcial** (`Sección 1` y `2`) + **Agente Pedagógico 80/20** (80% diagrama limpio + 20% personaje guía en esquina). |
+| **Allan Paivio** | Teoría de la Codificación Dual | **Láminas Ancla** visuales (cómo funciona por dentro con flechas + regla práctica + correcto vs. error). |
+| **John Hattie & Dylan Wiliam** | *Visible Learning* & Evaluación Formativa | **Propósito** + **Criterio observable** (`¿Cómo sé que lo logré?`) al inicio y **2 preguntas sorpresa** al cierre con respuesta simultánea. |
+| **Barak Rosenshine** | Principios de Instrucción | Secuencia de 45 min: **Pregunta relámpago** $\rightarrow$ **2 ideas cortas** $\rightarrow$ **Práctica guiada** $\rightarrow$ **Reto autónomo**. |
+| **Jerome Bruner & H. Ebbinghaus** | Currículo en Espiral & Recuperación Espaciada | No se repite teoría en slides; se conecta oralmente al inicio (**60 seg**) y se compila al final (**Prompt 3: 10 preguntas**). |
+| **Dunlosky, Roediger & Karpicke** | Práctica de Recuperación (*Retrieval Practice*) | **Ficha de 1 pág. + 10 preguntas** sin respuestas visibles para estudiar activamente, en lugar de releer 60+ slides. |
+| **Sue Sentance** | Modelo *PRIMM* (Programación) | **Predicción PRIMM de 30 seg** sobre el Ejemplo Resuelto antes de simular o modificar código en `10mo–3ro BGU`. |
+| **Seymour Papert** | Construccionismo en Robótica | Simulación previa (`PhET`/`Tinkercad`/`Wokwi`) $\rightarrow$ taller físico, enfocado en artefactos reales. |
+| **Deci & Ryan** | Teoría de la Autodeterminación | Conexión con *"¿Dónde lo usas?"*, universos acordes a la edad y **Autoevaluación Likert (1–5)**. |
+| **Fred Jones & Doug Lemov** | Manejo de Aula en Talleres & *Cold Call* | **Protocolo de 3 pasos**, **3 roles rotativos** en grupales, lámina de reto fija en pantalla y **Cold Call** al azar en el cierre. |

@@ -31,5 +31,7 @@ Cuando el usuario reporte novedades de clases, pida un reporte o diga **"actuali
    - Cada guion en `02_CLASES_SEMANALES/PARCIAL_X/SEMANA_XX/` debe tener su **banner superior**, **`📊 Slides: Sección X`**, **`Propósito` + `¿Cómo sé que lo logré?`** y cero prompts largos al pie.
    - Eliminar archivos sueltos duplicados, `__pycache__` o parciales obsoletos/inactivos según indicación del mediador.
 
+   - **Respaldo científico:** Toda la arquitectura (Tomos/Secciones 80/20, Criterio observable, *Cold Call*, *PRIMM*, Protocolo de 3 pasos y Recuperación espaciada) está fundamentada por autor en `03_SISTEMA_Y_PLANTILLAS/REGLAS_Y_MEMORIA_DOCENTE.md` (Sección 7).
+
 5. **Respaldo en GitHub:**
    - Hacer `git add -A`, `git commit -m "..."` y `git push origin main`.
