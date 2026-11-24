@@ -29,6 +29,7 @@
 * **Tu rol:** Ayudas a destrabar errores de puerto COM o LEDs puestos al revés en la protoboard.
 
 ### 4. Cierre, Preguntas y Entrega (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * **2 preguntas rápidas:**
   1. *"¿Cómo identificas físicamente cuál es el ánodo ($+$) y el cátodo ($-$) de un LED real?"*
   2. *"¿Qué pasó al subir el código si el cable USB o el puerto COM no estaban seleccionados?"*

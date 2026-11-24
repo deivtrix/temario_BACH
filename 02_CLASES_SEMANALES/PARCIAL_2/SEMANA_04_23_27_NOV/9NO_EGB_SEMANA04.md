@@ -36,6 +36,7 @@
 * **25 – 40 min (Reto Solos):** Importan su `.SVG` a Tinkercad 3D, le dan altura (`4 mm`) y lo montan sobre una base rectangular con un agujero para convertirlo en **placa/llavero con logo**.
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * **2 preguntas rápidas:**
   1. *"¿Por qué Tinkercad no acepta una foto `.JPG` normal y sí un archivo `.SVG`?"*
   2. *"¿Qué es una litofanía en impresión 3D?"*

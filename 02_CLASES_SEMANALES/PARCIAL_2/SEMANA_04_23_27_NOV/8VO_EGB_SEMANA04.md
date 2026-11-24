@@ -36,6 +36,7 @@
 4. **Práctica en Aula — Infografía 10 + 10 (19 min):**
    * En parejas o individual, crean una infografía visual con **10 artefactos DC** (pilas/USB/cargador) y **10 artefactos AC** (directo a la pared).
 5. **Cierre y Preguntas de Verificación (8 min):**
+   * **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar.
    * **Pregunta 1:** ¿Qué función cumple el transformador del poste de la calle antes de que la luz entre a tu casa?
      * *Respuesta esperada:* Baja el voltaje alto de las líneas de la calle a 110V AC utilizables en el hogar.
    * **Pregunta 2:** ¿Qué dos cosas hace por dentro el "chanchito" o cargador de tu celular?

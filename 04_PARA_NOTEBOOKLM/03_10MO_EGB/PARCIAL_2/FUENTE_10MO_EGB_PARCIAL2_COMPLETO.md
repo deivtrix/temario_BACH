@@ -3,12 +3,10 @@
 **Unidad:** Conexiones Seguras y Primer Código
 **Ya ejecutado al inicio del Parcial 2:** S1: ¿Qué es Arduino? (concepto). S2: Práctica de Empalmes (Taller Calificado Grupal).
 
-
 ---
 
 # CAPÍTULO #1
 **Tema:** Conectores y Aislantes Eléctricos *(Individual 1 — Infografía / Consulta)*  
-**Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Consulta e Infografía Autónoma (30 min) + Cierre (5 min)  
 
 ---
 
@@ -18,139 +16,86 @@
 
 ---
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
+## 📚 CONTENIDO EXPLICATIVO Y PRÁCTICA
 
-### 1. Inicio, Motivación y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"La semana pasada hicimos empalmes torciendo cables y poniendo cinta. Pero cuando un robot vibra o quieres desconectar rápido un Arduino, ¿cómo lo hacen los ingenieros sin usar cinta?"*
-* **Presentar el Propósito (Página 2):** *"Clasificar qué conectores y aislantes usar para unir cables sin que se suelten ni hagan corto."**clasificar** conectores y aislantes modernos para realizar uniones seguras y ordenadas en electrónica y robótica."*
+### Teoría Puntual
+* **Conectores:** Explicar **Jumper/Dupont** (para Arduino/protoboard), **Borneras/Clemas** (tornillo seguro) y **Capuchones/Caimanes** (pruebas).
+* **Aislantes:** Explicar **Cinta PVC**, **Tubo Termocontraíble** (se encoge con calor) y **Silicona/Cerámica** (alta temperatura).
 
-### 2. Teoría Relámpago (05 – 15 min | máx. 10 min)
-* **Proyectar Página 3 (Conectores):** Explicar **Jumper/Dupont** (para Arduino/protoboard), **Borneras/Clemas** (tornillo seguro) y **Capuchones/Caimanes** (pruebas).
-* **Proyectar Página 4 (Aislantes):** Explicar **Cinta PVC**, **Tubo Termocontraíble** (se encoge con calor) y **Silicona/Cerámica** (alta temperatura).
-
-### 3. Trabajo Individual en Canva (15 – 40 min)
-* **Instrucción (Página 5 y 6):** *"Abran Canva en formato de 1 página. Armen una infografía con 4 conectores (incluyendo Dupont y Bornera) y 4 aislantes (incluyendo PVC y Termocontraíble), con imagen y 1 línea explicando para qué sirve cada uno."*
-* **Tu rol:** Revisas que no copien párrafos largos de internet, sino 1 línea clara con sus palabras.
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-* **Preguntas orales antes de salir:**
-  1. *"¿Qué conector usarías en un protoboard con Arduino y cuál en una lámpara de 110V?"*
-  2. *"¿Qué ventaja tiene el tubo termocontraíble frente a la cinta aislante común?"*
+### Práctica / Reto
+* **Instrucción :** *"Abran Canva en formato de 1 página. Armen una infografía con 4 conectores (incluyendo Dupont y Bornera) y 4 aislantes (incluyendo PVC y Termocontraíble), con imagen y 1 línea explicando para qué sirve cada uno."*
 
 ---
-
-
 
 ---
 
 # CAPÍTULO #2
 **Tema:** Primer Programa en Arduino (*Blink*) en Tinkercad *(Individual 2)*  
-**Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Simular** un LED que parpadea solo con código Arduino (`Blink`) para dar vida a un circuito.
 * **¿Para qué me sirve en la vida?** Es el primer paso para automatizar cualquier cosa: desde luces intermitentes de bicicleta hasta semáforos y alarmas.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Hasta el parcial pasado, un foco solo prendía si tú aplastabas el interruptor con el dedo. Hoy jubilamos al dedo: vamos a darle cerebro con código C++ para que prenda y apague solo."*
-* **Propósito en pantalla:** *"Simular un LED que parpadea solo con código Arduino (`Blink`) para dar vida a un circuito."*
+## 📚 CONTENIDO EXPLICATIVO Y PRÁCTICA
 
-### 2. Teoría Corta y Modelación (05 – 15 min)
+### Teoría Puntual
 * **2 bloques obligatorios de Arduino:**
   * `void setup()` -> Corre **una sola vez** al prender (`pinMode(13, OUTPUT);`).
   * `void loop()` -> Se **repite por siempre** (`digitalWrite(13, HIGH);`, `delay(1000);`, `LOW`).
 * **Modelación en Tinkercad:** Arrastrar Arduino UNO + LED + Resistencia 220 Ω en Pin 13 y GND, cambiar código a **Texto**, simular y ver parpadear.
 
-### 3. Práctica Guiada y Reto Individual (15 – 40 min)
-* **15 – 25 min (Guiada):** Todos arman el circuito del LED en Pin 13 y prueban el código *Blink* básico contigo.
+### Práctica / Reto
+* **15 – 25 min (Guiada):** Todos arman el circuito del LED en Pin 13 y prueban el código *Blink* básico.
 * **25 – 40 min (Reto Solos):** *"Agrega un segundo LED en el Pin 12 (con su resistencia) y haz que parpadeen alternados: cuando uno prende, el otro se apaga cada 500 ms. Pon tu nombre en un comentario `// Nombre`."*
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-* **2 preguntas rápidas:**
-  1. *"¿Qué diferencia hay entre `void setup()` y `void loop()`?"*
-  2. *"Si pongo `delay(500);`, ¿cuántos segundos espera el Arduino?"*
-* **Cierre:** Subir captura en Tinkercad con el LED encendido y el código visible.
-
-
 
 ---
 
 # CAPÍTULO #3
 **Tema:** Múltiples Salidas Digitales: Semáforo en Tinkercad  
-**Modo de Clase:** Modo A — Tema Nuevo (45 min)  
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Simular** un semáforo de 3 luces en Tinkercad usando nombres (`int`) para ordenar los pines.
 * **¿Para qué me sirve en la vida?** Para organizar cualquier programa grande usando nombres claros (`ledRojo`, `ledVerde`) en lugar de memorizar números de pines.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"La semana pasada controlamos 1 o 2 LEDs usando `13` y `12`. Pero si tuviéramos 20 luces, ¿se acordarían qué hace cada número? Hoy vamos a ponerles nombre con variables."*
-* **Propósito en pantalla:** *"Simular un semáforo de 3 luces en Tinkercad usando nombres (`int`) para ordenar los pines."*
+## 📚 CONTENIDO EXPLICATIVO Y PRÁCTICA
 
-### 2. Teoría Corta y Modelación (05 – 15 min)
+### Teoría Puntual
 * **Variables `int`:** `int rojo = 13;`, `int amarillo = 12;`, `int verde = 11;`. Si mañana cambias un cable de pin, solo cambias el número arriba una vez.
 * **Modelación en Tinkercad:** Conectar 3 LEDs (Rojo, Amarillo, Verde) con resistencias de 220 Ω a GND y cargar el ciclo básico.
 
-### 3. Práctica Guiada y Reto Individual (15 – 40 min)
+### Práctica / Reto
 * **15 – 25 min (Guiada):** Todos arman el semáforo de 3 LEDs en protoboard dentro de Tinkercad y prueban el encendido secuencial.
 * **25 – 40 min (Reto Solos):** *"Haz que la luz **Verde** parpadee 3 veces antes de pasar a Amarillo (como semáforo real de ciudad), y coloca tiempos reales: Verde 3s, Amarillo 1s, Rojo 3s."*
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-* **2 preguntas rápidas:**
-  1. *"¿Para qué sirve declarar `int rojo = 13;` al inicio del código?"*
-  2. *"¿Qué pasa si olvidas apagar el LED anterior con `LOW` antes de encender el siguiente?"*
-* **Cierre:** Comprobar el funcionamiento en vivo y responder las preguntas de verificación.
-
-
 
 ---
 
 # CAPÍTULO #4
 **Tema:** Semáforo Físico en Protoboard con Arduino UNO *(Grupal Físico)*  
-**Modo de Clase:** Modo B — Trabajo Grupal Físico (45 min)  
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Construir** nuestro semáforo en protoboard real con Arduino UNO para verlo funcionar fuera de la pantalla.
 * **¿Para qué me sirve en la vida?** Para aprender a cablear componentes reales sin quemar LEDs y cargar programas desde la computadora a una placa física.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"La semana pasada su semáforo funcionó en la pantalla de Tinkercad. Hoy lo traemos al mundo real: van a armarlo en protoboard física y cargarle el código al Arduino UNO."*
-* **Propósito en pantalla:** *"Construir nuestro semáforo en protoboard real con Arduino UNO para verlo funcionar fuera de la pantalla."*
+## 📚 CONTENIDO EXPLICATIVO Y PRÁCTICA
 
-### 2. Encuadre de Seguridad y Pines (05 – 10 min)
+### Teoría Puntual
 * **Reglas físicas:** 1) Nunca conectar LEDs sin resistencia de 220 Ω, 2) Verificar pata larga (+ al pin) y pata corta (- a GND), 3) Seleccionar `Arduino UNO` y puerto `COM` correcto en el IDE.
 
-### 3. Trabajo Grupal Físico con Intervención del Mediador (10 – 40 min)
+### Práctica / Reto
 * **Instrucción:** En parejas/grupos arman el circuito (Pines 13, 12, 11 + bus común GND), copian su código de Tinkercad al Arduino IDE, lo suben por USB y prueban el parpadeo real.
-* **Tu rol:** Ayudas a destrabar errores de puerto COM o LEDs puestos al revés en la protoboard.
-
-### 4. Cierre, Preguntas y Entrega (40 – 45 min)
-* **2 preguntas rápidas:**
-  1. *"¿Cómo identificas físicamente cuál es el ánodo (+) y el cátodo (-) de un LED real?"*
-  2. *"¿Qué pasó al subir el código si el cable USB o el puerto COM no estaban seleccionados?"*
-* **Cierre:** Visto bueno en mesa + subir foto con papelito de nombres.
-
-
 
 ---
 
 # CAPÍTULO #5
 **Tema:** Reto de Secuencias e Intro a Bucles `for` *(Refuerzo)*  
-**Modo de Clase:** Modo A — Tema Nuevo / Refuerzo (45 min)  
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Optimizar** el encendido de 6 LEDs en fila usando un bucle `for` en lugar de repetir tantas líneas.
 * **¿Para qué me sirve en la vida?** En programación real nadie escribe 100 veces la misma línea: los bucles `for` automatizan tareas repetitivas en segundos.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"Si les pido encender 6 LEDs en fila uno por uno, tendrían que escribir 24 líneas de `digitalWrite`. Hoy les enseño el truco para hacerlo en solo 4 líneas."*
-* **Propósito en pantalla:** *"Optimizar el encendido de 6 LEDs en fila usando un bucle `for` en lugar de repetir tantas líneas."*
+## 📚 CONTENIDO EXPLICATIVO Y PRÁCTICA
 
-### 2. Teoría Corta y Modelación (05 – 15 min)
+### Teoría Puntual
 * **Estructura del `for`:**
   ```cpp
   for (int pin = 2; pin <= 7; pin++) {
@@ -161,43 +106,23 @@
   ```
 * Explicar las 3 partes: inicio (`pin = 2`), límite (`pin <= 7`) y paso (`pin++`).
 
-### 3. Práctica Guiada y Reto Individual (15 – 40 min)
+### Práctica / Reto
 * **15 – 25 min (Guiada):** Conectan 4–6 LEDs en pines consecutivos (`2` al `7`) en Tinkercad y prueban el bucle `for` de ida.
 * **25 – 40 min (Reto Solos):** *"Agrega un segundo bucle `for` debajo que regrese la luz de derecha a izquierda (`for (int pin = 7; pin >= 2; pin--)`)."*
-
-### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-* **2 preguntas rápidas:**
-  1. *"¿Qué significa `pin++` y qué significa `pin--`?"*
-  2. *"¿Qué pasa si conectas los LEDs en pines saltados (ej. 2, 5, 9) cuando usas un `for` consecutivo?"*
-* **Cierre:** Comprobar el funcionamiento en vivo y responder las preguntas de verificación.
-
-
 
 ---
 
 # CAPÍTULO #6
 **Tema:** Repaso de Sintaxis C++ y Cierre del Parcial 2 *(Colchón)*  
-**Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Corregir** errores clásicos de código Arduino (`;`, llaves y pines) antes de la evaluación.
 * **¿Para qué me sirve en la vida?** Para dominar las reglas básicas del código C++ (llaves `{}`, punto y coma `;`) antes de programar robots que tomen decisiones.
 
-## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Inicio y Propósito (00 – 05 min)
-* **¿Qué decirles?** *"¡Bienvenidos! La próxima semana cerramos Áreas Especiales. Hoy hacemos un reto rápido de 'encuentra el error en el código' y ponemos al día cualquier pendiente."*
-* **Propósito en pantalla:** *"Corregir errores clásicos de código Arduino (`;`, llaves y pines) antes de la evaluación."*
+## 📚 CONTENIDO EXPLICATIVO Y PRÁCTICA
 
-### 2. Reto "Encuentra el Error" (05 – 20 min)
+### Teoría Puntual
 * Proyectas 3 errores clásicos en Tinkercad: 1) falta `;`, 2) falta `pinMode`, 3) LED sin resistencia o al revés. Los alumnos lo corrigen en vivo.
 
-### 3. Nivelación Final (20 – 40 min)
+### Práctica / Reto
 * Revisión de notas y entrega de prácticas pendientes (*Blink*, Semáforo o `for`).
-
-### 4. Cierre y Autoevaluación Likert (1 al 5) (40 – 45 min)
-* Indicaciones para la evaluación del 11 de enero + autoevaluación del **1 al 5** (*1 = Todavía me cuesta | 5 = Lo domino*):
-  1. Diferenciar conectores (Dupont, borneras) y aislantes (PVC, termocontraíble).
-  2. Escribir la estructura base de Arduino (`setup()`, `loop()`, `pinMode()`, `digitalWrite()`).
-  3. Usar variables `int` para programar un semáforo en Tinkercad y protoboard real.
-  4. Simplificar secuencias de varios LEDs usando bucles `for`.
-

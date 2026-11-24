@@ -31,6 +31,7 @@
 * **Tu rol:** Ayudas a quienes olvidan dividir `360 / dientes` o dejan el centro del diente desfasado.
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * **2 preguntas rápidas:**
   1. *"¿Qué fórmula matemática usamos para saber cuántos grados rotar cada diente?"*
   2. *"¿Por qué decimos que este diseño es 'paramétrico'?"*

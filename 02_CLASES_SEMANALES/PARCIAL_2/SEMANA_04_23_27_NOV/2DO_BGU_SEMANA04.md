@@ -23,6 +23,7 @@
 * **Propósito en pantalla:** *"Crear figuras 3D en Tinkercad usando bloques de código en lugar de moverlas con el mouse."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
+* **Predicción PRIMM (30 seg antes de simular):** Preguntar qué hará el ejemplo o qué cambia si modifican un parámetro antes de correrlo.
 * **¿Dónde entrar?** En Tinkercad $\rightarrow$ **Crear** $\rightarrow$ **Bloques de código (Codeblocks)**.
 * **3 bloques base:** `Formas` (Cilindro/Cubo), `Modificar` (`Mover X, Y, Z`, `Escalar`, `Rotar`), `Crear grupo`.
 * **Modelación:** Programar una **mini mesa o llavero** en 6 bloques y presionar *Play* para ver cómo se construye solo paso a paso.
@@ -33,6 +34,7 @@
 * **25 – 40 min (Reto Solos — Actividad 4):** *"Programa una **Silla 3D completa** usando 100% bloques en Codeblocks (4 patas alineadas en `X, Y, Z`, asiento y espaldar firme, todo unido con `Crear grupo`)."*
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * **2 preguntas rápidas:**
   1. *"¿Qué ventaja tiene diseñar con Codeblocks frente a arrastrar figuras con el mouse?"*
   2. *"¿Cómo calculaste las coordenadas `X, Y, Z` para que las 4 patas de la silla no queden volando ni chuecas?"*

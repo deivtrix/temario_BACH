@@ -24,6 +24,7 @@
 * Quienes están al día prueban combinar **HC-SR04 + LED + Buzzer** con mensajes en Monitor Serial.
 
 ### 4. Cierre y Autoevaluación Likert (1 al 5) (35 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * Repaso de criterios para el 11 de enero + autoevaluación del **1 al 5** (*1 = Todavía me cuesta | 5 = Lo domino*):
   1. Diferenciar pines GPIO y voltaje lógico de $3.3\text{V}$ del ESP32 en Wokwi.
   2. Programar salidas digitales y PWM/tonos (`analogWrite`, `tone`) en el ESP32.

@@ -31,6 +31,7 @@
 2. **Práctica Guiada en Tinkercad (27 min):**
    * Los estudiantes arman ambos circuitos en paralelo, miden el voltaje DC con el multímetro y comparan la forma de onda DC vs. AC cambiando la frecuencia en el Generador.
 3. **Cierre y Preguntas de Verificación (8 min):**
+   * **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar.
    * **Pregunta 1:** ¿Cómo se ve la Corriente Directa (DC) en la pantalla del Osciloscopio?
      * *Respuesta esperada:* Como una línea recta plana/constante, porque el voltaje no cambia de sentido.
    * **Pregunta 2:** ¿Cómo se ve la Corriente Alterna (AC) en el Osciloscopio?

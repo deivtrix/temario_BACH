@@ -34,6 +34,7 @@
 * **Tu rol:** Ayudas a mantener proporciones realistas y que las piezas queden bien alineadas (`L`) y agrupadas.
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * **2 preguntas rápidas:**
   1. *"¿Por qué conviene dejar los arcos/espacios de las ruedas antes de pegarlas la próxima semana?"*
   2. *"¿Qué herramientas usaron hoy para dar forma aerodinámica al carro?"*

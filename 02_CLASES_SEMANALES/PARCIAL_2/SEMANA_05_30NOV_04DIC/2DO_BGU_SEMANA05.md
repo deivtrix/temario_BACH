@@ -23,6 +23,7 @@
 * **Propósito en pantalla:** *"Construir una escalera en espiral en Codeblocks usando bucles `repetir` para no dibujar pieza por pieza."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
+* **Predicción PRIMM (30 seg antes de simular):** Preguntar qué hará el ejemplo o qué cambia si modifican un parámetro antes de correrlo.
 * **2 bloques nuevos:**
   * `Crear variable` (ej. `altura = 0` o `angulo = 0`).
   * `Repetir N veces` + `Cambiar variable por X` dentro del bucle.
@@ -34,6 +35,7 @@
 * **25 – 40 min (Reto Solos):** *"Agrega una columna central o barandal, o modifica el código para crear una **torre retorcida / adorno paramétrico** cambiando los colores o la escala en cada vuelta."*
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * **2 preguntas rápidas:**
   1. *"¿Qué hace el bloque `Cambiar variable por...` dentro del bucle `Repetir`?"*
   2. *"¿Qué pasa si rotas la pieza alrededor de su propio centro vs. alrededor del origen `[0,0,0]`?"*

@@ -29,6 +29,7 @@
 * **Tu rol:** Pasas por los equipos revisando que las ruedas no queden flotando ni atravesando la carrocería.
 
 ### 4. Cierre, Preguntas y Entrega (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * **2 preguntas rápidas:**
   1. *"¿Cómo aseguraron que las 4 ruedas quedaran exactamente a la misma altura?"*
   2. *"¿Qué comando usaron para hacer las 4 llantas del mismo tamaño sin dibujarlas de cero?"*

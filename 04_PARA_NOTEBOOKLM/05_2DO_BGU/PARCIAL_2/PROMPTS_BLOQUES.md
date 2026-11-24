@@ -23,7 +23,7 @@ ESTRUCTURA SIN REPETICIONES (3–4 SLIDES POR CLASE):
 - Clase 2 — Motor Deslizante en Sim Lab (👥 ACTIVIDAD GRUPAL):
   - 2 Láminas Ancla: (1) Conversión de movimiento rotatorio a desplazamiento lineal (guías y topes) y (2) Reto Grupal con 3 roles rotativos (1. Estructura/Guías, 2. Motor/Parámetros, 3. Pruebas físicas).
 - Clase 3 — Intro a Tinkercad Codeblocks: Silla 3D (👤 ACTIVIDAD INDIVIDUAL 2):
-  - 2 Láminas Ancla: (1) Modelado tradicional vs. modelado programado por código (bloques Crear, Mover X/Y/Z, Agrupar) y (2) Ejemplo Resuelto anotado (5 bloques posicionando patas/asiento) + Reto Silla 3D.
+  - 2 Láminas Ancla: (1) Modelado tradicional vs. modelado programado por código (bloques Crear, Mover X/Y/Z, Agrupar) y (2) Ejemplo Resuelto anotado + 1 pregunta de Predicción PRIMM (que pasa si cambias X) (5 bloques posicionando patas/asiento) + Reto Silla 3D.
 - Cierre de la Sección 1: 3 preguntas relámpago de verificación (SIN respuestas visibles).
 
 CANDADOS OBLIGATORIOS:
@@ -49,9 +49,9 @@ PORTADA (DIAPOSITIVA 1 — TODO JUNTO):
 
 ESTRUCTURA SIN REPETICIONES (2–3 SLIDES POR CLASE):
 - Clase 4 — Bucles y Rotación en Codeblocks:
-  - 2 Láminas Ancla: (1) Cómo funciona el bucle Repetir + rotación incremental sobre el eje y (2) Ejemplo Resuelto anotado (escalera en espiral de 5 bloques) + Reto.
+  - 2 Láminas Ancla: (1) Cómo funciona el bucle Repetir + rotación incremental sobre el eje y (2) Ejemplo Resuelto anotado + 1 pregunta de Predicción PRIMM (que pasa si cambias X) (escalera en espiral de 5 bloques) + Reto.
 - Clase 5 — Engranaje o Mecanismo Paramétrico:
-  - 2 Láminas Ancla (SIN repetir bucle básico): (1) Qué es diseño paramétrico (uso de variables para cambiar radio y número de dientes automáticamente, fórmula 360/N) y (2) Ejemplo Resuelto anotado + Reto.
+  - 2 Láminas Ancla (SIN repetir bucle básico): (1) Qué es diseño paramétrico (uso de variables para cambiar radio y número de dientes automáticamente, fórmula 360/N) y (2) Ejemplo Resuelto anotado + 1 pregunta de Predicción PRIMM (que pasa si cambias X) + Reto.
 - Clase 6 — Refuerzo: Figura Simétrica Libre en Codeblocks (🛠️ REFUERZO):
   - 1 Lámina de depuración (errores de pivote/centro de rotación) + Reto libre.
 - Clase 7 — Cierre Parcial 2 y Autoevaluación (🛠️ REFUERZO):

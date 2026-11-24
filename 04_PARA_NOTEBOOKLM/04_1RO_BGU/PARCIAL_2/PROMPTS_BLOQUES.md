@@ -19,10 +19,10 @@ PORTADA (DIAPOSITIVA 1 — TODO JUNTO):
 
 ESTRUCTURA SIN REPETICIONES (3–4 SLIDES POR CLASE):
 - Clase 1 y 2 — Potenciómetro (analogRead) + 4 LEDs con > y < (👤 ACTIVIDAD INDIVIDUAL 1 y 2):
-  - 2 Láminas Ancla: (1) Señal digital (0/1) vs. analógica (0–1023 en pines A0–A5) y divisor de voltaje interno del potenciómetro y (2) Rangos con condicionales > y < + Ejemplo Resuelto anotado (5 líneas leyendo A0 y evaluando un umbral).
+  - 2 Láminas Ancla: (1) Señal digital (0/1) vs. analógica (0–1023 en pines A0–A5) y divisor de voltaje interno del potenciómetro y (2) Rangos con condicionales > y < + Ejemplo Resuelto anotado + 1 pregunta de Predicción PRIMM (que pasa si cambias X) (5 líneas leyendo A0 y evaluando un umbral).
   - 1 Lámina de Reto: Informe y cuestionario de potenciómetro con 4 LEDs.
 - Clase 3 — Atenuador de Brillo LED (map() + PWM analogWrite):
-  - 2 Láminas Ancla (SIN repetir analogRead): (1) Qué es PWM por dentro (pulsos rápidos ON/OFF en pines ~, rango 0–255) y (2) Cómo funciona map(valor, 0, 1023, 0, 255) + Ejemplo Resuelto anotado (4 líneas).
+  - 2 Láminas Ancla (SIN repetir analogRead): (1) Qué es PWM por dentro (pulsos rápidos ON/OFF en pines ~, rango 0–255) y (2) Cómo funciona map(valor, 0, 1023, 0, 255) + Ejemplo Resuelto anotado + 1 pregunta de Predicción PRIMM (que pasa si cambias X) (4 líneas).
   - 1 Lámina de Reto: Práctica en Tinkercad y kit físico con Protocolo de Autodepuración en 3 pasos.
 - Cierre de la Sección 1: 3 preguntas relámpago de verificación (SIN respuestas visibles).
 
@@ -49,7 +49,7 @@ PORTADA (DIAPOSITIVA 1 — TODO JUNTO):
 
 ESTRUCTURA SIN REPETICIONES (2–3 SLIDES POR CLASE):
 - Clase 4 — Poste de Alumbrado Automático con LDR:
-  - 2 Láminas Ancla: (1) Cómo funciona una fotoresistencia (LDR) por dentro + divisor de voltaje con resistencia fija de 10k y (2) Ejemplo Resuelto anotado de encendido por umbral de oscuridad + Reto virtual en Tinkercad.
+  - 2 Láminas Ancla: (1) Cómo funciona una fotoresistencia (LDR) por dentro + divisor de voltaje con resistencia fija de 10k y (2) Ejemplo Resuelto anotado + 1 pregunta de Predicción PRIMM (que pasa si cambias X) de encendido por umbral de oscuridad + Reto virtual en Tinkercad.
 - Clase 5 y 6 — Theremin Musical con Luz (LDR + Buzzer tone()): Virtual y Grupal Físico (👥 ACTIVIDAD GRUPAL):
   - 2 Láminas Ancla: (1) Frecuencia sonora en Hz con tone(pin, freq) y mapeo de luz a notas musicales y (2) Reto Grupal Físico con 3 roles rotativos (1. Montaje LDR/Buzzer, 2. Código/Mapeo, 3. Calibración/Verificación) + Protocolo de 3 pasos.
 - Clase 7 — Refuerzo: Calibración con Monitor Serial y Cierre (🛠️ REFUERZO):

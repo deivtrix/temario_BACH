@@ -31,4 +31,5 @@
 * Todos completan la **Autoevaluación Escala de Likert (1 al 5)** en los 4 aspectos del Parcial 2.
 
 ### 4. Cierre (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * Indicaciones finales para la Evaluación de Áreas Especiales y confirmación de entregas al día.

@@ -27,6 +27,7 @@
 * Revisión de informes/capturas pendientes del Parcial 2.
 
 ### 4. Cierre y Autoevaluación Likert (1 al 5) (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * Indicaciones para el 11 de enero + autoevaluación del **1 al 5** (*1 = Todavía me cuesta | 5 = Lo domino*):
   1. Leer sensores analógicos con `analogRead()` y usar condicionales `>` / `<`.
   2. Transformar rangos con `map()` y controlar brillo con PWM (`analogWrite()`).

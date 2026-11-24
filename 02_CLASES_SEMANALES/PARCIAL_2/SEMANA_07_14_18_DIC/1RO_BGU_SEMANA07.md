@@ -29,6 +29,7 @@
 * Quienes estén al día calibran un circuito en Tinkercad/kit usando la fórmula de punto medio e imprimen en Serial `"DIA"` o `"NOCHE"`.
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * **2 preguntas rápidas:**
   1. *"¿Cómo encuentras el umbral ideal para un sensor LDR en cualquier habitación?"*
   2. *"¿Qué comando inicia la comunicación entre Arduino y la pantalla de la PC?"*

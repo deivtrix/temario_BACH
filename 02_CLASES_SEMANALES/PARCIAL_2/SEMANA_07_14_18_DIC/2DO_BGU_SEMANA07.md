@@ -27,6 +27,7 @@
 * Quienes deban algo de Codeblocks se nivelan hoy; el resto diseña su modelo simétrico libre con mínimo 1 bucle `Repetir`.
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * **2 preguntas rápidas:**
   1. *"¿Qué fue lo más útil que aprendiste de Codeblocks frente al Tinkercad normal?"*
   2. *"¿Cuántos grados rotaste cada brazo de tu figura simétrica?"*

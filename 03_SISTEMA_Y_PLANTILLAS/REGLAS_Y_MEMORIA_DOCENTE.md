@@ -31,9 +31,9 @@ Todo el currículo oficial, secuenciado y actualizado por curso vive exclusivame
 ### Dos Modos de Clase (45 Minutos)
 1. **Modo A — Clase de Tema Nuevo (Guiada + Reto):**
    * `00–05 min:` **Inicio** (Pregunta relámpago de 60 seg conectando con clase previa + Propósito LEV + para qué sirve en la vida).
-   * `05–15 min:` **Teoría Puntual (máx. 10 min)** (Máx. **2 subtemas nuevos** en Lámina Ancla limpia + **Ejemplo Resuelto anotado** si es código/lógica nueva en `10mo–3ro BGU`).
+   * `05–15 min:` **Teoría Puntual (máx. 10 min)** (Máx. **2 subtemas nuevos** en Lámina Ancla limpia + **Ejemplo Resuelto anotado** con **Predicción PRIMM de 30 seg** antes de simular si es código/lógica nueva en `10mo–3ro BGU`).
    * `15–40 min:` **Práctica Conjunta + Reto** (10 min guiados + 15 min reto autónomo usando el **Protocolo de Autodepuración en 3 pasos** antes de llamar al mediador: `1. Energía/GND`, `2. Pines/Polaridad`, `3. Monitor Serial/Multímetro`).
-   * `40–45 min:` **Cierre** (2 preguntas rápidas de verificación conceptual para el examen + entrega/visto bueno).
+   * `40–45 min:` **Cierre** (2 preguntas sorpresa de verificación conceptual mediante **respuesta simultánea — dedos/pulgar — o Cold Call al azar** + entrega/visto bueno).
 
 2. **Modo B — Clase de Actividad Evaluada (Individual / Grupal / Refuerzo):**
    * `00–05 min:` **Encuadre** (Propósito LEV + criterios + asignación de **3 roles rotativos** si es `👥 Grupal`: *1. Cableado/Diseño, 2. Código/Parámetros, 3. Verificador/Evidencia*).

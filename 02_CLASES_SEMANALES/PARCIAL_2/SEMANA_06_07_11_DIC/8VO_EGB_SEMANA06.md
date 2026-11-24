@@ -32,5 +32,6 @@
 * En PhET DC, cada estudiante arma un circuito protegido con **1 batería 9V + 1 fusible + 1 interruptor + 1 bombilla** y comprueba qué ocurre al cerrar el circuito con y sin carga.
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 1. *"¿Qué diferencia hay entre un falso contacto y un cortocircuito?"*
 2. *"¿Por qué jamás se debe trabar o puentear un breaker que salta?"*

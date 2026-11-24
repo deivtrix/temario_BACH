@@ -28,6 +28,7 @@
 * **Tu rol:** Ayudas a alinear las ventanas a la misma altura (`L` o elevación con la flecha negra superior).
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * **2 preguntas rápidas:**
   1. *"¿Cómo logras que las paredes de la casa tengan el mismo grosor en los 4 lados?"*
   2. *"¿Qué herramienta usaste para levantar las ventanas del suelo?"*

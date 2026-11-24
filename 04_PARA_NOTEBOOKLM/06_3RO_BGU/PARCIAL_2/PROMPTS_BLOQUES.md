@@ -21,7 +21,7 @@ ESTRUCTURA SIN REPETICIONES (3–4 SLIDES POR CLASE):
 - Clase 1 y 2 — ¿Qué es ESP32? + Repaso en Wokwi:
   - 2 Láminas Ancla: (1) Arquitectura ESP32 vs. Arduino UNO (3.3V lógico, pines GPIO seguros vs. pines solo entrada/flash) y (2) Reglas de seguridad en Wokwi y depuración de errores de compilación (uso de IA como tutor de errores sin pedir código resuelto).
 - Clase 3 — Semáforo ESP32 en Wokwi (👤 ACTIVIDAD INDIVIDUAL 1):
-  - 2 Láminas Ancla: (1) Ejemplo Resuelto anotado (5 líneas de salida digital GPIO en ESP32 con resistencia) y (2) Reto individual de Semáforo con Protocolo de Autodepuración en 3 pasos.
+  - 2 Láminas Ancla: (1) Ejemplo Resuelto anotado + 1 pregunta de Predicción PRIMM (que pasa si cambias X) (5 líneas de salida digital GPIO en ESP32 con resistencia) y (2) Reto individual de Semáforo con Protocolo de Autodepuración en 3 pasos.
 - Cierre de la Sección 1: 3 preguntas relámpago de verificación (SIN respuestas visibles).
 
 CANDADOS OBLIGATORIOS:
@@ -47,9 +47,9 @@ PORTADA (DIAPOSITIVA 1 — TODO JUNTO):
 
 ESTRUCTURA SIN REPETICIONES (2–3 SLIDES POR CLASE):
 - Clase 4 — ESP32 PWM y Buzzer (👤 ACTIVIDAD INDIVIDUAL 2):
-  - 2 Láminas Ancla: (1) PWM en ESP32 (analogWrite / ledc en Wokwi) y frecuencias con tone() y (2) Ejemplo Resuelto anotado (4 líneas) + Reto.
+  - 2 Láminas Ancla: (1) PWM en ESP32 (analogWrite / ledc en Wokwi) y frecuencias con tone() y (2) Ejemplo Resuelto anotado + 1 pregunta de Predicción PRIMM (que pasa si cambias X) (4 líneas) + Reto.
 - Clase 5 — Sensor Ultrasonido HC-SR04 con ESP32:
-  - 2 Láminas Ancla (SIN repetir PWM): (1) Principio físico Trig/Echo y cálculo de distancia en cm (velocidad del sonido / 2) y (2) Ejemplo Resuelto anotado (pulseIn) + Reto alerta de distancia.
+  - 2 Láminas Ancla (SIN repetir PWM): (1) Principio físico Trig/Echo y cálculo de distancia en cm (velocidad del sonido / 2) y (2) Ejemplo Resuelto anotado + 1 pregunta de Predicción PRIMM (que pasa si cambias X) (pulseIn) + Reto alerta de distancia.
 - Clase 6 — Proyecto Grupal: Teclado Matricial 4x4 (👥 ACTIVIDAD GRUPAL):
   - 2 Láminas Ancla: (1) Matriz de filas y columnas (escaneo sin usar 16 pines) + librería Keypad y (2) Reto Grupal (Piano/Clave) con 3 roles rotativos (1. Cableado Matriz/Buzzer, 2. Lógica Keypad/Clave, 3. Pruebas/Monitor Serial).
 - Clase 7 — Cierre Parcial 2 y Autoevaluación (🛠️ REFUERZO):

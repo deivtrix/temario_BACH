@@ -50,7 +50,7 @@ PORTADA (DIAPOSITIVA 1 — TODO JUNTO):
 
 ESTRUCTURA SIN REPETICIONES (2–3 SLIDES POR CLASE):
 - Clase 4 — Primer Programa Arduino: Blink (👤 ACTIVIDAD INDIVIDUAL 2):
-  - 2 Láminas Ancla: (1) Anatomía de setup() vs. loop(), pinMode(), digitalWrite() y delay() + resistencia protectora del LED y (2) Ejemplo Resuelto anotado (5 líneas de Blink con flechas explicativas) + Reto.
+  - 2 Láminas Ancla: (1) Anatomía de setup() vs. loop(), pinMode(), digitalWrite() y delay() + resistencia protectora del LED y (2) Ejemplo Resuelto anotado + 1 pregunta de Predicción PRIMM (que pasa si cambias X) (5 líneas de Blink con flechas explicativas) + Reto.
 - Clase 5 — Semáforo Funcional en Tinkercad:
   - 2 Láminas Ancla (SIN repetir setup/loop): (1) Uso de variables int para pines y secuencia temporal de 3 LEDs y (2) Reto en Tinkercad con Protocolo de Autodepuración en 3 pasos (Energía/GND, Pines, Código).
 - Clase 6 — Semáforo Físico en Protoboard (👥 ACTIVIDAD GRUPAL FÍSICA):

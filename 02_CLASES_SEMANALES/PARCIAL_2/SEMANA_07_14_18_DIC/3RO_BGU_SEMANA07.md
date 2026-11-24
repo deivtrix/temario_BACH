@@ -20,6 +20,7 @@
 * **Propósito en pantalla:** *"Integrar un teclado 4x4 al ESP32 en Wokwi para leer claves o tocar notas, como una cerradura digital."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
+* **Predicción PRIMM (30 seg antes de simular):** Preguntar qué hará el ejemplo o qué cambia si modifican un parámetro antes de correrlo.
 * **Librería `Keypad.h`:** En Wokwi (`Library Manager` $\rightarrow$ agregar `Keypad`).
 * **Conexión:** 4 pines de filas + 4 pines de columnas a GPIOs del ESP32 (ej. `13, 12, 14, 27` y `26, 25, 33, 32`).
 * **Modelación:** Imprimir la tecla presionada en Monitor Serial (`char tecla = keypad.getKey();`).
@@ -33,6 +34,7 @@
 * **Tu rol:** Ayudas a agregar `Keypad` en `libraries.txt` de Wokwi y revisar el orden de filas/columnas.
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * **2 preguntas rápidas:**
   1. *"¿Cuántos pines GPIO necesita un teclado de 16 botones gracias a la matriz 4x4?"*
   2. *"¿Para qué sirve la librería `Keypad.h`?"*

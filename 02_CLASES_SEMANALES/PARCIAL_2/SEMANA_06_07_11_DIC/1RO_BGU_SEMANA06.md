@@ -20,6 +20,7 @@
 * **Propósito en pantalla:** *"Construir un instrumento musical (Theremin) que cambia de sonido al tapar la luz con la mano."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
+* **Predicción PRIMM (30 seg antes de simular):** Preguntar qué hará el ejemplo o qué cambia si modifican un parámetro antes de correrlo.
 * **Mismo circuito LDR de la semana pasada** (`A0` + $10\text{k}\Omega$ a GND) + **1 Buzzer** conectado al Pin `8` y `GND`.
 * **Lógica clave:**
   `int nota = map(luz, 100, 900, 150, 2000);`  
@@ -33,6 +34,7 @@
 * **Tu rol:** Ayudas a diferenciar si el buzzer es activo o pasivo y a calibrar el rango de `map()` según la luz del laboratorio.
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * **2 preguntas rápidas:**
   1. *"¿Qué hace la función `tone(8, nota)`?"*
   2. *"¿Por qué tuvimos que cambiar los números de entrada en `map()` según la luz del aula?"*

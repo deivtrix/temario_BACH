@@ -37,13 +37,13 @@ Cada archivo (`<CURSO>_SEMANA<NN>.md`) dentro de `02_CLASES_SEMANALES/PARCIAL_<N
 * **Propósito en pantalla:** "<Propósito corto>"
 
 ### 2. Teoría Puntual / Encuadre (05 – 15 min | máx. 10 min)
-*(Modo A: 1–2 subtemas nuevos sin repetir teoría previa + ejemplo resuelto si es código BGU/10mo | Modo B: 5 min de reglas, roles rotativos si es grupal y arrancan).*
+*(Modo A: 1–2 subtemas nuevos sin repetir teoría previa + ejemplo resuelto con **Predicción PRIMM de 30 seg** antes de simular en `10mo–3ro BGU` | Modo B: 5 min de reglas, roles rotativos si es grupal y arrancan).*
 
 ### 3. Práctica / Trabajo en Clase (15 – 40 min)
 *(Protocolo de Autodepuración en 3 pasos antes de llamar al mediador: 1. Energía/GND, 2. Pines/Polaridad, 3. Monitor Serial/Multímetro).*
 
 ### 4. Cierre y Verificación Conceptual (40 – 45 min)
-* **2 preguntas rápidas para comprobar qué aprendieron (puente al examen):**
+* **2 preguntas rápidas sorpresa (respuesta simultánea dedos/pulgar o Cold Call al azar):**
   1. <Pregunta conceptual corta 1> *(Resp: ...)*
   2. <Pregunta conceptual corta 2> *(Resp: ...)*
 * **Cierre:** <Indicación de entrega>

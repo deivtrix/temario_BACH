@@ -23,6 +23,7 @@
 * **Propósito en pantalla:** *"Simular un LED que parpadea solo con código Arduino (`Blink`) para dar vida a un circuito."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
+* **Predicción PRIMM (30 seg antes de simular):** Preguntar qué hará el ejemplo o qué cambia si modifican un parámetro antes de correrlo.
 * **2 bloques obligatorios de Arduino:**
   * `void setup()` $\rightarrow$ Corre **una sola vez** al prender (`pinMode(13, OUTPUT);`).
   * `void loop()` $\rightarrow$ Se **repite por siempre** (`digitalWrite(13, HIGH);`, `delay(1000);`, `LOW`).
@@ -34,6 +35,7 @@
 * **25 – 40 min (Reto Solos):** *"Agrega un segundo LED en el Pin 12 (con su resistencia) y haz que parpadeen alternados: cuando uno prende, el otro se apaga cada 500 ms. Pon tu nombre en un comentario `// Nombre`."*
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * **2 preguntas rápidas:**
   1. *"¿Qué diferencia hay entre `void setup()` y `void loop()`?"*
   2. *"Si pongo `delay(500);`, ¿cuántos segundos espera el Arduino?"*

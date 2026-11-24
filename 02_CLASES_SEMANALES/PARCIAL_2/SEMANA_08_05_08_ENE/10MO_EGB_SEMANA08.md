@@ -27,6 +27,7 @@
 * Revisión de notas y entrega de prácticas pendientes (*Blink*, Semáforo o `for`).
 
 ### 4. Cierre y Autoevaluación Likert (1 al 5) (40 – 45 min)
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * Indicaciones para la evaluación del 11 de enero + autoevaluación del **1 al 5** (*1 = Todavía me cuesta | 5 = Lo domino*):
   1. Diferenciar conectores (Dupont, borneras) y aislantes (PVC, termocontraíble).
   2. Escribir la estructura base de Arduino (`setup()`, `loop()`, `pinMode()`, `digitalWrite()`).
