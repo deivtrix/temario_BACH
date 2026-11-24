@@ -1,4 +1,7 @@
 # 📘 10MO EGB — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
+
+> [!TIP]
+> # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Reto de Secuencias e Intro a Bucles `for` *(Refuerzo)*  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo / Refuerzo (45 min)  

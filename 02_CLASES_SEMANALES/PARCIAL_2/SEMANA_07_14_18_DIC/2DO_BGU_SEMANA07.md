@@ -1,4 +1,7 @@
 # 🟣 2DO BGU — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
+
+> [!TIP]
+> # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Refuerzo: Diseño Libre Programado en Codeblocks *(Refuerzo)*  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo B — Refuerzo Creativo (45 min)  

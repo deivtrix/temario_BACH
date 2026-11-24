@@ -1,4 +1,7 @@
 # 🟣 2DO BGU — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
+
+> [!IMPORTANT]
+> # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
 **Tema:** Bucles y Rotación en Tinkercad Codeblocks (Escalera / Torre Paramétrica) *(Individual 2)*  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  

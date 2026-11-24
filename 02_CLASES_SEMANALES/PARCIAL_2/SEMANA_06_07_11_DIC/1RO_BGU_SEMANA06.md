@@ -1,4 +1,7 @@
 # 🔴 1RO BGU — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
+
+> [!IMPORTANT]
+> # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Theremin Musical Controlado por Luz (LDR + Buzzer `tone()`) *(Simulación Virtual en Tinkercad)*  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Mini-teoría (10 min) + Simulación Virtual en Tinkercad (30 min) + Cierre (5 min)  

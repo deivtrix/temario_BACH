@@ -1,4 +1,7 @@
 # 📗 9NO EGB — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
+
+> [!IMPORTANT]
+> # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Proyecto Grupal 3D: Vehículo / Carro — Parte 2 *(Grupal)*  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo B — Trabajo Autónomo Grupal (45 min)  

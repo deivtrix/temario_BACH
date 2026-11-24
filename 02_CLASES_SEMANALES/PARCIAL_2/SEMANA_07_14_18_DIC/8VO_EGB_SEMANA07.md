@@ -1,4 +1,7 @@
 # 📘 8VO EGB — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
+
+> [!TIP]
+> # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Repaso, Consolidación y Autoevaluación del Parcial 2 (`🛠️ REFUERZO` sin calificación)  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo B — Repaso y Nivelación (45 min)  

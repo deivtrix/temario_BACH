@@ -1,4 +1,7 @@
 # 🟣 2DO BGU — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
+
+> [!IMPORTANT]
+> # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
 **Tema:** Introducción a Tinkercad Codeblocks (Diseño 3D Programado) *(Individual 2)*  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  

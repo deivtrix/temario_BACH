@@ -1,4 +1,7 @@
 # 📘 8VO EGB — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
+
+> [!TIP]
+> # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Seguridad Eléctrica: Falsos Contactos, Cortocircuitos y Breakers (`🛠️ REFUERZO`)  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo B — Refuerzo Práctico (45 min)  

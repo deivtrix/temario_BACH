@@ -1,4 +1,7 @@
 # 🔴 1RO BGU — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
+
+> [!IMPORTANT]
+> # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Theremin Musical Controlado por Luz (LDR + Buzzer `tone()`) *(Grupal Físico — Kits Arduino)*  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo B — Montaje Grupal Físico en Kit Arduino (45 min) *(usando código validado en S6)*  

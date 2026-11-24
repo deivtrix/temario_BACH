@@ -1,4 +1,7 @@
 # 🔴 1RO BGU — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
+
+> [!NOTE]
+> # 📘 CLASE PRÁCTICA (Sin entrega obligatoria)
 **Tema:** Poste de Alumbrado Público Automático (Sensor LDR)  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  

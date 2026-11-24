@@ -1,4 +1,7 @@
 # 🟠 3RO BGU — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
+
+> [!IMPORTANT]
+> # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Proyecto Grupal: Teclado Matricial 4x4 (Piano / Clave de Seguridad) en Wokwi *(Grupal)*  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A/B — Mini-teoría (10 min) + Proyecto Grupal Wokwi (30 min) + Cierre (5 min)  

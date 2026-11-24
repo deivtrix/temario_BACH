@@ -1,4 +1,7 @@
 # 📘 8VO EGB — PARCIAL 2 / SEMANA 5 (30 nov – 4 dic)
+
+> [!IMPORTANT]
+> # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Mapa de Artefactos DC y AC del Colegio (`👥 ACTIVIDAD GRUPAL`)  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo B — Actividad Grupal en Parejas (45 min)  

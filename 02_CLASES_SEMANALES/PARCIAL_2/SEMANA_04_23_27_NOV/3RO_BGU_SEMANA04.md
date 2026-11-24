@@ -1,4 +1,7 @@
 # 🟠 3RO BGU — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
+
+> [!NOTE]
+> # 📘 CLASE PRÁCTICA (Sin entrega obligatoria)
 **Tema:** Semáforo Inteligente con ESP32 en Wokwi  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema Nuevo / Ambientación (45 min)  

@@ -1,4 +1,7 @@
 # 📘 10MO EGB — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
+
+> [!IMPORTANT]
+> # 👥 ACTIVIDAD GRUPAL EVALUADA
 **Tema:** Semáforo Físico en Protoboard con Arduino UNO *(Grupal Físico)*  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo B — Trabajo Grupal Físico (45 min)  

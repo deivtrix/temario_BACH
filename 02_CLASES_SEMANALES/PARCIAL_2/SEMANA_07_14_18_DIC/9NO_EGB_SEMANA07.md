@@ -1,4 +1,7 @@
 # 📗 9NO EGB — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
+
+> [!TIP]
+> # 🛠️ REFUERZO Y NIVELACIÓN
 **Tema:** Refuerzo 3D: Casa en Tinkercad — Parte 1 *(Refuerzo)*  
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A — Tema de Refuerzo (45 min)  

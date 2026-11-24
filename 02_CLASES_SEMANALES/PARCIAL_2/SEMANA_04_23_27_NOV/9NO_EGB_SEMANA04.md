@@ -1,4 +1,7 @@
 # 📗 9NO EGB — PARCIAL 2 / SEMANA 4 (23 – 27 nov)
+
+> [!IMPORTANT]
+> # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
 **Tema:** Vectorización 2D (Inkscape `.PNG` $\rightarrow$ `.SVG`) a Tinkercad 3D *(Individual 2)*
 **Mediador:** David Castro  
 **Modo de Clase:** Modo A/B — Tema Nuevo + Evaluación Rápida (45 min)  
