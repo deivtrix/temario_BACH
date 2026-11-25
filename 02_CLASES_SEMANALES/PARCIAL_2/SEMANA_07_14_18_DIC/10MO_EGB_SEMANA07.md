@@ -1,12 +1,12 @@
 # 📘 10MO EGB — PARCIAL 2 / SEMANA 7 (14 – 18 dic)
 
-> [!TIP]
-> # 🛠️ REFUERZO Y NIVELACIÓN
-**Tema:** Reto de Secuencias e Intro a Bucles `for` *(Refuerzo)*  
+> [!IMPORTANT]
+> # 👤 ACTIVIDAD INDIVIDUAL EVALUADA (INDIVIDUAL 2) + 🛠️ REFUERZO
+**Tema:** Captura de Pantalla de lo Entendido (`Individual 2`) + Reto de Secuencias e Intro a Bucles `for` *(Refuerzo)*  
 **Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
-**Modo de Clase:** Modo A — Tema Nuevo / Refuerzo (45 min)  
-**Entregable:** Captura en Tinkercad del barrido de LEDs usando `for` en Classroom.
+**Modo de Clase:** Modo A — Evidencia Individual + Refuerzo (45 min)  
+**Entregable:** **1 captura de pantalla en Classroom** de su circuito/código funcionando en Tinkercad con un comentario `//` explicando con sus palabras lo que entendieron del parpadeo/semáforo (`Individual 2`).
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Optimizar** el encendido de 6 LEDs en fila usando un bucle `for` en lugar de repetir tantas líneas.
@@ -41,4 +41,20 @@
 * **2 preguntas rápidas:**
   1. *"¿Qué significa `pin++` y qué significa `pin--`?"*
   2. *"¿Qué pasa si conectas los LEDs en pines saltados (ej. 2, 5, 9) cuando usas un `for` consecutivo?"*
-* **Cierre:** Subir captura de Tinkercad corriendo a Classroom.
+* **Cierre:** Subir captura de Tinkercad corriendo + comentario `//` explicando lo entendido a Classroom (`Individual 2`).
+
+---
+
+## 📢 TEXTO PARA GOOGLE CLASSROOM
+```text
+TÍTULO: Actividad Individual 2 — Captura de Pantalla: Lo que entendí de Arduino y LEDs
+
+PROPÓSITO: Demostrar con una captura de pantalla propia en Tinkercad lo aprendido sobre el control de LEDs con Arduino.
+
+INSTRUCCIONES:
+1. Abre tu circuito en Tinkercad (Semáforo o secuencia de LEDs) y asegúrate de que la simulación esté corriendo sin errores.
+2. Agrega al inicio de tu código un comentario (//) de 2 líneas explicando con tus propias palabras qué hace tu circuito y qué aprendiste (por ejemplo: para qué sirve pinMode, digitalWrite, delay o la resistencia).
+3. Toma 1 captura de pantalla donde se vea el circuito encendido y tu código con el comentario, y súbela aquí.
+
+Calificación: 10 puntos (Actividad Individual 2).
+```

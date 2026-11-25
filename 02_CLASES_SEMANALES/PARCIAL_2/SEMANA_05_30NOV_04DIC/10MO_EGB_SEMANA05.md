@@ -2,27 +2,27 @@
 
 > [!IMPORTANT]
 > # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
-**Tema:** Cuestionario Inicial: Parpadeo del LED (*Blink*) (`Individual 2`) + Múltiples Salidas Digitales: Semáforo en Tinkercad  
+**Tema:** Cuestionario Inicial: Parpadeo del LED (*Blink*) (`Individual 1`) + Múltiples Salidas Digitales: Semáforo en Tinkercad  
 **Subtemas puntuales (2 nuevos):**
 1. Control de 3 pines digitales independientes (Rojo, Amarillo, Verde) / Secuencia lógica de un semáforo real con `digitalWrite()` y `delay()`.
 2. Conexión ordenada de 3 LEDs + 3 resistencias en protoboard virtual / Validación del código en Tinkercad (base para el Grupal Físico de Semana 6).
 **Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Evaluación Diagnóstica Inicial (`10 min`) + Tema Nuevo (`35 min`)  
-**Entregable:** **Cuestionario Individual 2 (Parpadeo del LED / *Blink*)** al inicio de la clase + captura exprés en Classroom del semáforo funcionando con variables `int`.
+**Entregable:** **Cuestionario Individual 1 (Parpadeo del LED / *Blink*)** al inicio de la clase + práctica de semáforo con variables `int`.
 
 ---
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Evaluar** los fundamentos del parpadeo del LED (*Blink*) y **simular** un semáforo de 3 luces en Tinkercad usando nombres (`int`) para ordenar los pines.
-* **¿Cómo sé que lo logré?** Completaste el Cuestionario Individual 2 de *Blink* al inicio de la clase y tu semáforo en Tinkercad usa variables `int` ejecutando la secuencia completa de los 3 LEDs en orden.
+* **¿Cómo sé que lo logré?** Completaste el Cuestionario Individual 1 de *Blink* al inicio de la clase y tu semáforo en Tinkercad usa variables `int` ejecutando la secuencia completa de los 3 LEDs en orden.
 * **¿Para qué me sirve en la vida?** Para organizar cualquier programa grande usando nombres claros (`ledRojo`, `ledVerde`) en lugar de memorizar números de pines.
 
 ---
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
-### 1. Cuestionario Inicial (`Individual 2`) y Propósito (00 – 12 min)
-* **00 – 10 min (Cuestionario Individual 2 — Antes de la clase):** Aplicar el **Cuestionario sobre el Parpadeo del LED (*Blink*)** en Google Forms / Classroom (6 preguntas sobre lo visto en Semana 4).
+### 1. Cuestionario Inicial (`Individual 1`) y Propósito (00 – 12 min)
+* **00 – 10 min (Cuestionario Individual 1 — Antes de la clase):** Aplicar el **Cuestionario sobre el Parpadeo del LED (*Blink*)** en Google Forms / Classroom (6 preguntas sobre lo visto en Semana 4).
   * *Nota para **10MO Perspicaces** (que perdió clase el mar 24 nov):* Hacer un repaso exprés de 5 minutos proyectando el código *Blink* (`setup`, `loop`, `pinMode`, `digitalWrite`, `delay` y resistencia $220\,\Omega$) antes de abrir el cuestionario.
 * **10 – 12 min (Conexión y Propósito):** *"La semana pasada controlamos 1 o 2 LEDs usando `13` y `12`. Pero si tuviéramos 20 luces, ¿se acordarían qué hace cada número? Hoy vamos a ponerles nombre con variables."*
 * **Propósito en pantalla:** *"Simular un semáforo de 3 luces en Tinkercad usando nombres (`int`) para ordenar los pines."*
@@ -47,7 +47,7 @@
 ---
 
 ## 📢 TEXTO PARA GOOGLE CLASSROOM
-> **👤 ACTIVIDAD INDIVIDUAL 2 — Cuestionario: Parpadeo del LED (*Blink*) en Arduino**  
+> **👤 ACTIVIDAD INDIVIDUAL 1 — Cuestionario: Parpadeo del LED (*Blink*) en Arduino**  
 > **Instrucciones:**  
 > 1. Responde el cuestionario corto al **inicio de la clase** sobre lo aprendido la semana pasada acerca del parpadeo del LED (*Blink*) en Tinkercad (`void setup()`, `void loop()`, `pinMode()`, `digitalWrite()`, `delay()` y uso de resistencia).  
 > 2. Es una actividad **individual** y **sin ayuda de apuntes** durante los primeros 10 minutos.  
@@ -55,7 +55,7 @@
 
 ---
 
-## 📝 CUESTIONARIO INDIVIDUAL 2: PARPADEO DEL LED (*BLINK*) — LISTO PARA GOOGLE FORMS
+## 📝 CUESTIONARIO INDIVIDUAL 1: PARPADEO DEL LED (*BLINK*) — LISTO PARA GOOGLE FORMS
 *(6 preguntas objetivas para aplicar en 8–10 minutos al inicio de la clase. **No proyectar las respuestas**).*
 
 1. **¿Cuál es la diferencia principal entre `void setup()` y `void loop()` en un programa de Arduino?**

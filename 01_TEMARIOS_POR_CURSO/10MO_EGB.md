@@ -24,12 +24,12 @@
 **Propósito del Parcial:** **Implementar** uniones eléctricas seguras y los primeros programas en Arduino C++ para controlar salidas digitales en simulación y montaje físico.  
 
 1. `[x]` **S1 (4–6 nov) — ¿Qué es Arduino?** *(ejecutado)* — Introducción conceptual al microcontrolador, hardware/software y modelo IPO.
-2. `[x]` **S2 (9–13 nov) — Práctica de Empalmes (Taller Calificado)** *(Grupal / Físico — ejecutado)* — Uniones eléctricas seguras y prueba de continuidad.
-3. `[→]` **S3 (16–19 nov — Esta semana) — Conectores y Aislantes** *(Individual 1)* — Documento de consulta e infografía explicativa.
+2. `[x]` **S2 (9–13 nov) — Práctica de Empalmes** *(Práctica en clase — sin nota de Parcial 2)* — Uniones eléctricas seguras y prueba de continuidad.
+3. `[x]` **S3 (16–19 nov) — Conectores y Aislantes** *(Tema visto — sin nota de Parcial 2)* — Conceptos base de conectores y aislantes.
 4. `[→]` **S4 (23–27 nov) — Primer Programa en Arduino (*Blink*)** *(Práctica Guiada — base para Cuestionario S5)* — `setup()`, `loop()`, `pinMode()`, `digitalWrite()` y `delay()` en Tinkercad Circuits.
-5. `[ ]` **S5 (30 nov – 4 dic) — Cuestionario Parpadeo LED (*Blink*) (`Individual 2`) + Semáforo Funcional en Tinkercad** *(Evaluación inicial + Tema Nuevo)* — Cuestionario corto previo sobre *Blink* (`Individual 2`), variables `int` y secuencia real de 3 LEDs (Rojo, Amarillo, Verde).
-6. `[ ]` **S6 (7–11 dic) — Semáforo Físico en Protoboard con Arduino UNO** *(Práctica Física)* — Montaje real y carga de código.
-7. `[ ]` **S7 (14–18 dic) — Refuerzo: Depuración de Código (*Encuentra el error*) y Autoevaluación** *(Refuerzo y Cierre)* — Corregir errores reales en Blink y Semáforo (llaves, `;`, pines), nivelación y **Autoevaluación Likert (1–5)** en 4 aspectos previa a Evaluaciones de Áreas Especiales.
+5. `[ ]` **S5 (30 nov – 4 dic) — Cuestionario Parpadeo LED (*Blink*) (`Individual 1`) + Semáforo Funcional en Tinkercad** *(Evaluación inicial + Tema Nuevo)* — Cuestionario corto previo sobre *Blink* (`Individual 1`), variables `int` y secuencia real de 3 LEDs (Rojo, Amarillo, Verde).
+6. `[ ]` **S6 (7–11 dic) — Semáforo Físico en Protoboard con Arduino UNO** *(**Grupal 1** — Práctica Física en Vivo)* — Montaje real y carga de código en equipos.
+7. `[ ]` **S7 (14–18 dic) — Captura de Pantalla de lo Entendido (`Individual 2`) + Refuerzo y Autoevaluación** *(Individual 2 + Refuerzo)* — Subir captura de pantalla en Classroom explicando lo comprendido del circuito/código + depuración/bucle `for` y **Autoevaluación Likert (1–5)**.
 8. `[ ]` **S8 (5–8 ene) — Nivelación y Repaso General post-vacaciones** *(Colchón / Preparación previa a Evaluaciones de Áreas Especiales — semana del 11 de enero)*.
 
 ---

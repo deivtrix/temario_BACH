@@ -44,7 +44,7 @@
 ### 🚀 Semana 4 (23 – 27 nov) — *EN CURSO*
 * **8vo:** AC vs. DC + Infografía 10 imágenes DC / 10 AC *(Decididos ✅ Mar 24)*.
 * **9no:** Rótulo 3D para habitación (Base + `.SVG` de `svgrepo.com` + Nombre 3D) *(**Individual 2**)*
-* **10mo:** Primer programa Arduino (*Blink*) en Tinkercad *(Práctica base para Cuestionario Individual 2 de S5)*.
+* **10mo:** Primer programa Arduino (*Blink*) en Tinkercad *(Práctica base para Cuestionario Individual 1 de S5)*.
 * **1ro BGU:** Atenuador de brillo LED (`map()` + PWM `analogWrite`) *(Práctica sin entrega — Ind. 1 y 2 ya completas)*.
 * **2do BGU:** Intro a Tinkercad Codeblocks: **Silla 3D (`AI4` en Classroom — Lun 23 ✅)** *(Ind. 1 lista; `AG2` Grupal ya completo)*.
 * **3ro BGU:** Semáforo en Wokwi *(Práctica — Ind. 1 y 2 ya completas en Classroom)*.
@@ -52,7 +52,7 @@
 ### 📅 Semana 5 (30 nov – 4 dic)
 * **8vo:** Tinkercad Circuits: Medir ondas y voltaje AC vs. DC (Osciloscopio + Multímetro)
 * **9no:** Proyecto Grupal 3D: Vehículo / Carro — Parte 1 *(**Grupal**)*
-* **10mo:** **Cuestionario inicial: Parpadeo del LED (*Blink*) (`Individual 2`)** + Múltiples Salidas: Semáforo en Tinkercad *(Virtual — base para Grupal Físico S6)*
+* **10mo:** **Cuestionario inicial: Parpadeo del LED (*Blink*) (`Individual 1`)** + Múltiples Salidas: Semáforo en Tinkercad *(Virtual — base para Grupal 1 Físico S6)*
 * **1ro BGU:** Poste de Alumbrado Público Automático (LDR) en Tinkercad *(Virtual)*
 * **2do BGU:** Bucles y Rotación en Codeblocks *(**Individual 2:** Formulario corto auto-calificable)*
 * **3ro BGU:** ESP32 PWM y Buzzer en Wokwi
@@ -60,7 +60,7 @@
 ### 📅 Semana 6 (7 – 11 dic)
 * **8vo:** Seguridad Eléctrica: Falsos Contactos, Cortocircuitos y Breakers *(**Refuerzo** — Inspector de Seguridad)*
 * **9no:** Proyecto Grupal 3D: Vehículo / Carro — Parte 2 *(**Grupal**)*
-* **10mo:** Semáforo Físico en Protoboard con Arduino UNO *(**Grupal Físico** — Kits Arduino solo 10mo)*
+* **10mo:** Semáforo Físico en Protoboard con Arduino UNO *(**Grupal 1 — Práctica en vivo** con Kits Arduino solo 10mo)*
 * **1ro BGU:** Theremin Musical con Luz (LDR + Buzzer `tone()`) en Tinkercad *(Simulación Virtual — previo al Grupal Físico S7)*
 * **2do BGU:** Proyecto Codeblocks: Engranaje o Mecanismo Paramétrico
 * **3ro BGU:** Sensor Ultrasonido HC-SR04 con ESP32 en Wokwi
@@ -68,7 +68,7 @@
 ### 📅 Semana 7 (14 – 18 dic)
 * **8vo:** Repaso, Cierre de Parcial 2 y Autoevaluación Likert (1–5) *(**Refuerzo**)*
 * **9no:** Refuerzo 3D: Casa en Tinkercad y Autoevaluación *(**Refuerzo**)*
-* **10mo:** Refuerzo: Depuración de Código (*Encuentra el error*) y Autoevaluación *(**Refuerzo** — sin kits físicos)*
+* **10mo:** Refuerzo + **Captura de pantalla en Classroom sobre lo entendido (`Individual 2`)** y Autoevaluación *(**Refuerzo** — sin kits físicos)*
 * **1ro BGU:** Theremin Musical con Luz (LDR + Buzzer `tone()`) en Kit Físico *(**Grupal Físico** — Kits Arduino solo 1ro BGU)*
 * **2do BGU:** Refuerzo: Diseño libre programado en Codeblocks *(**Refuerzo**)*
 * **3RO BGU:** Proyecto Grupal: Teclado Matricial 4x4 (Piano / Clave) en Wokwi *(**Grupal**)*

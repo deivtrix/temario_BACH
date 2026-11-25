@@ -11,7 +11,7 @@
 Al ordenar todos tus datos de Classroom (incluyendo **8vo** y **10mo EGB**), este es el panorama real:
 * **8VO EGB:** `Disciplinados`, `Dinámicos` y `Diligentes` están **100% al día** en Parcial 2. El único pendiente es **8VO Decididos (C)** en `AI4. Cuestionario Aislantes y conductores` (**1** por revisar y **24** asignadas — probablemente falta importar notas del formulario o completar).
 * **9NO EGB, 1RO BGU y 3RO BGU:** Prácticamente calificados. Entre los tres solo hay **2 entregas por revisar** en Parcial 2 y **16 asignadas** (1 a 4 por paralelo).
-* **10MO EGB (Parcial 2 — 27 oct al 3 nov):** Tiene entregas por calificar y notificar en `Infografía Técnica sobre Arduino` (**59** por revisar, **14** asignadas). *(Nota: `AI4. Led e interruptores` del 4 nov fue eliminado por completo del registro y temario porque solo 2 paralelos lo realizaron; se reemplaza por el Cuestionario de Parpadeo del LED al inicio de Semana 5).*
+* **10MO EGB:** Se eliminaron todas las actividades individuales y grupales previas de Parcial 2. El parcial se evalúa desde **Semana 5**: **Ind. 1** (Cuestionario *Blink* en S5), **Grupal 1** (Práctica en vivo Semáforo Físico en S6) e **Ind. 2** (Captura de pantalla de lo entendido en Classroom).
 * **2DO BGU:** Concentra `AG2. Mini Gold Challenge` (9 nov: **55** por revisar, **12** asignadas) y `AI4: Silla en codeblocks` (23 nov: **40** por revisar entre Justos y Proactivos).
 
 ---
@@ -19,7 +19,7 @@ Al ordenar todos tus datos de Classroom (incluyendo **8vo** y **10mo EGB**), est
 ## 🎯 2. PLAN DE ACCIÓN EN 4 BLOQUES
 
 1. **Bloque 1 (Hoy — Victoria rápida):** Calificar las **2** entregas sueltas de Parcial 2 (`1RO Íntegros AI5`, `3RO Empáticos AI4`) + **8VO Decididos (`AI4`)** y notificar por Classroom + WhatsApp al Tutor a los **16** rezagados de **9no, 1ro y 3ro BGU**.
-2. **Bloque 2 (Prioridad Alta — 10mo EGB, 27 oct – 3 nov):** Calificar `Infografía Técnica Arduino` (Positivos 21, Perspicaces 17, Pacifistas 21) + notificar rezagados.
+2. **Bloque 2 (10mo EGB — Nuevo corte limpio):** Sin pendientes previos de Parcial 2 *(actividades anteriores eliminadas)*. Arranca con **Ind. 1** (Cuestionario *Blink* en S5), **Grupal 1** (Práctica en vivo en S6) e **Ind. 2** (Captura de pantalla en Classroom).
 3. **Bloque 3 (Prioridad Alta — 2do BGU, 9 nov):** Calificar `AG2. Mini Gold Challenge` (Honestos 20, Justos 16, Proactivos 19) y notificar a sus **12** rezagados.
 4. **Bloque 4 (De esta semana — 2do BGU, 23 nov + rezagos P1):** Calificar `AI4. Silla en codeblocks` (Proactivos 19, Justos 21) y limpiar las **5** entregas tardías sueltas de Parcial 1.
 
@@ -86,13 +86,14 @@ Al ordenar todos tus datos de Classroom (incluyendo **8vo** y **10mo EGB**), est
 
 ---
 
-### 🟣 10MO EGB (Parcial 2 — 27 oct al 3 nov)
+### 🟣 10MO EGB (Parcial 2 — Nuevo esquema desde Semana 5)
+*(Actividades individuales y grupales anteriores de Parcial 2 eliminadas por completo).*
 
-| Curso / Paralelo | Actividad (Fecha) | Por revisar | Asignadas (Sin entregar) | Calificado | Notif. Classroom | Notif. WhatsApp (Tutor) | Nombres / Observaciones |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| **10MO EGB — Perspicaces (B)** | `Infografía Técnica Arduino` *(27 oct)* | [17 Por revisar](https://classroom.google.com/u/0/c/ODY5OTAzMzMwODc1/a/ODk2MTU2MDgzNDk0/submissions/by-status/and-sort-name/done/all?hl=es) | [9 Asignadas](https://classroom.google.com/u/0/c/ODY5OTAzMzMwODc1/a/ODk2MTU2MDgzNDk0/submissions/by-status/and-sort-name/not-done/all?hl=es) | [ ] | [ ] | [ ] | |
-| **10MO EGB — Positivos (D)** | `Infografía Técnica Arduino` *(29 oct)* | [21 Por revisar](https://classroom.google.com/u/0/c/ODY5OTAzNDg3Mzg3/a/ODk2NTg5NzE0NzA1/submissions/by-status/and-sort-name/done/all?hl=es) | [2 Asignadas](https://classroom.google.com/u/0/c/ODY5OTAzNDg3Mzg3/a/ODk2NTg5NzE0NzA1/submissions/by-status/and-sort-name/not-done/all?hl=es) | [ ] | [ ] | [ ] | |
-| **10MO EGB — Pacifistas (C)** | `Infografía Técnica Arduino` *(3 nov)* | [21 Por revisar](https://classroom.google.com/u/0/c/ODY5OTAzNjc5NjY5/a/ODk2NDAwODMzMzgx/submissions/by-status/and-sort-name/done/all?hl=es) | [3 Asignadas](https://classroom.google.com/u/0/c/ODY5OTAzNjc5NjY5/a/ODk2NDAwODMzMzgx/submissions/by-status/and-sort-name/not-done/all?hl=es) | [ ] | [ ] | [ ] | |
+| Curso / Paralelo | Actividad | Estado | Notas |
+| :--- | :--- | :---: | :--- |
+| **10MO EGB (4 paralelos)** | `Ind. 1` — Cuestionario Parpadeo del LED (*Blink*) | 📅 S5 (30 nov – 4 dic) | Al inicio de la clase |
+| **10MO EGB (4 paralelos)** | `Grupal 1` — Práctica en vivo: Semáforo Físico Arduino UNO | 📅 S6 (7 – 11 dic) | Kits físicos en aula |
+| **10MO EGB (4 paralelos)** | `Ind. 2` — Captura de pantalla en Classroom (lo entendido) | 📅 S7 (14 – 18 dic) | Evidencia individual + Refuerzo |
 
 ---
 
