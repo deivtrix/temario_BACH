@@ -25,6 +25,7 @@ ESTRUCTURA SIN REPETICIONES (3–4 SLIDES POR CLASE):
 - Cierre de la Sección 1: 3 preguntas relámpago de verificación (SIN respuestas visibles).
 
 CANDADOS OBLIGATORIOS:
+0. TÉRMINOS TÉCNICOS REALES Y COMPLETOS: PROHIBIDO inventar nombres mágicos o infantiles (como "transformador mágico" o "energía mágica"); usa los términos técnicos reales de la fuente y cubre OBLIGATORIAMENTE todos los temas y eslabones listados arriba sin saltarse ninguno.
 1. Usa ÚNICAMENTE simulador Wokwi y pines válidos del ESP32; PROHIBIDO adelantar WiFi/MQTT o HC-SR04.
 2. En actividades evaluadas (👤): PROHIBIDO regalar el código completo del semáforo resuelto.
 3. PROHIBIDO poner fechas, "Semana X", nombres de docente o "sube a Classroom".
@@ -56,6 +57,7 @@ ESTRUCTURA SIN REPETICIONES (2–3 SLIDES POR CLASE):
   - 1 Lámina integradora (errores típicos en ESP32) + Diapositiva exclusiva de Autoevaluación Likert (1 al 5) en 4 aspectos concretos.
 
 CANDADOS OBLIGATORIOS:
+0. TÉRMINOS TÉCNICOS REALES Y COMPLETOS: PROHIBIDO inventar nombres mágicos o infantiles (como "transformador mágico" o "energía mágica"); usa los términos técnicos reales de la fuente y cubre OBLIGATORIAMENTE todos los temas y eslabones listados arriba sin saltarse ninguno.
 1. Usa ÚNICAMENTE librerías estándar en Wokwi (Keypad.h, etc.); PROHIBIDO adelantar WiFi o MQTT.
 2. En actividades evaluadas (👤/👥): PROHIBIDO regalar el código completo resuelto.
 3. PROHIBIDO poner fechas, "Semana X", nombres de docente o "sube a Classroom".

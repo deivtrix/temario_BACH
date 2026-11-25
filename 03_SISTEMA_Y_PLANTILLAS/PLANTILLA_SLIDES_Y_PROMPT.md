@@ -37,10 +37,11 @@ ESTRUCTURA SIN REPETICIONES (2 A 4 SLIDES POR CLASE — SIN SLIDES DE PROPÓSITO
 - [En Sección 2, incluir al final 1 diapositiva exclusiva de Autoevaluación con Escala de Likert (1 al 5) en 4 aspectos concretos del parcial].
 
 CANDADOS OBLIGATORIOS:
-1. Teoría puntual, visual y servible (PROHIBIDO teoría compleja universitaria o definiciones de relleno).
-2. Usa ÚNICAMENTE los bloques, instrucciones y componentes vistos en estas clases; PROHIBIDO inventar código o adelantar temas futuros.
-3. Si hay actividad evaluada (👤/👥): PROHIBIDO regalar el código completo, la tabla llena o la solución resuelta.
-4. PROHIBIDO poner fechas, "Semana X", nombres de docente o "sube a Classroom".
+1. Teoría puntual, visual y con TÉRMINOS TÉCNICOS REALES (PROHIBIDO usar nombres mágicos o infantiles como "transformador mágico"; y PROHIBIDO teoría universitaria compleja).
+2. OBLIGATORIO cubrir TODOS los temas y eslabones técnicos listados arriba sin saltarse ningún paso.
+3. Usa ÚNICAMENTE los bloques, instrucciones y componentes vistos en estas clases; PROHIBIDO inventar código o adelantar temas futuros.
+4. Si hay actividad evaluada (👤/👥): PROHIBIDO regalar el código completo, la tabla llena o la solución resuelta.
+5. PROHIBIDO poner fechas, "Semana X", nombres de docente o "sube a Classroom".
 ```
 
 ---

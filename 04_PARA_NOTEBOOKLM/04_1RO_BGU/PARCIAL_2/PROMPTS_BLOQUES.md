@@ -27,6 +27,7 @@ ESTRUCTURA SIN REPETICIONES (3–4 SLIDES POR CLASE):
 - Cierre de la Sección 1: 3 preguntas relámpago de verificación (SIN respuestas visibles).
 
 CANDADOS OBLIGATORIOS:
+0. TÉRMINOS TÉCNICOS REALES Y COMPLETOS: PROHIBIDO inventar nombres mágicos o infantiles (como "transformador mágico" o "energía mágica"); usa los términos técnicos reales de la fuente y cubre OBLIGATORIAMENTE todos los temas y eslabones listados arriba sin saltarse ninguno.
 1. Usa ÚNICAMENTE las instrucciones vistas (analogRead, map, analogWrite, if/else); PROHIBIDO adelantar LDR o tone().
 2. En actividades evaluadas (👤): PROHIBIDO regalar el código completo de los 4 LEDs resuelto.
 3. PROHIBIDO poner fechas, "Semana X", nombres de docente o "sube a Classroom".
@@ -57,6 +58,7 @@ ESTRUCTURA SIN REPETICIONES (2–3 SLIDES POR CLASE):
   - 1 Diapositiva exclusiva de Autoevaluación con Escala de Likert (1 al 5) en 4 aspectos concretos aprendidos.
 
 CANDADOS OBLIGATORIOS:
+0. TÉRMINOS TÉCNICOS REALES Y COMPLETOS: PROHIBIDO inventar nombres mágicos o infantiles (como "transformador mágico" o "energía mágica"); usa los términos técnicos reales de la fuente y cubre OBLIGATORIAMENTE todos los temas y eslabones listados arriba sin saltarse ninguno.
 1. Usa ÚNICAMENTE código verificado de la fuente; PROHIBIDO inventar funciones o librerías externas.
 2. En actividades evaluadas (👥): PROHIBIDO regalar el código completo del Theremin resuelto.
 3. PROHIBIDO poner fechas, "Semana X", nombres de docente o "sube a Classroom".

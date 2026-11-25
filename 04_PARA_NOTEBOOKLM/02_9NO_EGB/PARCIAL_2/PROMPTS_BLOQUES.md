@@ -30,6 +30,7 @@ ESTRUCTURA SIN REPETICIONES (3–4 SLIDES POR CLASE):
 - Cierre de la Sección 1: 3 preguntas relámpago de verificación (SIN respuestas visibles).
 
 CANDADOS OBLIGATORIOS:
+0. TÉRMINOS TÉCNICOS REALES Y COMPLETOS: PROHIBIDO inventar nombres mágicos o infantiles (como "transformador mágico" o "energía mágica"); usa los términos técnicos reales de la fuente y cubre OBLIGATORIAMENTE todos los temas y eslabones listados arriba sin saltarse ninguno.
 1. Teoría puntual, visual y servible (PROHIBIDO teoría compleja de CAD industrial o definiciones de relleno).
 2. Usa ÚNICAMENTE los conceptos vistos en los puntos 1, 2 y 3; PROHIBIDO adelantar Inkscape/.SVG o vehículos.
 3. En actividades evaluadas (👤): PROHIBIDO regalar medidas finales resueltas.
@@ -62,6 +63,7 @@ ESTRUCTURA SIN REPETICIONES (2–3 SLIDES POR CLASE):
   - 1 Diapositiva exclusiva de Autoevaluación con Escala de Likert (1 al 5) en 4 aspectos concretos aprendidos.
 
 CANDADOS OBLIGATORIOS:
+0. TÉRMINOS TÉCNICOS REALES Y COMPLETOS: PROHIBIDO inventar nombres mágicos o infantiles (como "transformador mágico" o "energía mágica"); usa los términos técnicos reales de la fuente y cubre OBLIGATORIAMENTE todos los temas y eslabones listados arriba sin saltarse ninguno.
 1. Teoría puntual, visual y servible.
 2. Usa ÚNICAMENTE los conceptos vistos en los puntos 4 a 7.
 3. PROHIBIDO regalar el diseño grupal resuelto.

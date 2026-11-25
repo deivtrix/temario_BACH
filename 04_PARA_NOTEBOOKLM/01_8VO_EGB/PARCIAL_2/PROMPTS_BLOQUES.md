@@ -30,6 +30,7 @@ ESTRUCTURA SIN REPETICIONES (3–4 SLIDES POR CLASE):
 - Cierre de la Sección 1: 3 preguntas relámpago de verificación (SIN respuestas visibles).
 
 CANDADOS OBLIGATORIOS:
+0. TÉRMINOS TÉCNICOS REALES Y COMPLETOS: PROHIBIDO inventar nombres mágicos o infantiles (como "transformador mágico" o "energía mágica"); usa los términos técnicos reales de la fuente y cubre OBLIGATORIAMENTE todos los temas y eslabones listados arriba sin saltarse ninguno.
 1. Teoría puntual, visual y servible (PROHIBIDO teoría compleja universitaria o definiciones de relleno).
 2. Usa ÚNICAMENTE los conceptos vistos en los temas 1, 2 y 3; PROHIBIDO adelantar AC, Tinkercad o breakers.
 3. En actividades evaluadas (👤): PROHIBIDO regalar la tabla llena o la solución resuelta.
@@ -52,8 +53,10 @@ PORTADA (DIAPOSITIVA 1 — TODO JUNTO):
 - "Propósito:" (verbo en infinitivo, sin decir "LEV") + "¿Dónde lo usas?" (1 frase cotidiana para 12-13 años).
 
 ESTRUCTURA SIN REPETICIONES (2–3 SLIDES POR CLASE):
-- Clase 4 — Corriente Alterna (AC) vs. DC:
-  - 2 Láminas Ancla: (1) Onda senoidal AC vs. línea plana DC + transformación de cargador y (2) Tabla visual: qué artefactos usan AC y cuáles DC + reto infografía (10+10).
+- Clase 4 — Corriente Alterna (AC) vs. DC y Red Eléctrica:
+  - 2 Láminas Ancla obligatorias SIN saltarse pasos:
+    1. Recorrido completo de la luz: Central eléctrica -> líneas de alta tensión -> transformador de poste (baja el voltaje) -> tomacorriente de casa (110V AC) -> cargador por dentro con sus 2 etapas reales: Reductor de voltaje (110V a 5V) + Rectificador (AC a DC) -> celular (5V DC). (PROHIBIDO usar términos como "transformador mágico"; usa los nombres reales: Reductor y Rectificador).
+    2. Movimiento real de electrones (AC: vaivén 60 veces/seg vs. DC: un solo sentido) + tabla visual de artefactos AC vs. DC + reto infografía (10+10).
 - Clase 5 — Medir Ondas y Voltaje en Tinkercad Circuits:
   - 2 Láminas Ancla: (1) Qué muestra el Osciloscopio vs. el Multímetro (sin cálculos de Hz) y (2) Cómo conectar puntas sin error + reto en Tinkercad.
 - Clase 6 — Seguridad Eléctrica: Falsos Contactos, Cortocircuitos y Breakers (🛠️ REFUERZO):
@@ -63,6 +66,7 @@ ESTRUCTURA SIN REPETICIONES (2–3 SLIDES POR CLASE):
   - 1 Diapositiva exclusiva de Autoevaluación con Escala de Likert (1 al 5) en 4 aspectos concretos aprendidos.
 
 CANDADOS OBLIGATORIOS:
+0. TÉRMINOS TÉCNICOS REALES Y COMPLETOS: PROHIBIDO inventar nombres mágicos o infantiles (como "transformador mágico" o "energía mágica"); usa los términos técnicos reales de la fuente y cubre OBLIGATORIAMENTE todos los temas y eslabones listados arriba sin saltarse ninguno.
 1. Teoría puntual, visual y servible (PROHIBIDO cálculos complejos de frecuencia o fórmulas avanzadas).
 2. Usa ÚNICAMENTE los conceptos vistos en los temas 4 a 7.
 3. PROHIBIDO poner fechas, "Semana X", nombres de docente o "sube a Classroom".

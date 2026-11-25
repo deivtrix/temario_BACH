@@ -27,6 +27,7 @@ ESTRUCTURA SIN REPETICIONES (3–4 SLIDES POR CLASE):
 - Cierre de la Sección 1: 3 preguntas relámpago de verificación (SIN respuestas visibles).
 
 CANDADOS OBLIGATORIOS:
+0. TÉRMINOS TÉCNICOS REALES Y COMPLETOS: PROHIBIDO inventar nombres mágicos o infantiles (como "transformador mágico" o "energía mágica"); usa los términos técnicos reales de la fuente y cubre OBLIGATORIAMENTE todos los temas y eslabones listados arriba sin saltarse ninguno.
 1. Teoría puntual, visual y servible (PROHIBIDO adelantar código C++ o bucles for).
 2. Usa ÚNICAMENTE los conceptos vistos en los Capítulos 1 a 3.
 3. PROHIBIDO regalar soluciones resueltas.
@@ -60,6 +61,7 @@ ESTRUCTURA SIN REPETICIONES (2–3 SLIDES POR CLASE):
   - 1 Diapositiva exclusiva de Autoevaluación con Escala de Likert (1 al 5) en 4 aspectos concretos aprendidos.
 
 CANDADOS OBLIGATORIOS:
+0. TÉRMINOS TÉCNICOS REALES Y COMPLETOS: PROHIBIDO inventar nombres mágicos o infantiles (como "transformador mágico" o "energía mágica"); usa los términos técnicos reales de la fuente y cubre OBLIGATORIAMENTE todos los temas y eslabones listados arriba sin saltarse ninguno.
 1. Usa ÚNICAMENTE código verificado de la fuente (setup, loop, pinMode, digitalWrite, delay, int); PROHIBIDO inventar bucles for o funciones avanzadas.
 2. En actividades evaluadas (👤/👥): PROHIBIDO regalar el código completo del semáforo resuelto.
 3. PROHIBIDO poner fechas, "Semana X", nombres de docente o "sube a Classroom".
