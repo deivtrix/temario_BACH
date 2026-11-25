@@ -21,7 +21,7 @@ Crea una presentación estilo cómic educativo de MÁXIMO 10 a 12 diapositivas e
 
 ESTILO VISUAL (CÓMIC + AGENTE PEDAGÓGICO):
 - Diapositiva 1 (Portada/Gancho) y última diapositiva (Cierre): escena completa de cómic del universo de [UNIVERSO_DEL_CURSO].
-- En todas las láminas de teoría técnica: estilo página de cómic limpia donde el diagrama/tabla/código ocupa casi toda la lámina sobre fondo claro y un personaje guía de [UNIVERSO_DEL_CURSO] va pequeño en una esquina señalando el punto clave o dando 1 consejo corto (PROHIBIDO dibujar porcentajes en la imagen, globos gigantes o tramas tapando diagramas).
+- En todas las láminas de teoría técnica: estilo página de cómic limpia donde el diagrama/tabla/código ocupa casi toda la lámina sobre fondo claro y un personaje guía de [UNIVERSO_DEL_CURSO] va pequeño en una esquina señalando el punto clave y dando 1 Micro-Tip Práctico de Taller concreto del tema (ej. cómo identificar polaridad, holguras, pines seguros o atajos reales; PROHIBIDO frases vacías de ánimo, dibujar porcentajes en la imagen, globos gigantes o tramas tapando diagramas).
 
 PORTADA (DIAPOSITIVA 1 — TODO JUNTO):
 - Título exacto: "TOMO [N]: [NOMBRE_OFICIAL_PARCIAL] — SECCIÓN [1/2]" (PROHIBIDO escribir "Tema:", fechas, nombre de profesor o el nombre del curso).

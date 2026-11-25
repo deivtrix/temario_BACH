@@ -11,7 +11,7 @@ Crea una presentación educativa de MÁXIMO 10 a 12 diapositivas en español par
 
 ESTILO VISUAL (CÓMIC + AGENTE PEDAGÓGICO):
 - Diapositiva 1 (Portada/Gancho) y última diapositiva (Cierre): escena completa de cómic de las Tortugas Ninja.
-- En todas las láminas de teoría técnica: página de cómic limpia donde el diagrama/tabla/código ocupa casi toda la lámina sobre fondo claro y un personaje guía de las Tortugas Ninja va pequeño en una esquina señalando el punto clave o dando 1 consejo corto (PROHIBIDO dibujar porcentajes en la imagen, globos gigantes o tramas tapando diagramas).
+- En todas las láminas de teoría técnica: página de cómic limpia donde el diagrama/tabla/código ocupa casi toda la lámina sobre fondo claro y un personaje guía de las Tortugas Ninja va pequeño en una esquina señalando el punto clave y dando 1 Micro-Tip Práctico de Taller concreto del tema (ej. cómo identificar polaridad, holguras, pines seguros o atajos reales; PROHIBIDO frases vacías de ánimo, dibujar porcentajes en la imagen, globos gigantes o tramas tapando diagramas).
 
 PORTADA (DIAPOSITIVA 1 — TODO JUNTO):
 - Título exacto: "TOMO 2: Conductores, Empalmes y Seguridad Eléctrica — SECCIÓN 1" (PROHIBIDO escribir "Tema:", fechas, nombre de profesor o el nombre del curso).
@@ -46,7 +46,7 @@ Crea una presentación educativa de MÁXIMO 10 a 12 diapositivas en español par
 
 ESTILO VISUAL (CÓMIC + AGENTE PEDAGÓGICO):
 - Diapositiva 1 (Portada/Gancho) y última diapositiva (Cierre): escena completa de cómic de las Tortugas Ninja.
-- En todas las láminas de teoría técnica: página de cómic limpia donde el diagrama/tabla/código ocupa casi toda la lámina sobre fondo claro y un personaje guía de las Tortugas Ninja va pequeño en una esquina señalando el punto clave o dando 1 consejo corto (PROHIBIDO dibujar porcentajes en la imagen, globos gigantes o tramas tapando diagramas).
+- En todas las láminas de teoría técnica: página de cómic limpia donde el diagrama/tabla/código ocupa casi toda la lámina sobre fondo claro y un personaje guía de las Tortugas Ninja va pequeño en una esquina señalando el punto clave y dando 1 Micro-Tip Práctico de Taller concreto del tema (ej. cómo identificar polaridad, holguras, pines seguros o atajos reales; PROHIBIDO frases vacías de ánimo, dibujar porcentajes en la imagen, globos gigantes o tramas tapando diagramas).
 
 PORTADA (DIAPOSITIVA 1 — TODO JUNTO):
 - Título exacto: "TOMO 2: Conductores, Empalmes y Seguridad Eléctrica — SECCIÓN 2" (PROHIBIDO escribir "Tema:", fechas, nombre de profesor o el nombre del curso).
