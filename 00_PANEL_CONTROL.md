@@ -14,6 +14,7 @@
 
 ### 🛠️ Clases Actuales, Plantillas y Reglas
 * 📔 [[DIARIO_CLASES|Diario de Clases y Toma de Decisiones (Bitácora Semanal)]]
+* 📋 [[CONTROL_CALIFICACIONES_Y_NOTIFICACIONES|Control de Calificaciones y Notificaciones (Classroom + WhatsApp)]]
 * 📅 [[02_CLASES_SEMANALES/PARCIAL_2/SEMANA_03_16_19_NOV/8VO_EGB_SEMANA03|Clases Semana 3 (16–19 nov) — Carpeta Parcial 2]]
 * 🧠 [[03_SISTEMA_Y_PLANTILLAS/REGLAS_Y_MEMORIA_DOCENTE|Reglas, Taxonomía LEV y Estándar de 45 min]]
 * 📘 [[03_SISTEMA_Y_PLANTILLAS/GUIA_GENERACION_CLASES|Guía Maestra de Generación de Clases]]
@@ -43,7 +44,7 @@
 ### 🚀 Semana 4 (23 – 27 nov) — *EN CURSO*
 * **8vo:** AC vs. DC + Infografía 10 imágenes DC / 10 AC *(Decididos ✅ Mar 24)*.
 * **9no:** Rótulo 3D para habitación (Base + `.SVG` de `svgrepo.com` + Nombre 3D) *(**Individual 2**)*
-* **10mo:** Primer programa Arduino (*Blink*) en Tinkercad *(Práctica sin entrega — Ind. 1 y 2 ya completas)*.
+* **10mo:** Primer programa Arduino (*Blink*) en Tinkercad *(Práctica base para Cuestionario Individual 2 de S5)*.
 * **1ro BGU:** Atenuador de brillo LED (`map()` + PWM `analogWrite`) *(Práctica sin entrega — Ind. 1 y 2 ya completas)*.
 * **2do BGU:** Intro a Tinkercad Codeblocks: **Silla 3D (`AI4` en Classroom — Lun 23 ✅)** *(Ind. 1 lista; `AG2` Grupal ya completo)*.
 * **3ro BGU:** Semáforo en Wokwi *(Práctica — Ind. 1 y 2 ya completas en Classroom)*.
@@ -51,7 +52,7 @@
 ### 📅 Semana 5 (30 nov – 4 dic)
 * **8vo:** Tinkercad Circuits: Medir ondas y voltaje AC vs. DC (Osciloscopio + Multímetro)
 * **9no:** Proyecto Grupal 3D: Vehículo / Carro — Parte 1 *(**Grupal**)*
-* **10mo:** Múltiples Salidas: Semáforo en Tinkercad *(Virtual — base para Grupal Físico S6)*
+* **10mo:** **Cuestionario inicial: Parpadeo del LED (*Blink*) (`Individual 2`)** + Múltiples Salidas: Semáforo en Tinkercad *(Virtual — base para Grupal Físico S6)*
 * **1ro BGU:** Poste de Alumbrado Público Automático (LDR) en Tinkercad *(Virtual)*
 * **2do BGU:** Bucles y Rotación en Codeblocks *(**Individual 2:** Formulario corto auto-calificable)*
 * **3ro BGU:** ESP32 PWM y Buzzer en Wokwi

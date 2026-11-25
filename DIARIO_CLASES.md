@@ -11,7 +11,7 @@
 | Nivel / Paralelo | Situación Actual | Decisión / Acción Recomendada | Estado |
 | :--- | :--- | :--- | :---: |
 | **10MO EGB — Perspicaces** *(Mar)* | Pierde clase hoy **martes 24 nov** (S4: *Blink* en Tinkercad). | **Plan de Alcance:** Enviar guía/circuito base de *Blink* por Classroom o fusionar *Blink* + *Semáforo* en Semana 5. | 🟡 -1 clase |
-| **9NO EGB — Auténticos** *(Jue)* | Clases al día, pero **deben 1 Formulario** (Semana 3). | Aplicar/recoger el Formulario pendiente en la clase del **jueves 26 nov** o habilitarlo por Classroom antes. | 🟡 Debe Formulario |
+| **9NO EGB — Auténticos** *(Jue)* | Clases al día, pero **deben 1 Formulario** (Semana 3). | **Esta semana (jue 26 nov):** aplicar/recoger el Formulario pendiente. **Siguiente semana (S5):** hacerles el cuestionario pendiente. | 🟡 Debe Formulario |
 | **Resto de paralelos (19/21)** | Al día según horario. | Continuar secuencia normal de **Semana 4**. | 🟢 Al día |
 
 ---
@@ -59,7 +59,7 @@
 | :--- | :---: | :---: | :---: | :---: | :--- |
 | **8VO EGB** | ✅ *AI4. Cuestionario Aislantes y conductores* | ✅ *Taller individual de empalmes* | 📅 S5 *(Canva DC/AC)* | 📅 S6–S7 | **Solo Grupal (S5) y Refuerzo (S6–S7).** *(No hacer más individuales).* |
 | **9NO EGB** | ✅ *AI2. Cuestionario Tinkercad 3D* *(⚠️ Auténticos debe)* | 📅 **S4 (Esta semana)** | 📅 S5–S6 *(Vehículo 3D)* | 📅 S7 | **Ind. 2 esta semana (Jue/Vie)** + **Grupal (S5–S6)** + **Refuerzo (S7)**. |
-| **10MO EGB** | ✅ *AI4. Led e interruptores* *(4 nov)* | ✅ *Infografía Arduino (3 nov) + Taller ind.* | 📅 **S6 (Físico: Semáforo)** | 📅 S7 | **S5:** Semáforo Virtual $\rightarrow$ **S6:** Grupal Físico *(kits Arduino)* $\rightarrow$ **S7:** Refuerzo *(Perspicaces: nivelar Blink en S5)*. |
+| **10MO EGB** | ✅ *Infografía Arduino (Conectores y Aislantes)* | 📅 **S5 (Inicio: Cuestionario Parpadeo LED / Blink)** | 📅 **S6 (Físico: Semáforo)** | 📅 S7 | **S5:** Cuestionario *Blink* (al inicio) + Semáforo Virtual $\rightarrow$ **S6:** Grupal Físico *(kits Arduino)* $\rightarrow$ **S7:** Refuerzo *(Perspicaces: nivelar Blink antes del cuestionario)*. |
 | **1RO BGU** | ✅ *AI5. Informe Potenciómetro y Arduino* | ✅ *AI6. Cuestionario Lógica y Sensores* *(19 nov)* | 📅 **S7 (Físico: Theremin)** | 📅 S8 | **S5:** LDR Virtual $\rightarrow$ **S6:** Theremin Virtual $\rightarrow$ **S7:** Grupal Físico *(kits Arduino)* $\rightarrow$ **S8:** Refuerzo/Cierre. |
 | **2DO BGU** | ✅ *AI4. Silla en Codeblocks* *(23 nov)* | 📅 **S5 (Próx. semana)** | ✅ *AG2. Mini Golf Challenge* | 📅 S7 | **Ind. 2 en S5** (Formulario corto Codeblocks) + **Refuerzo (S7)**. |
 | **3RO BGU** | ✅ *AI4. ESP32 - Sirena policial* | ✅ *AI5. Cuestionario ESP32* *(19 nov)* | 📅 S7 *(o adelantar S5/S6)* | 📅 S7–S8 | **Solo Grupal** *(decidir si S5/S6 o S7)* + **Refuerzo**. |

@@ -9,7 +9,7 @@
 **Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
 **Modo de Clase:** Modo A — Tema Nuevo (45 min)  
-**Entregable:** Práctica guiada en aula sin entrega obligatoria *(Ind. 1 y 2 ya completas en Classroom)*.
+**Entregable:** Práctica guiada en aula sin entrega obligatoria *(Base para el Cuestionario Individual 2 al inicio de Semana 5)*.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
 * **Propósito:** **Simular** un LED que parpadea solo con código Arduino (`Blink`) para dar vida a un circuito.

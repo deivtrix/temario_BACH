@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Clases de Hoy — Martes 24 nov 2026</title>
+  <title>Clases de Hoy — Miércoles 25 nov 2026</title>
   <style>
     :root {
       --bg: #0f172a;
@@ -47,10 +47,24 @@
       overflow: hidden;
       box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
     }
+    .table-wrapper {
+      overflow: auto;
+      max-inline-size: 100%;
+      container-type: inline-size;
+    }
     table {
       width: 100%;
-      border-collapse: collapse;
+      border-collapse: separate;
+      border-spacing: 0;
       text-align: left;
+      --label-2: "Curso y Paralelo";
+      --label-3: "Tema";
+      --label-4: "Tipo";
+    }
+    thead {
+      position: sticky;
+      inset-block-start: 0;
+      z-index: 1;
     }
     th {
       font-size: 0.75rem;
@@ -59,15 +73,19 @@
       color: var(--muted);
       padding: 14px 18px;
       border-bottom: 1px solid var(--border);
-      background: rgba(15, 23, 42, 0.45);
+      background: #162033;
     }
-    td {
+    td, tbody th {
       padding: 16px 18px;
       border-bottom: 1px solid var(--border);
       font-size: 0.96rem;
       vertical-align: middle;
+      text-transform: none;
+      letter-spacing: normal;
+      background: var(--card);
     }
-    tr:last-child td { border-bottom: none; }
+    tbody tr:last-child td,
+    tbody tr:last-child th { border-bottom: none; }
     .hora {
       font-variant-numeric: tabular-nums;
       color: #cbd5e1;
@@ -87,47 +105,87 @@
     .grp { background: rgba(168, 85, 247, 0.16); color: #c084fc; }
     .ref { background: rgba(52, 211, 153, 0.16); color: #34d399; }
     .pra { background: rgba(148, 163, 184, 0.16); color: #cbd5e1; }
-    .perdida { color: #f87171; font-size: 0.82rem; margin-left: 6px; }
+
+    @container (width < 600px) {
+      table, thead, tbody, tr, th, td {
+        display: block;
+      }
+      thead {
+        display: none;
+      }
+      tbody tr {
+        padding: 12px 0;
+        border-bottom: 1px solid var(--border);
+      }
+      tbody tr:last-child {
+        border-bottom: none;
+      }
+      td, tbody th {
+        border-bottom: none;
+        padding: 6px 18px;
+      }
+      tbody th.hora {
+        font-size: 0.85rem;
+        color: var(--muted);
+      }
+      td:nth-child(2)::before {
+        content: var(--label-2) ": ";
+        color: var(--muted);
+        font-weight: 500;
+      }
+      td:nth-child(3)::before {
+        content: var(--label-3) ": ";
+        color: var(--muted);
+        font-weight: 500;
+      }
+      td:nth-child(4)::before {
+        content: var(--label-4) ": ";
+        color: var(--muted);
+        font-weight: 500;
+      }
+    }
   </style>
 </head>
 <body>
   <div class="container">
     <header>
-      <h1>Martes, 24 de noviembre de 2026</h1>
+      <h1 id="resumen-titulo">Miércoles, 25 de noviembre de 2026</h1>
       <p class="sub">Parcial 2 · Semana 4</p>
     </header>
 
     <div class="card">
-      <table>
-        <thead>
-          <tr>
-            <th>Hora</th>
-            <th>Curso</th>
-            <th>Tema</th>
-            <th>Tipo</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="hora">07:45 – 08:45</td>
-            <td class="curso">8VO EGB — Decididos</td>
-            <td>Corriente Alterna (AC) y Transformación a DC (PhET)</td>
-            <td><span class="badge pra">Práctica</span></td>
-          </tr>
-          <tr>
-            <td class="hora">12:15 – 13:15</td>
-            <td class="curso">10MO EGB — Perspicaces</td>
-            <td>Primer programa Arduino (Blink) en Tinkercad <span class="perdida">(Perdida)</span></td>
-            <td><span class="badge ind">Individual</span></td>
-          </tr>
-          <tr>
-            <td class="hora">14:45 – 15:45</td>
-            <td class="curso">2DO BGU — Justos</td>
-            <td>Intro Tinkercad Codeblocks: Silla 3D</td>
-            <td><span class="badge ind">Individual</span></td>
-          </tr>
-        </tbody>
-      </table>
+      <div tabindex="0" role="region" aria-labelledby="resumen-titulo" class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th scope="col">Hora</th>
+              <th scope="col">Curso y Paralelo</th>
+              <th scope="col">Tema</th>
+              <th scope="col">Tipo</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row" class="hora">08:45 – 09:45</th>
+              <td class="curso">8VO EGB — Diligentes</td>
+              <td>Corriente Alterna (AC) y Transformación a DC (PhET)</td>
+              <td><span class="badge pra">Práctica</span></td>
+            </tr>
+            <tr>
+              <th scope="row" class="hora">10:45 – 11:45</th>
+              <td class="curso">8VO EGB — Dinámicos</td>
+              <td>Corriente Alterna (AC) y Transformación a DC (PhET)</td>
+              <td><span class="badge pra">Práctica</span></td>
+            </tr>
+            <tr>
+              <th scope="row" class="hora">12:15 – 13:15</th>
+              <td class="curso">10MO EGB — Pacifistas</td>
+              <td>Primer programa Arduino (Blink) en Tinkercad</td>
+              <td><span class="badge ind">Individual</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </div>
   </div>
 </body>
