@@ -27,8 +27,8 @@
 2. `[x]` **S2 (9–13 nov) — Práctica de Empalmes** *(Práctica en clase — sin nota de Parcial 2)* — Uniones eléctricas seguras y prueba de continuidad.
 3. `[x]` **S3 (16–19 nov) — Conectores y Aislantes** *(Tema visto — sin nota de Parcial 2)* — Conceptos base de conectores y aislantes.
 4. `[→]` **S4 (23–27 nov) — Primer Programa en Arduino (*Blink*)** *(Práctica Guiada — base para Cuestionario S5)* — `setup()`, `loop()`, `pinMode()`, `digitalWrite()` y `delay()` en Tinkercad Circuits.
-5. `[ ]` **S5 (30 nov – 4 dic) — Cuestionario Parpadeo LED (*Blink*) (`Individual 1`) + Semáforo Funcional en Tinkercad** *(Evaluación inicial + Tema Nuevo)* — Cuestionario corto previo sobre *Blink* (`Individual 1`), variables `int` y secuencia real de 3 LEDs (Rojo, Amarillo, Verde).
-6. `[ ]` **S6 (7–11 dic) — Semáforo Físico en Protoboard con Arduino UNO** *(**Grupal 1** — Práctica Física en Vivo)* — Montaje real y carga de código en equipos.
+5. `[ ]` **S5 (30 nov – 4 dic) — Cuestionario *Blink* (`Individual 1`) + Instalación Arduino IDE y *Blink* Físico** *(Evaluación inicial + Práctica Física)* — Cuestionario corto previo sobre *Blink* (`Individual 1`), instalación/uso de Arduino IDE (placa/puerto `COM`) y carga real de *Blink* por USB.
+6. `[ ]` **S6 (7–11 dic) — Semáforo Físico en Protoboard con Arduino UNO y Variables `int`** *(**Grupal 1** — Práctica Física en Vivo)* — Variables `int`, montaje de 3 LEDs + bus `GND` y carga de código en equipos.
 7. `[ ]` **S7 (14–18 dic) — Captura de Pantalla de lo Entendido (`Individual 2`) + Refuerzo y Autoevaluación** *(Individual 2 + Refuerzo)* — Subir captura de pantalla en Classroom explicando lo comprendido del circuito/código + depuración/bucle `for` y **Autoevaluación Likert (1–5)**.
 8. `[ ]` **S8 (5–8 ene) — Nivelación y Repaso General post-vacaciones** *(Colchón / Preparación previa a Evaluaciones de Áreas Especiales — semana del 11 de enero)*.
 

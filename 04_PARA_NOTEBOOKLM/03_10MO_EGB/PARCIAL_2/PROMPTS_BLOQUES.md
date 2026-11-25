@@ -50,13 +50,13 @@ PORTADA (DIAPOSITIVA 1 — TODO JUNTO):
 - "Propósito:" (verbo en infinitivo, sin decir "LEV") + "¿Dónde lo usas?" (1 frase cotidiana para 14-15 años).
 
 ESTRUCTURA SIN REPETICIONES (2–3 SLIDES POR CLASE):
-- Clase 4 — Primer Programa Arduino: Blink (👤 ACTIVIDAD INDIVIDUAL 2):
-  - 2 Láminas Ancla: (1) Anatomía de setup() vs. loop(), pinMode(), digitalWrite() y delay() + resistencia protectora del LED y (2) Ejemplo Resuelto anotado + 1 pregunta de Predicción PRIMM (que pasa si cambias X) (5 líneas de Blink con flechas explicativas) + Reto.
-- Clase 5 — Semáforo Funcional en Tinkercad:
-  - 2 Láminas Ancla (SIN repetir setup/loop): (1) Uso de variables int para pines y secuencia temporal de 3 LEDs y (2) Reto en Tinkercad con Protocolo de Autodepuración en 3 pasos (Energía/GND, Pines, Código).
-- Clase 6 — Semáforo Físico en Protoboard (👥 ACTIVIDAD GRUPAL FÍSICA):
-  - 2 Láminas Ancla: (1) Cómo funciona la protoboard por dentro (buses horizontales vs. columnas) y (2) Reto físico grupal con 3 roles rotativos (1. Cableado/Resistencias, 2. Código/Carga, 3. Verificador).
-- Clase 7 — Refuerzo: Depuración de Código y Autoevaluación (🛠️ REFUERZO):
+- Clase 4 — Primer Programa Arduino: Blink en Tinkercad:
+  - 2 Láminas Ancla: (1) Anatomía de setup() vs. loop(), pinMode(), digitalWrite() y delay() + resistencia protectora del LED y (2) Ejemplo Resuelto anotado + 1 pregunta de Predicción PRIMM (qué pasa si cambias X) + Reto.
+- Clase 5 — Instalación de Arduino IDE y Blink Físico (👤 ACTIVIDAD INDIVIDUAL 1: Cuestionario Blink):
+  - 2 Láminas Ancla: (1) Configuración de placa Arduino UNO y puerto COM + botones Verificar y Subir y (2) Reto físico con Protocolo de Autodepuración en 3 pasos (USB/COM, Pines/Polaridad, Sintaxis).
+- Clase 6 — Semáforo Físico en Protoboard con variables int (👥 ACTIVIDAD GRUPAL 1):
+  - 2 Láminas Ancla: (1) Uso de variables int para pines + cómo funciona la protoboard por dentro (buses horizontales vs. columnas) y (2) Reto físico grupal con 3 roles rotativos (1. Armado/Resistencias, 2. Código/Carga, 3. Verificador).
+- Clase 7 — Captura de lo Entendido (👤 ACTIVIDAD INDIVIDUAL 2) y Refuerzo (🛠️ REFUERZO):
   - 1 Lámina de casos "Encuentra el error" (llaves, ;, pines) SIN respuestas visibles.
   - 1 Diapositiva exclusiva de Autoevaluación con Escala de Likert (1 al 5) en 4 aspectos concretos aprendidos.
 

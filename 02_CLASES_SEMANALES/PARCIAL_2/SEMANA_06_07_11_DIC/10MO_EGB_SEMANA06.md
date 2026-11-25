@@ -1,11 +1,14 @@
 # 📘 10MO EGB — PARCIAL 2 / SEMANA 6 (7 – 11 dic)
 
 > [!IMPORTANT]
-> # 👥 ACTIVIDAD GRUPAL EVALUADA
-**Tema:** Semáforo Físico en Protoboard con Arduino UNO *(Grupal Físico)*  
+> # 👥 ACTIVIDAD GRUPAL EVALUADA (GRUPAL 1)
+**Tema:** Semáforo Físico en Protoboard con Arduino UNO y Variables `int` *(Grupal 1 — Práctica en vivo)*  
+**Subtemas puntuales (2 nuevos):**
+1. Uso de variables `int` para nombrar pines (`int rojo = 13;`, `int amarillo = 12;`, `int verde = 11;`).
+2. Cableado ordenado de 3 LEDs + 3 resistencias de $220\,\Omega$ compartiendo bus común `GND` en protoboard física.
 **Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
-**Modo de Clase:** Modo B — Trabajo Grupal Físico (45 min)  
+**Modo de Clase:** Modo B — Trabajo Grupal Físico en Vivo (45 min)  
 **Entregable:** Visto bueno en vivo + foto grupal del semáforo físico encendido en Classroom.
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
@@ -16,16 +19,17 @@
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
 * **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
-* **¿Qué decirles?** *"La semana pasada su semáforo funcionó en la pantalla de Tinkercad. Hoy lo traemos al mundo real: van a armarlo en protoboard física y cargarle el código al Arduino UNO."*
+* **¿Qué decirles?** *"La semana pasada instalamos Arduino IDE e hicimos parpadear 1 LED físico. Hoy subimos de nivel: vamos a controlar 3 LEDs como un semáforo real usando variables `int` para no confundir los pines."*
 * **Propósito en pantalla:** *"Construir nuestro semáforo en protoboard real con Arduino UNO para verlo funcionar fuera de la pantalla."*
 
-### 2. Encuadre de Seguridad y Pines (05 – 10 min)
-* **Reglas físicas:** 1) Nunca conectar LEDs sin resistencia de $220\,\Omega$, 2) Verificar pata larga ($+$ al pin) y pata corta ($-$ a GND), 3) Seleccionar `Arduino UNO` y puerto `COM` correcto en el IDE.
+### 2. Encuadre de Variables `int`, Seguridad y Pines (05 – 12 min)
+* **Variables `int`:** `int rojo = 13;`, `int amarillo = 12;`, `int verde = 11;`. Ordena el código y evita memorizar números.
+* **Reglas físicas:** 1) Nunca conectar LEDs sin resistencia de $220\,\Omega$, 2) Verificar pata larga ($+$ al pin) y pata corta ($-$ al bus común `GND`), 3) Seleccionar `Arduino UNO` y puerto `COM` correcto en el IDE.
 
-### 3. Trabajo Grupal Físico con Intervención del Mediador (10 – 40 min)
-* **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Energía/GND -> 2. Pines/Polaridad -> 3. Monitor Serial/Multímetro.
+### 3. Trabajo Grupal Físico con Intervención del Mediador (12 – 40 min)
+* **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Energía/GND -> 2. Pines/Polaridad -> 3. Puerto `COM`/Sintaxis.
 * **Roles rotativos (3 por equipo):** 1. Armado/Diseño -> 2. Código/Parámetros -> 3. Verificador/Evidencia.
-* **Instrucción:** En parejas/grupos arman el circuito (Pines 13, 12, 11 + bus común GND), copian su código de Tinkercad al Arduino IDE, lo suben por USB y prueban el parpadeo real.
+* **Instrucción:** En grupos arman el circuito (Pines 13, 12, 11 + bus común GND), programan la secuencia Verde $\rightarrow$ Amarillo $\rightarrow$ Rojo en Arduino IDE, la suben por USB y prueban el semáforo real.
 * **Tu rol:** Ayudas a destrabar errores de puerto COM o LEDs puestos al revés en la protoboard.
 
 ### 4. Cierre, Preguntas y Entrega (40 – 45 min)

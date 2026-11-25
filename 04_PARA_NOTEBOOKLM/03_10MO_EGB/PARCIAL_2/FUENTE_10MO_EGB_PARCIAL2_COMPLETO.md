@@ -51,38 +51,39 @@
 ---
 
 # CAPÍTULO #3
-**Tema:** Múltiples Salidas Digitales: Semáforo en Tinkercad  
+**Tema:** Instalación de Arduino IDE y *Blink* Físico en Arduino UNO *(Individual 1: Cuestionario Blink)*  
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Simular** un semáforo de 3 luces en Tinkercad usando nombres (`int`) para ordenar los pines.
-* **¿Para qué me sirve en la vida?** Para organizar cualquier programa grande usando nombres claros (`ledRojo`, `ledVerde`) en lugar de memorizar números de pines.
+* **Propósito:** **Cargar** nuestro primer programa real desde Arduino IDE hacia la placa física Arduino UNO.
+* **¿Para qué me sirve en la vida?** Para pasar de la simulación a la electrónica real: instalar drivers, conectar placas por USB y validar que una computadora puede controlar hardware físico.
 
 ## 📚 CONTENIDO EXPLICATIVO Y PRÁCTICA
 
 ### Teoría Puntual
-* **Variables `int`:** `int rojo = 13;`, `int amarillo = 12;`, `int verde = 11;`. Si mañana cambias un cable de pin, solo cambias el número arriba una vez.
-* **Modelación en Tinkercad:** Conectar 3 LEDs (Rojo, Amarillo, Verde) con resistencias de 220 Ω a GND y cargar el ciclo básico.
+* **Configuración en Arduino IDE:** Conectar el cable USB, elegir **Herramientas -> Placa -> `Arduino UNO`** y **Puerto -> `COMx`**.
+* **Botones clave:** **Verificar (✓)** revisa errores de sintaxis; **Subir (→)** compila y envía el programa a la placa.
 
 ### Práctica / Reto
-* **15 – 25 min (Guiada):** Todos arman el semáforo de 3 LEDs en protoboard dentro de Tinkercad y prueban el encendido secuencial.
-* **25 – 40 min (Reto Solos):** *"Haz que la luz **Verde** parpadee 3 veces antes de pasar a Amarillo (como semáforo real de ciudad), y coloca tiempos reales: Verde 3s, Amarillo 1s, Rojo 3s."*
+* **Guiada:** Conectar 1 LED con resistencia de 220 Ω en Pin 13 y GND, cargar *Blink* por USB.
+* **Reto:** Modificar el `delay()` a `200` ms y volver a subirlo para comprobar control en tiempo real.
 
 ---
 
 # CAPÍTULO #4
-**Tema:** Semáforo Físico en Protoboard con Arduino UNO *(Grupal Físico)*  
+**Tema:** Semáforo Físico en Protoboard con Arduino UNO y Variables `int` *(Grupal 1)*  
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Construir** nuestro semáforo en protoboard real con Arduino UNO para verlo funcionar fuera de la pantalla.
-* **¿Para qué me sirve en la vida?** Para aprender a cablear componentes reales sin quemar LEDs y cargar programas desde la computadora a una placa física.
+* **Propósito:** **Construir** nuestro semáforo en protoboard real con Arduino UNO usando variables `int` para ordenar los pines.
+* **¿Para qué me sirve en la vida?** Para organizar cualquier programa con nombres claros (`rojo`, `amarillo`, `verde`) y cablear componentes reales sin quemar LEDs.
 
 ## 📚 CONTENIDO EXPLICATIVO Y PRÁCTICA
 
 ### Teoría Puntual
-* **Reglas físicas:** 1) Nunca conectar LEDs sin resistencia de 220 Ω, 2) Verificar pata larga (+ al pin) y pata corta (- a GND), 3) Seleccionar `Arduino UNO` y puerto `COM` correcto en el IDE.
+* **Variables `int`:** `int rojo = 13;`, `int amarillo = 12;`, `int verde = 11;`.
+* **Reglas físicas:** 1) Nunca conectar LEDs sin resistencia de 220 Ω, 2) Verificar pata larga (+ al pin) y pata corta (- al bus común GND), 3) Seleccionar `Arduino UNO` y puerto `COM` correcto en el IDE.
 
 ### Práctica / Reto
-* **Instrucción:** En parejas/grupos arman el circuito (Pines 13, 12, 11 + bus común GND), copian su código de Tinkercad al Arduino IDE, lo suben por USB y prueban el parpadeo real.
+* **Instrucción:** En grupos arman el circuito (Pines 13, 12, 11 + bus común GND), programan la secuencia Verde -> Amarillo -> Rojo en Arduino IDE, la suben por USB y prueban el semáforo real.
 
 ---
 

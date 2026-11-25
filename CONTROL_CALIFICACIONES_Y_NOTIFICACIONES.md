@@ -86,17 +86,6 @@ Al ordenar todos tus datos de Classroom (incluyendo **8vo** y **10mo EGB**), est
 
 ---
 
-### 🟣 10MO EGB (Parcial 2 — Nuevo esquema desde Semana 5)
-*(Actividades individuales y grupales anteriores de Parcial 2 eliminadas por completo).*
-
-| Curso / Paralelo | Actividad | Estado | Notas |
-| :--- | :--- | :---: | :--- |
-| **10MO EGB (4 paralelos)** | `Ind. 1` — Cuestionario Parpadeo del LED (*Blink*) | 📅 S5 (30 nov – 4 dic) | Al inicio de la clase |
-| **10MO EGB (4 paralelos)** | `Grupal 1` — Práctica en vivo: Semáforo Físico Arduino UNO | 📅 S6 (7 – 11 dic) | Kits físicos en aula |
-| **10MO EGB (4 paralelos)** | `Ind. 2` — Captura de pantalla en Classroom (lo entendido) | 📅 S7 (14 – 18 dic) | Evidencia individual + Refuerzo |
-
----
-
 ### ⚪ REZAGOS DE PARCIAL 1 (Entregas tardías sueltas — 30 sept al 19 oct)
 
 | Curso / Paralelo | Actividad (Fecha) | Por revisar | Asignadas (Sin entregar) | Calificado | Notif. Classroom | Notif. WhatsApp (Tutor) | Nombres / Observaciones |
@@ -104,8 +93,6 @@ Al ordenar todos tus datos de Classroom (incluyendo **8vo** y **10mo EGB**), est
 | **8VO EGB — Diligentes (D)** | `AI1.` *(30 sept)* | [1 Por revisar](https://classroom.google.com/u/0/c/ODY5OTIwOTczNDI2/a/ODg4MDAxOTA1NTA5/submissions/by-status/and-sort-name/done/all?hl=es) | 0 *(24 Eval.)* | [ ] | ✅ N/A | ✅ N/A | Entrega tardía P1 |
 | **8VO EGB — Diligentes (D)** | `AI2. Pila de Limones` *(13 oct)* | [1 Por revisar](https://classroom.google.com/u/0/c/ODY5OTIwOTczNDI2/a/ODkxODUwNjUwMzIy/submissions/by-status/and-sort-name/done/all?hl=es) | 0 *(24 Eval.)* | [ ] | ✅ N/A | ✅ N/A | Entrega tardía P1 |
 | **9NO EGB — Audaces (B)** | `AI1. Cacería Fabricación` *(1 oct)* | [1 Por revisar](https://classroom.google.com/u/0/c/ODY5OTc4ODYwMTU3/a/ODY5OTc5NDUyOTUx/submissions/by-status/and-sort-name/done/all?hl=es) | 0 *(26 Eval.)* | [ ] | ✅ N/A | ✅ N/A | Entrega tardía P1 |
-| **10MO EGB — Pacifistas (C)** | `AG2. Arduino UNO y Parpadeo` *(16 oct)* | [1 Por revisar](https://classroom.google.com/u/0/c/ODY5OTAzNjc5NjY5/a/ODcwMDQwNTY1NDg3/submissions/by-status/and-sort-name/done/all?hl=es) | [1 Asignada](https://classroom.google.com/u/0/c/ODY5OTAzNjc5NjY5/a/ODcwMDQwNTY1NDg3/submissions/by-status/and-sort-name/not-done/all?hl=es) | [ ] | [ ] | [ ] | |
-| **10MO EGB — Positivos (D)** | `AG2. Arduino UNO y Parpadeo` *(5 oct)* | 0 | [2 Asignadas](https://classroom.google.com/u/0/c/ODY5OTAzNDg3Mzg3/a/ODcwMDQwMjczMTE4/submissions/by-status/and-sort-name/not-done/all?hl=es) | [x] | [ ] | [ ] | |
 | **1RO BGU — Leales (B)** | `AG1. Promedio 4 calif.` *(19 oct)* | [1 Por revisar](https://classroom.google.com/u/0/c/ODY5OTA0ODA1NjMw/a/ODkzMDY3MDQyNDA2/submissions/by-status/and-sort-name/done/all?hl=es) | 0 *(24 Eval.)* | [ ] | ✅ N/A | ✅ N/A | Entrega tardía P1 |
 | **2DO BGU — Justos (B)** | `AG1. Carro en movimiento` *(12 oct)* | 0 | [1 Asignada](https://classroom.google.com/u/0/c/ODY5ODk5MDY1MDM0/a/ODcwMTUwODUyNzU4/submissions/by-status/and-sort-name/not-done/all?hl=es) | [x] | [ ] | [ ] | |
 | **3RO BGU — Solidarios (B)** | `AI2. Transistor TBJ` *(12 oct)* | [1 Por revisar](https://classroom.google.com/u/0/c/ODcwMDAwNjUyMTQz/a/ODkxNjU1ODgyODQy/submissions/by-status/and-sort-name/done/all?hl=es) | 0 *(20 Eval.)* | [ ] | ✅ N/A | ✅ N/A | Entrega tardía P1 |

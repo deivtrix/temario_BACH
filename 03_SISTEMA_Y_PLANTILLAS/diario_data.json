@@ -88,7 +88,7 @@
       "temas": {
         "8VO EGB": "Tinkercad Circuits: Medir ondas AC vs DC (Osciloscopio)",
         "9NO EGB": "Proyecto Grupal 3D: Vehículo / Carro - Parte 1",
-        "10MO EGB": "Cuestionario Parpadeo LED / Blink (Ind. 1) + Semáforo en Tinkercad",
+        "10MO EGB": "Cuestionario Blink (Ind. 1) + Instalar Arduino IDE y Blink físico",
         "1RO BGU": "Poste de Alumbrado Público Automático (LDR)",
         "2DO BGU": "Bucles y Rotación en Codeblocks (Escalera/Torre)",
         "3RO BGU": "ESP32 PWM y Buzzer en Wokwi"
@@ -100,7 +100,7 @@
       "temas": {
         "8VO EGB": "Seguridad Eléctrica: Falsos Contactos y Breakers",
         "9NO EGB": "Proyecto Grupal 3D: Vehículo / Carro - Parte 2",
-        "10MO EGB": "Por definir / Continuación Arduino",
+        "10MO EGB": "Semáforo Físico en Protoboard (Grupal 1)",
         "1RO BGU": "Por definir / Sensores",
         "2DO BGU": "Por definir / Codeblocks",
         "3RO BGU": "Por definir / ESP32"

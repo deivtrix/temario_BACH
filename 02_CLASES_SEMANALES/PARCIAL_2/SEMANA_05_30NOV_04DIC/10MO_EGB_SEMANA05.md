@@ -2,21 +2,21 @@
 
 > [!IMPORTANT]
 > # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
-**Tema:** Cuestionario Inicial: Parpadeo del LED (*Blink*) (`Individual 1`) + Múltiples Salidas Digitales: Semáforo en Tinkercad  
+**Tema:** Cuestionario Inicial: Parpadeo del LED (*Blink*) (`Individual 1`) + Instalación de Arduino IDE y *Blink* Físico  
 **Subtemas puntuales (2 nuevos):**
-1. Control de 3 pines digitales independientes (Rojo, Amarillo, Verde) / Secuencia lógica de un semáforo real con `digitalWrite()` y `delay()`.
-2. Conexión ordenada de 3 LEDs + 3 resistencias en protoboard virtual / Validación del código en Tinkercad (base para el Grupal Físico de Semana 6).
+1. Instalación y configuración del entorno **Arduino IDE** (selección de placa `Arduino UNO` y puerto `COM`).
+2. Carga física del programa *Blink* por cable USB y montaje real de 1 LED con resistencia de $220\,\Omega$ en protoboard.
 **Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
-**Modo de Clase:** Modo A — Evaluación Diagnóstica Inicial (`10 min`) + Tema Nuevo (`35 min`)  
-**Entregable:** **Cuestionario Individual 1 (Parpadeo del LED / *Blink*)** al inicio de la clase + práctica de semáforo con variables `int`.
+**Modo de Clase:** Modo A — Evaluación Diagnóstica Inicial (`10 min`) + Práctica Física Guiada (`35 min`)  
+**Entregable:** **Cuestionario Individual 1 (Parpadeo del LED / *Blink*)** al inicio de la clase + verificación en mesa del Arduino UNO parpadeando en físico.
 
 ---
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Evaluar** los fundamentos del parpadeo del LED (*Blink*) y **simular** un semáforo de 3 luces en Tinkercad usando nombres (`int`) para ordenar los pines.
-* **¿Cómo sé que lo logré?** Completaste el Cuestionario Individual 1 de *Blink* al inicio de la clase y tu semáforo en Tinkercad usa variables `int` ejecutando la secuencia completa de los 3 LEDs en orden.
-* **¿Para qué me sirve en la vida?** Para organizar cualquier programa grande usando nombres claros (`ledRojo`, `ledVerde`) en lugar de memorizar números de pines.
+* **Propósito:** **Evaluar** los fundamentos del parpadeo del LED (*Blink*) y **cargar** nuestro primer programa real desde Arduino IDE hacia la placa física Arduino UNO.
+* **¿Cómo sé que lo logré?** Completaste el Cuestionario Individual 1 de *Blink* al inicio de la clase y tu Arduino UNO físico hace parpadear el LED conectado al pin 13.
+* **¿Para qué me sirve en la vida?** Para pasar de la simulación a la electrónica real: instalar drivers, conectar placas por USB y validar que una computadora puede controlar hardware físico.
 
 ---
 
@@ -24,25 +24,27 @@
 ### 1. Cuestionario Inicial (`Individual 1`) y Propósito (00 – 12 min)
 * **00 – 10 min (Cuestionario Individual 1 — Antes de la clase):** Aplicar el **Cuestionario sobre el Parpadeo del LED (*Blink*)** en Google Forms / Classroom (6 preguntas sobre lo visto en Semana 4).
   * *Nota para **10MO Perspicaces** (que perdió clase el mar 24 nov):* Hacer un repaso exprés de 5 minutos proyectando el código *Blink* (`setup`, `loop`, `pinMode`, `digitalWrite`, `delay` y resistencia $220\,\Omega$) antes de abrir el cuestionario.
-* **10 – 12 min (Conexión y Propósito):** *"La semana pasada controlamos 1 o 2 LEDs usando `13` y `12`. Pero si tuviéramos 20 luces, ¿se acordarían qué hace cada número? Hoy vamos a ponerles nombre con variables."*
-* **Propósito en pantalla:** *"Simular un semáforo de 3 luces en Tinkercad usando nombres (`int`) para ordenar los pines."*
+* **10 – 12 min (Conexión y Propósito):** *"La semana pasada hicimos parpadear un LED en la pantalla de Tinkercad. Hoy damos el salto al mundo real: vamos a instalar el Arduino IDE y subir el parpadeo directamente a una placa Arduino UNO física."*
+* **Propósito en pantalla:** *"Cargar nuestro primer programa real desde Arduino IDE hacia la placa física Arduino UNO."*
 
-### 2. Teoría Corta y Modelación (12 – 20 min)
-* **Predicción PRIMM (30 seg antes de simular):** Preguntar qué hará el ejemplo o qué cambia si modifican un parámetro antes de correrlo.
-* **Variables `int`:** `int rojo = 13;`, `int amarillo = 12;`, `int verde = 11;`. Si mañana cambias un cable de pin, solo cambias el número arriba una vez.
-* **Modelación en Tinkercad:** Conectar 3 LEDs (Rojo, Amarillo, Verde) con resistencias de $220\,\Omega$ a GND y cargar el ciclo básico.
+### 2. Instalación de Arduino IDE y Conexión Segura (12 – 22 min)
+* **Instalación / Apertura:** Verificar que el **Arduino IDE** esté instalado/abierto en las computadoras del laboratorio.
+* **Reglas físicas antes de conectar USB:**
+  1. Verificar pata larga del LED ($+$ al pin 13) y pata corta ($-$ a `GND`) pasando por resistencia de $220\,\Omega$.
+  2. Conectar el cable USB azul al Arduino UNO y a la computadora.
+  3. En Arduino IDE: ir a **Herramientas $\rightarrow$ Placa $\rightarrow$ `Arduino UNO`** y **Puerto $\rightarrow$ `COMx (Arduino UNO)`**.
 
-### 3. Práctica Guiada y Reto Individual (20 – 40 min)
-* **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Energía/GND -> 2. Pines/Polaridad -> 3. Monitor Serial/Multímetro.
-* **20 – 28 min (Guiada):** Todos arman el semáforo de 3 LEDs en protoboard dentro de Tinkercad y prueban el encendido secuencial.
-* **28 – 40 min (Reto Solos):** *"Haz que la luz **Verde** parpadee 3 veces antes de pasar a Amarillo (como semáforo real de ciudad), y coloca tiempos reales: Verde 3s, Amarillo 1s, Rojo 3s."*
+### 3. Práctica Guiada: Subir *Blink* al Arduino Físico (22 – 40 min)
+* **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Cable USB / Puerto `COM` -> 2. Pines / Polaridad del LED y resistencia -> 3. Sintaxis (`;` y llaves `{}`).
+* **22 – 32 min (Guiada):** Copian su código *Blink* desde Tinkercad (o escriben el código base de Pin 13) en Arduino IDE, hacen clic en **Verificar (✓)** y luego en **Subir (→)**.
+* **32 – 40 min (Reto Exprés en físico):** *"Cambia el tiempo en `delay()` para que el LED físico parpadee más rápido (ej. `200` ms) y vuelve a subirlo para comprobar que tienes control real de la placa."*
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
-* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
+* **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar.
 * **2 preguntas rápidas:**
-  1. *"¿Para qué sirve declarar `int rojo = 13;` al inicio del código?"*
-  2. *"¿Qué pasa si olvidas apagar el LED anterior con `LOW` antes de encender el siguiente?"*
-* **Cierre:** Subir captura de Tinkercad con el código y el semáforo encendido a Classroom.
+  1. *"¿Qué dos opciones debes revisar en el menú Herramientas antes de subir un código al Arduino físico?"*
+  2. *"¿Para qué sirve el botón Verificar (✓) antes de presionar Subir (→)?"*
+* **Cierre:** Visto bueno en mesa de que el Arduino IDE quedó operativo y el LED parpadea en físico (base lista para el **Grupal 1: Semáforo Físico** de Semana 6).
 
 ---
 
@@ -51,7 +53,7 @@
 > **Instrucciones:**  
 > 1. Responde el cuestionario corto al **inicio de la clase** sobre lo aprendido la semana pasada acerca del parpadeo del LED (*Blink*) en Tinkercad (`void setup()`, `void loop()`, `pinMode()`, `digitalWrite()`, `delay()` y uso de resistencia).  
 > 2. Es una actividad **individual** y **sin ayuda de apuntes** durante los primeros 10 minutos.  
-> 3. Al finalizar el cuestionario, continúa en Tinkercad con la práctica de **Semáforo con variables `int`** y sube tu captura como evidencia de clase.
+> 3. Al finalizar el cuestionario, instalaremos/abriremos **Arduino IDE** en clase para subir tu código *Blink* al Arduino UNO físico.
 
 ---
 
@@ -97,9 +99,9 @@
 ---
 
 ## ❓ PREGUNTAS DE CIERRE (CON RESPUESTA ESPERADA)
-1. **¿Cuántas resistencias necesita un semáforo de 3 LEDs y por qué?**
-   * *Respuesta esperada:* 3 resistencias (una por cada LED) para proteger cada pin y evitar que se quemen.
-2. **¿Qué pasa si olvidamos apagar el LED verde (`LOW`) cuando encendemos el amarillo (`HIGH`)?**
-   * *Respuesta esperada:* Quedan encendidos dos colores al mismo tiempo, rompiendo la lógica del semáforo.
-3. **¿Por qué probamos primero el semáforo en Tinkercad antes de armarlo en físico?**
-   * *Respuesta esperada:* Para verificar que el código y las conexiones funcionan sin riesgo de dañar componentes reales.
+1. **¿Qué dos opciones debes configurar en Arduino IDE antes de subir un programa por USB?**
+   * *Respuesta esperada:* La placa (`Arduino UNO`) y el puerto (`COM` correspondiente).
+2. **¿Cómo sabes físicamente cuál pata del LED va conectada al pin digital y cuál a `GND`?**
+   * *Respuesta esperada:* La pata larga (ánodo, $+$) va al pin digital (mediante la resistencia) y la pata corta (cátodo, $-$) va a `GND`.
+3. **¿Qué ventaja tiene haber probado primero el código en Tinkercad antes de subirlo al Arduino real?**
+   * *Respuesta esperada:* Permite verificar que no haya errores de sintaxis ni cortocircuitos antes de conectar componentes físicos.

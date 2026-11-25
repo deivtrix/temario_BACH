@@ -52,7 +52,7 @@
 ### 📅 Semana 5 (30 nov – 4 dic)
 * **8vo:** Tinkercad Circuits: Medir ondas y voltaje AC vs. DC (Osciloscopio + Multímetro)
 * **9no:** Proyecto Grupal 3D: Vehículo / Carro — Parte 1 *(**Grupal**)*
-* **10mo:** **Cuestionario inicial: Parpadeo del LED (*Blink*) (`Individual 1`)** + Múltiples Salidas: Semáforo en Tinkercad *(Virtual — base para Grupal 1 Físico S6)*
+* **10mo:** **Cuestionario inicial: Parpadeo del LED (*Blink*) (`Individual 1`)** + **Instalar Arduino IDE y subir *Blink* físico** *(deja placas y puerto COM listos para S6)*
 * **1ro BGU:** Poste de Alumbrado Público Automático (LDR) en Tinkercad *(Virtual)*
 * **2do BGU:** Bucles y Rotación en Codeblocks *(**Individual 2:** Formulario corto auto-calificable)*
 * **3ro BGU:** ESP32 PWM y Buzzer en Wokwi
