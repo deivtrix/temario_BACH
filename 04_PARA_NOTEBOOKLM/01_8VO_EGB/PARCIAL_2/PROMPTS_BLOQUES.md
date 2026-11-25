@@ -30,7 +30,7 @@ ESTRUCTURA SIN REPETICIONES (3–4 SLIDES POR CLASE):
 - Cierre de la Sección 1: 3 preguntas relámpago de verificación (SIN respuestas visibles).
 
 CANDADOS OBLIGATORIOS:
-0. TÉRMINOS TÉCNICOS REALES Y COMPLETOS: PROHIBIDO inventar nombres mágicos o infantiles (como "transformador mágico" o "energía mágica"); usa los términos técnicos reales de la fuente y cubre OBLIGATORIAMENTE todos los temas y eslabones listados arriba sin saltarse ninguno.
+0. TÉRMINOS TÉCNICOS REALES, ESPAÑOL Y SEGURIDAD: PROHIBIDO inventar nombres mágicos, dibujar porcentajes o usar rótulos en inglés ("Alert", "Objective"); usa los términos técnicos reales de la fuente, cubre OBLIGATORIAMENTE todos los eslabones listados arriba y PROHIBIDO dibujar un LED conectado directo a pila de 9V sin resistencia (usa bombilla incandescente).
 1. Teoría puntual, visual y servible (PROHIBIDO teoría compleja universitaria o definiciones de relleno).
 2. Usa ÚNICAMENTE los conceptos vistos en los temas 1, 2 y 3; PROHIBIDO adelantar AC, Tinkercad o breakers.
 3. En actividades evaluadas (👤): PROHIBIDO regalar la tabla llena o la solución resuelta.
@@ -66,7 +66,7 @@ ESTRUCTURA SIN REPETICIONES (2–3 SLIDES POR CLASE):
   - 1 Diapositiva exclusiva de Autoevaluación con Escala de Likert (1 al 5) en 4 aspectos concretos aprendidos.
 
 CANDADOS OBLIGATORIOS:
-0. TÉRMINOS TÉCNICOS REALES Y COMPLETOS: PROHIBIDO inventar nombres mágicos o infantiles (como "transformador mágico" o "energía mágica"); usa los términos técnicos reales de la fuente y cubre OBLIGATORIAMENTE todos los temas y eslabones listados arriba sin saltarse ninguno.
+0. TÉRMINOS TÉCNICOS REALES, ESPAÑOL Y SEGURIDAD: PROHIBIDO inventar nombres mágicos, dibujar porcentajes o usar rótulos en inglés ("Alert", "Objective"); usa los términos técnicos reales de la fuente, cubre OBLIGATORIAMENTE todos los eslabones listados arriba y PROHIBIDO dibujar un LED conectado directo a pila de 9V sin resistencia (usa bombilla incandescente).
 1. Teoría puntual, visual y servible (PROHIBIDO cálculos complejos de frecuencia o fórmulas avanzadas).
 2. Usa ÚNICAMENTE los conceptos vistos en los temas 4 a 7.
 3. PROHIBIDO poner fechas, "Semana X", nombres de docente o "sube a Classroom".
