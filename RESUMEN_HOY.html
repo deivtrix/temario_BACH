@@ -92,35 +92,22 @@
       font-weight: 600;
       cursor: pointer;
     }
-    .grid-2 {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 16px;
+    .day-alert {
+      background: rgba(251, 191, 36, 0.12);
+      border: 1px solid rgba(251, 191, 36, 0.35);
+      color: #fde68a;
+      border-radius: 12px;
+      padding: 12px 16px;
+      font-size: 0.9rem;
+      line-height: 1.45;
     }
+    .day-alert[hidden] { display: none; }
     .panel {
       background: var(--card);
       border: 1px solid var(--border);
       border-radius: 14px;
-      padding: 18px 20px;
+      padding: 14px 18px;
       box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-    }
-    .panel h2 {
-      font-size: 0.82rem;
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
-      color: var(--muted);
-      margin-bottom: 10px;
-    }
-    .op-title {
-      font-size: 1.02rem;
-      font-weight: 700;
-      margin-bottom: 6px;
-      color: var(--accent);
-    }
-    .op-desc {
-      font-size: 0.92rem;
-      line-height: 1.48;
-      color: #cbd5e1;
     }
     .pend-list {
       list-style: none;
@@ -381,23 +368,7 @@
       </div>
     </header>
 
-    <div class="grid-2">
-      <section class="panel" aria-label="Operativo de calificación y recuperación">
-        <h2>🧭 Operativo del Día (Anti-Saturación)</h2>
-        <div class="op-title" id="op-title">—</div>
-        <p class="op-desc" id="op-desc">—</p>
-      </section>
-
-      <section class="panel" aria-label="Pendientes activos">
-        <h2>🚨 Pendientes Activos (Formularios y Alcances)</h2>
-        <ul class="pend-list">
-          <li><span>🟡</span><span><strong>9NO Auténticos:</strong> Debe Formulario (S3).</span></li>
-          <li><span>🟡</span><span><strong>8VO Decididos:</strong> Debe Formulario (<code>AI4</code>).</span></li>
-          <li><span>🟡</span><span><strong>10MO Perspicaces:</strong> -1 clase (nivelar <em>Blink</em> en S5 antes de Semáforo).</span></li>
-          <li><span>🔥</span><span><strong>HOY Jue 26 nov:</strong> Vienen TODOS los pendientes pasados a recuperar (<strong>2do Recreo: BGU</strong> | <strong>Almuerzo: 8vo–10mo</strong>). Solo anota <code>✓</code>; <strong>mañana Vie 27</strong> calificas y mandas WhatsApp <code>0.1</code>.</span></li>
-        </ul>
-      </section>
-    </div>
+    <div class="day-alert" id="day-alert" hidden></div>
 
     <div class="card">
       <div tabindex="0" role="region" aria-labelledby="resumen-titulo" class="table-wrapper">
@@ -440,27 +411,9 @@
   <script>
     const DATA = window.RESUMEN_DATA || { semana_actual: "4", semana_info: { nombre: "Semana 4", temas: {}, registros: {} }, horario: [], guiones: {} };
 
-    const OPERATIVOS = {
-      1: {
-        titulo: "Lunes — Día pesado (5 clases) | Calificar viernes",
-        desc: "Califica 1RO, 9NO, 3RO (y 2DO BGU si quedó pendiente) + envía 1 solo llamado en Classroom citando al Martes/Miércoles (Almuerzo EGB / 2do Recreo BGU). Sin recuperaciones hoy."
-      },
-      2: {
-        titulo: "Martes — Día más liviano (libre 08:45–12:15)",
-        desc: "Único llamado principal de recuperación: Almuerzo (8vo–10mo) y 2do Recreo (BGU). Aprovecha la mañana libre para calificar atrasos."
-      },
-      3: {
-        titulo: "Miércoles — Cierre de recuperaciones + WhatsApp 0.1",
-        desc: "Único llamado de respaldo en Almuerzo (8vo–10mo) y 2do Recreo (BGU). A quienes no acudieron a su llamado, envía WhatsApp al Tutor con 0.1."
-      },
-      4: {
-        titulo: "Jueves — 6 clases + Recuperación general (Hoy Jue 26)",
-        desc: "Hoy vienen TODOS los pendientes pasados a recuperar (2do Recreo: BGU | Almuerzo: 8vo–10mo). Solo anota quiénes vienen (✓). Mañana viernes calificas y mandas WhatsApp 0.1."
-      },
-      5: {
-        titulo: "Viernes — Calificar + WhatsApp 0.1 (Hueco 11:45–12:45)",
-        desc: "Califica lo recuperado ayer + cierres de 8VO y 10MO, y envía WhatsApp (0.1) a quienes no vinieron. Hoy cierran 1RO (09:15), 9NO (11:45) y 3RO (13:45)."
-      }
+    const AVISOS_DIA = {
+      4: "🔥 <strong>Hoy Jue 26:</strong> Vienen todos los pendientes a recuperar (<strong>2do Recreo: BGU</strong> | <strong>Almuerzo: 8vo–10mo</strong>). Solo anota ✓; mañana calificas y mandas WhatsApp 0.1.",
+      5: "📋 <strong>Viernes (hueco 11:45–12:45):</strong> Calificar recuperados de ayer + cierres de 8vo/10mo y enviar WhatsApp (0.1) a quienes no vinieron."
     };
 
     const DIAS_NOMBRES = { 1: "Lunes", 2: "Martes", 3: "Miércoles", 4: "Jueves", 5: "Viernes" };
@@ -507,9 +460,13 @@
       });
       document.getElementById("btn-hoy").classList.toggle("active", isViewingToday);
 
-      const op = OPERATIVOS[currentDay];
-      document.getElementById("op-title").textContent = op.titulo;
-      document.getElementById("op-desc").textContent = op.desc;
+      const alertEl = document.getElementById("day-alert");
+      if (AVISOS_DIA[currentDay]) {
+        alertEl.innerHTML = AVISOS_DIA[currentDay];
+        alertEl.hidden = false;
+      } else {
+        alertEl.hidden = true;
+      }
 
       const tbody = document.getElementById("schedule-body");
       tbody.innerHTML = "";
