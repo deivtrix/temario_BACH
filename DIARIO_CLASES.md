@@ -15,6 +15,12 @@
 | **8VO EGB — Decididos** *(Mar)* | Clases al día, pero **deben 1 Formulario**. | **Pendiente:** aplicar/recoger el Formulario pendiente en próxima clase. | 🟡 Debe Formulario |
 | **Resto de paralelos (18/21)** | Al día según horario. | Continuar secuencia normal de **Semana 4**. | 🟢 Al día |
 
+### 🔔 Recordatorio Automático de Calificación y Recuperación
+* **Cierres de hoy (Jue 26 nov):** Al terminar el día cierran todos los paralelos de **`8VO EGB`**, **`10MO EGB`** *(salvo Perspicaces -1)* y **`2DO BGU`** (`AI4: Silla en Codeblocks`). **Mañana Viernes 27:** te toca calificarlos y enviar **Notificación 1 (Classroom)**.
+* **Cierres de mañana (Vie 27 nov):** Cierran **`1RO BGU`**, **`9NO EGB`** (`Escena Temática 3D`) y **`3RO BGU`**. Calificar y notificar entre **Viernes salida / Lunes**.
+* **Días fijos de recuperación (para no saturarte):** **Martes y Miércoles** — `8vo–10mo EGB` en el **Almuerzo** | `1ro–3ro BGU` en el **2do Recreo**. *(Si no acuden, **WhatsApp al Tutor con `0.1`** desde el miércoles tarde)*.
+* **Control completo:** [[CONTROL_CALIFICACIONES_Y_NOTIFICACIONES|📋 Tablero de Calificados, Classroom y WhatsApp (0.1)]].
+
 ---
 
 ## 📅 2. DIARIO SEMANA 4 (23 – 27 DE NOVIEMBRE DE 2026)

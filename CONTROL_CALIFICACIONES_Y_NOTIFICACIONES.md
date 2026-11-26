@@ -1,8 +1,22 @@
 # 📋 CONTROL DE CALIFICACIONES Y NOTIFICACIONES DE RECUPERACIÓN (PARCIAL 2)
 
 **Cargo:** Mediador | **Materia:** Robótica y Tecnología  
-**Corte de Classroom:** Miércoles 25 de noviembre de 2026  
-**Objetivo:** Llevar el control exacto de qué actividades faltan por calificar y registrar si ya se notificó a los estudiantes rezagados (**Plataforma Classroom** + **WhatsApp al Tutor/Dirigente**) para que se igualen urgente.
+**Corte de Classroom:** Jueves 26 de noviembre de 2026  
+**Objetivo:** Llevar el control exacto de qué actividades faltan por calificar y registrar si ya se notificó a los estudiantes rezagados (**Plataforma Classroom** + **WhatsApp al Tutor con `0.1`** si no se acercan), sin saturarte en tus días más pesados.
+
+---
+
+## 🗓️ 0. RUTINA SEMANAL ANTI-SATURACIÓN (SEGÚN TU HORARIO)
+
+> **Regla de Oro:** No califiques paralelo por paralelo. Espera a que terminen los **3 o 4 paralelos del curso**, califica el curso completo **al día siguiente**, notifica por **Classroom** citando a recuperación en tus días livianos (**Martes / Miércoles**), y si no se acercan, envía **WhatsApp al Tutor con `0.1`**.
+
+| Momento | Qué toca hacer | Cursos / Horario |
+| :--- | :--- | :--- |
+| **Jueves *(día pesado — 6 clases)*** | **Solo dictar clases.** Cierran todos los paralelos de `10MO` (`10:15`), `8VO` (`11:45`) y `2DO BGU` (`15:45`). | *Sin calificar ni recuperaciones.* |
+| **Viernes *(cierran 1ro, 9no y 3ro)*** | **Calificar** `8VO` y `10MO` (cerrados el jueves) + **Notificar por Classroom** citando para **Martes/Miércoles**. *(Cierran `1RO` 09:15, `9NO` 11:45, `3RO` 13:45).* | Huecos del viernes / salida |
+| **Lunes *(día pesado — 5 clases)*** | **Calificar** `1RO`, `9NO`, `3RO` (y `2DO BGU` si quedó pendiente) + **Notificar por Classroom** citando para **Martes/Miércoles**. | *Sin recuperaciones en lunes.* |
+| **Martes *(día MÁS liviano — libre 08:45–12:15)*** | **Día principal de calificaciones atrasadas y recuperaciones.** | • **Almuerzo:** `8VO`, `9NO`, `10MO EGB`<br>• **2do Recreo:** `1RO`, `2DO`, `3RO BGU` |
+| **Miércoles *(día liviano — 3 clases)*** | **Día de respaldo / última llamada** de recuperaciones + **Enviar WhatsApp (`0.1`)** a tutores de quienes no se acercaron martes ni miércoles. | • **Almuerzo:** `8VO`, `9NO`, `10MO EGB`<br>• **2do Recreo:** `1RO`, `2DO`, `3RO BGU` |
 
 ---
 
@@ -27,7 +41,7 @@ Al ordenar todos tus datos de Classroom (incluyendo **8vo** y **10mo EGB**), est
 
 ## 🚨 3. TABLERO DE SEGUIMIENTO Y NOTIFICACIONES
 
-*(Estrategia en 2 pasos: **1.º** Notificar solo por **Plataforma (Classroom)** · **2.º** Si no acuden o no entregan en el plazo, notificar el **0 / inasistencia** por **WhatsApp al Tutor**. Marca `[x]` conforme completes cada columna).*
+*(Estrategia en 2 pasos: **1.º** Notificar solo por **Plataforma (Classroom)** citando al **Almuerzo [8vo–10mo]** o **2do Recreo [BGU]** · **2.º** Si no acuden o no entregan en el plazo, notificar el **`0.1` / inasistencia** por **WhatsApp al Tutor**. Marca `[x]` conforme completes cada columna).*
 
 ### 🔴 PRIORIDAD 1 — Cierre Rápido (9no EGB, 1ro BGU y 3ro BGU)
 *Actividades del 6 al 13 de noviembre. Solo faltan 2 por calificar y notificar a pocos estudiantes.*
@@ -103,14 +117,21 @@ Al ordenar todos tus datos de Classroom (incluyendo **8vo** y **10mo EGB**), est
 ## 📱 4. PLANTILLAS LISTAS PARA COPIAR Y PEGAR
 
 ### A. Para Google Classroom (Comentario privado al estudiante en "Asignadas")
+* **Para 8vo, 9no y 10mo EGB (Almuerzo):**
 > **⚠️ AVISO URGENTE DE RECUPERACIÓN — ROBÓTICA**  
 > Estimado/a estudiante, tienes pendiente la entrega de esta actividad (**[NOMBRE DE LA ACTIVIDAD]**).  
-> Por favor, súbela a Classroom y acércate a recuperación de forma **urgente** el día **[DÍA Y HORA / RECREO / SALIDA]** para regularizar tu calificación del Parcial 2.  
+> Por favor, súbela a Classroom y acércate a recuperación de forma **urgente** este **[MARTES o MIÉRCOLES] en el ALMUERZO** para regularizar tu calificación del Parcial 2. Si no te acercas, se registrará **`0.1`** y se notificará a tu tutor/a.  
+> *Mediador de Robótica y Tecnología.*
+
+* **Para 1ro, 2do y 3ro BGU (2do Recreo):**
+> **⚠️ AVISO URGENTE DE RECUPERACIÓN — ROBÓTICA**  
+> Estimado/a estudiante, tienes pendiente la entrega de esta actividad (**[NOMBRE DE LA ACTIVIDAD]**).  
+> Por favor, súbela a Classroom y acércate a recuperación de forma **urgente** este **[MARTES o MIÉRCOLES] en el 2DO RECREO** para regularizar tu calificación del Parcial 2. Si no te acercas, se registrará **`0.1`** y se notificará a tu tutor/a.  
 > *Mediador de Robótica y Tecnología.*
 
 ### B. Para WhatsApp al Tutor / Dirigente *(Solo si NO acudieron a la recuperación)*
 > Buenas tardes estimado/a Tutor/a de **[CURSO Y PARALELO]**, le saluda el Mediador de Robótica.  
-> Le informo que los siguientes estudiantes fueron notificados por plataforma Classroom para recuperar la actividad **[Nombre de la actividad]** el día **[DÍA / HORA]**, pero **no se presentaron / no entregaron**, por lo que queda registrada la calificación de **0**:
+> Le informo que los siguientes estudiantes fueron notificados por plataforma Classroom para recuperar la actividad **[Nombre de la actividad]** el día **[MARTES / MIÉRCOLES]** en horario de **[ALMUERZO / 2DO RECREO]**, pero **no se presentaron / no entregaron**, por lo que queda registrada la calificación de **0.1**:
 >
 > • [Nombre Estudiante 1]  
 > • [Nombre Estudiante 2]  
