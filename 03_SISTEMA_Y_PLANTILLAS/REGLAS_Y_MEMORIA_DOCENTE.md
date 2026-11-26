@@ -91,7 +91,12 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 * **Estado actual del proyecto:**
   * **6 temarios maestros (`8vo EGB` a `3ro BGU`)** cerrados con Títulos Generales, Propósitos Generales y nombres de parciales estilo UK sin marcas.
   * **Malla Curricular conectada:** `01_TEMARIOS_POR_CURSO/MAPA_DE_RUTA_CURRICULAR.md` y `malla_curricular_robotica.html` (escalera completa `8vo -> 3ro BGU`).
-  * **Panel de control y Diario:** `00_PANEL_CONTROL.md`, `CONTROL_CALENDARIO_PARALELOS.md`, `DIARIO_CLASES.md` y `03_SISTEMA_Y_PLANTILLAS/diario_data.json` alineados en P2 (21 paralelos, control de notas `2 Ind + 1 Grupal + 1 Refuerzo`).
+  * **Panel de control y Diario:** `00_PANEL_CONTROL.md`, `CONTROL_CALENDARIO_PARALELOS.md`, `DIARIO_CLASES.md`, `CONTROL_CALIFICACIONES_Y_NOTIFICACIONES.md` y `03_SISTEMA_Y_PLANTILLAS/diario_data.json` alineados en P2 (21 paralelos, control de notas `2 Ind + 1 Grupal + 1 Refuerzo`).
+* **Operativo de Avance, Calificación y Alcance:**
+  * **Silencio = clase ejecutada:** Si el mediador no reporta novedad de un paralelo, se asume que la clase se dictó normal según horario.
+  * **Calificación por cierre de nivel:** Se califica al día siguiente de que terminen todos los paralelos del curso (`Jueves` cierran `8vo, 10mo, 2do BGU`; `Viernes` cierran `1ro, 9no, 3ro BGU`).
+  * **Un solo llamado a recuperación:** Se cita **1 sola vez** por Classroom a **Almuerzo** (`8vo–10mo EGB`) o **2do Recreo** (`1ro–3ro BGU`) en los días livianos (**Martes** principal / **Miércoles** respaldo). Si no se acercan a ese único llamado $\rightarrow$ **WhatsApp al Tutor con `0.1`**.
+  * **Protocolo ante pérdida o evento:** Si un paralelo pierde clase, proponer de inmediato opciones según el tema (**frenar/profundizar** con los adelantados vs. **compactar 2 clases en 1** en el atrasado), garantizando siempre hacer **con tiempo** todas las actividades **Individuales, Grupales y el Refuerzo** (obligatorias).
   * **Regla de Kits Físicos Arduino (10mo vs. 1ro BGU):** Primero se prueba en virtual (Tinkercad) y a la semana siguiente en físico. **Nunca** cruzar taller grupal físico de 10mo y 1ro en la misma semana (`10mo` en S6, `1ro BGU` en S7).
   * **NotebookLM por parcial (2 Bloques de 10–12 slides + Repaso y Video):** Cada parcial se genera en **2 bloques temáticos** (`20–24` slides totales por parcial, sin repetición entre clases) + **Prompt 3 (Repaso/Examen: Ficha de 1 página + 10 preguntas)** + **Prompt 4 (Video de Repaso sin personajes)**, centralizado en `04_PARA_NOTEBOOKLM/<CURSO>/PARCIAL_X/PROMPTS_BLOQUES.md`.
 * **Enseñar materiales + paso a paso + verificación de calidad** en todo **Taller Físico**, incluyendo pruebas concretas de éxito.

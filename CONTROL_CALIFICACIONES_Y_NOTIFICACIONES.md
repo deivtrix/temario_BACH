@@ -8,15 +8,15 @@
 
 ## 🗓️ 0. RUTINA SEMANAL ANTI-SATURACIÓN (SEGÚN TU HORARIO)
 
-> **Regla de Oro:** No califiques paralelo por paralelo. Espera a que terminen los **3 o 4 paralelos del curso**, califica el curso completo **al día siguiente**, notifica por **Classroom** citando a recuperación en tus días livianos (**Martes / Miércoles**), y si no se acercan, envía **WhatsApp al Tutor con `0.1`**.
+> **Regla de Oro:** No califiques paralelo por paralelo. Espera a que terminen los **3 o 4 paralelos del curso**, califica el curso completo **al día siguiente**, haz **1 solo llamado** por **Classroom** a recuperación en tus días livianos (**Martes** o **Miércoles**), y si no se acercan a ese único llamado, envía **WhatsApp al Tutor con `0.1`**.
 
 | Momento | Qué toca hacer | Cursos / Horario |
 | :--- | :--- | :--- |
 | **Jueves *(día pesado — 6 clases)*** | **Solo dictar clases.** Cierran todos los paralelos de `10MO` (`10:15`), `8VO` (`11:45`) y `2DO BGU` (`15:45`). | *Sin calificar ni recuperaciones.* |
-| **Viernes *(cierran 1ro, 9no y 3ro)*** | **Calificar** `8VO` y `10MO` (cerrados el jueves) + **Notificar por Classroom** citando para **Martes/Miércoles**. *(Cierran `1RO` 09:15, `9NO` 11:45, `3RO` 13:45).* | Huecos del viernes / salida |
-| **Lunes *(día pesado — 5 clases)*** | **Calificar** `1RO`, `9NO`, `3RO` (y `2DO BGU` si quedó pendiente) + **Notificar por Classroom** citando para **Martes/Miércoles**. | *Sin recuperaciones en lunes.* |
-| **Martes *(día MÁS liviano — libre 08:45–12:15)*** | **Día principal de calificaciones atrasadas y recuperaciones.** | • **Almuerzo:** `8VO`, `9NO`, `10MO EGB`<br>• **2do Recreo:** `1RO`, `2DO`, `3RO BGU` |
-| **Miércoles *(día liviano — 3 clases)*** | **Día de respaldo / última llamada** de recuperaciones + **Enviar WhatsApp (`0.1`)** a tutores de quienes no se acercaron martes ni miércoles. | • **Almuerzo:** `8VO`, `9NO`, `10MO EGB`<br>• **2do Recreo:** `1RO`, `2DO`, `3RO BGU` |
+| **Viernes *(cierran 1ro, 9no y 3ro)*** | **Calificar** `8VO` y `10MO` (cerrados el jueves) + **Notificar por Classroom (1 solo llamado)** para el **Martes**. *(Cierran `1RO` 09:15, `9NO` 11:45, `3RO` 13:45).* | Huecos del viernes / salida |
+| **Lunes *(día pesado — 5 clases)*** | **Calificar** `1RO`, `9NO`, `3RO` (y `2DO BGU` si quedó pendiente) + **Notificar por Classroom (1 solo llamado)** para **Martes/Miércoles**. | *Sin recuperaciones en lunes.* |
+| **Martes *(día MÁS liviano — libre 08:45–12:15)*** | **Único llamado principal de recuperación** + calificaciones atrasadas. *(Si no vinieron hoy $\rightarrow$ WhatsApp `0.1` esa tarde/miércoles)*. | • **Almuerzo:** `8VO`, `9NO`, `10MO EGB`<br>• **2do Recreo:** `1RO`, `2DO`, `3RO BGU` |
+| **Miércoles *(día liviano — 3 clases)*** | **Único llamado** para los citados el lunes/martes + **Enviar WhatsApp (`0.1`)** a tutores de quienes no se acercaron a su llamado. | • **Almuerzo:** `8VO`, `9NO`, `10MO EGB`<br>• **2do Recreo:** `1RO`, `2DO`, `3RO BGU` |
 
 ---
 

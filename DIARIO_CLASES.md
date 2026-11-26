@@ -18,7 +18,7 @@
 ### 🔔 Recordatorio Automático de Calificación y Recuperación
 * **Cierres de hoy (Jue 26 nov):** Al terminar el día cierran todos los paralelos de **`8VO EGB`**, **`10MO EGB`** *(salvo Perspicaces -1)* y **`2DO BGU`** (`AI4: Silla en Codeblocks`). **Mañana Viernes 27:** te toca calificarlos y enviar **Notificación 1 (Classroom)**.
 * **Cierres de mañana (Vie 27 nov):** Cierran **`1RO BGU`**, **`9NO EGB`** (`Escena Temática 3D`) y **`3RO BGU`**. Calificar y notificar entre **Viernes salida / Lunes**.
-* **Días fijos de recuperación (para no saturarte):** **Martes y Miércoles** — `8vo–10mo EGB` en el **Almuerzo** | `1ro–3ro BGU` en el **2do Recreo**. *(Si no acuden, **WhatsApp al Tutor con `0.1`** desde el miércoles tarde)*.
+* **Días fijos de recuperación (1 solo llamado — para no saturarte):** **Martes o Miércoles** — `8vo–10mo EGB` en el **Almuerzo** | `1ro–3ro BGU` en el **2do Recreo**. *(Si no acuden a ese único llamado $\rightarrow$ **WhatsApp al Tutor con `0.1`**)*.
 * **Control completo:** [[CONTROL_CALIFICACIONES_Y_NOTIFICACIONES|📋 Tablero de Calificados, Classroom y WhatsApp (0.1)]].
 
 ---
