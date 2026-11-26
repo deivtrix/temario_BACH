@@ -32,7 +32,7 @@ ESTRUCTURA SIN REPETICIONES (3–4 SLIDES POR CLASE):
 CANDADOS OBLIGATORIOS:
 0. TÉRMINOS TÉCNICOS REALES Y COMPLETOS: PROHIBIDO inventar nombres mágicos o infantiles (como "transformador mágico" o "energía mágica"); usa los términos técnicos reales de la fuente y cubre OBLIGATORIAMENTE todos los temas y eslabones listados arriba sin saltarse ninguno.
 1. Teoría puntual, visual y servible (PROHIBIDO teoría compleja de CAD industrial o definiciones de relleno).
-2. Usa ÚNICAMENTE los conceptos vistos en los puntos 1, 2 y 3; PROHIBIDO adelantar Inkscape/.SVG o vehículos.
+2. Usa ÚNICAMENTE los conceptos vistos en los puntos 1, 2 y 3; PROHIBIDO adelantar vectores .SVG o vehículos.
 3. En actividades evaluadas (👤): PROHIBIDO regalar medidas finales resueltas.
 4. PROHIBIDO poner fechas, "Semana X", nombres de docente o "sube a Classroom".
 ```
@@ -53,8 +53,8 @@ PORTADA (DIAPOSITIVA 1 — TODO JUNTO):
 - "Propósito:" (verbo en infinitivo, sin decir "LEV") + "¿Dónde lo usas?" (1 frase cotidiana para 13-14 años).
 
 ESTRUCTURA SIN REPETICIONES (2–3 SLIDES POR CLASE):
-- Clase 4 — Vectorización 2D (.PNG -> .SVG) a Tinkercad 3D:
-  - 2 Láminas Ancla: (1) Mapa de bits (.PNG/.JPG) vs. Vector (.SVG) y por qué importa el alto contraste (blanco y negro) y (2) Flujo limpio en Inkscape -> Extrusión en Tinkercad + reto Rótulo 3D.
+- Clase 4 — Escena Temática 3D con Vectores .SVG en Tinkercad (👤 ACTIVIDAD INDIVIDUAL 2):
+  - 2 Láminas Ancla: (1) Mapa de bits (.PNG/.JPG) vs. Vector (.SVG) y descarga limpia en svgrepo.com y (2) Importación a Tinkercad 3D, escala/extrusión Z y composición coherente + reto Escena Temática 3D (mín. 5 .SVG sobre base con nombre 3D).
 - Clase 5 y 6 — Proyecto Grupal 3D: Vehículo / Carro (👥 ACTIVIDAD GRUPAL):
   - 2 Láminas Ancla: (1) Anatomía de chasis y carrocería equilibrada y (2) Ejes, ruedas con holgura (0.3–0.5 mm) y exportación .STL para impresión 3D.
   - 1 Lámina de Reto Grupal con 3 roles rotativos: (1. Chasis/Estructura, 2. Ejes/Ruedas y holgura, 3. Verificador de medidas y .STL).

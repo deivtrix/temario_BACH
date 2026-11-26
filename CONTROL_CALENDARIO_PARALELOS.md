@@ -39,14 +39,14 @@
 
 ---
 
-## 📊 2. ESTADO DE AVANCE — PARCIAL 2 (Corte: Martes 24 de noviembre de 2026)
+## 📊 2. ESTADO DE AVANCE — PARCIAL 2 (Corte: Jueves 26 de noviembre de 2026)
 
-> **Estado general:** Todos los grados nivelados en Semana 3. Novedades activas: **10MO Perspicaces** pierde clase hoy martes 24 nov (`🟡 -1 clase`), y **9NO Auténticos** debe 1 Formulario de S3 (`🟡 Pendiente`). Para el detalle diario y control de notas ver [[DIARIO_CLASES|📔 Diario de Clases]].
+> **Estado general:** Novedades activas: **10MO Perspicaces** perdió clase el martes 24 nov (`🟡 -1 clase`), **9NO Auténticos** debe 1 Formulario de S3 (`🟡 Debe Form`), y **8VO Decididos** debe 1 Formulario (`🟡 Debe Form`). Para el detalle diario y control de notas ver [[DIARIO_CLASES|📔 Diario de Clases]].
 
 ### 📘 8VO EGB (4 paralelos)
 | Paralelo | Día | S3 | S4 (23–27 nov) | Estado |
 | :--- | :--- | :--- | :--- | :---: |
-| **Decididos** | Mar | ✅ | En curso hoy: Corriente AC vs. DC (PhET) | 🟢 Al día |
+| **Decididos** | Mar | ✅ *(⚠️ Debe Form)* | ✅ Ejecutado mar 24: Corriente AC vs. DC + Infografía | 🟡 Debe Form |
 | **Diligentes** | Mié | ✅ | Corriente AC vs. DC (PhET) | 🟢 Al día |
 | **Dinámicos** | Mié | ✅ | Corriente AC vs. DC (PhET) | 🟢 Al día |
 | **Disciplinados** | Jue | ✅ | Corriente AC vs. DC (PhET) | 🟢 Al día |
@@ -54,10 +54,10 @@
 ### 📗 9NO EGB (4 paralelos)
 | Paralelo | Día | S3 | S4 (23–27 nov) | Estado |
 | :--- | :--- | :--- | :--- | :---: |
-| **Altruistas** | Jue | ✅ | Inkscape `.PNG -> .SVG` + Tinkercad 3D *(Ind. 2)* | 🟢 Al día |
-| **Auténticos** | Jue | ✅ *(⚠️ Debe Form)* | Inkscape `.PNG -> .SVG` + Tinkercad 3D *(+ recoger Form S3)* | 🟡 Debe Form |
-| **Asertivos** | Jue | ✅ | Inkscape `.PNG -> .SVG` + Tinkercad 3D *(Ind. 2)* | 🟢 Al día |
-| **Audaces** | Vie | ✅ *(Nivelado)* | Inkscape `.PNG -> .SVG` + Tinkercad 3D *(Ind. 2)* | 🟢 Al día |
+| **Altruistas** | Jue | ✅ | ✅ Ejecutado jue 26: Escena Temática 3D (5+ `.SVG` + Nombre 3D) | 🟢 Al día |
+| **Auténticos** | Jue | ✅ *(⚠️ Debe Form)* | Escena Temática 3D (5+ `.SVG` + Nombre 3D) *(+ recoger Form S3)* | 🟡 Debe Form |
+| **Asertivos** | Jue | ✅ | Escena Temática 3D (5+ `.SVG` + Nombre 3D) *(Ind. 2)* | 🟢 Al día |
+| **Audaces** | Vie | ✅ *(Nivelado)* | Escena Temática 3D (5+ `.SVG` + Nombre 3D) *(Ind. 2)* | 🟢 Al día |
 
 ### 📘 10MO EGB (4 paralelos)
 | Paralelo | Día | S3 | S4 (23–27 nov) | Estado |
@@ -93,3 +93,4 @@
 ## 📝 3. BITÁCORA DE INCIDENCIAS Y ALCANCES
 * **20 nov 2026 (Viernes):** Feriado. Paralelos del viernes nivelados al corte del 23 nov.
 * **24 nov 2026 (Martes):** Sin clase con `10MO Perspicaces` (nivelar *Blink* al inicio de Semana 5). `9NO Auténticos` debe Formulario de S3.
+* **26 nov 2026 (Jueves):** `9NO Altruistas` ejecutó **Escena Temática 3D (mín. 5 `.SVG` importados + base con nombre 3D)** en reemplazo de litofanías/Inkscape. Pendientes de Formulario: `9NO Auténticos` y `8VO Decididos`.

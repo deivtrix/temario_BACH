@@ -27,6 +27,6 @@
 * **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Energía/GND -> 2. Pines/Polaridad -> 3. Monitor Serial/Multímetro.
 * Suben captura final de la Casa 3D a Classroom + completan su autoevaluación del **1 al 5** (*1 = Todavía me cuesta | 5 = Lo domino y lo puedo explicar*):
   1. Modelar piezas 3D con medidas exactas y huecos (`Ctrl + G`, `L`).
-  2. Convertir imágenes 2D (`.PNG`) a vectores `.SVG` en Inkscape.
+  2. Importar y extruir vectores `.SVG` en Tinkercad 3D.
   3. Diseñar un vehículo o estructura 3D completa en equipo.
   4. Organizar y terminar una Casa 3D limpia en Tinkercad.

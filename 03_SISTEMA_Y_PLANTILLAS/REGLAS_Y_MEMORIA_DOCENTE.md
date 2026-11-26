@@ -55,7 +55,7 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 
 ## 🛠️ 4. REGLAS TÉCNICAS POR NIVEL (SIN REPETICIONES)
 * **8vo EGB:** PhET, Canva, Tinkercad Circuits (Ohm + Vista Esquemática + Serie/Paralelo), prácticas físicas (limones, empalmes, electrostática, masa conductora) y LEGO WeDo 2.0 (modelos oficiales + IPO).
-* **9no EGB:** Tinkercad 3D, Inkscape (`.SVG`), mBot/mBlock (pre-armados), Tinkercad Circuits (código de colores, `AND/OR`, LDR, transistor) y taller físico seguro sin protoboard ni soldadura.
+* **9no EGB:** Tinkercad 3D, vectores `.SVG` (`svgrepo.com`), mBot/mBlock (pre-armados), Tinkercad Circuits (código de colores, `AND/OR`, LDR, transistor) y taller físico seguro sin protoboard ni soldadura.
 * **10mo EGB:** Protoboard física, Arduino C++ inicial (*Blink*, Semáforo, `for`, Binario, `if/else` + Monitor Serial, `Pull-Down`, `INPUT_PULLUP` — Proyectos 01–02 del *Arduino Starter Kit*) y LEGO WeDo 2.0 (mecanismos articulados).
 * **1ro BGU:** Arduino C++ + Kit físico con sensores (Potenciómetro, PWM, LDR *Theremin*, Temperatura *Medidor de amor*, Ultrasonido HC-SR04, Agua, Servo SG90 *Indicador* — Proyectos 03, 05, 06 del *Arduino Starter Kit*).
 * **2do BGU:** Tinkercad Sim Lab + Codeblocks (3D programado), Arduino intermedio (`millis()`, Transistores *Molinillo*, Puente H L293D **solo en Tinkercad** — no hay físico, LCD 16x2 *Bola de Cristal* — Proyectos 08–11 del *Arduino Starter Kit*).

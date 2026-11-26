@@ -2,59 +2,58 @@
 
 > [!IMPORTANT]
 > # 👤 ACTIVIDAD INDIVIDUAL EVALUADA
-**Tema:** Rótulo 3D para Habitación (Base + Vector `.SVG` de `svgrepo.com` + Nombre 3D) *(Individual 2)*
+**Tema:** Escena Temática 3D con Vectores `.SVG` en Tinkercad *(Individual 2)*
 **Subtemas puntuales (2 nuevos):**
 1. Diferencia entre imagen de píxeles (`.PNG`/`.JPG`) y vector (`.SVG`) / Búsqueda y descarga de vectores `.SVG` limpios en `svgrepo.com`.
-2. Importación del `.SVG` a Tinkercad 3D y extrusión (altura Z / escala) / Ajuste de escala, grosor y preparación del modelo 3D para fabricación.
+2. Importación de múltiples `.SVG` a Tinkercad 3D, extrusión (altura Z / escala) y composición de escena sobre base con nombre 3D.
 **Cargo:** Mediador    
 **📊 Slides:** Sección 2 (ver PROMPTS_BLOQUES.md)
-**Modo de Clase:** Modo A/B — Tema Nuevo + Evaluación Rápida (45 min)  
-**Entregable:** Captura exprés en Classroom del **rótulo 3D terminado** (base + `.SVG` + nombre abajo) o Formulario corto.
+**Modo de Clase:** Modo A/B — Tema Nuevo + Práctica Individual Evaluada (45 min)  
+**Entregable:** 1 captura de pantalla clara en Classroom de la **Escena Temática 3D** (mínimo 5 elementos `.SVG` + base personalizada con nombre 3D).
 
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Modelar** un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad.
-* **¿Cómo sé que lo logré?** Tu rótulo 3D combina una base limpia, un ícono .SVG importado sin bordes rotos y tu nombre extruido.
-* **¿Para qué me sirve en la vida?** Para fabricar llaveros, sellos, placas personalizadas y conocer cómo una foto común se transforma en relieve 3D (litofanías).
+* **Propósito:** **Componer** una escena temática 3D en Tinkercad importando al menos 5 elementos vectoriales `.SVG` sobre una base personalizada con tu nombre.
+* **¿Cómo sé que lo logré?** Tu escena 3D integra 5 vectores `.SVG` distintos convertidos a 3D con proporciones coherentes, alineados sobre una base con tu nombre/iniciales, y se aprecia completa en la captura.
+* **¿Para qué me sirve en la vida?** Para crear maquetas, dioramas, placas personalizadas, sellos y llaveros 3D combinando íconos vectoriales listos sin tener que dibujar cada silueta desde cero.
 
 ## ⏱️ GUION MINUTO A MINUTO (45 MINUTOS)
 ### 1. Inicio y Propósito (00 – 05 min)
-* **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior.
-* **¿Qué decirles?** *"Chicos, en Tinkercad solo tenemos cubos y cilindros, pero ¿cómo hacen las empresas para imprimir en 3D el escudo de un equipo o el logo de Nike? Hoy vamos a pasar una imagen de Google directo a 3D."*
-* **Propósito en pantalla:** *"Modelar un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad."*
+* **Pregunta relámpago (60 seg):** Conectar oralmente con el concepto clave de la clase anterior (medidas y tolerancias en Tinkercad).
+* **¿Qué decirles?** *"Chicos, en Tinkercad solo tenemos cubos, cilindros y esferas, pero ¿cómo armamos rápido un árbol decorado, un plato de comida o un paisaje detallado en 3D? Hoy vamos a importar vectores `.SVG` listos para convertirlos en piezas 3D reales."*
+* **Propósito en pantalla:** *"Componer una escena temática 3D en Tinkercad importando al menos 5 elementos `.SVG` sobre una base personalizada con tu nombre."*
 
 ### 2. Teoría Corta y Modelación (05 – 15 min)
-* **Concepto (3 min):** Diferencia entre **Imagen Pixelada (`.PNG`/`.JPG`)** y **Vector (`.SVG`)** (el `.SVG` guarda líneas matemáticas que Tinkercad sí puede extruir).
-* **Modelación en Inkscape $\rightarrow$ Tinkercad (7 min):**
-  1. Pegar logo simple en blanco y negro en Inkscape.
-  2. `Trayecto` $\rightarrow$ `Vectorizar mapa de bits` $\rightarrow$ Aplicar $\rightarrow$ Borrar la imagen original.
-  3. Guardar como `.SVG` e **Importar** en Tinkercad 3D.
-* **Demo relámpago (1 min):** Mostrar `3dwork.io/litofania/` como anuncio de que las fotos con grises también se vuelven placas 3D traslúcidas.
+* **Concepto (3 min):** Diferencia entre **Imagen Pixelada (`.PNG`/`.JPG`)** y **Vector (`.SVG`)** (el `.SVG` guarda trazos matemáticos que Tinkercad sí puede extruir en altura `Z`).
+* **Modelación en `svgrepo.com` $\rightarrow$ Tinkercad 3D (7 min):**
+  1. Buscar y descargar un ícono simple en formato `.SVG` desde `svgrepo.com`.
+  2. En Tinkercad 3D: **Importar** $\rightarrow$ seleccionar el archivo `.SVG` $\rightarrow$ ajustar escala (`mm`) si es muy grande.
+  3. Ajustar altura (`Z`) y ubicarlo sobre una base sólida junto con el texto 3D del nombre.
 
 ### 3. Práctica Guiada y Reto Individual (15 – 40 min)
-* **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Energía/GND -> 2. Pines/Polaridad -> 3. Monitor Serial/Multímetro.
-* **15 – 25 min (Guiada):** Todos descargan un ícono simple (alto contraste, sin fondo) y lo vectorizan juntos en Inkscape a `.SVG`.
-* **25 – 40 min (Reto Solos):** Importan su `.SVG` a Tinkercad 3D, le dan altura (`4 mm`) y lo montan sobre una base rectangular con un agujero para convertirlo en **placa/llavero con logo**.
+* **Protocolo de Autodepuración (3 pasos antes de llamar al mediador):** 1. Verificar que el archivo sea `.SVG` (no `.PNG`) y ajustar escala al importar $\rightarrow$ 2. Revisar vista lateral/frontal que ninguna pieza flote sobre `Z` $\rightarrow$ 3. Alinear con `L` y verificar proporciones.
+* **15 – 20 min (Guiada):** Todos descargan 1 primer ícono `.SVG` de `svgrepo.com`, lo importan a Tinkercad 3D y crean su base personalizada con su nombre en 3D.
+* **20 – 40 min (Reto Individual Evaluado):** Crean una **escena temática** (ej. plato de comida, árbol de Navidad decorado o paisaje) importando **mínimo 5 elementos `.SVG` distintos**, los alinean con proporciones coherentes sobre la base con su nombre en 3D y toman 1 captura clara.
 
 ### 4. Cierre y Preguntas de Verificación (40 – 45 min)
 * **Dinámica de cierre (30 seg):** Respuesta simultánea (dedos/pulgar) o *Cold Call* al azar (evitar que respondan solo los mismos 2).
 * **2 preguntas rápidas:**
   1. *"¿Por qué Tinkercad no acepta una foto `.JPG` normal y sí un archivo `.SVG`?"*
-  2. *"¿Qué es una litofanía en impresión 3D?"*
-* **Cierre:** Subir 1 captura del logo ya en 3D dentro de Tinkercad a Classroom.
+  2. *"¿Qué parámetro ajustamos en Tinkercad después de importar un `.SVG` para darle volumen y que no quede plano?"*
+* **Cierre:** Subir 1 captura clara de toda la escena 3D a Classroom antes de terminar la clase.
 
 ## 📢 TEXTO PARA GOOGLE CLASSROOM
 ```text
-TÍTULO: Práctica 3D: De Imagen 2D a Vector .SVG en Tinkercad
-
-PROPÓSITO: Modelar un logo de internet en vector `.SVG` con Inkscape para pasarlo a 3D en Tinkercad.
+TÍTULO: Práctica 3D: Escena Temática con Vectores .SVG en Tinkercad
 
 INSTRUCCIONES:
-1. Elige un logo o ícono simple en blanco y negro.
-2. Vectorízalo en Inkscape (Trayecto -> Vectorizar mapa de bits) y guárdalo como .SVG.
-3. Impórtalo en Tinkercad 3D, colócalo sobre una base con tu nombre o iniciales y tómale 1 captura.
-4. Sube la captura aquí antes de terminar la clase.
+Crea una escena temática (como un plato de comida, un árbol de Navidad decorado o un paisaje) utilizando mínimo 5 elementos SVG importados en Tinkercad 3D.
+Coloca la escena sobre una base personalizada con tu nombre en 3D, tómale 1 captura de pantalla y súbela aquí antes de terminar la clase.
 
-Calificación: 10 puntos (Práctica de clase).
+RÚBRICA DE EVALUACIÓN (10 puntos):
+- Importación de elementos (2.5 pts): Incluye 5 vectores SVG distintos importados y convertidos a 3D.
+- Composición de la escena (2.5 pts): Los 5 elementos forman una escena coherente, bien alineada y con proporciones adecuadas.
+- Identificación (2.5 pts): Incluye el nombre o iniciales del estudiante.
+- Entrega y captura (2.5 pts): Captura de pantalla clara donde se aprecia todo el modelo.
 ```
 
 ---

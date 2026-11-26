@@ -1,6 +1,6 @@
 # 🎛️ PANEL DE CONTROL DEL MEDIADOR (OBSIDIAN 2026 - 2027)
 **Cargo:** Mediador | **Materia:** Robótica y Tecnología  
-**Última actualización:** 23 de noviembre de 2026 (Parcial 2 — Semana 4)
+**Última actualización:** 26 de noviembre de 2026 (Parcial 2 — Semana 4)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### 🚀 Semana 4 (23 – 27 nov) — *EN CURSO*
 * **8vo:** AC vs. DC + Infografía 10 imágenes DC / 10 AC *(Decididos ✅ Mar 24)*.
-* **9no:** Rótulo 3D para habitación (Base + `.SVG` de `svgrepo.com` + Nombre 3D) *(**Individual 2**)*
+* **9no:** Escena Temática 3D (mín. 5 `.SVG` de `svgrepo.com` + base con Nombre 3D) *(**Individual 2** — Altruistas ✅ Jue 26)*
 * **10mo:** Primer programa Arduino (*Blink*) en Tinkercad *(Práctica base para Cuestionario Individual 1 de S5)*.
 * **1ro BGU:** Atenuador de brillo LED (`map()` + PWM `analogWrite`) *(Práctica sin entrega — Ind. 1 y 2 ya completas)*.
 * **2do BGU:** Intro a Tinkercad Codeblocks: **Silla 3D (`AI4` en Classroom — Lun 23 ✅)** *(Ind. 1 lista; `AG2` Grupal ya completo)*.

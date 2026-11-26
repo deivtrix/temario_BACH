@@ -59,7 +59,7 @@ flowchart LR
     %% EJE 3: DISENO 3D Y MECANICA
     subgraph E3["⚙️ EJE 3: Diseño 3D y Mecanismos"]
         direction LR
-        E3_8["8vo (P4)<br/>Poleas, correas, engranajes,<br/>fricción y torque WeDo"] --> E3_9["9no (P2)<br/>CAD 3D Tinkercad, mm,<br/>holguras STL e Inkscape SVG"]
+        E3_8["8vo (P4)<br/>Poleas, correas, engranajes,<br/>fricción y torque WeDo"] --> E3_9["9no (P2)<br/>CAD 3D Tinkercad, mm,<br/>holguras STL y vectores SVG"]
         E3_9 --> E3_10["10mo (P4)<br/>Biela-manivela, palancas,<br/>rotatorio a lineal WeDo"]
         E3_10 --> E3_2B["2do BGU (P1-P2)<br/>Sim Lab física dinámica y<br/>Codeblocks 3D paramétrico"]
     end
@@ -100,7 +100,7 @@ Esta tabla resume los puentes directos entre cursos para compartirlos al inicio 
 ### 2. De **9no EGB** $\rightarrow$ hacia **10mo EGB y 2do BGU**
 | Lo que aprendes en 9no | En qué te ayuda después |
 | :--- | :--- |
-| **Tinkercad 3D, medidas en mm, holguras e Inkscape (P2)** | En **2do BGU (P1–P2)** pasarás a simular física real en *Sim Lab* y a programar piezas paramétricas en *Codeblocks*. |
+| **Tinkercad 3D, medidas en mm, holguras y vectores `.SVG` (P2)** | En **2do BGU (P1–P2)** pasarás a simular física real en *Sim Lab* y a programar piezas paramétricas en *Codeblocks*. |
 | **mBot, diagramas de flujo, velocidad (0–255) y ultrasonido (P3)** | En **10mo (P2–P3)** transformarás esa lógica de diagramas de flujo en código C++ real; en **1ro BGU (P3–P4)** volverás a usar el sensor ultrasonido en Arduino. |
 | **Código de colores, `AND`/`OR`, LDR, Transistor y *Troubleshooting* (P4)** | En **10mo (P2–P3)** entenderás por qué Arduino reemplaza cables complejos por código (puente *Transistor vs. Arduino*) y sabrás diagnosticar fallas antes de pedir ayuda. |
 

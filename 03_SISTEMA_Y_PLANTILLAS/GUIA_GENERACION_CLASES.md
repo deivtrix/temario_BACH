@@ -58,7 +58,7 @@ Cada archivo (`<CURSO>_SEMANA<NN>.md`) dentro de `02_CLASES_SEMANALES/PARCIAL_<N
 1. **Mediador:** Usar siempre y exclusivamente **Mediador** (sin nombre propio; nunca `Ing.`, `Docente` ni `Profesor`).
 2. **Herramientas reales por curso:**
    * **8vo:** PhET, Canva, Tinkercad Circuits, prácticas físicas, LEGO WeDo 2.0.
-   * **9no:** Tinkercad 3D, Inkscape `.SVG`, mBot/mBlock, Tinkercad Circuits (Protoboard).
+   * **9no:** Tinkercad 3D, vectores `.SVG`, mBot/mBlock, Tinkercad Circuits (Protoboard).
    * **10mo:** Protoboard, Tinkercad Circuits / Arduino UNO, Canva, LEGO WeDo 2.0.
    * **1ro BGU:** Tinkercad Circuits + Kit físico Arduino con sensores.
    * **2do BGU:** Tinkercad Sim Lab / Codeblocks, Arduino (`millis()`, Puente H, LCD 16x2).

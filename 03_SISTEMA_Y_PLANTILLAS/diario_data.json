@@ -45,7 +45,7 @@
         "1ro_leales": {"estado": "dada", "motivo": "", "nota": ""},
         "3ro_vanguardistas": {"estado": "dada", "motivo": "", "nota": ""},
         "1ro_integros": {"estado": "dada", "motivo": "", "nota": ""},
-        "8vo_decididos": {"estado": "dada", "motivo": "", "nota": ""},
+        "8vo_decididos": {"estado": "dada", "motivo": "", "nota": "Pendiente: debe Formulario"},
         "10mo_perspicaces": {"estado": "dada", "motivo": "", "nota": ""},
         "2do_justos": {"estado": "dada", "motivo": "", "nota": ""},
         "8vo_diligentes": {"estado": "dada", "motivo": "", "nota": ""},
@@ -67,7 +67,7 @@
       "nombre": "Semana 4 (23 - 27 nov)",
       "temas": {
         "8VO EGB": "Corriente Alterna (AC) y Transformación a DC (PhET)",
-        "9NO EGB": "Rótulo 3D para habitación (.SVG svgrepo + Nombre 3D)",
+        "9NO EGB": "Escena Temática 3D (Mín. 5 .SVG en Tinkercad + Nombre 3D)",
         "10MO EGB": "Primer programa Arduino (Blink) en Tinkercad",
         "1RO BGU": "Atenuador de brillo LED (map() + PWM)",
         "2DO BGU": "Intro Tinkercad Codeblocks: Silla 3D",
@@ -79,8 +79,9 @@
         "1ro_leales": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
         "3ro_vanguardistas": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
         "1ro_integros": {"estado": "dada", "motivo": "", "nota": "Ejecutado lun 23 nov"},
-        "8vo_decididos": {"estado": "dada", "motivo": "", "nota": "Ejecutado mar 24 nov (AC vs DC + Infografía 10+10)"},
-        "10mo_perspicaces": {"estado": "perdida", "motivo": "Sin clase mar 24 nov", "nota": "Requiere Plan de Alcance"}
+        "8vo_decididos": {"estado": "dada", "motivo": "", "nota": "Ejecutado mar 24 nov (AC vs DC + Infografía 10+10). Pendiente: Formulario"},
+        "10mo_perspicaces": {"estado": "perdida", "motivo": "Sin clase mar 24 nov", "nota": "Requiere Plan de Alcance"},
+        "9no_altruistas": {"estado": "dada", "motivo": "", "nota": "Ejecutado jue 26 nov (Escena Temática 3D con 5+ .SVG + Nombre 3D)"}
       }
     },
     "5": {

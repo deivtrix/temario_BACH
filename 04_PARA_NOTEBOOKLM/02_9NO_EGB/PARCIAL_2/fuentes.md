@@ -9,7 +9,7 @@
 
 ## 📦 SECCIÓN 2 (Vectores SVG, Vehículo y STL)
 * `Diferencia imagen PNG y vector SVG`
-* `Vectorizar imagen a SVG con Inkscape`
+* `Descargar archivos SVG en svgrepo para Tinkercad`
 * `Importar archivo SVG en Tinkercad 3D`
 * `Diseño chasis ejes y ruedas 3D`
 * `Exportar archivo STL para impresión 3D`

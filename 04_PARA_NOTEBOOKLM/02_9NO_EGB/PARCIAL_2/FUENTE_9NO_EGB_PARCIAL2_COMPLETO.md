@@ -51,22 +51,21 @@
 
 ---
 
-# 4. Vectorización 2D (Inkscape `.PNG` -> `.SVG`) a Tinkercad 3D (`📘 TEMA NUEVO`)
+# 4. Escena Temática 3D con Vectores `.SVG` en Tinkercad (`👤 ACTIVIDAD INDIVIDUAL 2`)
 ## 🎯 PROPÓSITO Y ¿PARA QUÉ SIRVE?
-* **Propósito:** **Convertir** imágenes planas (`.PNG`/`.JPG`) en gráficos vectoriales limpios (`.SVG`) mediante Inkscape para importarlos y extruirlos en volumen 3D.
-* **¿Para qué me sirve en la vida?** Para transformar cualquier logotipo, silueta o escudo 2D en placas, sellos, llaveros o piezas físicas en 3D.
+* **Propósito:** **Componer** una escena temática 3D en Tinkercad importando al menos 5 elementos vectoriales `.SVG` sobre una base personalizada con tu nombre.
+* **¿Para qué me sirve en la vida?** Para crear maquetas, dioramas, placas personalizadas, sellos o llaveros en 3D combinando íconos vectoriales listos sin dibujar cada silueta desde cero.
 
 ## 📚 CONTENIDO EXPLICATIVO (TEORÍA PUNTUAL — 10 MIN)
 * **Mapa de bits (`.PNG`/`.JPG`) vs. Vector (`.SVG`):**
   * Una imagen **`.PNG`** está formada por cuadritos (píxeles); si la amplías mucho se ve borrosa y un software CAD 3D no puede convertir píxeles directos en volumen limpio.
   * Un archivo **`.SVG` (Gráficos Vectoriales Escalables)** guarda curvas y líneas matemáticas; conserva nitidez infinita y Tinkercad puede darle altura (`extrusión`) al instante.
-* **Flujo paso a paso en Inkscape -> Tinkercad 3D:**
-  1. Abrir/importar la imagen limpia (alto contraste, ideal blanco y negro) en **Inkscape**.
-  2. Seleccionar la imagen y usar **Trayecto -> Vectorizar mapa de bits** (ajustando umbral para obtener silueta limpia sin manchas sueltas).
-  3. Borrar la imagen original de fondo y guardar únicamente el trazo como **`.SVG`**.
-  4. En Tinkercad 3D, usar **Importar**, ajustar escala en `mm` y definir altura de relieve (`3` a `4 mm`).
-* **Práctica guiada:** Vectorizar un logotipo sencillo en Inkscape, limpiarlo y extruirlo sobre una placa base en Tinkercad 3D.
-* **Preguntas de verificación:** ¿Por qué Tinkercad 3D necesita archivos `.SVG` y no `.PNG` directos? ¿Por qué conviene borrar el mapa de bits original antes de guardar?
+* **Flujo paso a paso `svgrepo.com` -> Tinkercad 3D:**
+  1. Buscar y descargar íconos simples en formato **`.SVG`** desde `svgrepo.com`.
+  2. En Tinkercad 3D, usar **Importar**, ajustar la escala en `mm` si el vector llega demasiado grande y definir su altura de relieve (`Z`).
+  3. Combinar mínimo 5 elementos `.SVG` distintos formando una escena coherente (ej. plato de comida, árbol de Navidad decorado o paisaje) sobre una base personalizada con nombre o iniciales en 3D.
+* **Práctica individual (`👤 ACTIVIDAD INDIVIDUAL` — sin diseño resuelto):** Componer una escena temática 3D con mínimo 5 vectores `.SVG` distintos sobre una base con nombre 3D, cuidando alineación (`L`) y proporciones.
+* **Preguntas de verificación:** ¿Por qué Tinkercad 3D necesita archivos `.SVG` y no `.PNG` directos? ¿Qué parámetro ajustamos en Tinkercad tras importar un `.SVG` para darle volumen?
 
 ---
 
@@ -115,5 +114,5 @@
 * **Autoevaluación Escala de Likert (1 = Todavía me cuesta | 3 = Lo entiendo con ayuda | 5 = Lo domino y lo puedo explicar):**
   1. Utilizar ejes `X, Y, Z`, formas huecas y comandos clave (`L`, `Ctrl + G`, `Ctrl + D`).
   2. Aplicar medidas en milímetros y tolerancias/holguras reales (`0.3–0.5 mm`) en diseños funcionales.
-  3. Vectorizar imágenes 2D a `.SVG` en Inkscape e importarlos/extruirlos en Tinkercad 3D.
+  3. Descargar vectores `.SVG` e importarlos/extruirlos en Tinkercad 3D con proporciones coherentes.
   4. Ensamblar proyectos completos de varias piezas (Vehículo y Casa 3D) y exportarlos en `.STL`.

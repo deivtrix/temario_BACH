@@ -4,7 +4,7 @@
 **Título General del Año:** Diseño Digital y Robótica Móvil  
 **Propósito General del Año:** **Diseñar** modelos digitales 3D, rutinas de navegación móvil y circuitos lógicos analógicos para desarrollar prototipos funcionales seguros.  
 **Cargo:** Mediador  
-**Regla de Clase (45 min):** 10 min de teoría + 35 min de práctica (Tinkercad 3D, Inkscape, mBlock/mBot o Tinkercad Circuits).  
+**Regla de Clase (45 min):** 10 min de teoría + 35 min de práctica (Tinkercad 3D, vectores `.SVG`, mBlock/mBot o Tinkercad Circuits).  
 **Estructura por Parcial:** 4 Parciales (1 Tema por Parcial × 7 clases), garantizando mínimo **2 actividades individuales + 1 grupal + 1 refuerzo**.
 
 ---
@@ -23,8 +23,8 @@
 
 1. `[x]` **Introducción a Tinkercad 3D y Llavero** *(Individual 1 — ejecutado)* — Ejes X, Y, Z, formas básicas, huecos y agrupación (`Ctrl + G`).
 2. `[x]` **Case de iPhone en Tinkercad 3D — Parte 1** *(Práctica Guiada — ejecutado)* — Medidas reales en mm, vaciado interno y cortes de cámara/botones.
-3. `[→]` **Case de iPhone — Parte 2 + Formulario** *(Individual 2 — **Semana del 16–19 nov**)* — Acabado con tolerancias reales y formulario de evaluación individual.
-4. `[ ]` **Vectorización 2D (Inkscape `.PNG` -> `.SVG`) a Tinkercad 3D** *(Tema Nuevo — clase normal)* — Convertir siluetas/logos de alto contraste (blanco y negro) a `.SVG`, limpiar trazos e importarlos/extruirlos en Tinkercad 3D.
+3. `[x]` **Case de iPhone — Parte 2 + Formulario** *(Individual 1 — **Semana del 16–19 nov**)* — Acabado con tolerancias reales y formulario de evaluación individual *(⚠️ 9no Auténticos debe Formulario)*.
+4. `[→]` **Escena Temática 3D con Vectores `.SVG` en Tinkercad** *(Individual 2 — **Semana del 23–27 nov**)* — Diferencia `.PNG` vs `.SVG`, descarga de vectores en `svgrepo.com`, importación/extrusión en Tinkercad 3D y composición de escena temática (mín. 5 `.SVG`) sobre base con nombre 3D.
 5. `[ ]` **Proyecto Grupal 3D: Vehículo / Carro — Parte 1** *(Práctica en Equipos — avance)* — Diseño colaborativo de chasis y carrocería en Tinkercad 3D.
 6. `[ ]` **Proyecto Grupal 3D: Vehículo / Carro — Parte 2** *(Grupal — calificada)* — Ejes, ruedas con holgura (`0.3–0.5 mm`), ensamblaje final y exportación `.STL`.
 7. `[ ]` **Refuerzo 3D: Casa en Tinkercad y Autoevaluación** *(Refuerzo y Cierre)* — Modelado integrador (muros, huecos, ventanas y techo) + **Autoevaluación Likert (1–5)** en 4 aspectos.
