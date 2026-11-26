@@ -130,10 +130,12 @@ Al ordenar todos tus datos de Classroom (incluyendo **8vo** y **10mo EGB**), est
 > *Mediador de Robótica y Tecnología.*
 
 ### B. Para WhatsApp al Tutor / Dirigente *(Solo si NO acudieron a la recuperación)*
-> Buenas tardes estimado/a Tutor/a de **[CURSO Y PARALELO]**, le saluda el Mediador de Robótica.  
-> Le informo que los siguientes estudiantes fueron notificados por plataforma Classroom para recuperar la actividad **[Nombre de la actividad]** el día **[MARTES / MIÉRCOLES]** en horario de **[ALMUERZO / 2DO RECREO]**, pero **no se presentaron / no entregaron**, por lo que queda registrada la calificación de **0.1**:
+> **Estructura obligatoria (3 pasos):** **1.** Reconocimiento y validación desde el amor · **2.** Diagnóstico preciso y objetivo de la destreza por consolidar · **3.** Hoja de ruta clara de refuerzo y corresponsabilidad.
+
+> Buenas tardes estimado/a Tutor/a de **[CURSO Y PARALELO]**, le saluda con mucho aprecio el Mediador de Robótica.  
 >
-> • [Nombre Estudiante 1]  
-> • [Nombre Estudiante 2]  
+> **1. Reconocimiento:** Valoramos mucho el potencial, la creatividad y el esfuerzo que **[Nombre(s) del Estudiante]** demuestra en el aula; justamente porque confiamos en sus capacidades queremos acompañarle a tiempo para que no se quede atrás.  
 >
-> Agradezco mucho su apoyo informando a sus representantes. ¡Muchas gracias!
+> **2. Diagnóstico objetivo:** Hasta la fecha falta consolidar la destreza de **[Nombre de la actividad / destreza específica, ej. modelado 3D con medidas y vectores .SVG]**. Aunque se realizó el llamado formal por Google Classroom para recuperar el día **[DÍA]** en horario de **[ALMUERZO / 2DO RECREO]**, no se presentó ni registró la entrega, por lo que de momento queda asentada la calificación de **0.1**.  
+>
+> **3. Hoja de ruta y corresponsabilidad:** Para revertir esta nota y reforzar la destreza, necesitamos su valioso apoyo desde casa/tutoría verificando que **[Nombre(s)]** revise la guía y la rúbrica en Classroom, complete la actividad y **[indicar acción concreta: subir la evidencia / acercarse en el próximo espacio acordado]**. Quedo atento para acompañarle en este proceso. ¡Muchas gracias por su apoyo!
