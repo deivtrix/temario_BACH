@@ -91,7 +91,7 @@ Por cada parcial (7 clases en 8vo–2do; 6 clases en 3ro BGU) se garantizan mín
 * **Estado actual del proyecto:**
   * **6 temarios maestros (`8vo EGB` a `3ro BGU`)** cerrados con Títulos Generales, Propósitos Generales y nombres de parciales estilo UK sin marcas.
   * **Malla Curricular conectada:** `01_TEMARIOS_POR_CURSO/MAPA_DE_RUTA_CURRICULAR.md` y `malla_curricular_robotica.html` (escalera completa `8vo -> 3ro BGU`).
-  * **Panel de control y Diario:** `00_PANEL_CONTROL.md`, `CONTROL_CALENDARIO_PARALELOS.md`, `DIARIO_CLASES.md`, `CONTROL_CALIFICACIONES_Y_NOTIFICACIONES.md` y `03_SISTEMA_Y_PLANTILLAS/diario_data.json` alineados en P2 (21 paralelos, control de notas `2 Ind + 1 Grupal + 1 Refuerzo`).
+  * **Panel de control y Diario:** `00_PANEL_CONTROL.md`, `DIARIO_CLASES.md`, `CONTROL_CALIFICACIONES_Y_NOTIFICACIONES.md`, `03_SISTEMA_Y_PLANTILLAS/diario_data.json` y `RESUMEN_HOY.html` (regenerado con `generar_resumen_semana.ps1`) alineados en P2 (21 paralelos, control de notas `2 Ind + 1 Grupal + 1 Refuerzo`).
 * **Operativo de Avance, Calificación y Alcance:**
   * **Silencio = clase ejecutada:** Si el mediador no reporta novedad de un paralelo, se asume que la clase se dictó normal según horario.
   * **Calificación por cierre de nivel:** Se califica al día siguiente de que terminen todos los paralelos del curso (`Jueves` cierran `8vo, 10mo, 2do BGU`; `Viernes` cierran `1ro, 9no, 3ro BGU`).

@@ -9,8 +9,8 @@ Cuando el usuario reporte novedades de clases, pida un reporte o diga **"actuali
 
 1. **Registro Diario y Estado de 21 Paralelos:**
    - Actualizar `03_SISTEMA_Y_PLANTILLAS/diario_data.json` (estado `dada` / `perdida` / `alcance` + motivo/nota).
-   - Regenerar/actualizar `DIARIO_CLASES.md` (Tablero de Decisiones Activas, Registro Semanal y Control de Notas `2 Ind + 1 Grupal + 1 Refuerzo`).
-   - Actualizar `CONTROL_CALENDARIO_PARALELOS.md` (corte actual y bitácora de incidencias).
+   - Actualizar `DIARIO_CLASES.md` (Tablero de Decisiones Activas, Registro Semanal y Control de Notas `2 Ind + 1 Grupal + 1 Refuerzo`) y `CONTROL_CALIFICACIONES_Y_NOTIFICACIONES.md` cuando haya cambios en calificaciones/notificaciones.
+   - Ejecutar `pwsh -File 03_SISTEMA_Y_PLANTILLAS/generar_resumen_semana.ps1` para regenerar `RESUMEN_HOY.html` con la semana en curso.
 
 2. **Reglas Operativas Clave:**
    - **Cero choque de kits físicos Arduino:** `10MO EGB` y `1RO BGU` nunca hacen taller grupal físico en la misma semana (`10mo` en S6, `1ro BGU` en S7). Primero es simulación virtual, luego montaje físico.

@@ -370,7 +370,6 @@
         <p class="sub" id="resumen-sub">Parcial 2 · Operativo Diario</p>
       </div>
       <div class="controls">
-        <select id="week-select" class="week-select" aria-label="Seleccionar semana"></select>
         <div class="pill-group" role="group" aria-label="Seleccionar día de la semana">
           <button class="pill" data-day="1">Lun</button>
           <button class="pill" data-day="2">Mar</button>
@@ -417,6 +416,11 @@
         </table>
       </div>
     </div>
+
+    <details class="panel" id="next-week-panel">
+      <summary style="cursor:pointer;font-weight:600;color:var(--accent);font-size:0.92rem;" id="next-week-title">⏭️ Próxima semana</summary>
+      <ul class="pend-list" id="next-week-list" style="margin-top:12px;"></ul>
+    </details>
   </div>
 
   <dialog id="plan-dialog" closedby="any" aria-labelledby="dialog-title">
@@ -434,102 +438,7 @@
 
   <script src="03_SISTEMA_Y_PLANTILLAS/guiones_bundle.js"></script>
   <script>
-    const HORARIO = [
-      // Lunes (1)
-      { id: "2do_proactivos", dia: 1, hora: "07:45 – 08:45", nivel: "2DO BGU", paralelo: "Proactivos" },
-      { id: "10mo_persistentes", dia: 1, hora: "08:45 – 09:45", nivel: "10MO EGB", paralelo: "Persistentes" },
-      { id: "1ro_leales", dia: 1, hora: "09:45 – 10:45", nivel: "1RO BGU", paralelo: "Leales" },
-      { id: "3ro_vanguardistas", dia: 1, hora: "11:15 – 12:15", nivel: "3RO BGU", paralelo: "Vanguardistas" },
-      { id: "1ro_integros", dia: 1, hora: "14:45 – 15:45", nivel: "1RO BGU", paralelo: "Íntegros" },
-      // Martes (2)
-      { id: "8vo_decididos", dia: 2, hora: "07:45 – 08:45", nivel: "8VO EGB", paralelo: "Decididos", nota: "⚠️ Debe Formulario AI4" },
-      { id: "10mo_perspicaces", dia: 2, hora: "12:15 – 13:15", nivel: "10MO EGB", paralelo: "Perspicaces", nota: "🟡 Nivelar Blink antes de S6" },
-      { id: "2do_justos", dia: 2, hora: "14:45 – 15:45", nivel: "2DO BGU", paralelo: "Justos" },
-      // Miércoles (3)
-      { id: "8vo_diligentes", dia: 3, hora: "08:45 – 09:45", nivel: "8VO EGB", paralelo: "Diligentes" },
-      { id: "8vo_dinamicos", dia: 3, hora: "10:45 – 11:45", nivel: "8VO EGB", paralelo: "Dinámicos" },
-      { id: "10mo_pacifistas", dia: 3, hora: "12:15 – 13:15", nivel: "10MO EGB", paralelo: "Pacifistas" },
-      // Jueves (4)
-      { id: "9no_altruistas", dia: 4, hora: "07:45 – 08:45", nivel: "9NO EGB", paralelo: "Altruistas" },
-      { id: "10mo_positivos", dia: 4, hora: "09:15 – 10:15", nivel: "10MO EGB", paralelo: "Positivos" },
-      { id: "8vo_disciplinados", dia: 4, hora: "10:45 – 11:45", nivel: "8VO EGB", paralelo: "Disciplinados" },
-      { id: "9no_autenticos", dia: 4, hora: "11:45 – 12:45", nivel: "9NO EGB", paralelo: "Auténticos", nota: "⚠️ Debe Formulario S3" },
-      { id: "9no_asertivos", dia: 4, hora: "12:45 – 13:45", nivel: "9NO EGB", paralelo: "Asertivos" },
-      { id: "2do_honestos", dia: 4, hora: "14:45 – 15:45", nivel: "2DO BGU", paralelo: "Honestos" },
-      // Viernes (5)
-      { id: "1ro_confiables", dia: 5, hora: "08:15 – 09:15", nivel: "1RO BGU", paralelo: "Confiables" },
-      { id: "3ro_solidarios", dia: 5, hora: "09:15 – 10:15", nivel: "3RO BGU", paralelo: "Solidarios" },
-      { id: "9no_audaces", dia: 5, hora: "10:45 – 11:45", nivel: "9NO EGB", paralelo: "Audaces" },
-      { id: "3ro_empaticos", dia: 5, hora: "12:45 – 13:45", nivel: "3RO BGU", paralelo: "Empáticos" }
-    ];
-
-    const SEMANAS = {
-      "4": {
-        label: "Semana 4 (23 – 27 nov)",
-        inicio: "2026-11-23",
-        fin: "2026-11-29",
-        temas: {
-          "8VO EGB": { texto: "Corriente Alterna (AC) y Transformación a DC (PhET)", tipo: "pra", tipoLabel: "Práctica" },
-          "9NO EGB": { texto: "Escena Temática 3D (mín. 5 .SVG en Tinkercad + Nombre 3D)", tipo: "ind", tipoLabel: "Individual 2" },
-          "10MO EGB": { texto: "Primer programa Arduino (Blink) en Tinkercad", tipo: "pra", tipoLabel: "Práctica" },
-          "1RO BGU": { texto: "Atenuador de brillo LED (map() + PWM analogWrite)", tipo: "pra", tipoLabel: "Práctica" },
-          "2DO BGU": { texto: "Intro Tinkercad Codeblocks: Silla 3D (AI4)", tipo: "ind", tipoLabel: "Individual 1" },
-          "3RO BGU": { texto: "Semáforo en Wokwi", tipo: "pra", tipoLabel: "Práctica" }
-        }
-      },
-      "5": {
-        label: "Semana 5 (30 nov – 4 dic)",
-        inicio: "2026-11-30",
-        fin: "2026-12-06",
-        temas: {
-          "8VO EGB": { texto: "Tinkercad Circuits: Medir ondas AC vs DC + Canva (Grupal)", tipo: "grp", tipoLabel: "Grupal" },
-          "9NO EGB": { texto: "Proyecto Grupal 3D: Vehículo / Carro — Parte 1", tipo: "pra", tipoLabel: "En Equipos" },
-          "10MO EGB": { texto: "Cuestionario Blink (Ind. 1) + Instalar Arduino IDE y Blink físico", tipo: "ind", tipoLabel: "Individual 1" },
-          "1RO BGU": { texto: "Poste de Alumbrado Público Automático (LDR Virtual)", tipo: "pra", tipoLabel: "Práctica" },
-          "2DO BGU": { texto: "Bucles y Rotación en Codeblocks (Formulario corto)", tipo: "ind", tipoLabel: "Individual 2" },
-          "3RO BGU": { texto: "ESP32 PWM y Buzzer en Wokwi", tipo: "pra", tipoLabel: "Práctica" }
-        }
-      },
-      "6": {
-        label: "Semana 6 (7 – 11 dic)",
-        inicio: "2026-12-07",
-        fin: "2026-12-13",
-        temas: {
-          "8VO EGB": { texto: "Seguridad Eléctrica: Falsos Contactos y Breakers", tipo: "ref", tipoLabel: "Refuerzo" },
-          "9NO EGB": { texto: "Proyecto Grupal 3D: Vehículo / Carro — Parte 2 (.STL)", tipo: "grp", tipoLabel: "Grupal" },
-          "10MO EGB": { texto: "Semáforo Físico en Protoboard con Arduino UNO (Kits 10mo)", tipo: "grp", tipoLabel: "Grupal 1" },
-          "1RO BGU": { texto: "Theremin Musical con Luz (LDR + Buzzer) Virtual", tipo: "pra", tipoLabel: "Práctica" },
-          "2DO BGU": { texto: "Proyecto Codeblocks: Engranaje o Mecanismo Paramétrico", tipo: "pra", tipoLabel: "Práctica" },
-          "3RO BGU": { texto: "Sensor Ultrasonido HC-SR04 con ESP32 en Wokwi", tipo: "pra", tipoLabel: "Práctica" }
-        }
-      },
-      "7": {
-        label: "Semana 7 (14 – 18 dic)",
-        inicio: "2026-12-14",
-        fin: "2026-12-20",
-        temas: {
-          "8VO EGB": { texto: "Repaso, Cierre P2 y Autoevaluación Likert (1–5)", tipo: "ref", tipoLabel: "Refuerzo" },
-          "9NO EGB": { texto: "Refuerzo 3D: Casa en Tinkercad y Autoevaluación", tipo: "ref", tipoLabel: "Refuerzo" },
-          "10MO EGB": { texto: "Refuerzo + Captura en Classroom (Ind. 2) y Autoevaluación", tipo: "ind", tipoLabel: "Ind. 2 / Ref." },
-          "1RO BGU": { texto: "Theremin Físico en Kit Arduino (Kits solo 1ro BGU)", tipo: "grp", tipoLabel: "Grupal Físico" },
-          "2DO BGU": { texto: "Refuerzo: Diseño libre programado en Codeblocks", tipo: "ref", tipoLabel: "Refuerzo" },
-          "3RO BGU": { texto: "Proyecto Grupal: Teclado Matricial 4x4 en Wokwi", tipo: "grp", tipoLabel: "Grupal" }
-        }
-      },
-      "8": {
-        label: "Semana 8 (5 – 8 ene)",
-        inicio: "2027-01-04",
-        fin: "2027-01-10",
-        temas: {
-          "8VO EGB": { texto: "Nivelación y repaso previo a quimestrales", tipo: "ref", tipoLabel: "Refuerzo" },
-          "9NO EGB": { texto: "Casa 3D Parte 2 + Cierre y Autoevaluación", tipo: "ref", tipoLabel: "Refuerzo" },
-          "10MO EGB": { texto: "Nivelación y repaso previo a quimestrales", tipo: "ref", tipoLabel: "Refuerzo" },
-          "1RO BGU": { texto: "Refuerzo Calibración Monitor Serial + Autoevaluación", tipo: "ref", tipoLabel: "Refuerzo" },
-          "2DO BGU": { texto: "Nivelación y repaso previo a quimestrales", tipo: "ref", tipoLabel: "Refuerzo" },
-          "3RO BGU": { texto: "Nivelación y repaso previo a quimestrales", tipo: "ref", tipoLabel: "Refuerzo" }
-        }
-      }
-    };
+    const DATA = window.RESUMEN_DATA || { semana_actual: "4", semana_info: { nombre: "Semana 4", temas: {}, registros: {} }, horario: [], guiones: {} };
 
     const OPERATIVOS = {
       1: {
@@ -556,44 +465,30 @@
 
     const DIAS_NOMBRES = { 1: "Lunes", 2: "Martes", 3: "Miércoles", 4: "Jueves", 5: "Viernes" };
 
-    function getPlainDateTodayFallback() {
-      const now = new Date();
-      const y = now.getFullYear();
-      const m = String(now.getMonth() + 1).padStart(2, "0");
-      const d = String(now.getDate()).padStart(2, "0");
-      return { year: y, month: now.getMonth() + 1, day: now.getDate(), iso: `${y}-${m}-${d}`, dayOfWeek: now.getDay() === 0 ? 7 : now.getDay(), nativeDate: now };
+    function inferTipo(nivel) {
+      const md = DATA.guiones?.[nivel] || "";
+      if (md.includes("ACTIVIDAD INDIVIDUAL")) return { cls: "ind", label: "Individual" };
+      if (md.includes("ACTIVIDAD GRUPAL")) return { cls: "grp", label: "Grupal" };
+      if (md.includes("REFUERZO")) return { cls: "ref", label: "Refuerzo" };
+      return { cls: "pra", label: "Práctica" };
     }
 
     function detectToday() {
       if (typeof Temporal !== "undefined") {
         const pd = Temporal.Now.plainDateISO();
-        return {
-          year: pd.year,
-          month: pd.month,
-          day: pd.day,
-          iso: pd.toString(),
-          dayOfWeek: pd.dayOfWeek,
-          nativeDate: new Date(pd.year, pd.month - 1, pd.day)
-        };
+        return { dayOfWeek: pd.dayOfWeek, nativeDate: new Date(pd.year, pd.month - 1, pd.day) };
       }
-      return getPlainDateTodayFallback();
+      const now = new Date();
+      return { dayOfWeek: now.getDay() === 0 ? 7 : now.getDay(), nativeDate: now };
     }
 
-    function detectWeekKey(isoDate) {
-      for (const [k, info] of Object.entries(SEMANAS)) {
-        if (isoDate >= info.inicio && isoDate <= info.fin) return k;
-      }
-      return "4";
-    }
-
-    let currentWeek = "4";
     let currentDay = 4;
     let todayInfo = null;
 
     function render() {
-      const weekData = SEMANAS[currentWeek];
+      const semNombre = DATA.semana_info?.nombre || `Semana ${DATA.semana_actual}`;
       const isWeekend = todayInfo.dayOfWeek > 5;
-      const isViewingToday = currentWeek === detectWeekKey(todayInfo.iso) && currentDay === (isWeekend ? 1 : todayInfo.dayOfWeek);
+      const isViewingToday = currentDay === (isWeekend ? 1 : todayInfo.dayOfWeek);
 
       const fechaFormateada = new Intl.DateTimeFormat("es-EC", {
         weekday: "long",
@@ -604,10 +499,9 @@
 
       document.getElementById("resumen-titulo").textContent = isViewingToday
         ? fechaFormateada.charAt(0).toUpperCase() + fechaFormateada.slice(1)
-        : `${DIAS_NOMBRES[currentDay]} — ${weekData.label}`;
-      document.getElementById("resumen-sub").textContent = `Parcial 2 · ${weekData.label}` + (isWeekend && isViewingToday ? " (Fin de semana: mostrando Lunes)" : "");
+        : `${DIAS_NOMBRES[currentDay]} — ${semNombre}`;
+      document.getElementById("resumen-sub").textContent = `Parcial 2 · ${semNombre}` + (isWeekend && isViewingToday ? " (Fin de semana: mostrando Lunes)" : "");
 
-      document.getElementById("week-select").value = currentWeek;
       document.querySelectorAll("button.pill[data-day]").forEach(btn => {
         btn.classList.toggle("active", Number(btn.dataset.day) === currentDay);
       });
@@ -619,14 +513,20 @@
 
       const tbody = document.getElementById("schedule-body");
       tbody.innerHTML = "";
-      const clases = HORARIO.filter(c => c.dia === currentDay);
-      const storageKey = `clases_hechas_s${currentWeek}_d${currentDay}`;
+      const clases = (DATA.horario || []).filter(c => (c.dia + 1) === currentDay);
+      const storageKey = `clases_hechas_s${DATA.semana_actual}_d${currentDay}`;
       const saved = JSON.parse(localStorage.getItem(storageKey) || "{}");
 
       for (const c of clases) {
-        const temaInfo = weekData.temas[c.nivel] || { texto: "Por definir", tipo: "pra", tipoLabel: "Clase" };
+        const temaTexto = DATA.semana_info?.temas?.[c.nivel] || "Por definir";
+        const tipoInfo = inferTipo(c.nivel);
+        const regAct = DATA.semana_info?.registros?.[c.id];
+        const regS3 = DATA.registros_s3?.[c.id];
+        const notaTxt = regAct?.nota || (regS3?.nota ? `S3: ${regS3.nota}` : "");
+
         const tr = document.createElement("tr");
-        if (saved[c.id]) tr.classList.add("done");
+        const isDone = Boolean(saved[c.id]) || regAct?.estado === "dada";
+        if (isDone) tr.classList.add("done");
 
         const thHora = document.createElement("th");
         thHora.scope = "row";
@@ -636,21 +536,21 @@
         const tdCurso = document.createElement("td");
         tdCurso.className = "curso";
         tdCurso.textContent = `${c.nivel} — ${c.paralelo}`;
-        if (c.nota) {
+        if (notaTxt && regAct?.estado !== "dada") {
           const br = document.createElement("br");
           const spanNota = document.createElement("span");
           spanNota.className = "nota-inline";
-          spanNota.textContent = c.nota;
+          spanNota.textContent = notaTxt;
           tdCurso.append(br, spanNota);
         }
 
         const tdTema = document.createElement("td");
-        tdTema.textContent = temaInfo.texto;
+        tdTema.textContent = temaTexto;
 
         const tdTipo = document.createElement("td");
         const badge = document.createElement("span");
-        badge.className = `badge ${temaInfo.tipo}`;
-        badge.textContent = temaInfo.tipoLabel;
+        badge.className = `badge ${tipoInfo.cls}`;
+        badge.textContent = tipoInfo.label;
         tdTipo.appendChild(badge);
 
         const tdGuion = document.createElement("td");
@@ -658,14 +558,14 @@
         btnGuion.type = "button";
         btnGuion.className = "btn-guion";
         btnGuion.textContent = "📖 Ver guion";
-        btnGuion.addEventListener("click", () => openPlanDialog(currentWeek, c.nivel, `${c.nivel} — ${c.paralelo}`));
+        btnGuion.addEventListener("click", () => openPlanDialog(DATA.semana_actual, c.nivel, `${c.nivel} — ${c.paralelo}`));
         tdGuion.appendChild(btnGuion);
 
         const tdCheck = document.createElement("td");
         const cb = document.createElement("input");
         cb.type = "checkbox";
         cb.className = "check-clase";
-        cb.checked = Boolean(saved[c.id]);
+        cb.checked = isDone;
         cb.setAttribute("aria-label", `Marcar ${c.nivel} ${c.paralelo} como dada`);
         cb.addEventListener("change", () => {
           const next = JSON.parse(localStorage.getItem(storageKey) || "{}");
@@ -697,7 +597,6 @@
       let inList = false;
       let inPre = false;
       let preBuf = [];
-
       const closeList = () => { if (inList) { html += "</ul>"; inList = false; } };
 
       for (const raw of lines) {
@@ -745,14 +644,14 @@
       const copyBtn = document.getElementById("btn-copy-classroom");
 
       titleEl.textContent = `${label} · Semana ${week}`;
-      const entry = window.GUIONES_PARCIAL2?.[week]?.[nivel];
-      if (!entry) {
+      const md = DATA.guiones?.[nivel];
+      if (!md) {
         bodyEl.innerHTML = "<p>No se encontró el guion para esta semana.</p>";
         copyBtn.hidden = true;
         currentClassroomText = "";
       } else {
-        bodyEl.innerHTML = renderSimpleMd(entry.md);
-        const match = entry.md.match(/## 📢 TEXTO PARA GOOGLE CLASSROOM[\s\S]*?```(?:text)?\n([\s\S]*?)```/);
+        bodyEl.innerHTML = renderSimpleMd(md);
+        const match = md.match(/## 📢 TEXTO PARA GOOGLE CLASSROOM[\s\S]*?```(?:text)?\n([\s\S]*?)```/);
         if (match && match[1]) {
           currentClassroomText = match[1].trim();
           copyBtn.hidden = false;
@@ -791,27 +690,23 @@
         try {
           const mod = await import("https://esm.sh/temporal-polyfill");
           globalThis.Temporal = mod.Temporal;
-        } catch (_) {
-          // Offline fallback handled cleanly by getPlainDateTodayFallback()
-        }
+        } catch (_) {}
       }
 
-      const weekSel = document.getElementById("week-select");
-      for (const [k, info] of Object.entries(SEMANAS)) {
-        const opt = document.createElement("option");
-        opt.value = k;
-        opt.textContent = info.label;
-        weekSel.appendChild(opt);
+      if (DATA.semana_siguiente) {
+        document.getElementById("next-week-title").textContent = `⏭️ Vista rápida: ${DATA.semana_siguiente.nombre}`;
+        const ul = document.getElementById("next-week-list");
+        for (const [nivel, tema] of Object.entries(DATA.semana_siguiente.temas || {})) {
+          const li = document.createElement("li");
+          li.innerHTML = `<span>📌</span><span><strong>${escapeHtml(nivel)}:</strong> ${escapeHtml(tema)}</span>`;
+          ul.appendChild(li);
+        }
+      } else {
+        document.getElementById("next-week-panel").hidden = true;
       }
 
       todayInfo = detectToday();
-      currentWeek = detectWeekKey(todayInfo.iso);
       currentDay = todayInfo.dayOfWeek > 5 ? 1 : todayInfo.dayOfWeek;
-
-      weekSel.addEventListener("change", (e) => {
-        currentWeek = e.target.value;
-        render();
-      });
 
       document.querySelectorAll("button.pill[data-day]").forEach(btn => {
         btn.addEventListener("click", () => {
@@ -822,7 +717,6 @@
 
       document.getElementById("btn-hoy").addEventListener("click", () => {
         todayInfo = detectToday();
-        currentWeek = detectWeekKey(todayInfo.iso);
         currentDay = todayInfo.dayOfWeek > 5 ? 1 : todayInfo.dayOfWeek;
         render();
       });

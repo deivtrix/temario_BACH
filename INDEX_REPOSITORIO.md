@@ -9,8 +9,9 @@
 ```text
 temario_BACH/
 ├── 00_PANEL_CONTROL.md            -> Panel maestro y agenda semanal
-├── DIARIO_CLASES.md               -> Bitácora diaria, decisiones y control de notas
-├── CONTROL_CALENDARIO_PARALELOS.md-> Horario fijo (21 paralelos) y avance por paralelo
+├── DIARIO_CLASES.md               -> Bitácora diaria, 21 paralelos y control de notas
+├── CONTROL_CALIFICACIONES_Y_NOTIFICACIONES.md -> Tablero Classroom + WhatsApp (0.1)
+├── RESUMEN_HOY.html               -> Tablero diario automático (solo semana en curso)
 ├── 01_TEMARIOS_POR_CURSO/         -> Única fuente de verdad anual (8vo a 3ro BGU) [CERRADO]
 ├── 02_CLASES_SEMANALES/           -> Guiones de 45 min por parcial y semana
 ├── 03_SISTEMA_Y_PLANTILLAS/       -> Memoria docente, plantillas y diario_data.json
